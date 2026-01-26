@@ -1,0 +1,24 @@
+{
+  "total_bars_loaded": 126719,
+  "total_triggered_bars": 41024,
+  "total_event_clusters": 7647,
+  "events_kept_after_window_checks": 7640,
+  "per_ticker_event_counts": {
+    "AAPL": 649,
+    "AMD": 743,
+    "META": 701,
+    "MSFT": 702,
+    "NFLX": 722,
+    "NVDA": 734,
+    "PLTR": 759,
+    "QQQ": 767,
+    "SPY": 738,
+    "TSLA": 746,
+    "XLK": 379
+  },
+  "label_distribution": {
+    "unclear": 5123,
+    "reversal": 1274,
+    "continuation": 1243
+  }
+}
