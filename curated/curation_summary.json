@@ -1,0 +1,40 @@
+{
+  "total_candidates": 451,
+  "curated_count": 80,
+  "per_ticker": {
+    "AAPL": 7,
+    "AMD": 9,
+    "META": 8,
+    "MSFT": 8,
+    "NFLX": 11,
+    "NVDA": 11,
+    "PLTR": 7,
+    "QQQ": 3,
+    "SPY": 3,
+    "TSLA": 10,
+    "XLK": 3
+  },
+  "archetype_distribution": {
+    "info_driven": 32,
+    "idiosyncratic": 15,
+    "mixed": 13,
+    "macro_spillover": 10,
+    "market": 9,
+    "panic": 1
+  },
+  "label_distribution": {
+    "continuation": 37,
+    "reversal": 36,
+    "unclear": 7
+  },
+  "quality_score_stats": {
+    "min": 0.613706016369147,
+    "median": 0.813658216193314,
+    "max": 0.967462457395432
+  },
+  "peak_abs_ret_3_bp_stats": {
+    "min": 67.89882098171107,
+    "median": 193.66774750494977,
+    "max": 668.2989690721653
+  }
+}
