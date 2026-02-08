@@ -1,0 +1,140 @@
+{
+  "total_candidates": 451,
+  "eligible_after_hard_gates": 211,
+  "selected_count": 100,
+  "per_ticker": {
+    "AAPL": 10,
+    "MSFT": 11,
+    "NVDA": 10,
+    "TSLA": 10,
+    "META": 8,
+    "AMD": 15,
+    "NFLX": 14,
+    "PLTR": 9,
+    "SPY": 3,
+    "QQQ": 6,
+    "XLK": 4
+  },
+  "per_label": {
+    "continuation": 43,
+    "reversal": 42,
+    "unclear": 15
+  },
+  "unclear_kept": 15,
+  "keep_reason_counts": {
+    "min_quota": 72,
+    "high_strength_unclear": 14,
+    "top_global": 13,
+    "min_quota_unclear_fill": 1
+  },
+  "strength_score_quantiles": {
+    "p10": 0.6392,
+    "p25": 0.6645,
+    "p50": 0.7299,
+    "p75": 0.788,
+    "p90": 0.8286
+  },
+  "top_10_by_magnitude": [
+    {
+      "event_id": "META_20251029_194500",
+      "ticker": "META",
+      "t0_utc": "2025-10-29 19:45:00+00:00",
+      "peak_abs_ret_3_bp": 867.9,
+      "peak_z_ret_3": 5.11,
+      "strength_score": 0.6947,
+      "label_proxy": "reversal",
+      "direction": 1
+    },
+    {
+      "event_id": "NFLX_20251021_200000",
+      "ticker": "NFLX",
+      "t0_utc": "2025-10-21 20:00:00+00:00",
+      "peak_abs_ret_3_bp": 668.3,
+      "peak_z_ret_3": 4.97,
+      "strength_score": 0.7362,
+      "label_proxy": "reversal",
+      "direction": -1
+    },
+    {
+      "event_id": "MSFT_20251029_195500",
+      "ticker": "MSFT",
+      "t0_utc": "2025-10-29 19:55:00+00:00",
+      "peak_abs_ret_3_bp": 385.9,
+      "peak_z_ret_3": 4.29,
+      "strength_score": 0.6599,
+      "label_proxy": "reversal",
+      "direction": 1
+    },
+    {
+      "event_id": "AMD_20251119_210000",
+      "ticker": "AMD",
+      "t0_utc": "2025-11-19 21:00:00+00:00",
+      "peak_abs_ret_3_bp": 378.7,
+      "peak_z_ret_3": 4.32,
+      "strength_score": 0.6912,
+      "label_proxy": "continuation",
+      "direction": 1
+    },
+    {
+      "event_id": "PLTR_20251106_143500",
+      "ticker": "PLTR",
+      "t0_utc": "2025-11-06 14:35:00+00:00",
+      "peak_abs_ret_3_bp": 358.0,
+      "peak_z_ret_3": 6.68,
+      "strength_score": 0.88,
+      "label_proxy": "reversal",
+      "direction": 1
+    },
+    {
+      "event_id": "AMD_20251111_182500",
+      "ticker": "AMD",
+      "t0_utc": "2025-11-11 18:25:00+00:00",
+      "peak_abs_ret_3_bp": 347.4,
+      "peak_z_ret_3": 4.5,
+      "strength_score": 0.7156,
+      "label_proxy": "reversal",
+      "direction": -1
+    },
+    {
+      "event_id": "NFLX_20251030_195500",
+      "ticker": "NFLX",
+      "t0_utc": "2025-10-30 19:55:00+00:00",
+      "peak_abs_ret_3_bp": 321.4,
+      "peak_z_ret_3": 5.14,
+      "strength_score": 0.7491,
+      "label_proxy": "reversal",
+      "direction": -1
+    },
+    {
+      "event_id": "AMD_20251114_143000",
+      "ticker": "AMD",
+      "t0_utc": "2025-11-14 14:30:00+00:00",
+      "peak_abs_ret_3_bp": 320.7,
+      "peak_z_ret_3": 4.61,
+      "strength_score": 0.7535,
+      "label_proxy": "reversal",
+      "direction": -1
+    },
+    {
+      "event_id": "AMD_20251121_143000",
+      "ticker": "AMD",
+      "t0_utc": "2025-11-21 14:30:00+00:00",
+      "peak_abs_ret_3_bp": 312.3,
+      "peak_z_ret_3": 4.07,
+      "strength_score": 0.6695,
+      "label_proxy": "continuation",
+      "direction": -1
+    },
+    {
+      "event_id": "AMD_20260113_143000",
+      "ticker": "AMD",
+      "t0_utc": "2026-01-13 14:30:00+00:00",
+      "peak_abs_ret_3_bp": 289.4,
+      "peak_z_ret_3": 4.33,
+      "strength_score": 0.8077,
+      "label_proxy": "reversal",
+      "direction": 1
+    }
+  ],
+  "rationale": "label_proxy is outcome-based (what happened 60 min after the spike), not a prediction. We prioritise clear outcomes (continuation/reversal) for early evaluation of the agentic debate system, while keeping a small high-strength unclear slice (~10-15%) to represent genuine uncertainty / sideways consolidation. Per-ticker quotas and temporal de-duplication prevent concentration in volatile names or single macro-shock days. Strength scoring uses per-ticker robust scaling (median/IQR) so volatile stocks like TSLA and NVDA do not dominate the selection."
+}
