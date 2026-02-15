@@ -46,6 +46,40 @@ Build a regime-attribution system that detects abnormal intraday events ("outlie
   - Fixed plotting with bar indices (no blank regions)
   - Clusters cannot cross trading days
 
+### 4. Event Curation (COMPLETE)
+- **Script:** `curate_events.py`
+- **Output:** `curated/curated_events.csv`
+- **Results:** 80 curated events (37 cont / 36 rev / 7 unclear)
+
+### 5. Plot Curated Events (COMPLETE)
+- **Script:** `plot_curated_events.py`
+- **Output:** `curated/plots/`
+
+### 6. Best Event Selection (COMPLETE)
+- **Script:** `select_best_events.py`
+- **Output:** `out_final/selected_events.csv`
+- **Results:** 100 events (43 cont / 42 rev / 15 unclear)
+- **Method:**
+  - 451 -> 211 (RTH+gates) -> 100 selected
+  - Per-ticker robust z scoring (median/IQR), 5 signals
+  - 60min cooldown de-dup per ticker
+  - Unclear cap: 15%
+
+### 7. News Packets (COMPLETE)
+- **Script:** `build_news_packets.py`
+- **Output:** `out_news/packets/`, `out_news/news_cache.jsonl`, `out_news/news_summary.json`
+- **Results:**
+  - 100 events processed, 59 with ticker news, 41 with no news
+  - 146 total articles (NVDA=46, MSFT=28, AAPL=20, AMD=16, TSLA=12, META=11)
+  - Macro news (SPY, QQQ) attached per event window
+  - 8 API keys rotated evenly (~31 each), 15 rate-limit retries, 0 errors
+  - Persistent JSONL cache (233 entries) for rerun efficiency
+- **No-News Analysis:** (see `logs/NEWS_PACKETS.md` for full details)
+  - 76% of no-news events at opening bell (10 AM ET gap moves)
+  - ETFs (XLK, QQQ, SPY) structurally news-sparse on Polygon
+  - No-news events avg 192.6 bp vs 169.9 bp for news events (stronger)
+  - Recommended features: `is_opening_bell`, `has_news`, `is_etf`
+
 ---
 
 ## Current File Structure
@@ -59,6 +93,10 @@ TradingAgents/
 ├── convert_to_csv.py        # Parquet to CSV converter
 ├── mine_events.py           # Event Miner v1 (loose, 7.6k events)
 ├── mine_events_strict.py    # Event Miner v2.1 (strict, RTH-only)
+├── curate_events.py         # Curates events from strict miner
+├── plot_curated_events.py   # Plots curated events
+├── select_best_events.py    # Selects top 100 balanced events
+├── build_news_packets.py    # Fetches Polygon news per event
 │
 ├── ohlcv_5min.parquet       # Main dataset (126,719 rows)
 ├── ohlcv_5min.csv           # Same data as CSV
@@ -73,17 +111,39 @@ TradingAgents/
 │   └── summary.json
 │
 ├── out_rth/                 # Event Miner v2.1 output (RTH only)
-│   ├── events.csv           # 34 events (with lower thresholds)
+│   ├── events.csv           # 34 events
 │   ├── summary.json
-│   └── plots/               # Event visualization PNGs
+│   └── plots/
+│
+├── curated/                 # Curated events (80)
+│   ├── curated_events.csv
+│   ├── curation_summary.json
+│   └── plots/
+│
+├── out_final/               # Final selected events (100)
+│   └── selected_events.csv
+│
+├── out_news/                # News packets (Step 7)
+│   ├── news_cache.jsonl     # 233 cached query results
+│   ├── news_summary.json    # Run stats
+│   └── packets/             # Per-event JSON packets
 │       ├── AAPL/
 │       ├── AMD/
-│       └── ...
+│       ├── META/
+│       ├── MSFT/
+│       ├── NFLX/
+│       ├── NVDA/
+│       ├── PLTR/
+│       ├── QQQ/
+│       ├── SPY/
+│       ├── TSLA/
+│       └── XLK/
 │
-└── logs/                    # This folder
+└── logs/
     ├── PROJECT_STATUS.md    # This file
     ├── DATA_SCHEMA.md       # Data column definitions
     ├── EVENTS_SCHEMA.md     # Events output schema
+    ├── NEWS_PACKETS.md      # News fetch log & no-news analysis
     ├── NEXT_STEPS.md        # Suggested next tasks
     ├── SESSION_LOG.md       # Session history
     └── README_FOR_NEW_INSTANCE.md
