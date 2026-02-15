@@ -1,0 +1,123 @@
+{
+  "event": {
+    "event_id": "QQQ_20251125_144000",
+    "ticker": "QQQ",
+    "t0_utc": "2025-11-25 14:40:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-11-25T11:40:00+00:00",
+      "end": "2025-11-25T15:40:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-11-25T11:45:58Z",
+        "title": "One-Fourth Of America's Unemployed Are Now College Grads\u2014 Chamath Palihapitiya Warns Student Loans Are Fueling The Crisis",
+        "description": "A new report reveals that 25.3% of unemployed Americans are college graduates, signaling a 'white-collar slowdown'. Venture capitalist Chamath Palihapitiya criticizes federal student loan policies, arguing they push students into unsustainable debt for degrees with diminishing value.",
+        "article_url": "https://www.benzinga.com/markets/economic-data/25/11/49052328/one-fourth-of-americas-unemployed-are-now-college-grads-chamath-palihapitiya-warns-student-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Rishabh Mishra",
+        "tickers": [
+          "QQQ",
+          "SPY"
+        ],
+        "keywords": [
+          "unemployment",
+          "college graduates",
+          "student loans",
+          "white-collar slowdown",
+          "labor market"
+        ]
+      },
+      {
+        "published_utc": "2025-11-25T14:13:03Z",
+        "title": "Producer Inflation Stays Hot, But Consumer Pullback Adds To Fed Cut Debate",
+        "description": "September's Producer Price Index rose 0.3%, driven by energy prices, while retail sales grew slower than expected at 0.2%. Market expectations remain focused on potential Federal Reserve interest rate cuts in December.",
+        "article_url": "https://www.benzinga.com/markets/economic-data/25/11/49055256/ppi-producer-inflation-september-retail-sales-economic-data-today?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Piero Cingari",
+        "tickers": [
+          "QQQ",
+          "VOO"
+        ],
+        "keywords": [
+          "inflation",
+          "producer price index",
+          "retail sales",
+          "federal reserve",
+          "interest rates"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-11-25T11:45:58Z",
+          "title": "One-Fourth Of America's Unemployed Are Now College Grads\u2014 Chamath Palihapitiya Warns Student Loans Are Fueling The Crisis",
+          "description": "A new report reveals that 25.3% of unemployed Americans are college graduates, signaling a 'white-collar slowdown'. Venture capitalist Chamath Palihapitiya criticizes federal student loan policies, arguing they push students into unsustainable debt for degrees with diminishing value.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/25/11/49052328/one-fourth-of-americas-unemployed-are-now-college-grads-chamath-palihapitiya-warns-student-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "unemployment",
+            "college graduates",
+            "student loans",
+            "white-collar slowdown",
+            "labor market"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-11-25T11:45:58Z",
+          "title": "One-Fourth Of America's Unemployed Are Now College Grads\u2014 Chamath Palihapitiya Warns Student Loans Are Fueling The Crisis",
+          "description": "A new report reveals that 25.3% of unemployed Americans are college graduates, signaling a 'white-collar slowdown'. Venture capitalist Chamath Palihapitiya criticizes federal student loan policies, arguing they push students into unsustainable debt for degrees with diminishing value.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/25/11/49052328/one-fourth-of-americas-unemployed-are-now-college-grads-chamath-palihapitiya-warns-student-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "unemployment",
+            "college graduates",
+            "student loans",
+            "white-collar slowdown",
+            "labor market"
+          ]
+        },
+        {
+          "published_utc": "2025-11-25T14:13:03Z",
+          "title": "Producer Inflation Stays Hot, But Consumer Pullback Adds To Fed Cut Debate",
+          "description": "September's Producer Price Index rose 0.3%, driven by energy prices, while retail sales grew slower than expected at 0.2%. Market expectations remain focused on potential Federal Reserve interest rate cuts in December.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/25/11/49055256/ppi-producer-inflation-september-retail-sales-economic-data-today?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "QQQ",
+            "VOO"
+          ],
+          "keywords": [
+            "inflation",
+            "producer price index",
+            "retail sales",
+            "federal reserve",
+            "interest rates"
+          ]
+        }
+      ]
+    }
+  }
+}

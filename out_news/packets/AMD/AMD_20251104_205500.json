@@ -1,0 +1,63 @@
+{
+  "event": {
+    "event_id": "AMD_20251104_205500",
+    "ticker": "AMD",
+    "t0_utc": "2025-11-04 20:55:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-11-04T17:55:00+00:00",
+      "end": "2025-11-04T21:55:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-11-04T18:22:00Z",
+        "title": "AMD Q3 Earnings Preview: AI Momentum Fuels Upbeat Setup",
+        "description": "AMD is preparing to report Q3 earnings with strong AI momentum, highlighted by a major GPU deal with OpenAI and potential significant revenue expansion in data center and AI infrastructure markets.",
+        "article_url": "https://www.investing.com/analysis/amd-q3-earnings-preview-ai-momentum-fuels-upbeat-setup-200669621",
+        "publisher": "Investing.com",
+        "author": "Ali Merchant",
+        "tickers": [
+          "AMD",
+          "NVDA"
+        ],
+        "keywords": [
+          "AI",
+          "GPU",
+          "earnings",
+          "data center",
+          "OpenAI"
+        ]
+      },
+      {
+        "published_utc": "2025-11-04T21:39:28Z",
+        "title": "AMD Q3 Earnings: Revenue, EPS Top Estimates As AI Data Center Business Drives Growth",
+        "description": "AMD reported strong Q3 earnings with revenue of $9.25 billion, beating analyst estimates and representing a 36% year-over-year increase. The company's AI data center business and high-performance processors drove significant growth, with CEO Lisa Su highlighting record revenue and profitability.",
+        "article_url": "https://www.benzinga.com/markets/earnings/25/11/48638967/amd-q3-earnings-revenue-eps-top-estimates-as-ai-data-center-business-drives-growth?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Adam Eckert",
+        "tickers": [
+          "AMD"
+        ],
+        "keywords": [
+          "earnings",
+          "AI",
+          "data center",
+          "processors",
+          "revenue growth"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

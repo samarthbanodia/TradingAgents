@@ -1,0 +1,47 @@
+{
+  "event": {
+    "event_id": "NFLX_20251215_143000",
+    "ticker": "NFLX",
+    "t0_utc": "2025-12-15 14:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-12-15T11:30:00+00:00",
+      "end": "2025-12-15T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-12-15T15:10:00Z",
+        "title": "The Best Stocks to Invest $1,000 In Right Now",
+        "description": "The article highlights two stocks, Applied Digital and Netflix, as potential investment opportunities in 2026, focusing on their recent performance, AI infrastructure potential, and strategic positioning in the market.",
+        "article_url": "https://www.fool.com/investing/2025/12/15/the-best-stocks-to-invest-1000-in-right-now/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Rick Munarriz",
+        "tickers": [
+          "APLD",
+          "NFLX",
+          "CRWV",
+          "WBD"
+        ],
+        "keywords": [
+          "AI",
+          "stocks",
+          "investment",
+          "technology",
+          "streaming"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

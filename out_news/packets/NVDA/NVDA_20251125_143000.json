@@ -1,0 +1,213 @@
+{
+  "event": {
+    "event_id": "NVDA_20251125_143000",
+    "ticker": "NVDA",
+    "t0_utc": "2025-11-25 14:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-11-25T11:30:00+00:00",
+      "end": "2025-11-25T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-11-25T11:30:00Z",
+        "title": "As the S&P 500 Falls, Warren Buffett's Warning Has Become Deafening",
+        "description": "Warren Buffett's massive cash reserves signal potential market volatility, with concerns about an AI bubble emerging as the S&P 500 experiences a downturn. Despite market uncertainties, Buffett remains confident in long-term market potential and continues strategic investments.",
+        "article_url": "https://www.fool.com/investing/2025/11/25/as-the-sp-500-falls-warren-buffetts-warning-has-be/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jennifer Saibil",
+        "tickers": [
+          "BRK.A",
+          "BRK.B",
+          "NVDA",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "AI",
+          "market correction",
+          "cash reserves",
+          "stock market",
+          "investment strategy"
+        ]
+      },
+      {
+        "published_utc": "2025-11-25T11:30:00Z",
+        "title": "What's Going On With Nvidia Stock?",
+        "description": "Nvidia experienced mixed market reactions after delivering excellent financial results, with its stock price showing minimal movement despite strong performance.",
+        "article_url": "https://www.fool.com/investing/2025/11/25/whats-going-on-with-nvidia-stock/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Parkev Tatevosian, Cfa",
+        "tickers": [
+          "NVDA"
+        ],
+        "keywords": [
+          "Nvidia",
+          "AI",
+          "stock market",
+          "technology stocks",
+          "financial performance"
+        ]
+      },
+      {
+        "published_utc": "2025-11-25T11:35:00Z",
+        "title": "Is AI in a Bubble, or Is the Rest of the Economy About to Pop?",
+        "description": "Nvidia reported strong Q3 earnings with 62% revenue growth, with CEO Jensen Huang arguing against AI bubble concerns. While AI sector remains robust, broader economy shows signs of weakness including retail struggles and housing market sluggishness.",
+        "article_url": "https://www.fool.com/investing/2025/11/25/is-ai-in-a-bubble-or-is-the-rest-of-the-economy-ab/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jeremy Bowman",
+        "tickers": [
+          "NVDA",
+          "PLTR",
+          "WMT",
+          "TGT",
+          "HD"
+        ],
+        "keywords": [
+          "AI",
+          "Nvidia",
+          "technology",
+          "economic bubble",
+          "earnings",
+          "market trends"
+        ]
+      },
+      {
+        "published_utc": "2025-11-25T12:15:00Z",
+        "title": "Prediction: This Will Be Nvidia's Stock Price 12 Months From Now",
+        "description": "Wall Street analysts predict Nvidia's stock could reach around $257 in the next 12 months, driven by its dominant position in AI chip manufacturing and expected significant growth in AI-related sales, despite concerns about its high valuation.",
+        "article_url": "https://www.fool.com/investing/2025/11/25/prediction-this-will-be-nvidias-stock-price-12-mon/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Ryan Vanzo",
+        "tickers": [
+          "NVDA",
+          "C",
+          "CpN"
+        ],
+        "keywords": [
+          "Nvidia",
+          "AI",
+          "GPU",
+          "stock prediction",
+          "technology",
+          "market valuation"
+        ]
+      },
+      {
+        "published_utc": "2025-11-25T13:11:51Z",
+        "title": "Jim Cramer Says Broadcom Is The 'Most Likely Winner' In Potential Google-Meta TPU Chip Deal",
+        "description": "Jim Cramer suggests Broadcom is the most likely winner in a potential chip deal between Google and Meta, highlighting CEO Hock Tan's strategic position on Meta's board and Broadcom's growing capabilities in AI hardware.",
+        "article_url": "https://www.benzinga.com/markets/tech/25/11/49053821/jim-cramer-says-broadcom-is-the-most-likely-winner-in-potential-google-meta-tpu-chip-deal?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "AVGO",
+          "GOOG",
+          "GOOGL",
+          "META",
+          "NVDA"
+        ],
+        "keywords": [
+          "AI chips",
+          "TPU",
+          "data centers",
+          "silicon",
+          "hyperscaler networking"
+        ]
+      },
+      {
+        "published_utc": "2025-11-25T14:00:00Z",
+        "title": "Global AI in Medical Imaging Market Set to Surge to USD 4.54 Billion by 2029 | MarketsandMarkets\u2122",
+        "description": "The global AI in medical imaging market is projected to expand from $1.5 billion in 2024 to $4.5 billion by 2029, driven by workforce shortages, rising imaging demand, and strategic cross-industry partnerships in healthcare technology.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/11/25/3194372/0/en/Global-AI-in-Medical-Imaging-Market-Set-to-Surge-to-USD-4-54-Billion-by-2029-MarketsandMarkets.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Marketsandmarkets",
+        "tickers": [
+          "MSFT",
+          "NVDA",
+          "GEHC",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "AI",
+          "medical imaging",
+          "healthcare",
+          "diagnostics",
+          "technology"
+        ]
+      }
+    ],
+    "ticker_news_count": 6,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-11-25T11:45:58Z",
+          "title": "One-Fourth Of America's Unemployed Are Now College Grads\u2014 Chamath Palihapitiya Warns Student Loans Are Fueling The Crisis",
+          "description": "A new report reveals that 25.3% of unemployed Americans are college graduates, signaling a 'white-collar slowdown'. Venture capitalist Chamath Palihapitiya criticizes federal student loan policies, arguing they push students into unsustainable debt for degrees with diminishing value.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/25/11/49052328/one-fourth-of-americas-unemployed-are-now-college-grads-chamath-palihapitiya-warns-student-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "unemployment",
+            "college graduates",
+            "student loans",
+            "white-collar slowdown",
+            "labor market"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-11-25T11:45:58Z",
+          "title": "One-Fourth Of America's Unemployed Are Now College Grads\u2014 Chamath Palihapitiya Warns Student Loans Are Fueling The Crisis",
+          "description": "A new report reveals that 25.3% of unemployed Americans are college graduates, signaling a 'white-collar slowdown'. Venture capitalist Chamath Palihapitiya criticizes federal student loan policies, arguing they push students into unsustainable debt for degrees with diminishing value.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/25/11/49052328/one-fourth-of-americas-unemployed-are-now-college-grads-chamath-palihapitiya-warns-student-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "unemployment",
+            "college graduates",
+            "student loans",
+            "white-collar slowdown",
+            "labor market"
+          ]
+        },
+        {
+          "published_utc": "2025-11-25T14:13:03Z",
+          "title": "Producer Inflation Stays Hot, But Consumer Pullback Adds To Fed Cut Debate",
+          "description": "September's Producer Price Index rose 0.3%, driven by energy prices, while retail sales grew slower than expected at 0.2%. Market expectations remain focused on potential Federal Reserve interest rate cuts in December.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/25/11/49055256/ppi-producer-inflation-september-retail-sales-economic-data-today?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "QQQ",
+            "VOO"
+          ],
+          "keywords": [
+            "inflation",
+            "producer price index",
+            "retail sales",
+            "federal reserve",
+            "interest rates"
+          ]
+        }
+      ]
+    }
+  }
+}

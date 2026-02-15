@@ -1,0 +1,64 @@
+{
+  "event": {
+    "event_id": "AAPL_20251117_143000",
+    "ticker": "AAPL",
+    "t0_utc": "2025-11-17 14:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-11-17T11:30:00+00:00",
+      "end": "2025-11-17T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-11-17T13:00:00Z",
+        "title": "Mophie Expands Its Qi2 Lineup with Four New Wireless Charging Stands",
+        "description": "Mophie launched four new Qi2 wireless charging stands for iPhone, Apple Watch, and AirPods, offering fast charging up to 15W with magnetic alignment and space-saving designs, ranging from $44.95 to $99.95.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/11/17/3189054/24609/en/Mophie-Expands-Its-Qi2-Lineup-with-Four-New-Wireless-Charging-Stands.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Ekshita Kumar",
+        "tickers": [
+          "AAPL"
+        ],
+        "keywords": [
+          "wireless charging",
+          "Qi2",
+          "iPhone",
+          "Apple Watch",
+          "AirPods",
+          "MagSafe"
+        ]
+      },
+      {
+        "published_utc": "2025-11-17T13:07:00Z",
+        "title": "Think It's Too Late to Buy MP Materials? Here's 1 Reason Why There's Still Time.",
+        "description": "MP Materials, a rare-earth metals mining company, has seen significant stock growth in 2025 due to strategic partnerships with the Department of Defense and Apple. Despite a 27% pullback, the stock remains attractive due to its potential in domestic rare-earth metal supply and national security importance.",
+        "article_url": "https://www.fool.com/investing/2025/11/17/think-its-too-late-to-buy-mp-heres-1-reaso/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Steven Porrello",
+        "tickers": [
+          "MP",
+          "AAPL"
+        ],
+        "keywords": [
+          "rare-earth metals",
+          "mining",
+          "electric vehicles",
+          "national security",
+          "domestic supply chain"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

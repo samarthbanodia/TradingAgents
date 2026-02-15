@@ -1,0 +1,233 @@
+{
+  "event": {
+    "event_id": "AAPL_20251103_143000",
+    "ticker": "AAPL",
+    "t0_utc": "2025-11-03 14:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-11-03T11:30:00+00:00",
+      "end": "2025-11-03T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-11-03T11:53:00Z",
+        "title": "S&P 500: Earnings Momentum Poised to Carry the Bull Run Into 2026",
+        "description": "The S&P 500 earnings per share continue to beat expectations, with Q3 earnings on track to reach a new record high. The Magnificent-7 are leading market performance, driven by strong AI and cloud computing demand, with forward earnings projected to reach $350 per share by end of 2026.",
+        "article_url": "https://www.investing.com/analysis/sp-500-earnings-momentum-poised-to-carry-the-bull-run-into-2026-200669497",
+        "publisher": "Investing.com",
+        "author": "Ed Yardeni",
+        "tickers": [
+          "AMZN",
+          "NVDA",
+          "AAPL",
+          "TSLA"
+        ],
+        "keywords": [
+          "S&P 500",
+          "earnings",
+          "AI",
+          "cloud computing",
+          "Magnificent-7"
+        ]
+      },
+      {
+        "published_utc": "2025-11-03T12:21:00Z",
+        "title": "The Motley Fool Interviews Scott D. Anthony: Epic Disruptions",
+        "description": "Scott D. Anthony discusses disruptive innovation, highlighting how successful companies transform complex and expensive technologies into simple, affordable solutions that drive market growth, using examples from Kodak, Apple, and emerging AI technologies.",
+        "article_url": "https://www.fool.com/investing/2025/11/03/the-motley-fool-interviews-scott-d-anthony-epic-di/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Scott D. Anthony",
+        "tickers": [
+          "KODK",
+          "AAPL",
+          "AMZN"
+        ],
+        "keywords": [
+          "disruption",
+          "innovation",
+          "AI",
+          "business models",
+          "technology transformation"
+        ]
+      },
+      {
+        "published_utc": "2025-11-03T12:36:34Z",
+        "title": "Dollar Returns, Central Banks Signal Caution, Capital Seeks Safety",
+        "description": "Central banks like BOJ and Federal Reserve showed cautious monetary policy, causing market uncertainty. Corporate earnings remained strong, with tech companies delivering solid results, but institutional investors are moderating risk exposure.",
+        "article_url": "https://www.benzinga.com/Opinion/25/11/48587152/dollar-returns-central-banks-signal-caution-capital-seeks-safety?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Finit Benzinga Contributor",
+        "tickers": [
+          "AMZN",
+          "AAPL",
+          "MSFT",
+          "NVDA",
+          "META",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "monetary policy",
+          "central banks",
+          "dollar",
+          "earnings",
+          "market uncertainty"
+        ]
+      },
+      {
+        "published_utc": "2025-11-03T13:07:00Z",
+        "title": "Am I the Only One Worried That Apple Hasn't Earned Its Recent Upticks?",
+        "description": "Apple's stock has risen 64% since April, but the company's revenue growth remains slow, with concerns about innovation and sustained growth potential despite hitting new intraday highs.",
+        "article_url": "https://www.fool.com/investing/2025/11/03/am-i-the-only-one-worried-that-apple-hasnt-earned/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Rick Munarriz",
+        "tickers": [
+          "AAPL",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "Apple",
+          "stock performance",
+          "revenue growth",
+          "innovation",
+          "iPhone",
+          "tech stocks"
+        ]
+      },
+      {
+        "published_utc": "2025-11-03T13:31:25Z",
+        "title": "Elevation Capital Advisory Loads Up Principal U.S. Mega-Cap ETF Shares in Q3",
+        "description": "Elevation Capital Advisory initiated a new $8.7 million position in the Principal U.S. Mega-Cap ETF during Q3, representing 3.5% of its reported equity assets. The ETF focuses on tracking large U.S. mega-cap companies with concentrated holdings across technology, financial, and communication sectors.",
+        "article_url": "https://www.fool.com/coverage/filings/2025/11/03/elevation-capital-loads-up-usmc-with-128k-shares-in-q3/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Lawrence Rothman",
+        "tickers": [
+          "USMC",
+          "NVDA",
+          "AAPL",
+          "TSLA",
+          "MSFT",
+          "COST"
+        ],
+        "keywords": [
+          "ETF",
+          "mega-cap",
+          "investment",
+          "equity",
+          "technology stocks"
+        ]
+      },
+      {
+        "published_utc": "2025-11-03T14:32:00Z",
+        "title": "Warren Buffett and Berkshire Hathaway Have 60% of Their Portfolio in These 4 Stocks. Are They Buys Right Now?",
+        "description": "Warren Buffett's Berkshire Hathaway has concentrated 60% of its portfolio in four key stocks: Apple, American Express, Bank of America, and Coca-Cola. Despite recent challenges, these companies remain attractive long-term investments with strong market positions and consistent performance.",
+        "article_url": "https://www.fool.com/investing/2025/11/03/warren-buffett-and-berkshire-hathaway-have-60-of/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Stefon Walters",
+        "tickers": [
+          "AAPL",
+          "AXP",
+          "BAC",
+          "BACpB",
+          "BACpE",
+          "BACpK",
+          "BACpL",
+          "BACpM",
+          "BACpN",
+          "BACpO",
+          "BACpP",
+          "BACpQ",
+          "BACpS",
+          "BMLpG",
+          "BMLpH",
+          "BMLpJ",
+          "BMLpL",
+          "MERpK",
+          "KO"
+        ],
+        "keywords": [
+          "Warren Buffett",
+          "Berkshire Hathaway",
+          "investment strategy",
+          "stock portfolio",
+          "long-term investing"
+        ]
+      }
+    ],
+    "ticker_news_count": 6,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-11-03T13:27:40Z",
+          "title": "US Stocks Face Two Short-Term Threats Amid Fed's Cautious Approach, Warn Analysts",
+          "description": "Morgan Stanley analysts warn of two key risks for US stocks: the Federal Reserve's cautious interest rate policy and potential tariff impacts. Despite strong corporate earnings, market uncertainty remains about future monetary stance.",
+          "article_url": "https://www.benzinga.com/markets/equities/25/11/48588301/us-stocks-face-two-short-term-threats-amid-feds-cautious-approach-warn-analysts?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Namrata Sen",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "interest rates",
+            "stock market",
+            "corporate earnings",
+            "tariffs"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-11-03T13:08:00Z",
+          "title": "These 2 AI ETFs Are Ready to Crush the S&P 500 Over the Next 10 Years",
+          "description": "The article discusses two AI-focused ETFs that offer different investment strategies: the Invesco QQQ ETF, which provides broad AI exposure through large-cap tech stocks, and the Ark Autonomous Technology & Robotics ETF, which focuses on unique AI and robotics opportunities with an actively managed approach.",
+          "article_url": "https://www.fool.com/investing/2025/11/03/these-2-ai-etfs-are-ready-to-crush-the-sp-500-over/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Matt Frankel",
+          "tickers": [
+            "QQQ",
+            "ARKQ",
+            "TSLA",
+            "TER",
+            "KTOS"
+          ],
+          "keywords": [
+            "AI",
+            "ETF",
+            "technology",
+            "investing",
+            "robotics"
+          ]
+        },
+        {
+          "published_utc": "2025-11-03T13:27:40Z",
+          "title": "US Stocks Face Two Short-Term Threats Amid Fed's Cautious Approach, Warn Analysts",
+          "description": "Morgan Stanley analysts warn of two key risks for US stocks: the Federal Reserve's cautious interest rate policy and potential tariff impacts. Despite strong corporate earnings, market uncertainty remains about future monetary stance.",
+          "article_url": "https://www.benzinga.com/markets/equities/25/11/48588301/us-stocks-face-two-short-term-threats-amid-feds-cautious-approach-warn-analysts?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Namrata Sen",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "interest rates",
+            "stock market",
+            "corporate earnings",
+            "tariffs"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "event": {
+    "event_id": "MSFT_20251121_145500",
+    "ticker": "MSFT",
+    "t0_utc": "2025-11-21 14:55:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-11-21T11:55:00+00:00",
+      "end": "2025-11-21T15:55:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-11-21T12:32:00Z",
+        "title": "Meet The Newest Artificial Intelligence (AI) Stock That Billionaire Stanley Druckenmiller Just Bought in His Duquesne Family Office",
+        "description": "Billionaire Stanley Druckenmiller invested in Amazon stock, seeing potential in its AI capabilities, AWS growth, and margin expansion. The company shows promise in cloud computing, e-commerce, and innovative projects despite current market challenges.",
+        "article_url": "https://www.fool.com/investing/2025/11/21/meet-the-newest-ai-stock-that-druckenmiller-has/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Brett Schafer",
+        "tickers": [
+          "AMZN",
+          "MSFT",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "AI",
+          "Amazon",
+          "AWS",
+          "cloud computing",
+          "e-commerce",
+          "margin expansion"
+        ]
+      },
+      {
+        "published_utc": "2025-11-21T13:39:18Z",
+        "title": "Wall Street Fund Managers Raise Red Flag For The First Time In 20 Years, Warn Companies Are Overspending \u2014 What's Going On?",
+        "description": "Fund managers warn that companies are excessively investing in AI infrastructure, with potential financial risks emerging from massive capital expenditures in data centers, GPUs, and AI development.",
+        "article_url": "https://www.benzinga.com/markets/tech/25/11/49000357/wall-street-fund-managers-raise-red-flag-for-the-first-time-in-20-years-warn-companies-are-overspend?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Eva Mathew",
+        "tickers": [
+          "AMZN",
+          "GOOG",
+          "GOOGL",
+          "MSFT",
+          "NVDA"
+        ],
+        "keywords": [
+          "AI spending",
+          "fund managers",
+          "capital expenditure",
+          "technology investment",
+          "market volatility"
+        ]
+      },
+      {
+        "published_utc": "2025-11-21T14:32:01Z",
+        "title": "Should Investors Own Vanguard's VOO ETF Over Invesco's QQQ for Broader Diversification?",
+        "description": "The article compares Vanguard's VOO and Invesco's QQQ ETFs, highlighting VOO's broader diversification, lower expense ratio, and higher dividend yield, while QQQ offers more concentrated tech-driven growth with higher volatility.",
+        "article_url": "https://www.fool.com/coverage/etfs/2025/11/21/should-investors-own-vanguard-s-voo-etf-over-invesco-s-qqq-for-broader-diversification/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Howard Smith",
+        "tickers": [
+          "VOO",
+          "QQQ",
+          "NVDA",
+          "AAPL",
+          "MSFT"
+        ],
+        "keywords": [
+          "ETF",
+          "diversification",
+          "investment",
+          "technology",
+          "stock market"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": [
+        {
+          "published_utc": "2025-11-21T14:32:01Z",
+          "title": "Should Investors Own Vanguard's VOO ETF Over Invesco's QQQ for Broader Diversification?",
+          "description": "The article compares Vanguard's VOO and Invesco's QQQ ETFs, highlighting VOO's broader diversification, lower expense ratio, and higher dividend yield, while QQQ offers more concentrated tech-driven growth with higher volatility.",
+          "article_url": "https://www.fool.com/coverage/etfs/2025/11/21/should-investors-own-vanguard-s-voo-etf-over-invesco-s-qqq-for-broader-diversification/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Howard Smith",
+          "tickers": [
+            "VOO",
+            "QQQ",
+            "NVDA",
+            "AAPL",
+            "MSFT"
+          ],
+          "keywords": [
+            "ETF",
+            "diversification",
+            "investment",
+            "technology",
+            "stock market"
+          ]
+        }
+      ]
+    }
+  }
+}

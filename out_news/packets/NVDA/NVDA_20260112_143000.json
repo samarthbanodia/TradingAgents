@@ -1,0 +1,187 @@
+{
+  "event": {
+    "event_id": "NVDA_20260112_143000",
+    "ticker": "NVDA",
+    "t0_utc": "2026-01-12 14:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2026-01-12T11:30:00+00:00",
+      "end": "2026-01-12T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-01-12T14:32:00Z",
+        "title": "Will Quantum Computing Stocks Become the AI Stocks of 2026?",
+        "description": "The article explores whether quantum computing stocks could drive market gains similar to AI stocks in 2026. While quantum computing pure plays like Rigetti Computing, D-Wave Quantum, and IonQ have surged significantly, the author concludes it's too early for quantum stocks to match AI's market impact, as quantum computing remains in earlier development stages compared to AI's current revenue-generating phase. However, progress in quantum computing could still benefit these stocks and related tech giants long-term.",
+        "article_url": "https://www.fool.com/investing/2026/01/12/will-quantum-computing-stocks-become-ai-of-2026/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Adria Cimino",
+        "tickers": [
+          "RGTI",
+          "RGTIW",
+          "QBTS",
+          "IONQ",
+          "IONQ.WS",
+          "NVDA",
+          "AMZN",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "quantum computing",
+          "AI stocks",
+          "market growth",
+          "technology investment",
+          "quantum computing stocks",
+          "pure play companies"
+        ]
+      },
+      {
+        "published_utc": "2026-01-12T15:00:00Z",
+        "title": "NVIDIA BioNeMo Platform Adopted by Life Sciences Leaders to Accelerate AI-Driven Drug Discovery",
+        "description": "NVIDIA announced a major expansion of its BioNeMo platform for AI-driven drug discovery, including new models for RNA structure prediction and drug synthesis. The company launched landmark collaborations with Eli Lilly on a co-innovation lab with up to $1 billion investment over five years, and with Thermo Fisher to build autonomous lab infrastructure. A growing ecosystem of biotech companies are adopting BioNeMo for AI-driven molecular design and drug discovery.",
+        "article_url": "https://www.globenewswire.com/news-release/2026/01/12/3217077/0/en/NVIDIA-BioNeMo-Platform-Adopted-by-Life-Sciences-Leaders-to-Accelerate-AI-Driven-Drug-Discovery.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Nvidia Corporation",
+        "tickers": [
+          "NVDA",
+          "LLY",
+          "TMO"
+        ],
+        "keywords": [
+          "AI drug discovery",
+          "BioNeMo platform",
+          "autonomous laboratories",
+          "pharmaceutical innovation",
+          "accelerated computing",
+          "molecular design",
+          "foundation models",
+          "lab automation"
+        ]
+      },
+      {
+        "published_utc": "2026-01-12T15:00:00Z",
+        "title": "NVIDIA and Lilly Announce Co-Innovation AI Lab to Reinvent Drug Discovery in the Age of AI",
+        "description": "NVIDIA and Eli Lilly announced a first-of-its-kind AI co-innovation lab to accelerate drug discovery and pharmaceutical manufacturing. The companies will invest up to $1 billion over five years in the San Francisco Bay Area facility, combining Lilly's pharmaceutical expertise with NVIDIA's AI and computing capabilities. The lab will focus on creating continuous learning systems connecting wet labs with computational resources, using NVIDIA's BioNeMo platform and Vera Rubin architecture to build advanced AI models for drug development.",
+        "article_url": "https://www.globenewswire.com/news-release/2026/01/12/3217075/0/en/NVIDIA-and-Lilly-Announce-Co-Innovation-AI-Lab-to-Reinvent-Drug-Discovery-in-the-Age-of-AI.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Na",
+        "tickers": [
+          "NVDA",
+          "LLY"
+        ],
+        "keywords": [
+          "AI co-innovation lab",
+          "drug discovery",
+          "pharmaceutical manufacturing",
+          "BioNeMo platform",
+          "foundation models",
+          "digital twins",
+          "robotics",
+          "accelerated computing"
+        ]
+      },
+      {
+        "published_utc": "2026-01-12T15:15:00Z",
+        "title": "Why IREN Limited Skyrocketed 285% in 2025",
+        "description": "IREN Limited surged 285% in 2025 after transitioning from a Bitcoin miner to an AI neocloud provider. The company's 2.91 gigawatts of grid-connected renewable energy capacity became highly valuable as power availability emerged as a critical constraint for AI infrastructure. Key catalysts included achieving Nvidia preferred partner status in August and securing a landmark $9.7 billion five-year deal with Microsoft in November. However, the company faces challenges including massive GPU capital expenditure requirements and dependence on capital markets for funding.",
+        "article_url": "https://www.fool.com/investing/2026/01/12/why-iren-limited-skyrocketed-285-in-2025/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Billy Duberstein",
+        "tickers": [
+          "IREN",
+          "MSFT",
+          "NVDA",
+          "ORCL"
+        ],
+        "keywords": [
+          "AI infrastructure",
+          "renewable energy",
+          "data centers",
+          "GPU capacity",
+          "cloud computing",
+          "capital expenditure",
+          "neocloud"
+        ]
+      },
+      {
+        "published_utc": "2026-01-12T15:30:00Z",
+        "title": "Is This Artificial Intelligence (AI) Stock Finally Entering Its Breakout Phase?",
+        "description": "Texas Instruments, a manufacturer of essential analog chips and components for AI infrastructure, is poised for a breakout after underperforming the market. The company benefits from surging AI investments in data centers, autonomous driving, and robotics, with 50% year-over-year data center sales growth in 2025. Despite tariff concerns slowing recovery, the stock has risen nearly 10% this year as management increases shareholder returns through buybacks and dividend increases.",
+        "article_url": "https://www.fool.com/investing/2026/01/12/artificial-intelligence-ai-stock-txn-texas/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "John Bromels",
+        "tickers": [
+          "TXN",
+          "NVDA"
+        ],
+        "keywords": [
+          "analog chips",
+          "AI infrastructure",
+          "data centers",
+          "autonomous driving",
+          "semiconductor",
+          "tariffs",
+          "stock buyback",
+          "dividend"
+        ]
+      }
+    ],
+    "ticker_news_count": 5,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-01-12T14:19:11Z",
+          "title": "Jerome Powell 'Is Going to War': Top Economist Wolfers Blasts DOJ As 'Department Of Recriminations' For Targeting Fed Chair",
+          "description": "Economist Justin Wolfers has criticized the White House and Justice Department for attempting to criminalize Federal Reserve Chair Jerome Powell's independent actions, characterizing it as a constitutional crisis. Wolfers argues Powell is 'going to war' to defend the Fed's independence and warns that succumbing to political pressure would undermine monetary policy authority. He calls on Congress to prevent the President from usurping monetary policy powers.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/26/01/49844033/jerome-powell-is-going-to-war-top-economist-wolfers-blasts-doj-as-department-of-recriminati?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "Jerome Powell",
+            "monetary policy",
+            "central bank independence",
+            "Justice Department",
+            "constitutional crisis",
+            "interest rates"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-01-12T14:19:11Z",
+          "title": "Jerome Powell 'Is Going to War': Top Economist Wolfers Blasts DOJ As 'Department Of Recriminations' For Targeting Fed Chair",
+          "description": "Economist Justin Wolfers has criticized the White House and Justice Department for attempting to criminalize Federal Reserve Chair Jerome Powell's independent actions, characterizing it as a constitutional crisis. Wolfers argues Powell is 'going to war' to defend the Fed's independence and warns that succumbing to political pressure would undermine monetary policy authority. He calls on Congress to prevent the President from usurping monetary policy powers.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/26/01/49844033/jerome-powell-is-going-to-war-top-economist-wolfers-blasts-doj-as-department-of-recriminati?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "Jerome Powell",
+            "monetary policy",
+            "central bank independence",
+            "Justice Department",
+            "constitutional crisis",
+            "interest rates"
+          ]
+        }
+      ]
+    }
+  }
+}

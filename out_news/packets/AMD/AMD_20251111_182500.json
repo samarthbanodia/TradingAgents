@@ -1,0 +1,67 @@
+{
+  "event": {
+    "event_id": "AMD_20251111_182500",
+    "ticker": "AMD",
+    "t0_utc": "2025-11-11 18:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-11-11T15:25:00+00:00",
+      "end": "2025-11-11T19:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-11-11T15:29:21Z",
+        "title": "These 20 Stocks Now Make Up Half Of The S&P 500\u2014Here's Why That's Risky",
+        "description": "The top 20 stocks in the S&P 500 now represent 50.8% of the index's market value, up from 28% in 2015, driven by AI enthusiasm. Despite high market concentration, these companies only generate 9.1% of total earnings, raising concerns about potential market volatility.",
+        "article_url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/25/11/48781726/sp-500-record-concentration-magnificent-seven-bubble-ai-risk?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Piero Cingari",
+        "tickers": [
+          "NVDA",
+          "AAPL",
+          "MSFT",
+          "TSLA",
+          "AMD"
+        ],
+        "keywords": [
+          "S&P 500",
+          "market concentration",
+          "AI boom",
+          "tech stocks",
+          "valuations"
+        ]
+      },
+      {
+        "published_utc": "2025-11-11T17:10:00Z",
+        "title": "Supermicro Investors Need to See This $11 Billion Forecast",
+        "description": "Super Micro Computer projected up to $11 billion in next-quarter sales and a minimum of $36 billion for fiscal 2026, signaling potential significant growth in the AI hardware market despite short-term margin pressures.",
+        "article_url": "https://www.fool.com/investing/2025/11/11/supermicro-investors-need-to-see-this-11-billion-f/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Rick Orford",
+        "tickers": [
+          "SMCI",
+          "NVDA",
+          "AMD"
+        ],
+        "keywords": [
+          "AI hardware",
+          "sales forecast",
+          "technology stocks",
+          "quarterly projection"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

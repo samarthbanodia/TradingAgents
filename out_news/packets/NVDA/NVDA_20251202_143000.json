@@ -1,0 +1,91 @@
+{
+  "event": {
+    "event_id": "NVDA_20251202_143000",
+    "ticker": "NVDA",
+    "t0_utc": "2025-12-02 14:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-12-02T11:30:00+00:00",
+      "end": "2025-12-02T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-12-02T12:15:00Z",
+        "title": "This Is the Biggest Threat to Nvidia's Artificial Intelligence (AI) Dominance That Virtually No One Is Talking About",
+        "description": "Alphabet (Google) is emerging as a potential serious competitor to Nvidia in the AI chip market, with plans to sell AI processing chips to major tech companies like Meta, challenging Nvidia's current market leadership.",
+        "article_url": "https://www.fool.com/investing/2025/12/02/big-threat-nvidia-artificial-intelligence-ai/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "James Brumley",
+        "tickers": [
+          "NVDA",
+          "GOOG",
+          "GOOGL",
+          "META",
+          "AMD",
+          "INTC",
+          "QCOM"
+        ],
+        "keywords": [
+          "AI",
+          "semiconductor",
+          "data center",
+          "chip market",
+          "technology competition"
+        ]
+      },
+      {
+        "published_utc": "2025-12-02T15:00:00Z",
+        "title": "Robotic Dogs Market to Surpass USD 4.44 Billion by 2032, Growing at a CAGR of 12.88% | SNS Insider",
+        "description": "The robotic dogs market is projected to grow from USD 1.69 Billion in 2024 to USD 4.44 Billion by 2032, driven by increasing demand for AI-powered companion robots offering emotional support and entertainment across residential and healthcare sectors.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/12/02/3198145/0/en/Robotic-Dogs-Market-to-Surpass-USD-4-44-Billion-by-2032-Growing-at-a-CAGR-of-12-88-SNS-Insider.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Sns Insider",
+        "tickers": [
+          "SONY",
+          "NVDA",
+          "INTC"
+        ],
+        "keywords": [
+          "robotic dogs",
+          "AI companion robots",
+          "market growth",
+          "technology",
+          "companion robots"
+        ]
+      },
+      {
+        "published_utc": "2025-12-02T15:17:00Z",
+        "title": "11 High-Conviction S&P 500 Stocks Best Positioned to Outperform Into Year-End",
+        "description": "After a flat November, US markets are poised for a potential December rebound, with investors optimistic about potential Federal Reserve rate cuts and positive seasonal trends supporting stock performance.",
+        "article_url": "https://www.investing.com/analysis/11-highconviction-sp-500-stocks-best-positioned-to-outperform-into-yearend-200671101",
+        "publisher": "Investing.com",
+        "author": "David Wagner",
+        "tickers": [
+          "NVDA",
+          "AAPL",
+          "TSLA",
+          "AMZN"
+        ],
+        "keywords": [
+          "S&P 500",
+          "stocks",
+          "December",
+          "Fed rate cuts",
+          "market outlook"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

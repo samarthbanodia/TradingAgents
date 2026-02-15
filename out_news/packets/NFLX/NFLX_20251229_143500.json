@@ -1,0 +1,53 @@
+{
+  "event": {
+    "event_id": "NFLX_20251229_143500",
+    "ticker": "NFLX",
+    "t0_utc": "2025-12-29 14:35:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-12-29T11:35:00+00:00",
+      "end": "2025-12-29T15:35:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": [
+        {
+          "published_utc": "2025-12-29T12:06:00Z",
+          "title": "Forget Stocks: This S&P 500 ETF Is Poised for Explosive Growth.",
+          "description": "The Vanguard S&P 500 ETF (VOO) is positioned for strong growth due to its heavy concentration in tech and AI-exposed companies like Nvidia, Apple, and Microsoft, while maintaining diversified exposure across financials, healthcare, and industrials. With an ultra-low expense ratio of 0.03% and balanced sector allocation, VOO offers investors access to growth potential from the AI boom while providing downside protection if market leadership shifts.",
+          "article_url": "https://www.fool.com/investing/2025/12/29/forget-stocks-sp-500-etf-poised-explosive-growth/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "David Dierking",
+          "tickers": [
+            "VOO",
+            "NVDA",
+            "AAPL",
+            "MSFT",
+            "AMZN",
+            "AVGO",
+            "VGT",
+            "QQQ"
+          ],
+          "keywords": [
+            "S&P 500 ETF",
+            "artificial intelligence",
+            "tech stocks",
+            "Magnificent Seven",
+            "diversification",
+            "growth potential",
+            "market cap weighting"
+          ]
+        }
+      ]
+    }
+  }
+}

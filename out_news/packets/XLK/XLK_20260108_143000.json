@@ -1,0 +1,107 @@
+{
+  "event": {
+    "event_id": "XLK_20260108_143000",
+    "ticker": "XLK",
+    "t0_utc": "2026-01-08 14:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-01-08T11:30:00+00:00",
+      "end": "2026-01-08T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-01-08T13:41:16Z",
+          "title": "Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Drop\u2014 AZZ, Northrop Grumman, Immuneering In Focus (UPDATED)",
+          "description": "U.S. stock futures declined on Thursday with investors awaiting Supreme Court ruling on tariffs and December jobs reports. AZZ surged on strong earnings, Northrop Grumman jumped on defense spending proposals, while Immuneering tumbled on disappointing trial data and Phathom dropped following stock offering announcement. Constellation Brands rose on better-than-expected earnings.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/49776170/stock-market-today-sp-500-dow-jones-futures-decline-azz-northrop-grumman-immuneering-in-focus?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AZZ",
+            "NOC",
+            "IMRX",
+            "PHAT",
+            "STZ",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market futures",
+            "S&P 500",
+            "Dow Jones",
+            "tariffs",
+            "jobs report",
+            "defense spending",
+            "earnings",
+            "biotech",
+            "pharmaceuticals"
+          ]
+        },
+        {
+          "published_utc": "2026-01-08T14:09:00Z",
+          "title": "How the AI Boom Connects to a 7.9% Dividend Story That Started in 1854",
+          "description": "The article argues that the AI market is not in a bubble, citing moderating NVIDIA stock gains and valuations comparable to Costco. It recommends the Adams Diversified Equity Fund (ADX), a closed-end fund with a 7.9% yield and roots dating to 1854, as a dividend-focused way to benefit from continued AI growth while beating the S&P 500.",
+          "article_url": "https://www.investing.com/analysis/how-the-ai-boom-connects-to-a-79-dividend-story-that-started-in-1854-200672906",
+          "publisher": "Investing.com",
+          "author": "Michael Foster",
+          "tickers": [
+            "NVDA",
+            "COST",
+            "TSLA",
+            "SPY"
+          ],
+          "keywords": [
+            "AI boom",
+            "NVIDIA",
+            "valuation",
+            "bubble concerns",
+            "dividend investing",
+            "closed-end fund",
+            "data center spending",
+            "S&P 500"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-01-08T13:41:16Z",
+          "title": "Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Drop\u2014 AZZ, Northrop Grumman, Immuneering In Focus (UPDATED)",
+          "description": "U.S. stock futures declined on Thursday with investors awaiting Supreme Court ruling on tariffs and December jobs reports. AZZ surged on strong earnings, Northrop Grumman jumped on defense spending proposals, while Immuneering tumbled on disappointing trial data and Phathom dropped following stock offering announcement. Constellation Brands rose on better-than-expected earnings.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/49776170/stock-market-today-sp-500-dow-jones-futures-decline-azz-northrop-grumman-immuneering-in-focus?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AZZ",
+            "NOC",
+            "IMRX",
+            "PHAT",
+            "STZ",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market futures",
+            "S&P 500",
+            "Dow Jones",
+            "tariffs",
+            "jobs report",
+            "defense spending",
+            "earnings",
+            "biotech",
+            "pharmaceuticals"
+          ]
+        }
+      ]
+    }
+  }
+}

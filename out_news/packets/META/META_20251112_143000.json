@@ -1,0 +1,65 @@
+{
+  "event": {
+    "event_id": "META_20251112_143000",
+    "ticker": "META",
+    "t0_utc": "2025-11-12 14:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-11-12T11:30:00+00:00",
+      "end": "2025-11-12T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-11-12T13:38:00Z",
+        "title": "Nebius Group Rally May Be Only Half Over as Meta Deal Fuels Hypergrowth Outlook",
+        "description": "Nebius Group reported strong Q3 results with 355.1% year-over-year revenue growth, securing a $3 billion contract with Meta that is expected to drive significant future business expansion and potential stock price appreciation.",
+        "article_url": "https://www.investing.com/analysis/nebius-group-rally-may-be-only-half-over-as-meta-deal-fuels-hypergrowth-outlook-200670047",
+        "publisher": "Investing.com",
+        "author": "Thomas Hughes",
+        "tickers": [
+          "NBIS",
+          "META"
+        ],
+        "keywords": [
+          "hypergrowth",
+          "Meta deal",
+          "AI",
+          "technology",
+          "stock rally"
+        ]
+      },
+      {
+        "published_utc": "2025-11-12T14:30:00Z",
+        "title": "How Does Meta Make Money?",
+        "description": "Meta Platforms generates most of its revenue through targeted advertising across Facebook, Instagram, WhatsApp, and Messenger. The company is heavily investing in AI technologies, creating a new Superintelligence Labs division, and expanding its AI infrastructure while experiencing significant capital expenditures.",
+        "article_url": "https://www.fool.com/investing/2025/11/12/how-does-meta-make-money/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Rachel Warren",
+        "tickers": [
+          "META",
+          "OBDC"
+        ],
+        "keywords": [
+          "Meta",
+          "AI",
+          "advertising",
+          "social media",
+          "technology",
+          "digital platforms"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

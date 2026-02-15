@@ -1,7 +1,7 @@
 # TradingAgents Project Status Log
 
-**Last Updated:** 2026-01-26
-**Session Summary:** Built complete intraday event mining pipeline from scratch
+**Last Updated:** 2026-02-15
+**Session Summary:** Built complete intraday event mining pipeline + news attachment
 
 ---
 

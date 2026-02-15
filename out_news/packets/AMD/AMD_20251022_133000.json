@@ -1,0 +1,69 @@
+{
+  "event": {
+    "event_id": "AMD_20251022_133000",
+    "ticker": "AMD",
+    "t0_utc": "2025-10-22 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-10-22T10:30:00+00:00",
+      "end": "2025-10-22T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-10-22T12:30:00Z",
+        "title": "Prediction: These Stocks Could Be the Next Nvidia for Patient Investors",
+        "description": "The article explores potential AI infrastructure investment opportunities beyond Nvidia, highlighting Advanced Micro Devices and Marvell Technology as promising stocks with strong growth potential in the AI accelerator market.",
+        "article_url": "https://www.fool.com/investing/2025/10/22/prediction-these-stocks-could-be-the-next-nvidia/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Manali Pradhan",
+        "tickers": [
+          "AMD",
+          "MRVL",
+          "NVDA"
+        ],
+        "keywords": [
+          "AI",
+          "GPU",
+          "technology",
+          "investment",
+          "semiconductor"
+        ]
+      },
+      {
+        "published_utc": "2025-10-22T12:30:00Z",
+        "title": "AI, Robotics Power Expansion and Uplisting Momentum Across Emerging Markets",
+        "description": "Nightfood Holdings is strategically acquiring companies in hospitality and robotics to position itself for uplisting to a national exchange, leveraging AI and automation technologies to drive growth and revenue.",
+        "article_url": "https://www.benzinga.com/pressreleases/25/10/n48350668/ai-robotics-power-expansion-and-uplisting-momentum-across-emerging-markets",
+        "publisher": "Benzinga",
+        "author": "Prnewswire",
+        "tickers": [
+          "NGTF",
+          "HLT",
+          "SERV",
+          "PATH",
+          "AMD"
+        ],
+        "keywords": [
+          "AI",
+          "robotics",
+          "uplisting",
+          "hospitality",
+          "automation",
+          "technology"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

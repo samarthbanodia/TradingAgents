@@ -1,0 +1,67 @@
+{
+  "event": {
+    "event_id": "META_20251029_194500",
+    "ticker": "META",
+    "t0_utc": "2025-10-29 19:45:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-10-29T16:45:00+00:00",
+      "end": "2025-10-29T20:45:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-10-29T18:10:00Z",
+        "title": "Buckle Up: Why Wednesday Could Be the Craziest Trading Day of the Year",
+        "description": "A pivotal Wednesday featuring the Federal Reserve's rate decision and earnings reports from major tech companies Microsoft, Alphabet, and Meta is expected to create significant market volatility, with potential impacts on interest rates and tech sector performance.",
+        "article_url": "https://www.investing.com/analysis/buckle-up-why-wednesday-could-be-the-craziest-trading-day-of-the-year-200669290",
+        "publisher": "Investing.com",
+        "author": "Jesse Cohen",
+        "tickers": [
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "META"
+        ],
+        "keywords": [
+          "Federal Reserve",
+          "interest rates",
+          "tech earnings",
+          "AI",
+          "market volatility"
+        ]
+      },
+      {
+        "published_utc": "2025-10-29T18:13:00Z",
+        "title": "Meta Earnings Preview: All Eyes on AI Monetization, Capex Ahead of Key Report",
+        "description": "Meta is preparing to report Q3 2025 earnings, with investors focusing on advertising revenue growth and AI investment strategy. The company has strong market expectations, with 31 analysts raising forecasts and the stock potentially targeting new record highs around $800.",
+        "article_url": "https://www.investing.com/analysis/meta-earnings-preview-all-eyes-on-ai-monetization-capex-ahead-of-key-report-200669280",
+        "publisher": "Investing.com",
+        "author": "Damian Nowiszewski",
+        "tickers": [
+          "META",
+          "NVDA"
+        ],
+        "keywords": [
+          "Meta",
+          "AI",
+          "earnings",
+          "advertising revenue",
+          "stock market",
+          "technology investment"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

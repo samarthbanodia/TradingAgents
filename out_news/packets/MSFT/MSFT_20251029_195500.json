@@ -1,0 +1,147 @@
+{
+  "event": {
+    "event_id": "MSFT_20251029_195500",
+    "ticker": "MSFT",
+    "t0_utc": "2025-10-29 19:55:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-10-29T16:55:00+00:00",
+      "end": "2025-10-29T20:55:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-10-29T18:00:00Z",
+        "title": "Egnyte Joins the Pax8 Marketplace",
+        "description": "Egnyte has been added to the Pax8 Marketplace, enabling over 40,000 Managed Service Providers (MSPs) to access its AI-powered secure collaboration platform with hybrid cloud capabilities and Microsoft integrations.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/29/3176785/0/en/Egnyte-Joins-the-Pax8-Marketplace.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Stan Hansen",
+        "tickers": [
+          "MSFT"
+        ],
+        "keywords": [
+          "cloud services",
+          "MSP",
+          "collaboration",
+          "AI",
+          "hybrid cloud"
+        ]
+      },
+      {
+        "published_utc": "2025-10-29T18:10:00Z",
+        "title": "Buckle Up: Why Wednesday Could Be the Craziest Trading Day of the Year",
+        "description": "A pivotal Wednesday featuring the Federal Reserve's rate decision and earnings reports from major tech companies Microsoft, Alphabet, and Meta is expected to create significant market volatility, with potential impacts on interest rates and tech sector performance.",
+        "article_url": "https://www.investing.com/analysis/buckle-up-why-wednesday-could-be-the-craziest-trading-day-of-the-year-200669290",
+        "publisher": "Investing.com",
+        "author": "Jesse Cohen",
+        "tickers": [
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "META"
+        ],
+        "keywords": [
+          "Federal Reserve",
+          "interest rates",
+          "tech earnings",
+          "AI",
+          "market volatility"
+        ]
+      },
+      {
+        "published_utc": "2025-10-29T18:13:00Z",
+        "title": "Microsoft Earnings Preview: AI Infrastructure and Capital Efficiency in Spotlight",
+        "description": "Microsoft is preparing to report Q1 earnings, with significant focus on Azure cloud services, AI infrastructure investments, and the recent OpenAI partnership that includes a $250 billion Azure services commitment.",
+        "article_url": "https://www.investing.com/analysis/microsoft-earnings-preview-4t-market-cap-puts-spotlight-on-ai-roi-200669311",
+        "publisher": "Investing.com",
+        "author": "Ali Merchant",
+        "tickers": [
+          "MSFT",
+          "NVDA"
+        ],
+        "keywords": [
+          "Microsoft",
+          "Azure",
+          "AI",
+          "OpenAI",
+          "Cloud Services",
+          "Earnings",
+          "Infrastructure"
+        ]
+      },
+      {
+        "published_utc": "2025-10-29T18:13:45Z",
+        "title": "Microsoft's New OpenAI Deal Could Be Its Smartest AI Move Yet",
+        "description": "Microsoft strengthened its partnership with OpenAI, securing a 27% stake and a $250 billion Azure compute services commitment, which analysts view as a strategic move to solidify its AI infrastructure leadership.",
+        "article_url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/25/10/48506676/microsofts-new-openai-deal-could-be-its-smartest-ai-move-yet?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Akanksha Bakshi",
+        "tickers": [
+          "MSFT"
+        ],
+        "keywords": [
+          "AI",
+          "OpenAI",
+          "Azure",
+          "cloud computing",
+          "partnership"
+        ]
+      },
+      {
+        "published_utc": "2025-10-29T19:01:00Z",
+        "title": "Fed Rate Falls Below 4% for First Time Since 2022, Markets See More Cuts Ahead",
+        "description": "The Federal Reserve lowered interest rates by 25 basis points to the 3.75-4.00% range, marking the first time in three years the federal funds rate has been below 4%. Markets anticipate potential additional rate cuts, with 84% of traders expecting another cut in December.",
+        "article_url": "https://www.investing.com/analysis/fed-rate-falls-below-4-for-first-time-since-2022-markets-see-more-cuts-ahead-200669322",
+        "publisher": "Investing.com",
+        "author": "Valuewalk",
+        "tickers": [
+          "NVDA",
+          "TSLA",
+          "MSFT",
+          "AMZN"
+        ],
+        "keywords": [
+          "Federal Reserve",
+          "interest rates",
+          "monetary policy",
+          "economic outlook"
+        ]
+      },
+      {
+        "published_utc": "2025-10-29T19:31:39Z",
+        "title": "Vanguard's VOOG and VONG ETFs Offer Distinct Paths to Growth",
+        "description": "Vanguard offers two growth-oriented ETFs, VOOG and VONG, which track different indices but provide low-cost access to large-cap U.S. growth stocks with similar expense ratios and performance characteristics.",
+        "article_url": "https://www.fool.com/coverage/etfs/2025/10/29/vanguard-s-voog-and-vong-etfs-offer-distinct-paths-to-growth/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Howard Smith",
+        "tickers": [
+          "VOOG",
+          "VONG",
+          "NVDA",
+          "MSFT",
+          "AAPL"
+        ],
+        "keywords": [
+          "ETF",
+          "growth stocks",
+          "investment",
+          "Vanguard",
+          "Russell 1000",
+          "S&P 500"
+        ]
+      }
+    ],
+    "ticker_news_count": 6,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

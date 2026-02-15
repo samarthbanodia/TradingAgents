@@ -1,0 +1,87 @@
+{
+  "event": {
+    "event_id": "TSLA_20251204_143000",
+    "ticker": "TSLA",
+    "t0_utc": "2025-12-04 14:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-12-04T11:30:00+00:00",
+      "end": "2025-12-04T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-12-04T13:01:00Z",
+        "title": "S&P 500 Near Key Breakout Zone as Markets Bet on a Fed Cut Fueling a Santa Rally",
+        "description": "Markets are anticipating potential Federal Reserve rate cuts, with the S&P 500 showing a bullish bias despite concerns about tech valuations and potential AI sector bubble. Investors are watching for potential market movements based on Fed policy expectations.",
+        "article_url": "https://www.investing.com/analysis/sp-500-fed-cut-bets-put-a-breakout-back-in-play-as-bulls-eye-rally-into-yearend-200671283",
+        "publisher": "Investing.com",
+        "author": "Fawad Razaqzada",
+        "tickers": [
+          "AAPL",
+          "TSLA",
+          "MSFT",
+          "NVDA",
+          "AMZN"
+        ],
+        "keywords": [
+          "Federal Reserve",
+          "rate cuts",
+          "S&P 500",
+          "tech stocks",
+          "AI",
+          "market rally"
+        ]
+      },
+      {
+        "published_utc": "2025-12-04T13:14:00Z",
+        "title": "Uber Vs. Tesla: The Diverging Roads to Robotaxi Dominance",
+        "description": "Uber and Tesla are pursuing different strategies in developing autonomous ride-sharing services, with Uber building an ecosystem of partnerships and Tesla focusing on vertical integration. Both companies aim to dominate the emerging robotaxi market through distinct approaches.",
+        "article_url": "https://www.investing.com/analysis/uber-vs-tesla-the-diverging-roads-to-robotaxi-dominance-200671285",
+        "publisher": "Investing.com",
+        "author": "Timothy Fries",
+        "tickers": [
+          "UBER",
+          "TSLA"
+        ],
+        "keywords": [
+          "robotaxi",
+          "autonomous driving",
+          "ride-sharing",
+          "electric vehicles",
+          "technology"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-12-04T15:21:00Z",
+          "title": "S&P 500 Nears a Higher High as VIX Divergence Points to Continued Strength",
+          "description": "The S&P 500 is approaching a potential higher high, with the SPX/VIX ratio suggesting continued market strength. The Zweig Breadth Thrust indicator is close to triggering a bullish signal, and the commodity index (GSG) appears poised for a potential breakout.",
+          "article_url": "https://www.investing.com/analysis/sp-500-nears-a-higher-high-as-vix-divergence-points-to-continued-strength-200671294",
+          "publisher": "Investing.com",
+          "author": "Tim Ord",
+          "tickers": [
+            "SPY"
+          ],
+          "keywords": [
+            "S&P 500",
+            "VIX",
+            "market strength",
+            "Zweig Breadth Thrust",
+            "commodity index"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

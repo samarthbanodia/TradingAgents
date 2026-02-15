@@ -1,0 +1,45 @@
+{
+  "event": {
+    "event_id": "AMD_20251119_210000",
+    "ticker": "AMD",
+    "t0_utc": "2025-11-19 21:00:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-11-19T18:00:00+00:00",
+      "end": "2025-11-19T22:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-11-19T21:46:00Z",
+          "title": "S&P 500 Faces Rising Probability of a 2026 Struggle as Signals Build",
+          "description": "Analysis suggests potential market challenges in 2026, with signals indicating a possible bearish scenario for the S&P 500. Commodities market appears to be starting a multi-year rally, potentially contrasting with equity market performance.",
+          "article_url": "https://www.investing.com/analysis/sp-500-faces-rising-probability-of-a-2026-struggle-as-signals-build-200670474",
+          "publisher": "Investing.com",
+          "author": "Tim Ord",
+          "tickers": [
+            "SPY",
+            "GDX"
+          ],
+          "keywords": [
+            "S&P 500",
+            "market forecast",
+            "commodities",
+            "2026 outlook",
+            "market signals"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}
