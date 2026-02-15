@@ -1,0 +1,108 @@
+{
+  "event": {
+    "event_id": "NFLX_20260105_143000",
+    "ticker": "NFLX",
+    "t0_utc": "2026-01-05 14:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "unclear",
+    "window": {
+      "start": "2026-01-05T11:30:00+00:00",
+      "end": "2026-01-05T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-01-05T12:21:00Z",
+        "title": "Should You Buy Netflix Stock Before Jan. 20?",
+        "description": "Netflix will report Q4 2025 earnings on Jan. 20, 2026. While the stock has historically jumped double-digit percentages after Q4 reports in 4 of the past 5 years, the pattern is not reliable. The author advises caution, noting a dramatic 31.6% drop after the January 2022 report. Rather than timing earnings, investors should base decisions on long-term business prospects.",
+        "article_url": "https://www.fool.com/investing/2026/01/05/should-you-buy-netflix-stock-before-jan-20/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Anders Bylund",
+        "tickers": [
+          "NFLX",
+          "WBD"
+        ],
+        "keywords": [
+          "Netflix earnings",
+          "Q4 2025 report",
+          "stock volatility",
+          "earnings surprise",
+          "long-term investing",
+          "streaming media"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-01-05T13:36:48Z",
+          "title": "Stock Market Today: S&P 500, Nasdaq, WTI Crude Futures Advance After US Strike On Venezuela\u2014 GH Research, Vertiv Holdings, Nukkleus In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Monday as major indices opened the first full trading week of 2026 higher. Following the U.S. strike on Venezuela and removal of President Maduro, crude oil prices fluctuated around $57.29 per barrel. Several stocks gained attention: Vertiv Holdings jumped on an upgrade, GH Research soared on FDA update news, Nukkleus rose after acquiring Israeli defense software, Ironwood advanced on positive FY26 guidance, and Brand Engagement Network climbed on a new vendor agreement. JPMorgan's outlook suggests continued but challenged strength in U.S. equities, with potential 10-15% corrections offset by year-end gains driven by AI-related spending.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/49685349/stock-market-today-sp-500-nasdaq-futures-rise-wti-fluctuates-following-us-strike-on-venezuela-gh?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "VRT",
+            "GHRS",
+            "NUKK",
+            "NUKKW",
+            "IRWD",
+            "BNAI",
+            "BNAIW",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "S&P 500",
+            "Nasdaq futures",
+            "Venezuela",
+            "crude oil",
+            "AI infrastructure",
+            "earnings guidance",
+            "FDA approval",
+            "geopolitical risk"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-01-05T13:36:48Z",
+          "title": "Stock Market Today: S&P 500, Nasdaq, WTI Crude Futures Advance After US Strike On Venezuela\u2014 GH Research, Vertiv Holdings, Nukkleus In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Monday as major indices opened the first full trading week of 2026 higher. Following the U.S. strike on Venezuela and removal of President Maduro, crude oil prices fluctuated around $57.29 per barrel. Several stocks gained attention: Vertiv Holdings jumped on an upgrade, GH Research soared on FDA update news, Nukkleus rose after acquiring Israeli defense software, Ironwood advanced on positive FY26 guidance, and Brand Engagement Network climbed on a new vendor agreement. JPMorgan's outlook suggests continued but challenged strength in U.S. equities, with potential 10-15% corrections offset by year-end gains driven by AI-related spending.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/49685349/stock-market-today-sp-500-nasdaq-futures-rise-wti-fluctuates-following-us-strike-on-venezuela-gh?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "VRT",
+            "GHRS",
+            "NUKK",
+            "NUKKW",
+            "IRWD",
+            "BNAI",
+            "BNAIW",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "S&P 500",
+            "Nasdaq futures",
+            "Venezuela",
+            "crude oil",
+            "AI infrastructure",
+            "earnings guidance",
+            "FDA approval",
+            "geopolitical risk"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "event": {
+    "event_id": "AMD_20251118_143000",
+    "ticker": "AMD",
+    "t0_utc": "2025-11-18 14:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-11-18T11:30:00+00:00",
+      "end": "2025-11-18T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-11-18T15:28:08Z",
+        "title": "Cloudflare Stumbled \u2014 And Tech Stocks Extend The Selloff",
+        "description": "A major system failure at Cloudflare caused a global web services outage, impacting platforms like X, ChatGPT, Facebook, and AWS, which triggered a broader tech stock selloff on Tuesday morning.",
+        "article_url": "https://www.benzinga.com/news/25/11/48926431/cloudflare-outage-internet-tech-stocks-ai-artificial-intelligence-reactions-wall-street?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Piero Cingari",
+        "tickers": [
+          "NET",
+          "AMD",
+          "META",
+          "AMZN",
+          "AIQ"
+        ],
+        "keywords": [
+          "Cloudflare",
+          "tech stocks",
+          "system failure",
+          "web services",
+          "outage"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

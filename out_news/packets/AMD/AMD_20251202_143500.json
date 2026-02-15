@@ -1,0 +1,50 @@
+{
+  "event": {
+    "event_id": "AMD_20251202_143500",
+    "ticker": "AMD",
+    "t0_utc": "2025-12-02 14:35:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-12-02T11:35:00+00:00",
+      "end": "2025-12-02T15:35:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-12-02T12:15:00Z",
+        "title": "This Is the Biggest Threat to Nvidia's Artificial Intelligence (AI) Dominance That Virtually No One Is Talking About",
+        "description": "Alphabet (Google) is emerging as a potential serious competitor to Nvidia in the AI chip market, with plans to sell AI processing chips to major tech companies like Meta, challenging Nvidia's current market leadership.",
+        "article_url": "https://www.fool.com/investing/2025/12/02/big-threat-nvidia-artificial-intelligence-ai/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "James Brumley",
+        "tickers": [
+          "NVDA",
+          "GOOG",
+          "GOOGL",
+          "META",
+          "AMD",
+          "INTC",
+          "QCOM"
+        ],
+        "keywords": [
+          "AI",
+          "semiconductor",
+          "data center",
+          "chip market",
+          "technology competition"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

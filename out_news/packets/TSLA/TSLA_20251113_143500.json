@@ -1,0 +1,65 @@
+{
+  "event": {
+    "event_id": "TSLA_20251113_143500",
+    "ticker": "TSLA",
+    "t0_utc": "2025-11-13 14:35:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-11-13T11:35:00+00:00",
+      "end": "2025-11-13T15:35:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-11-13T14:02:40Z",
+        "title": "Faraday Future EVs To Gain Tesla Supercharger Access Starting 2026",
+        "description": "Faraday Future announced its 2026 and later electric vehicles will have direct access to Tesla's Supercharger network, covering over 28,000 charging stations across the U.S., Canada, Japan, and South Korea.",
+        "article_url": "https://www.benzinga.com/trading-ideas/movers/25/11/48833119/faraday-future-evs-to-gain-tesla-supercharger-access-starting-2026?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Lekha Gupta",
+        "tickers": [
+          "FFAI",
+          "FFAIW",
+          "TSLA"
+        ],
+        "keywords": [
+          "electric vehicles",
+          "charging infrastructure",
+          "Tesla Supercharger",
+          "NACS",
+          "EV charging"
+        ]
+      },
+      {
+        "published_utc": "2025-11-13T15:00:00Z",
+        "title": "iMarketAmerica Announces Groundbreaking for Massive Industrial Park in Central Texas",
+        "description": "iMarketAmerica is developing a 212-acre Gradiant Technology Park in Taylor, Texas, targeting semiconductor industry suppliers and technology companies. The first phase will include two buildings totaling 350,000 square feet, expected to open in Q4 2026, and aims to support Samsung's regional expansion.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/11/13/3187542/0/en/iMarketAmerica-Announces-Groundbreaking-for-Massive-Industrial-Park-in-Central-Texas.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Incheol (Charles) Kim",
+        "tickers": [
+          "TSLA"
+        ],
+        "keywords": [
+          "semiconductor",
+          "technology park",
+          "industrial development",
+          "Samsung",
+          "Austin",
+          "Texas"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "event": {
+    "event_id": "NVDA_20260105_143000",
+    "ticker": "NVDA",
+    "t0_utc": "2026-01-05 14:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2026-01-05T11:30:00+00:00",
+      "end": "2026-01-05T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-01-05T12:35:00Z",
+        "title": "2 Trillion-Dollar Stocks That Could Beat the Market in 2026",
+        "description": "Amazon and Apple, despite underperforming in 2025, are positioned to deliver stronger results in 2026. Amazon's AWS cloud business is accelerating with 20% YoY growth and a $200 billion backlog, while Apple's iPhone 17 is driving strong demand and the company forecasts 10-12% revenue growth for its upcoming quarter. Both stocks are recommended as buy-and-hold investments for long-term investors.",
+        "article_url": "https://www.fool.com/investing/2026/01/05/2-trillion-dollar-stocks-that-could-beat-the-marke/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Prosper Junior Bakiny",
+        "tickers": [
+          "AMZN",
+          "AAPL",
+          "GOOG",
+          "GOOGL",
+          "NVDA"
+        ],
+        "keywords": [
+          "cloud computing",
+          "AI services",
+          "iPhone 17",
+          "AWS",
+          "revenue growth",
+          "trillion-dollar stocks",
+          "market performance"
+        ]
+      },
+      {
+        "published_utc": "2026-01-05T14:20:00Z",
+        "title": "AI Bubble or Not, These 3 Stocks Make Excellent Long-Term Plays to Buy in January",
+        "description": "The article recommends three AI stocks for long-term investors: ASML, Nvidia, and Microsoft. ASML is the sole manufacturer of EUV lithography machines essential for advanced chip production. Nvidia maintains leadership in AI accelerators despite growing competition. Microsoft offers balanced exposure across the AI value chain through cloud infrastructure, AI models, and enterprise software. The author advocates for diversified positions across the AI supply chain rather than concentrating on single segments.",
+        "article_url": "https://www.fool.com/investing/2026/01/05/ai-bubble-or-not-buy-3-ai-growth-stocks-2026/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Daniel Foelber",
+        "tickers": [
+          "ASML",
+          "NVDA",
+          "MSFT",
+          "AVGO",
+          "AMD",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "artificial intelligence",
+          "semiconductor equipment",
+          "AI chips",
+          "EUV lithography",
+          "cloud computing",
+          "AI accelerators",
+          "long-term investing",
+          "portfolio diversification"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-01-05T13:36:48Z",
+          "title": "Stock Market Today: S&P 500, Nasdaq, WTI Crude Futures Advance After US Strike On Venezuela\u2014 GH Research, Vertiv Holdings, Nukkleus In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Monday as major indices opened the first full trading week of 2026 higher. Following the U.S. strike on Venezuela and removal of President Maduro, crude oil prices fluctuated around $57.29 per barrel. Several stocks gained attention: Vertiv Holdings jumped on an upgrade, GH Research soared on FDA update news, Nukkleus rose after acquiring Israeli defense software, Ironwood advanced on positive FY26 guidance, and Brand Engagement Network climbed on a new vendor agreement. JPMorgan's outlook suggests continued but challenged strength in U.S. equities, with potential 10-15% corrections offset by year-end gains driven by AI-related spending.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/49685349/stock-market-today-sp-500-nasdaq-futures-rise-wti-fluctuates-following-us-strike-on-venezuela-gh?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "VRT",
+            "GHRS",
+            "NUKK",
+            "NUKKW",
+            "IRWD",
+            "BNAI",
+            "BNAIW",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "S&P 500",
+            "Nasdaq futures",
+            "Venezuela",
+            "crude oil",
+            "AI infrastructure",
+            "earnings guidance",
+            "FDA approval",
+            "geopolitical risk"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-01-05T13:36:48Z",
+          "title": "Stock Market Today: S&P 500, Nasdaq, WTI Crude Futures Advance After US Strike On Venezuela\u2014 GH Research, Vertiv Holdings, Nukkleus In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Monday as major indices opened the first full trading week of 2026 higher. Following the U.S. strike on Venezuela and removal of President Maduro, crude oil prices fluctuated around $57.29 per barrel. Several stocks gained attention: Vertiv Holdings jumped on an upgrade, GH Research soared on FDA update news, Nukkleus rose after acquiring Israeli defense software, Ironwood advanced on positive FY26 guidance, and Brand Engagement Network climbed on a new vendor agreement. JPMorgan's outlook suggests continued but challenged strength in U.S. equities, with potential 10-15% corrections offset by year-end gains driven by AI-related spending.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/49685349/stock-market-today-sp-500-nasdaq-futures-rise-wti-fluctuates-following-us-strike-on-venezuela-gh?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "VRT",
+            "GHRS",
+            "NUKK",
+            "NUKKW",
+            "IRWD",
+            "BNAI",
+            "BNAIW",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "S&P 500",
+            "Nasdaq futures",
+            "Venezuela",
+            "crude oil",
+            "AI infrastructure",
+            "earnings guidance",
+            "FDA approval",
+            "geopolitical risk"
+          ]
+        }
+      ]
+    }
+  }
+}

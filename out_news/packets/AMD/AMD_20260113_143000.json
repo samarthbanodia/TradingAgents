@@ -1,0 +1,125 @@
+{
+  "event": {
+    "event_id": "AMD_20260113_143000",
+    "ticker": "AMD",
+    "t0_utc": "2026-01-13 14:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2026-01-13T11:30:00+00:00",
+      "end": "2026-01-13T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-01-13T13:29:11Z",
+          "title": "Stock Market Today: Nasdaq 100, S&P 500, Dow Jones Futures Lag Ahead Of December CPI Print\u2014 JPMorgan, Alphabet, Five9 In Focus (UPDATED)",
+          "description": "U.S. stock futures declined on Tuesday ahead of December CPI data release. Major indices were trading lower with the S&P 500 down 0.12% and Nasdaq 100 down 0.19%. Key stocks in focus include Alphabet reaching $4 trillion market value, JPMorgan preparing to report Q4 earnings, Five9 expanding its Google Cloud partnership, and Revvity rising 4.92% after positive earnings guidance. Markets are pricing in a 95% likelihood of the Federal Reserve maintaining current interest rates in January.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/49867402/stock-market-today-sp-500-dow-jones-futures-slip-ahead-of-december-cpi-print-jpmorgan-alphabet-f?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "GOOG",
+            "GOOGL",
+            "AMJB",
+            "JPM",
+            "JPMpC",
+            "JPMpD",
+            "JPMpJ",
+            "JPMpK",
+            "JPMpL",
+            "JPMpM",
+            "VYLD",
+            "FIVN",
+            "RVTY",
+            "XPEV",
+            "AAPL",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "CPI",
+            "S&P 500",
+            "Nasdaq",
+            "inflation",
+            "Federal Reserve",
+            "earnings",
+            "AI boom"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-01-13T13:29:11Z",
+          "title": "Stock Market Today: Nasdaq 100, S&P 500, Dow Jones Futures Lag Ahead Of December CPI Print\u2014 JPMorgan, Alphabet, Five9 In Focus (UPDATED)",
+          "description": "U.S. stock futures declined on Tuesday ahead of December CPI data release. Major indices were trading lower with the S&P 500 down 0.12% and Nasdaq 100 down 0.19%. Key stocks in focus include Alphabet reaching $4 trillion market value, JPMorgan preparing to report Q4 earnings, Five9 expanding its Google Cloud partnership, and Revvity rising 4.92% after positive earnings guidance. Markets are pricing in a 95% likelihood of the Federal Reserve maintaining current interest rates in January.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/49867402/stock-market-today-sp-500-dow-jones-futures-slip-ahead-of-december-cpi-print-jpmorgan-alphabet-f?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "GOOG",
+            "GOOGL",
+            "AMJB",
+            "JPM",
+            "JPMpC",
+            "JPMpD",
+            "JPMpJ",
+            "JPMpK",
+            "JPMpL",
+            "JPMpM",
+            "VYLD",
+            "FIVN",
+            "RVTY",
+            "XPEV",
+            "AAPL",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "CPI",
+            "S&P 500",
+            "Nasdaq",
+            "inflation",
+            "Federal Reserve",
+            "earnings",
+            "AI boom"
+          ]
+        },
+        {
+          "published_utc": "2026-01-13T15:15:04Z",
+          "title": "World's Top Central Bankers Rally Behind Powell On Fed Independence",
+          "description": "Leading global central bankers issued a joint statement supporting Federal Reserve Chair Jerome Powell and defending monetary policy independence amid a DOJ investigation into his congressional testimony. The statement from 12 central banks, including the ECB, Bank of England, and others, emphasized that central bank independence is crucial for financial stability. Markets remained stable with major equity indices reaching record highs, and economists expect the Fed's policy path to remain largely unchanged despite political pressure.",
+          "article_url": "https://www.benzinga.com/news/politics/26/01/49877751/global-central-bankers-back-powell-fed-independence-doj-probe?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "DIA",
+            "QQQ",
+            "VOO"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "Jerome Powell",
+            "central bank independence",
+            "monetary policy",
+            "DOJ investigation",
+            "global central banks",
+            "financial stability"
+          ]
+        }
+      ]
+    }
+  }
+}

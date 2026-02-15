@@ -1,0 +1,43 @@
+{
+  "total_events": 100,
+  "events_with_news": 59,
+  "events_no_news": 41,
+  "total_articles_fetched": 146,
+  "articles_per_ticker": {
+    "AAPL": 20,
+    "AMD": 16,
+    "META": 11,
+    "MSFT": 28,
+    "NFLX": 5,
+    "NVDA": 46,
+    "PLTR": 4,
+    "QQQ": 3,
+    "SPY": 1,
+    "TSLA": 12,
+    "XLK": 0
+  },
+  "retries_429": 15,
+  "retries_5xx": 0,
+  "errors": 0,
+  "api_key_usage": {
+    "key_1": 31,
+    "key_2": 31,
+    "key_3": 31,
+    "key_4": 31,
+    "key_5": 31,
+    "key_6": 31,
+    "key_7": 31,
+    "key_8": 31
+  },
+  "config": {
+    "lookback_hours": 3.0,
+    "lookahead_hours": 1.0,
+    "max_articles": 30,
+    "include_macro_news": true,
+    "macro_tickers": [
+      "SPY",
+      "QQQ"
+    ],
+    "force_refresh": false
+  }
+}

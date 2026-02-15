@@ -3,7 +3,8 @@
     "allow": [
       "Bash(pip install:*)",
       "Bash(python:*)",
-      "Bash(git -C \"C:\\\\Users\\\\Samarth\\\\Desktop\\\\TradingAgents\" log --oneline -20)"
+      "Bash(git -C \"C:\\\\Users\\\\Samarth\\\\Desktop\\\\TradingAgents\" log --oneline -20)",
+      "Bash(pip show:*)"
     ]
   }
 }

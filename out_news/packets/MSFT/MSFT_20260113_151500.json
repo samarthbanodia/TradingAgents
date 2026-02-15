@@ -1,0 +1,214 @@
+{
+  "event": {
+    "event_id": "MSFT_20260113_151500",
+    "ticker": "MSFT",
+    "t0_utc": "2026-01-13 15:15:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-01-13T12:15:00+00:00",
+      "end": "2026-01-13T16:15:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-01-13T13:00:00Z",
+        "title": "Einfach bereitzustellende S1000 IP-DECT-Plattform von Spectralink l\u00f6st Kommunikationsprobleme im Tagesgesch\u00e4ft",
+        "description": "Spectralink has launched its S1000 IP-DECT platform, a cloud-capable communication solution designed for frontline workers in healthcare, retail, manufacturing, and logistics. The platform can be deployed across multiple locations within hours without requiring local servers or on-site technicians, supports up to 4,000 users and 1,000 base stations, and integrates with Microsoft Teams. The solution addresses a significant gap in enterprise communication investments, as 80% of the global workforce consists of mobile or non-desk-based employees.",
+        "article_url": "https://www.globenewswire.com/news-release/2026/01/13/3217707/0/de/Einfach-bereitzustellende-S1000-IP-DECT-Plattform-von-Spectralink-l%C3%B6st-Kommunikationsprobleme-im-Tagesgesch%C3%A4ft.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Unknown",
+        "tickers": [
+          "MSFT"
+        ],
+        "keywords": [
+          "DECT platform",
+          "frontline workers",
+          "cloud communication",
+          "Microsoft Teams integration",
+          "enterprise mobility",
+          "healthcare",
+          "retail",
+          "manufacturing",
+          "logistics"
+        ]
+      },
+      {
+        "published_utc": "2026-01-13T13:00:00Z",
+        "title": "Spectralink lance la plateforme IP-DECT S1000 : une solution cloud pr\u00eate \u00e0 l\u2019emploi pour les communications critiques de premi\u00e8re ligne",
+        "description": "Spectralink has launched the IP-DECT S1000, a cloud-ready DECT platform designed for frontline workers in healthcare, retail, logistics, and industrial sectors. The solution can be deployed in hours without local servers and supports up to 4,000 users across 1,000 base stations. It integrates with Microsoft Teams and addresses the communication gap affecting 80% of the global workforce operating without fixed locations.",
+        "article_url": "https://www.globenewswire.com/news-release/2026/01/13/3217707/0/fr/Spectralink-lance-la-plateforme-IP-DECT-S1000-une-solution-cloud-pr%C3%AAte-%C3%A0-l-emploi-pour-les-communications-critiques-de-premi%C3%A8re-ligne.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Na",
+        "tickers": [
+          "MSFT"
+        ],
+        "keywords": [
+          "IP-DECT S1000",
+          "frontline workers",
+          "cloud communications",
+          "wireless mobility",
+          "Microsoft Teams integration",
+          "enterprise communications",
+          "logistics",
+          "healthcare",
+          "retail"
+        ]
+      },
+      {
+        "published_utc": "2026-01-13T13:13:23Z",
+        "title": "Nebius Stock Tripled in 2025. Is There More Growth Ahead in 2026?",
+        "description": "Nebius Group's stock surged 202% in 2025 driven by major AI cloud infrastructure deals with Microsoft ($19.4B) and Meta ($3B), selling out all available capacity. The company projects revenue to grow from ~$1B to $7-9B in 2026. While the stock valuation appears reasonable at 3x sales, execution risk remains high as the company must deliver on ambitious growth targets and sustain AI infrastructure demand.",
+        "article_url": "https://www.fool.com/investing/2026/01/13/nebius-stock-tripled-in-2025-is-there-more-growth/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Howard Smith",
+        "tickers": [
+          "NBIS",
+          "MSFT",
+          "META"
+        ],
+        "keywords": [
+          "AI cloud infrastructure",
+          "data center capacity",
+          "hyperscaler deals",
+          "revenue growth",
+          "valuation",
+          "execution risk"
+        ]
+      },
+      {
+        "published_utc": "2026-01-13T13:46:00Z",
+        "title": "Microsoft Wants to Power Retail Without Competing With It",
+        "description": "Microsoft announced Copilot Checkout at NRF 2026, enabling AI-powered purchases within its chatbot while allowing retailers to maintain merchant control and customer data ownership. Goldman Sachs initiated coverage with a Buy rating and $655 price target, citing Microsoft's strong positioning for AI product cycles. MSFT stock is down 1.05% year-to-date but shows constructive technical consolidation near its 200-day moving average.",
+        "article_url": "https://www.investing.com/analysis/microsoft-wants-to-power-retail-without-competing-with-it-200673152",
+        "publisher": "Investing.com",
+        "author": "Chris Markoch",
+        "tickers": [
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "AMZN"
+        ],
+        "keywords": [
+          "Copilot Checkout",
+          "agentic commerce",
+          "AI retail",
+          "enterprise commerce",
+          "cloud infrastructure",
+          "Goldman Sachs",
+          "technical analysis"
+        ]
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-01-13T13:29:11Z",
+          "title": "Stock Market Today: Nasdaq 100, S&P 500, Dow Jones Futures Lag Ahead Of December CPI Print\u2014 JPMorgan, Alphabet, Five9 In Focus (UPDATED)",
+          "description": "U.S. stock futures declined on Tuesday ahead of December CPI data release. Major indices were trading lower with the S&P 500 down 0.12% and Nasdaq 100 down 0.19%. Key stocks in focus include Alphabet reaching $4 trillion market value, JPMorgan preparing to report Q4 earnings, Five9 expanding its Google Cloud partnership, and Revvity rising 4.92% after positive earnings guidance. Markets are pricing in a 95% likelihood of the Federal Reserve maintaining current interest rates in January.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/49867402/stock-market-today-sp-500-dow-jones-futures-slip-ahead-of-december-cpi-print-jpmorgan-alphabet-f?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "GOOG",
+            "GOOGL",
+            "AMJB",
+            "JPM",
+            "JPMpC",
+            "JPMpD",
+            "JPMpJ",
+            "JPMpK",
+            "JPMpL",
+            "JPMpM",
+            "VYLD",
+            "FIVN",
+            "RVTY",
+            "XPEV",
+            "AAPL",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "CPI",
+            "S&P 500",
+            "Nasdaq",
+            "inflation",
+            "Federal Reserve",
+            "earnings",
+            "AI boom"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-01-13T13:29:11Z",
+          "title": "Stock Market Today: Nasdaq 100, S&P 500, Dow Jones Futures Lag Ahead Of December CPI Print\u2014 JPMorgan, Alphabet, Five9 In Focus (UPDATED)",
+          "description": "U.S. stock futures declined on Tuesday ahead of December CPI data release. Major indices were trading lower with the S&P 500 down 0.12% and Nasdaq 100 down 0.19%. Key stocks in focus include Alphabet reaching $4 trillion market value, JPMorgan preparing to report Q4 earnings, Five9 expanding its Google Cloud partnership, and Revvity rising 4.92% after positive earnings guidance. Markets are pricing in a 95% likelihood of the Federal Reserve maintaining current interest rates in January.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/49867402/stock-market-today-sp-500-dow-jones-futures-slip-ahead-of-december-cpi-print-jpmorgan-alphabet-f?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "GOOG",
+            "GOOGL",
+            "AMJB",
+            "JPM",
+            "JPMpC",
+            "JPMpD",
+            "JPMpJ",
+            "JPMpK",
+            "JPMpL",
+            "JPMpM",
+            "VYLD",
+            "FIVN",
+            "RVTY",
+            "XPEV",
+            "AAPL",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "CPI",
+            "S&P 500",
+            "Nasdaq",
+            "inflation",
+            "Federal Reserve",
+            "earnings",
+            "AI boom"
+          ]
+        },
+        {
+          "published_utc": "2026-01-13T15:15:04Z",
+          "title": "World's Top Central Bankers Rally Behind Powell On Fed Independence",
+          "description": "Leading global central bankers issued a joint statement supporting Federal Reserve Chair Jerome Powell and defending monetary policy independence amid a DOJ investigation into his congressional testimony. The statement from 12 central banks, including the ECB, Bank of England, and others, emphasized that central bank independence is crucial for financial stability. Markets remained stable with major equity indices reaching record highs, and economists expect the Fed's policy path to remain largely unchanged despite political pressure.",
+          "article_url": "https://www.benzinga.com/news/politics/26/01/49877751/global-central-bankers-back-powell-fed-independence-doj-probe?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "DIA",
+            "QQQ",
+            "VOO"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "Jerome Powell",
+            "central bank independence",
+            "monetary policy",
+            "DOJ investigation",
+            "global central banks",
+            "financial stability"
+          ]
+        }
+      ]
+    }
+  }
+}

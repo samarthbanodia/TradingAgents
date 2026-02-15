@@ -1,0 +1,103 @@
+{
+  "event": {
+    "event_id": "NVDA_20251205_143500",
+    "ticker": "NVDA",
+    "t0_utc": "2025-12-05 14:35:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-12-05T11:35:00+00:00",
+      "end": "2025-12-05T15:35:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-12-05T11:45:12Z",
+        "title": "Amazon's AI Chip Trainium2 Hits Multi-Billion Dollar Revenue Run Rate As CEO Andy Jassy Unveils 4X Faster Successor",
+        "description": "Amazon CEO Andy Jassy unveiled Trainium3, a new AI chip that is 4x faster and more energy-efficient than its predecessor Trainium2, which has already reached a multi-billion dollar revenue run rate with over 100,000 companies using it.",
+        "article_url": "https://www.benzinga.com/markets/tech/25/12/49227702/amazons-ai-chip-trainium2-hits-multi-billion-revenue-run-rate-as-ceo-andy-jassy-unveils-4x-faster-su?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "AMZN",
+          "NVDA"
+        ],
+        "keywords": [
+          "AI",
+          "chip",
+          "Trainium",
+          "AWS",
+          "cloud computing"
+        ]
+      },
+      {
+        "published_utc": "2025-12-05T13:00:12Z",
+        "title": "Anthropic CEO's View 'Hasn't Changed' On Nvidia Chip Sales To China Despite Recent Partnership: 'This Isn't Personal. This Is...'",
+        "description": "Anthropic CEO Dario Amodei maintains his stance against Nvidia selling advanced chips to China, citing national security concerns, despite a recent strategic partnership between the companies.",
+        "article_url": "https://www.benzinga.com/markets/tech/25/12/49228555/anthropic-ceos-view-hasnt-changed-on-nvidia-chip-sales-to-china-despite-recent-partnership-this-isnt?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "NVDA",
+          "AMZN",
+          "MSFT"
+        ],
+        "keywords": [
+          "AI",
+          "chips",
+          "national security",
+          "export controls",
+          "China"
+        ]
+      },
+      {
+        "published_utc": "2025-12-05T14:36:11Z",
+        "title": "Teton Ridge Turns To Palantir To Bring Instant AI Insights To Rodeo",
+        "description": "Palantir Technologies collaborates with Teton Ridge and Nvidia to integrate real-time AI and computer vision technologies into rodeo events, enabling instant performance insights and data processing.",
+        "article_url": "https://www.benzinga.com/markets/large-cap/25/12/49230538/teton-ridge-turns-to-palantir-to-bring-instant-ai-insights-to-rodeo?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Lekha Gupta",
+        "tickers": [
+          "PLTR",
+          "NVDA"
+        ],
+        "keywords": [
+          "AI",
+          "rodeo",
+          "sports technology",
+          "computer vision",
+          "real-time analytics"
+        ]
+      },
+      {
+        "published_utc": "2025-12-05T15:10:00Z",
+        "title": "Dell Just Hit a Record in AI Orders\u2014But the Real Test Starts Now",
+        "description": "Dell reported record AI server orders of $12.4 billion and raised its full-year guidance, demonstrating strong AI demand. However, the company faces challenges with thin AI server margins and must expand its customer base to improve profitability.",
+        "article_url": "https://www.investing.com/analysis/dell-just-hit-a-record-in-ai-ordersbut-the-real-test-starts-now-200671362",
+        "publisher": "Investing.com",
+        "author": "Leo Miller",
+        "tickers": [
+          "DELL",
+          "NVDA"
+        ],
+        "keywords": [
+          "AI",
+          "servers",
+          "technology",
+          "earnings",
+          "margins"
+        ]
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

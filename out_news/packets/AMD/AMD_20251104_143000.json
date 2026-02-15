@@ -1,0 +1,48 @@
+{
+  "event": {
+    "event_id": "AMD_20251104_143000",
+    "ticker": "AMD",
+    "t0_utc": "2025-11-04 14:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-11-04T11:30:00+00:00",
+      "end": "2025-11-04T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-11-04T13:29:05Z",
+        "title": "Stock Market Today: S&P 500, Nasdaq Futures Fall As Uber Drops Nearly 6% After Q3 Miss\u2014AMD, Palantir, Denny's In Focus (UPDATED)",
+        "description": "U.S. stock futures declined on Tuesday, with market concerns around an AI bubble and potential economic impacts from the government shutdown. Several tech and service companies reported earnings, with mixed results driving market volatility.",
+        "article_url": "https://www.benzinga.com/markets/equities/25/11/48614075/stock-market-today-sp-500-dow-jones-nasdaq-futures-plunge-as-uber-misses-q3-estimates-advanced-m?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Rishabh Mishra",
+        "tickers": [
+          "AMD",
+          "UBER",
+          "UPWK",
+          "DENN",
+          "PLTR"
+        ],
+        "keywords": [
+          "stock futures",
+          "AI",
+          "earnings",
+          "government shutdown",
+          "interest rates"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

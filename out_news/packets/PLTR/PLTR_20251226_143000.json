@@ -1,0 +1,111 @@
+{
+  "event": {
+    "event_id": "PLTR_20251226_143000",
+    "ticker": "PLTR",
+    "t0_utc": "2025-12-26 14:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-12-26T11:30:00+00:00",
+      "end": "2025-12-26T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-12-26T12:24:00Z",
+        "title": "Is It Too Late to Buy Rigetti Computing Stock?",
+        "description": "Rigetti Computing stock has surged 3,220% over three years, but the quantum computing company's valuation is extremely high relative to its declining revenue. Trading at over 1,000 times trailing sales with Q3 2025 revenue down 18% year-over-year, the stock is only suitable for high-risk investors willing to take small positions, contingent on quantum computing achieving commercial viability.",
+        "article_url": "https://www.fool.com/investing/2025/12/26/is-it-too-late-to-buy-rigetti-computing-stock/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Lyle Daly",
+        "tickers": [
+          "RGTI",
+          "RGTIW",
+          "NVDA",
+          "PLTR"
+        ],
+        "keywords": [
+          "quantum computing",
+          "stock valuation",
+          "revenue decline",
+          "price-to-sales ratio",
+          "high-risk investment"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-12-26T14:26:49Z",
+          "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq Futures Decline After Christmas Day\u2014Nvidia, Sobr Safe, Biohaven In Focus (UPDATED)",
+          "description": "U.S. stock futures declined on Friday following Wednesday's gains, with major indices showing modest losses. Key movers included Nvidia rising on a licensing agreement with Groq, Dynavax surging 38% on Sanofi acquisition news, Sobr Safe dropping 16% after announcing a private placement, and Biohaven plummeting 14% after a failed clinical trial. Economist Justin Wolfers cautioned that U.S. market gains are lagging global markets significantly.",
+          "article_url": "https://www.benzinga.com/markets/equities/25/12/49591446/stock-market-today-dow-jones-sp-500-futures-slip-after-christmas-day-nvidia-sobr-safe-biohaven-i?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "NVDA",
+            "DVAX",
+            "SOBR",
+            "DTCK",
+            "BHVN",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market futures",
+            "S&P 500",
+            "Dow Jones",
+            "Nasdaq",
+            "Nvidia",
+            "Dynavax",
+            "Sobr Safe",
+            "Biohaven",
+            "clinical trial",
+            "private placement",
+            "Treasury yields",
+            "Federal Reserve"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-12-26T14:26:49Z",
+          "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq Futures Decline After Christmas Day\u2014Nvidia, Sobr Safe, Biohaven In Focus (UPDATED)",
+          "description": "U.S. stock futures declined on Friday following Wednesday's gains, with major indices showing modest losses. Key movers included Nvidia rising on a licensing agreement with Groq, Dynavax surging 38% on Sanofi acquisition news, Sobr Safe dropping 16% after announcing a private placement, and Biohaven plummeting 14% after a failed clinical trial. Economist Justin Wolfers cautioned that U.S. market gains are lagging global markets significantly.",
+          "article_url": "https://www.benzinga.com/markets/equities/25/12/49591446/stock-market-today-dow-jones-sp-500-futures-slip-after-christmas-day-nvidia-sobr-safe-biohaven-i?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "NVDA",
+            "DVAX",
+            "SOBR",
+            "DTCK",
+            "BHVN",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market futures",
+            "S&P 500",
+            "Dow Jones",
+            "Nasdaq",
+            "Nvidia",
+            "Dynavax",
+            "Sobr Safe",
+            "Biohaven",
+            "clinical trial",
+            "private placement",
+            "Treasury yields",
+            "Federal Reserve"
+          ]
+        }
+      ]
+    }
+  }
+}

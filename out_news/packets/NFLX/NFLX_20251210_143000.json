@@ -1,0 +1,65 @@
+{
+  "event": {
+    "event_id": "NFLX_20251210_143000",
+    "ticker": "NFLX",
+    "t0_utc": "2025-12-10 14:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-12-10T11:30:00+00:00",
+      "end": "2025-12-10T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-12-10T12:01:00Z",
+        "title": "Massive News for Netflix Stock Investors as Paramount Makes Hostile Bid for Warner Bros.",
+        "description": "Paramount has made a hostile bid for Warner Bros., potentially disrupting Netflix's planned acquisition of the media company and creating uncertainty in the streaming industry.",
+        "article_url": "https://www.fool.com/investing/2025/12/10/massive-news-for-netflix-stock-investors-as-paramo/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Parkev Tatevosian, Cfa",
+        "tickers": [
+          "NFLX",
+          "WBD"
+        ],
+        "keywords": [
+          "streaming",
+          "acquisition",
+          "hostile bid",
+          "media companies"
+        ]
+      },
+      {
+        "published_utc": "2025-12-10T15:25:00Z",
+        "title": "Netflix's Acquisition of Warner Bros. Represents a Paradigm Shift in the Streaming Industry. Here Are 6 Things Investors Should Know About the Deal.",
+        "description": "Netflix plans to acquire Warner Bros.' assets for $83 billion, marking a significant consolidation in the streaming industry. The deal includes HBO and valuable franchises like Game of Thrones and Harry Potter, but faces potential regulatory challenges and a competing bid from Paramount Skydance.",
+        "article_url": "https://www.fool.com/investing/2025/12/10/netflixs-acquisition-of-warner-bros-represents-a-p/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Bram Berkowitz",
+        "tickers": [
+          "NFLX",
+          "WBD",
+          "DIS",
+          "AMZN"
+        ],
+        "keywords": [
+          "streaming",
+          "acquisition",
+          "media consolidation",
+          "HBO",
+          "franchises"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

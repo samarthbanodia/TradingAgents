@@ -1,0 +1,135 @@
+{
+  "event": {
+    "event_id": "MSFT_20251124_144000",
+    "ticker": "MSFT",
+    "t0_utc": "2025-11-24 14:40:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-11-24T11:40:00+00:00",
+      "end": "2025-11-24T15:40:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-11-24T12:12:55Z",
+        "title": "Ming-Chi Kuo Fires Back At Nvidia 'Fraud' Critics, Says Claims Are Built On 'Factual Errors' \u2014 'Far From Being Evidence...'",
+        "description": "Tech analyst Ming-Chi Kuo defended Nvidia's financial practices, dismissing claims of fraud by arguing that its Days Sales Outstanding and inventory levels are normal for the industry. Critics like Shanaka Anslem Perera raised concerns about potential financial irregularities, while other analysts remain bullish on the company.",
+        "article_url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/25/11/49027315/ming-chi-kuo-fires-back-at-nvidia-fraud-critics-says-claims-are-built-on-fact?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "NVDA",
+          "MSFT",
+          "ORCL",
+          "TSM"
+        ],
+        "keywords": [
+          "Nvidia",
+          "fraud allegations",
+          "financial metrics",
+          "AI",
+          "tech stocks"
+        ]
+      },
+      {
+        "published_utc": "2025-11-24T12:30:00Z",
+        "title": "This Is the Best AI Stock to Buy as Spending Shifts Toward Hardware",
+        "description": "Nvidia is positioned as a leading AI hardware stock, with data center sales surging over 3,700% in five years and expected continued investment from tech giants in AI infrastructure, potentially reaching $4 trillion by 2030.",
+        "article_url": "https://www.fool.com/investing/2025/11/24/best-ai-stock-to-buy-spending-shifts-hardware/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Chris Neiger",
+        "tickers": [
+          "NVDA",
+          "AMD",
+          "GOOG",
+          "GOOGL",
+          "MSFT",
+          "META",
+          "AVGO"
+        ],
+        "keywords": [
+          "AI",
+          "hardware",
+          "data centers",
+          "infrastructure",
+          "processors"
+        ]
+      },
+      {
+        "published_utc": "2025-11-24T13:02:00Z",
+        "title": "Three Vanguard ETFs Poised for Outsized Gains",
+        "description": "The article highlights three Vanguard ETFs (Mega Cap Growth, Growth, and Information Technology) that are expected to outperform due to strong growth in tech stocks and potential AI advancements, with recommendations for strategic investment through dollar-cost averaging.",
+        "article_url": "https://www.fool.com/investing/2025/11/24/three-vanguard-etfs-poised-for-outsized-gains/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Geoffrey Seiler",
+        "tickers": [
+          "MGK",
+          "VUG",
+          "VGT",
+          "NVDA",
+          "AAPL",
+          "MSFT"
+        ],
+        "keywords": [
+          "ETFs",
+          "growth stocks",
+          "technology",
+          "AI",
+          "investment strategy"
+        ]
+      },
+      {
+        "published_utc": "2025-11-24T14:30:00Z",
+        "title": "Microsoft and Nvidia Just Signed a Multibillion-Dollar Deal With Anthropic. Here's What It Really Means for Investors.",
+        "description": "Microsoft and Nvidia have invested in Anthropic, with Anthropic agreeing to purchase $30 billion of compute capacity from Azure and commit to an additional 1 gigawatt of compute power. The deal strengthens both companies' positions in the AI infrastructure race.",
+        "article_url": "https://www.fool.com/investing/2025/11/24/microsoft-and-nvidia-just-signed-a-multibillion-do/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Geoffrey Seiler",
+        "tickers": [
+          "MSFT",
+          "NVDA",
+          "AMZN",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "AI",
+          "cloud computing",
+          "investment",
+          "GPU",
+          "large language models"
+        ]
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": [
+        {
+          "published_utc": "2025-11-24T14:07:00Z",
+          "title": "A December Rate Cut Coming? Goldman Tells Investors To Buy The Dip",
+          "description": "Goldman Sachs predicts a potential December rate cut by the Federal Reserve, citing weakening labor market conditions and potential economic easing in 2026. The firm advises investors to buy market dips and remain overweight in equities.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/25/11/49029341/fed-interest-rate-cut-december-how-to-invest-buy-the-dip-stocks-goldman-sachs?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "QQQ"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "rate cut",
+            "labor market",
+            "economic forecast",
+            "investment strategy"
+          ]
+        }
+      ]
+    }
+  }
+}

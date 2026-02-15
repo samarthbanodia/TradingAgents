@@ -1,0 +1,135 @@
+{
+  "event": {
+    "event_id": "MSFT_20251222_143500",
+    "ticker": "MSFT",
+    "t0_utc": "2025-12-22 14:35:00+00:00",
+    "direction": -1,
+    "label_proxy": "unclear",
+    "window": {
+      "start": "2025-12-22T11:35:00+00:00",
+      "end": "2025-12-22T15:35:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-12-22T13:23:00Z",
+        "title": "Is Amazon One of the Best Stocks to Buy for 2026?",
+        "description": "Amazon's stock has underperformed in 2025, remaining flat while the S&P 500 gained 14%. However, the article argues Amazon is positioned for a strong 2026 comeback, driven by accelerating AWS growth capturing AI workloads with competitive chips, and robust advertising revenue growth at 24% year-over-year. With valuation normalized to 30x operating income, the stock is primed to deliver returns aligned with business growth.",
+        "article_url": "https://www.fool.com/investing/2025/12/22/is-amazon-one-of-the-best-stocks-to-buy-for-2026/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Keithen Drury",
+        "tickers": [
+          "AMZN",
+          "GOOG",
+          "GOOGL",
+          "MSFT",
+          "NVDA"
+        ],
+        "keywords": [
+          "AWS",
+          "cloud computing",
+          "AI chips",
+          "advertising revenue",
+          "valuation",
+          "operating income",
+          "Trainium3 chips",
+          "GPU alternatives"
+        ]
+      },
+      {
+        "published_utc": "2025-12-22T15:30:00Z",
+        "title": "Is Palantir Stock a Buy in 2026?",
+        "description": "Palantir Technologies stock surged 150% in 2025, becoming one of the top-performing AI stocks. The company secured major contracts including a $448 million U.S. Navy deal and a $10 billion U.S. Army partnership, while forming a strategic alliance with Nvidia. However, the analyst warns that despite strong fundamentals and impressive growth in both commercial and government segments, Palantir's valuation has become overextended with a P/S ratio of 117\u2014far exceeding historical precedents. The stock is viewed as overbought momentum play, and investors should wait for more reasonable entry points in 2026.",
+        "article_url": "https://www.fool.com/investing/2025/12/22/is-palantir-stock-a-buy-in-2026/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Adam Spatacco",
+        "tickers": [
+          "PLTR",
+          "NVDA",
+          "MSFT",
+          "AMZN"
+        ],
+        "keywords": [
+          "AI software",
+          "enterprise software",
+          "valuation concerns",
+          "government contracts",
+          "momentum stock",
+          "overextended valuation"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-12-22T13:32:25Z",
+          "title": "Stock Market Today: Dow Jones, S&P 500 Futures Climb At The Start Of Christmas Week\u2014 Kemper, Trump Media & Technology, cbdMD In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Monday as markets enter the Christmas week with abbreviated trading. The S&P 500, Nasdaq 100, and other major indices advanced in premarket trading. Key movers included Trump Media & Technology surging on a $6 billion merger completion, Kemper tumbling after a downgrade, and cbdMD rising despite missing earnings expectations. Markets are pricing in an 80.1% probability of the Federal Reserve maintaining current interest rates.",
+          "article_url": "https://www.benzinga.com/markets/equities/25/12/49531023/stock-market-today-sp-500-nasdaq-100-futures-climb-at-the-start-of-christmas-week-kemper-trump-m?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "DJT",
+            "DJTWW",
+            "KMPB",
+            "KMPR",
+            "TKLF",
+            "FIX",
+            "YCBD"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "S&P 500",
+            "Nasdaq 100",
+            "Christmas week",
+            "Federal Reserve",
+            "interest rates",
+            "merger",
+            "earnings"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-12-22T13:32:25Z",
+          "title": "Stock Market Today: Dow Jones, S&P 500 Futures Climb At The Start Of Christmas Week\u2014 Kemper, Trump Media & Technology, cbdMD In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Monday as markets enter the Christmas week with abbreviated trading. The S&P 500, Nasdaq 100, and other major indices advanced in premarket trading. Key movers included Trump Media & Technology surging on a $6 billion merger completion, Kemper tumbling after a downgrade, and cbdMD rising despite missing earnings expectations. Markets are pricing in an 80.1% probability of the Federal Reserve maintaining current interest rates.",
+          "article_url": "https://www.benzinga.com/markets/equities/25/12/49531023/stock-market-today-sp-500-nasdaq-100-futures-climb-at-the-start-of-christmas-week-kemper-trump-m?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "DJT",
+            "DJTWW",
+            "KMPB",
+            "KMPR",
+            "TKLF",
+            "FIX",
+            "YCBD"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "S&P 500",
+            "Nasdaq 100",
+            "Christmas week",
+            "Federal Reserve",
+            "interest rates",
+            "merger",
+            "earnings"
+          ]
+        }
+      ]
+    }
+  }
+}

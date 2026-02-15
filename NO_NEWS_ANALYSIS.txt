@@ -1,0 +1,225 @@
+================================================================================
+COMPREHENSIVE ANALYSIS: Why 41 Out of 100 Events Got Zero Ticker News from Polygon
+================================================================================
+
+EXECUTIVE SUMMARY
+================================================================================
+Of the 100 selected events, 41 (41%) have NO ticker-specific news in the Polygon
+API within the search window (t0-3h to t0+1h). This is a surprisingly high ratio
+that warrants investigation.
+
+KEY FINDINGS:
+1. NFLX, PLTR, QQQ, and XLK are the most affected (66-100% no-news rate)
+2. Most no-news events occur at 14:00 UTC (2pm ET / 9:30am EST opening bell)
+3. Friday and Thursday have higher no-news rates (56-64%) than other days
+4. No-news events actually have STRONGER average returns (192.6 bp vs 169.9 bp)
+5. The 4-hour news window may be appropriate, but API coverage is uneven
+
+
+DETAILED FINDINGS
+================================================================================
+
+1. TICKER DISTRIBUTION - NO NEWS EVENTS
+────────────────────────────────────────
+
+Most Problematic Tickers:
+  XLK:     4/4 events (100%) - SECTOR ETF, likely low news coverage
+  NFLX:   10/14 events (71%) - Entertainment/streaming, news may be sparse
+  PLTR:    6/9 events (67%)  - Specialized tech/defense, limited analysts
+  QQQ:     4/6 events (67%)  - Nasdaq-100 ETF, macro-focused not event-driven
+  SPY:     2/3 events (67%)  - S&P 500 ETF, similar macro coverage gap
+
+Least Problematic Tickers:
+  MSFT:    1/11 events (9%)  - Mega-cap, extensive analyst coverage
+  AAPL:    2/10 events (20%) - Mega-cap, extensive analyst coverage
+  META:    2/8 events (25%)  - Large tech, good coverage
+  TSLA:    4/10 events (40%) - Covered, but higher volatility events may miss
+  AMD:     6/15 events (40%) - Semi-conductor coverage exists
+
+PATTERN: ETFs (XLK, QQQ, SPY) and lower-coverage stocks (NFLX, PLTR) have
+much higher no-news rates. The mega-caps (MSFT, AAPL, META) have good coverage.
+
+
+2. TRADING HOURS ANALYSIS (RTH: 13:30-20:00 UTC = 9:30am-4pm ET)
+──────────────────────────────────────────────────────────────────
+
+Distribution by Time:
+  14:00 UTC (10am ET): 31 no-news events (75.6% of all no-news)
+    - This is 9:30am ET OPENING BELL! News is sparse at market open.
+    - Sharp spike in no-news at this time slot.
+
+  13:00 UTC (9am ET): 3 no-news events (7.3%) - Pre-market, expected
+  15:00 UTC (11am ET): 2 no-news events (4.9%)
+  18:00 UTC (2pm ET): 1 no-news event (2.4%)
+  19:00 UTC (3pm ET): 1 no-news event (2.4%)
+  After-hours (20+): 3 no-news events (7.3%)
+
+RTH vs After-Hours Comparison:
+  NO NEWS events:  38/41 during RTH (92.7%), 3/41 after-hours (7.3%)
+  WITH NEWS events: 58/59 during RTH (98.3%), 1/59 after-hours (1.7%)
+
+  News coverage rate:
+    - During RTH: 58/96 = 60.4% (39.6% no-news)
+    - After-hours: 1/4 = 25.0% (75.0% no-news)
+
+KEY INSIGHT: The opening bell (14:00 UTC / 10am ET) has overwhelming no-news
+concentration. This suggests market-driven spikes at open may not correspond to
+released news—they're reactive to overnight developments, pre-market signals,
+and technical factors rather than breaking news during the window.
+
+
+3. DATE PATTERNS - NO NEWS EVENTS
+──────────────────────────────────
+
+By Day of Week:
+  Friday:    9/14 events (64.3%) - END OF WEEK, news may consolidate
+  Thursday:  9/16 events (56.2%) - Pre-Friday positioning
+  Tuesday:  10/25 events (40.0%) - Mid-week neutral
+  Wednesday: 5/16 events (31.2%) - Post-earnings typically
+  Monday:    8/29 events (27.6%) - Week-start, more news flow
+
+By Month:
+  October:   6/10 events (60.0%) - Data starts Oct 15, fewer days sampled
+  November: 16/40 events (40.0%) - Full month, moderate no-news
+  December: 11/28 events (39.3%) - Holiday period may reduce coverage
+  January:   8/22 events (36.4%) - New year, moderate coverage
+
+PATTERN: Friday/Thursday have ~2x higher no-news rate than Monday.
+This may reflect: (1) Polygon news aggregation weekday bias, (2) Fewer
+institutional news releases on Fridays, or (3) Technical/vol events on
+Fridays that are unrelated to news.
+
+
+4. RETURN STRENGTH COMPARISON
+──────────────────────────────
+
+NO NEWS events (n=41):
+  Mean:     192.60 bp
+  Median:   161.34 bp
+  Std Dev:  112.65 bp
+  Range:    63.89 - 668.30 bp
+
+WITH NEWS events (n=59):
+  Mean:     169.90 bp
+  Median:   144.49 bp
+  Std Dev:  114.79 bp
+  Range:    65.65 - 867.86 bp
+
+DIFFERENCE: +22.70 bp higher mean returns for NO-NEWS events
+
+Statistical Interpretation:
+  - No-news events are NOT weaker price movements
+  - They're slightly stronger than news-driven events on average
+  - This suggests these are genuine market spikes with no news catalyst
+  - Possible explanations:
+    1. Technical rebalancing / algorithmic flows (no news needed)
+    2. Earnings surprise (sudden gap move) not yet covered by news
+    3. Options expiry / gamma effects (no news, just mechanics)
+    4. Cross-market spillover (VIX spike, Fed headlines affecting stock)
+    5. Real news outside the 4-hour window
+
+
+5. NEWS WINDOW ANALYSIS (t0-3h to t0+1h)
+────────────────────────────────────────
+
+Current Window: 4 hours (3 hours before event, 1 hour after)
+
+Rationale Check:
+  - 3 hours before: Captures material news released that day
+  - 1 hour after: Captures immediate reactions/press releases after event
+  - 4 hours total: Reasonable for intraday event windows
+
+Effectiveness:
+  - Captures news for 59/100 events (59.0%)
+  - Misses news for 41/100 events (41.0%)
+
+Is 4 hours too narrow?
+  POSSIBLY YES for some cases:
+
+  1. Gap Events (Overnight News):
+     - 14:00 UTC opening bell events (31 no-news) may have caused by:
+       - Overnight earnings releases (published 8pm-9pm prior day)
+       - Overnight international news (Asian/European markets)
+       - Pre-market analyst notes
+     - These would be BEFORE t0-3h window
+     - Solution: Extend lookback to 6-12 hours for opening events
+
+  2. Post-Market Events:
+     - 19:00+ UTC events (after-hours) typically have low news
+     - News may come AFTER close (8pm ET typical analyst releases)
+     - Solution: Extend lookahead to 3-4 hours for after-hours
+
+  3. Tick-Driven Events (No News):
+     - Options expiry, rebalancing, gamma hedging
+     - These are REAL events with NO news catalyst
+     - Solution: Accept these as "no news" - it's correct
+
+
+Polygon API Coverage Hypothesis:
+  - Some tickers (XLK, PLTR, NFLX, QQQ) have structurally lower coverage
+  - Polygon may not index all news sources equally
+  - Could be missing regional/specialized news for lower-coverage tickers
+  - Can't fix without access to multiple news APIs
+
+
+CONCLUSIONS
+================================================================================
+
+1. THE MAIN ISSUE: Opening Bell Concentration (75% of no-news at 14:00 UTC)
+   - 31 out of 41 no-news events occur exactly at 10am ET (market open)
+   - These are likely technical/momentum-driven spikes, not news-driven
+   - This is probably CORRECT - market open doesn't always have news catalyst
+   - These are valid "no news" events for your ML classifier
+
+2. TICKER COVERAGE BIAS: ETFs and low-coverage stocks are problematic
+   - XLK (100%), NFLX (71%), PLTR (67%), QQQ (67%) have structural issues
+   - Mega-caps (MSFT 9%, AAPL 20%) have excellent coverage
+   - This reflects Polygon's coverage, not your data quality
+
+3. THE 4-HOUR WINDOW IS REASONABLE
+   - For regular trading hours: 3h lookback + 1h lookahead is appropriate
+   - For opening bell events: These should look earlier (extend to 6-12h back)
+   - For after-hours events: These should look later (extend to 3-4h after)
+
+4. NO-NEWS EVENTS ARE REAL AND VALUABLE
+   - Average return 192.6 bp vs 169.9 bp for news events
+   - These are likely technical/momentum moves, rebalancing, gamma events
+   - Your classifier SHOULD learn to distinguish news-driven vs non-news moves
+   - This is a genuine market regime (important for trading)
+
+5. RECOMMENDATIONS FOR NEXT STEPS:
+   a) Keep all 41 no-news events in training set
+   b) Create a feature: "is_opening_bell" (14:00 UTC) to help classifier
+   c) Create a feature: "ticker_news_coverage" (categorical for high/low)
+   d) Consider separate analysis for XLK/PLTR - may need different treatment
+   e) For production: Use multiple news APIs, not just Polygon
+   f) Label the 41 no-news events carefully:
+      - Are they reversal/continuation driven by technicals?
+      - Can your classifier predict direction without news?
+
+
+ACTIONABLE INSIGHTS FOR ML CLASSIFIER
+================================================================================
+
+1. Feature Engineering:
+   - Add: is_opening_bell (1 if 14:00 UTC, 0 else) → 31 no-news events here
+   - Add: hour_of_day_utc (13-21) → captures opening vs afternoon drift
+   - Add: is_etf (1 if ticker in [QQQ, SPY, XLK], 0 else)
+   - Add: days_since_friday (0 if Friday, higher otherwise)
+   - Keep: peak_abs_ret_3_bp as strong feature (no-news = slightly higher)
+
+2. Label Strategy:
+   - NO CHANGE NEEDED - keep all 41 no-news events in dataset
+   - These are valid "no news catalyst" events - your classifier should learn them
+   - They represent a real market regime: technical/momentum/gamma-driven moves
+   - Mix of continuation (likely) and reversal (possible via technicals)
+
+3. Model Interpretation:
+   - If model predicts reversal well without news features → technicals matter
+   - If no-news events are mostly continuation → momentum effect is real
+   - If opening-bell events cluster together → time-of-day is predictive
+
+4. Backtesting Consideration:
+   - No-news events may be more predictable by technicals
+   - Higher absolute returns (192.6 bp) suggest bigger alpha opportunity
+   - But beware selection bias: bigger moves are easier to spot in retrospect

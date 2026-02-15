@@ -1,0 +1,48 @@
+{
+  "event": {
+    "event_id": "NFLX_20251028_133000",
+    "ticker": "NFLX",
+    "t0_utc": "2025-10-28 13:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-10-28T10:30:00+00:00",
+      "end": "2025-10-28T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": [
+        {
+          "published_utc": "2025-10-28T12:02:06Z",
+          "title": "Investment Manager Expands QQQ Position, According to Latest SEC Filing",
+          "description": "McElhenny Sheffield Capital Management purchased 7,685 shares of Invesco QQQ Trust, valued at $4.40 million, increasing its position to 96,167 shares worth $57.74 million, representing 13.68% of its assets under management.",
+          "article_url": "https://www.fool.com/coverage/filings/2025/10/28/investment-manager-expands-qqq-position-according-to-latest-sec-filing/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Jake Lerch",
+          "tickers": [
+            "QQQ",
+            "NVDA",
+            "MSFT",
+            "AAPL",
+            "AVGO"
+          ],
+          "keywords": [
+            "QQQ",
+            "ETF",
+            "tech stocks",
+            "investment",
+            "NASDAQ-100"
+          ]
+        }
+      ]
+    }
+  }
+}

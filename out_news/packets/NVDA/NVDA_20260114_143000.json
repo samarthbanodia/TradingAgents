@@ -1,0 +1,211 @@
+{
+  "event": {
+    "event_id": "NVDA_20260114_143000",
+    "ticker": "NVDA",
+    "t0_utc": "2026-01-14 14:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-01-14T11:30:00+00:00",
+      "end": "2026-01-14T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-01-14T11:30:00Z",
+        "title": "Warren Buffett Stepped Down, but His Timeless Investment Advice Can Help You Build Wealth for Years to Come",
+        "description": "Warren Buffett stepped down as CEO of Berkshire Hathaway after 60 years, during which he achieved a 19.7% compound annual return. Rather than picking individual stocks, Buffett recommends investors buy low-cost S&P 500 index funds like the Vanguard S&P 500 ETF, which offers diversification across 500 companies with an ultra-low 0.03% expense ratio and has historically delivered 10.6% annual returns despite market volatility.",
+        "article_url": "https://www.fool.com/investing/2026/01/14/warren-buffett-down-advice-help-build-wealth-years/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Anthony Di Pizio",
+        "tickers": [
+          "BRK.A",
+          "BRK.B",
+          "VOO",
+          "NVDA",
+          "MSFT",
+          "AAPL",
+          "AVGO",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "Warren Buffett",
+          "index funds",
+          "S&P 500",
+          "long-term investing",
+          "diversification",
+          "wealth building",
+          "low-cost ETF"
+        ]
+      },
+      {
+        "published_utc": "2026-01-14T14:15:00Z",
+        "title": "Prediction: This AI Hardware Stock Could Become One of the Next $1 Trillion Companies",
+        "description": "Advanced Micro Devices (AMD) could reach $1 trillion market cap in under four years, driven by 60% CAGR growth in its data center division. AMD's cheaper GPU alternatives to Nvidia, improved ROCm software (10x download increase), and Nvidia's supply constraints position AMD to capture AI market share. With an expected overall 35% CAGR across all divisions, AMD could triple in value within three years.",
+        "article_url": "https://www.fool.com/investing/2026/01/14/prediction-this-ai-hardware-stock-could-become-one/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Keithen Drury",
+        "tickers": [
+          "AMD",
+          "NVDA"
+        ],
+        "keywords": [
+          "AI hardware",
+          "GPU market",
+          "data center growth",
+          "trillion-dollar valuation",
+          "market share competition",
+          "semiconductor industry"
+        ]
+      },
+      {
+        "published_utc": "2026-01-14T14:30:00Z",
+        "title": "Should You Buy Micron Before 2027?",
+        "description": "Micron Technology is positioned as an attractive investment opportunity due to its dominance in high-bandwidth memory (HBM) production, with only three companies globally capable of producing HBM at scale. The company has experienced significant growth with revenue up 56% year-over-year to $13.6 billion and trades at a forward P/E of 11, well below the tech industry average of 26. With exponential demand growth expected for HBM over the next decade and limited competition, Micron's stock has surged nearly 250% in the past 12 months.",
+        "article_url": "https://www.fool.com/investing/2026/01/14/should-you-buy-stock-before-year/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Catie Hogan",
+        "tickers": [
+          "MU",
+          "NVDA",
+          "AMD",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "high-bandwidth memory",
+          "HBM",
+          "artificial intelligence",
+          "GPU",
+          "semiconductor",
+          "valuation",
+          "competitive advantage"
+        ]
+      },
+      {
+        "published_utc": "2026-01-14T15:20:00Z",
+        "title": "NVIDIA's Next Chip Isn't Just Faster -- It Could Make AI 10 Times Cheaper to Run",
+        "description": "NVIDIA unveiled its Rubin platform at CES 2026, featuring new Vera CPUs and Rubin GPUs that can reduce AI inference token costs by up to 90% compared to the Blackwell platform. The significant cost reduction addresses a critical challenge for enterprises, as 95% of AI pilots currently fail to deliver meaningful financial impact. Major cloud providers including CoreWeave, Microsoft, Alphabet, and AWS are expected to deploy Rubin in 2026, potentially driving increased AI adoption and chip demand.",
+        "article_url": "https://www.fool.com/investing/2026/01/14/nvidias-next-chip-ai-ten-times-cheaper/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Timothy Green",
+        "tickers": [
+          "NVDA",
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "AMD"
+        ],
+        "keywords": [
+          "Rubin platform",
+          "AI inference costs",
+          "token costs",
+          "GPU",
+          "AI data centers",
+          "enterprise AI",
+          "agentic workflows"
+        ]
+      },
+      {
+        "published_utc": "2026-01-14T15:30:00Z",
+        "title": "1 Stock That Could Outperform as Artificial Intelligence Adoption Grows",
+        "description": "Credo Technology Group is positioned as a key player in AI infrastructure, providing high-speed data connectivity solutions critical for AI data centers. With revenue more than tripling year-over-year and net profit margins expanding from 20% to over 30%, the stock has dropped 17% from its December 2025 high, presenting a potential buying opportunity for long-term investors despite its elevated 130 P/E ratio.",
+        "article_url": "https://www.fool.com/investing/2026/01/14/stock-outperform-artificial-intelligence-crdo/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Marc Guberti",
+        "tickers": [
+          "CRDO",
+          "NVDA"
+        ],
+        "keywords": [
+          "artificial intelligence",
+          "AI infrastructure",
+          "data connectivity",
+          "AI data centers",
+          "revenue growth",
+          "profit margins",
+          "long-term investment"
+        ]
+      }
+    ],
+    "ticker_news_count": 5,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-01-14T13:36:05Z",
+          "title": "Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Tumble Ahead Of SC Ruling On Trump's Tariffs\u2014 Wells Fargo, BP, WeRide In Focus (UPDATED)",
+          "description": "U.S. stock futures declined on Wednesday as investors await a Supreme Court ruling on Trump's tariff authority. The Consumer Price Index rose 2.7% year-over-year in December, matching expectations, while core CPI came in slightly below forecasts at 2.6%. Major indices including the Dow Jones, S&P 500, and Nasdaq 100 all declined in premarket trading. Notable movers include Wells Fargo reporting earnings, BP announcing a $5 billion writedown in energy transition businesses, WeRide launching a robotaxi service on WeChat, and TG Therapeutics providing optimistic 2026 guidance.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/49898570/stock-market-today-dow-jones-nasdaq-100-futures-tumble-ahead-of-supreme-court-ruling-on-trumps-t?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "WFC",
+            "WFCpA",
+            "WFCpC",
+            "WFCpD",
+            "WFCpL",
+            "WFCpY",
+            "WFCpZ",
+            "BP",
+            "WRD",
+            "TGTX",
+            "GELS"
+          ],
+          "keywords": [
+            "stock market futures",
+            "Supreme Court tariffs ruling",
+            "Consumer Price Index",
+            "Federal Reserve",
+            "earnings",
+            "energy transition",
+            "robotaxi",
+            "premarket trading"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-01-14T13:36:05Z",
+          "title": "Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Tumble Ahead Of SC Ruling On Trump's Tariffs\u2014 Wells Fargo, BP, WeRide In Focus (UPDATED)",
+          "description": "U.S. stock futures declined on Wednesday as investors await a Supreme Court ruling on Trump's tariff authority. The Consumer Price Index rose 2.7% year-over-year in December, matching expectations, while core CPI came in slightly below forecasts at 2.6%. Major indices including the Dow Jones, S&P 500, and Nasdaq 100 all declined in premarket trading. Notable movers include Wells Fargo reporting earnings, BP announcing a $5 billion writedown in energy transition businesses, WeRide launching a robotaxi service on WeChat, and TG Therapeutics providing optimistic 2026 guidance.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/49898570/stock-market-today-dow-jones-nasdaq-100-futures-tumble-ahead-of-supreme-court-ruling-on-trumps-t?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "WFC",
+            "WFCpA",
+            "WFCpC",
+            "WFCpD",
+            "WFCpL",
+            "WFCpY",
+            "WFCpZ",
+            "BP",
+            "WRD",
+            "TGTX",
+            "GELS"
+          ],
+          "keywords": [
+            "stock market futures",
+            "Supreme Court tariffs ruling",
+            "Consumer Price Index",
+            "Federal Reserve",
+            "earnings",
+            "energy transition",
+            "robotaxi",
+            "premarket trading"
+          ]
+        }
+      ]
+    }
+  }
+}

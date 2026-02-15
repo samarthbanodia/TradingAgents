@@ -1,0 +1,90 @@
+{
+  "event": {
+    "event_id": "TSLA_20251215_143000",
+    "ticker": "TSLA",
+    "t0_utc": "2025-12-15 14:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-12-15T11:30:00+00:00",
+      "end": "2025-12-15T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-12-15T12:24:07Z",
+        "title": "Tesla Board Members Rake In Over $3 Billion In Stock Awards Despite 2021 Pay Freeze: Report",
+        "description": "Tesla board members have collectively earned over $3 billion in stock awards, significantly higher than other tech companies, despite agreeing to halt director compensation in 2021. Key board members like Kimbal Musk have made nearly $1 billion since 2004, raising concerns about excessive compensation.",
+        "article_url": "https://www.benzinga.com/markets/equities/25/12/49388825/tesla-board-members-rake-in-over-3-billion-in-stock-awards-despite-2021-pay-freeze-report?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "TSLA",
+          "GOOG",
+          "GOOGL",
+          "META"
+        ],
+        "keywords": [
+          "Tesla",
+          "stock awards",
+          "board compensation",
+          "Elon Musk",
+          "corporate governance"
+        ]
+      },
+      {
+        "published_utc": "2025-12-15T13:10:05Z",
+        "title": "Tesla Could Hit A $2 Trillion Market Cap By 2026 \u2014 And Even $3 Trillion In A Bull Case As Its 'AI Chapter' Finally Takes Hold, Says Top Analyst",
+        "description": "Wedbush analyst Dan Ives predicts Tesla could reach a $2 trillion market cap by 2026, potentially hitting $3 trillion in a bull scenario, driven by advancements in autonomous driving and AI technologies.",
+        "article_url": "https://www.benzinga.com/markets/equities/25/12/49390252/tesla-could-hit-a-2-trillion-market-cap-by-2026-and-even-3-trillion-in-a-bull-case-as-its-ai-cha?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "TSLA"
+        ],
+        "keywords": [
+          "Tesla",
+          "AI",
+          "autonomous driving",
+          "market cap",
+          "Elon Musk",
+          "robotics"
+        ]
+      },
+      {
+        "published_utc": "2025-12-15T13:30:00Z",
+        "title": "Prediction: Elon Musk Will Reveal Tesla Is Already Losing Money in Q4",
+        "description": "Tesla may report a net loss in Q4 2025 due to declining EV sales, reduced tax credits, cheaper vehicle models, and rising operating expenses, potentially marking a challenging financial quarter for the company.",
+        "article_url": "https://www.fool.com/investing/2025/12/15/predict-elon-musk-reveal-tesla-losing-money-stock/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "John Bromels",
+        "tickers": [
+          "TSLA",
+          "F",
+          "FpB",
+          "FpC",
+          "FpD",
+          "HMC"
+        ],
+        "keywords": [
+          "Tesla",
+          "Elon Musk",
+          "electric vehicles",
+          "quarterly earnings",
+          "revenue decline",
+          "automotive sales"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}
