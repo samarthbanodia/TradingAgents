@@ -4,7 +4,8 @@
       "Bash(pip install:*)",
       "Bash(python:*)",
       "Bash(git -C \"C:\\\\Users\\\\Samarth\\\\Desktop\\\\TradingAgents\" log --oneline -20)",
-      "Bash(pip show:*)"
+      "Bash(pip show:*)",
+      "Bash(del \"C:\\\\Users\\\\Samarth\\\\Desktop\\\\TradingAgents\\\\out_agents\\\\ip_outputs.jsonl\")"
     ]
   }
 }

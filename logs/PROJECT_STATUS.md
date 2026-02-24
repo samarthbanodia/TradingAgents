@@ -1,7 +1,7 @@
 # TradingAgents Project Status Log
 
 **Last Updated:** 2026-02-15
-**Session Summary:** Built complete intraday event mining pipeline + news attachment
+**Session Summary:** Built I-P decomposition multi-agent debate system (Step 8)
 
 ---
 
@@ -80,6 +80,31 @@ Build a regime-attribution system that detects abnormal intraday events ("outlie
   - No-news events avg 192.6 bp vs 169.9 bp for news events (stronger)
   - Recommended features: `is_opening_bell`, `has_news`, `is_etf`
 
+### 8. I-P Decomposition Multi-Agent Debate System (COMPLETE — code written, not yet run)
+- **Scripts:** `run_ip_debate.py` (orchestrator), `providers/`, `agents/`, `eval/`
+- **Output (when run):** `out_agents/ip_outputs.jsonl`, `out_agents/ip_outputs.csv`, `out_agents/eval_summary.json`
+- **Architecture:**
+  - 3 base agents: Microstructure (OpenAI gpt-4o-mini), News (Anthropic claude-3-5-sonnet), Macro (Gemini 1.5-flash)
+  - Skeptic (Anthropic claude-3-5-sonnet) challenges all 3
+  - Round 2: Each agent revises after skeptic critique
+  - Judge (OpenAI gpt-4o) synthesizes final I/P scores and policy_behavior
+  - 8 LLM calls per event (3 R1 + skeptic + 3 R2 + judge)
+- **Features:**
+  - Incremental JSONL (crash-safe, `--resume` support)
+  - JSON extraction with retry (direct parse → ```json block → regex)
+  - Provider fallback (if a key is missing, uses any available provider)
+  - No label leakage verified (label_proxy, forward_return never in agent prompts/briefs)
+  - OHLCV co-move features optional (SPY/QQQ 15m/60m returns if parquet available)
+- **Evaluation metrics:** 3-way accuracy, clear-subset accuracy, confusion matrix, Brier score, calibration bins (5 buckets), accuracy by has_news/is_opening_bell, disagreement-vs-accuracy quintiles
+- **To run:**
+  ```bash
+  # Add to .env: OPENAI_API_KEY, ANTHROPIC_API_KEY, GOOGLE_API_KEY
+  python run_ip_debate.py --limit 3     # test on 3 events
+  python run_ip_debate.py               # all 100 events
+  python run_ip_debate.py --resume      # resume after crash
+  ```
+- **Dependencies:** `pip install openai anthropic google-genai` (google-genai already installed)
+
 ---
 
 ## Current File Structure
@@ -127,17 +152,23 @@ TradingAgents/
 │   ├── news_cache.jsonl     # 233 cached query results
 │   ├── news_summary.json    # Run stats
 │   └── packets/             # Per-event JSON packets
-│       ├── AAPL/
-│       ├── AMD/
-│       ├── META/
-│       ├── MSFT/
-│       ├── NFLX/
-│       ├── NVDA/
-│       ├── PLTR/
-│       ├── QQQ/
-│       ├── SPY/
-│       ├── TSLA/
-│       └── XLK/
+│       ├── AAPL/ ... XLK/
+│
+├── run_ip_debate.py         # Multi-agent debate orchestrator (Step 8)
+├── providers/               # LLM provider abstraction
+│   ├── __init__.py
+│   ├── base.py              # Abstract base with retry + JSON extraction
+│   ├── openai_provider.py   # OpenAI SDK wrapper
+│   ├── anthropic_provider.py # Anthropic SDK wrapper
+│   └── gemini_provider.py   # Google GenAI SDK wrapper
+├── agents/                  # Agent briefs and prompts
+│   ├── __init__.py
+│   ├── briefs.py            # Technical, news, macro, combined brief builders
+│   └── prompts.py           # System prompts for all 6 agent roles
+├── eval/                    # Evaluation metrics
+│   ├── __init__.py
+│   └── metrics.py           # Accuracy, Brier, confusion, calibration
+├── out_agents/              # (created at runtime) Debate outputs
 │
 └── logs/
     ├── PROJECT_STATUS.md    # This file
