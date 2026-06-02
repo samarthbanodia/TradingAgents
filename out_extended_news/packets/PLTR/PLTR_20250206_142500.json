@@ -1,0 +1,66 @@
+{
+  "event": {
+    "event_id": "PLTR_20250206_142500",
+    "ticker": "PLTR",
+    "t0_utc": "2025-02-06 14:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-02-06T11:25:00+00:00",
+      "end": "2025-02-06T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-02-06T11:30:00Z",
+        "title": "Can Palantir Become a Trillion-Dollar Company?",
+        "description": "Palantir's stock surged after the company reported strong Q4 earnings, with revenue and profit beating analyst targets. However, the stock's valuation remains extremely high, trading at over 500 times 2024 GAAP earnings. The article discusses the case for Palantir becoming a dominant platform for enterprise AI, which could justify its lofty valuation over time.",
+        "article_url": "https://www.fool.com/investing/2025/02/06/can-palantir-become-a-trillion-dollar-company/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Billy Duberstein",
+        "tickers": [
+          "PLTR",
+          "MSFT",
+          "ORCL",
+          "CRM"
+        ],
+        "keywords": [
+          "Palantir",
+          "enterprise AI",
+          "valuation"
+        ]
+      },
+      {
+        "published_utc": "2025-02-06T13:41:00Z",
+        "title": "Could 2025 Be a Repeat of 2022 for Big Tech?",
+        "description": "Tech companies overspent during the pandemic, leading to layoffs. Now, they are spending heavily on AI, raising concerns about another tech bubble and potential crash in 2025.",
+        "article_url": "https://www.fool.com/investing/2025/02/06/could-2025-be-a-repeat-of-2022-for-big-tech/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "David Jagielski",
+        "tickers": [
+          "META",
+          "MSFT",
+          "NVDA",
+          "PLTR",
+          "XLK"
+        ],
+        "keywords": [
+          "tech stocks",
+          "AI",
+          "tech bubble",
+          "crash"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

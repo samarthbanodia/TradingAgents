@@ -1,0 +1,91 @@
+{
+  "event": {
+    "event_id": "NVDA_20240808_121000",
+    "ticker": "NVDA",
+    "t0_utc": "2024-08-08 12:10:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2024-08-08T09:10:00+00:00",
+      "end": "2024-08-08T13:10:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-08-08T10:30:00Z",
+        "title": "Nasdaq Correction: My Top \"Magnificent Seven\" Stock to Buy in August",
+        "description": "The article discusses why Microsoft is a compelling investment opportunity among the 'Magnificent Seven' tech stocks, despite the recent market sell-off. It highlights Microsoft's strong profitability, ongoing investments in cloud and AI, and its ability to balance growth and shareholder returns.",
+        "article_url": "https://www.fool.com/investing/2024/08/08/nasdaq-buy-microsoft-stock-magnificent-seven/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Daniel Foelber",
+        "tickers": [
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "AAPL",
+          "AMZN",
+          "META",
+          "NVDA",
+          "TSLA"
+        ],
+        "keywords": [
+          "Microsoft",
+          "Magnificent Seven",
+          "tech stocks",
+          "cloud",
+          "AI",
+          "growth",
+          "shareholder returns"
+        ]
+      },
+      {
+        "published_utc": "2024-08-08T10:40:00Z",
+        "title": "Prediction: 1 Unstoppable Stock Will Join Nvidia, Apple, Microsoft, and Alphabet in the $2 Trillion Club Within 3 Years",
+        "description": "Meta Platforms (META) is predicted to join the $2 trillion club within 3 years, driven by its advancements in artificial intelligence and potential to drive significant returns for investors.",
+        "article_url": "https://www.fool.com/investing/2024/08/08/prediction-1-stock-nvidia-microsoft-in-2-trillion/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "META",
+          "NVDA",
+          "AAPL",
+          "MSFT",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "Meta Platforms",
+          "Artificial Intelligence",
+          "Stock Prediction"
+        ]
+      },
+      {
+        "published_utc": "2024-08-08T12:29:00Z",
+        "title": "Is Nvidia Stock Going to $150? Here's Why 1 Wall Street Analyst Thinks So.",
+        "description": "Nvidia stock has seen a steep sell-off, but an Oppenheimer analyst believes the correction is an opportunity to buy. The analyst thinks any delay in Nvidia's next-generation Blackwell chip will be used to help supply the excessive demand for its existing H100 AI chips, and Nvidia's competitive position remains sound.",
+        "article_url": "https://www.fool.com/investing/2024/08/08/nvidia-stock-to-hit-150-says-1-wall-street-analyst/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Howard Smith",
+        "tickers": [
+          "NVDA"
+        ],
+        "keywords": [
+          "Nvidia",
+          "AI chips",
+          "Blackwell chip",
+          "H100 AI chips"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

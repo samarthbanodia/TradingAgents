@@ -1,0 +1,68 @@
+{
+  "event": {
+    "event_id": "MSFT_20250303_143000",
+    "ticker": "MSFT",
+    "t0_utc": "2025-03-03 14:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-03-03T11:30:00+00:00",
+      "end": "2025-03-03T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-03-03T11:45:00Z",
+        "title": "Prediction: 3 Stocks That'll Be Worth More Than Apple 5 Years From Now",
+        "description": "Apple's slow growth over the past few years has opened the door for Microsoft, Alphabet, and Nvidia to potentially surpass it in market capitalization within the next five years. These companies are projected to outperform Apple in terms of revenue and profit growth.",
+        "article_url": "https://www.fool.com/investing/2025/03/03/prediction-3-stocks-thatll-be-worth-more-than-appl/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Keithen Drury",
+        "tickers": [
+          "AAPL",
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "NVDA"
+        ],
+        "keywords": [
+          "Apple",
+          "Microsoft",
+          "Alphabet",
+          "Nvidia",
+          "market capitalization",
+          "revenue growth",
+          "profit growth"
+        ]
+      },
+      {
+        "published_utc": "2025-03-03T12:07:00Z",
+        "title": "Microsoft Just Handed IPO Prospect Anduril a $22 Billion Opportunity",
+        "description": "Anduril Industries, a privately held defense company, has announced a partnership with Microsoft to develop the Integrated Visual Augmentation System (IVAS) for the U.S. Army. This $22 billion contract could triple Anduril's annual revenue and pave the way for a successful IPO.",
+        "article_url": "https://www.fool.com/investing/2025/03/03/microsoft-handed-ipo-anduril-a-22-billion-contract/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Rich Smith",
+        "tickers": [
+          "MSFT"
+        ],
+        "keywords": [
+          "Anduril",
+          "Microsoft",
+          "U.S. Army",
+          "IVAS",
+          "IPO"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

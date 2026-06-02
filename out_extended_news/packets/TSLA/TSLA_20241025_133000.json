@@ -1,0 +1,45 @@
+{
+  "event": {
+    "event_id": "TSLA_20241025_133000",
+    "ticker": "TSLA",
+    "t0_utc": "2024-10-25 13:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-10-25T10:30:00+00:00",
+      "end": "2024-10-25T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-10-25T10:50:00Z",
+          "title": "Is the Technology Select Sector SPDR ETF a Millionaire Maker?",
+          "description": "The article discusses the Technology Select Sector SPDR ETF (XLK) as a potential investment option for those aiming to become millionaires. It highlights the ETF's impressive past performance and the possibility of it making investors millionaires, while also cautioning that past performance is not a guarantee of future results.",
+          "article_url": "https://www.fool.com/investing/2024/10/25/is-technology-select-sector-spdr-etf-a-millionaire/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Selena Maranjian",
+          "tickers": [
+            "XLK",
+            "SPY"
+          ],
+          "keywords": [
+            "Technology Select Sector SPDR ETF",
+            "S&P 500 index fund",
+            "stock market",
+            "millionaire",
+            "investing"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "event": {
+    "event_id": "AAPL_20241001_132000",
+    "ticker": "AAPL",
+    "t0_utc": "2024-10-01 13:20:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-10-01T10:20:00+00:00",
+      "end": "2024-10-01T14:20:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-10-01T14:00:00Z",
+        "title": "Jamf announces latest innovations in AI, declarative device management and more at the 15th annual Jamf Nation User Conference",
+        "description": "Jamf, a leading provider of Apple device management and security solutions, announced several key innovations at its annual user conference, including declarative device management, a unified app portal, compliance benchmarks, and an AI-powered assistant to help admins manage their Apple environments.",
+        "article_url": "https://www.globenewswire.com/news-release/2024/10/01/2956326/0/en/Jamf-announces-latest-innovations-in-AI-declarative-device-management-and-more-at-the-15th-annual-Jamf-Nation-User-Conference.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Globe Newswire",
+        "tickers": [
+          "AAPL"
+        ],
+        "keywords": [
+          "Jamf",
+          "Apple",
+          "device management",
+          "security",
+          "AI",
+          "declarative device management",
+          "compliance"
+        ]
+      },
+      {
+        "published_utc": "2024-10-01T14:15:00Z",
+        "title": "Where Will Apple Stock Be in 5 Years?",
+        "description": "The article discusses Apple's future prospects, noting that while the company has been a great investment in the past five years, it may not perform as well in the next five. The author believes Apple's valuation is high and its growth opportunities are limited as it is a mature enterprise. However, the author acknowledges that Apple's services and AI-powered features could drive iPhone sales.",
+        "article_url": "https://www.fool.com/investing/2024/10/01/where-will-apple-stock-be-in-5-years/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Neil Patel",
+        "tickers": [
+          "AAPL"
+        ],
+        "keywords": [
+          "Apple",
+          "iPhone",
+          "services",
+          "artificial intelligence"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

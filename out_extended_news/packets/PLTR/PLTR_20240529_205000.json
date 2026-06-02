@@ -1,0 +1,104 @@
+{
+  "event": {
+    "event_id": "PLTR_20240529_205000",
+    "ticker": "PLTR",
+    "t0_utc": "2024-05-29 20:50:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2024-05-29T17:50:00+00:00",
+      "end": "2024-05-29T21:50:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-05-29T20:00:00Z",
+        "title": "Palantir Stock Is Cratering, but the Reason Why May Surprise You (Hint: It's Not Because of Artificial Intelligence Competition)",
+        "description": "Palantir has emerged as a favorite among AI investors, but shares recently cratered following the company's first-quarter earnings report.",
+        "article_url": "https://www.fool.com/investing/2024/05/29/palantir-stock-is-cratering-but-the-reason-why-may/",
+        "publisher": "The Motley Fool",
+        "author": "newsfeedback@fool.com (Adam Spatacco)",
+        "tickers": [
+          "PLTR",
+          "MSFT",
+          "CRM",
+          "ORCL",
+          "NOW",
+          "MDB",
+          "DDOG",
+          "SNOW"
+        ],
+        "keywords": [
+          "investing"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-05-29T18:22:23Z",
+          "title": "Artificial Intelligence ETFs: Have They Beaten The Market In 2024?",
+          "description": "Artificial intelligence companies have captivated the markets as the proliferation of AI looks to be a major disruptor in several industries. Investors have poured funds into AI exchange-traded funds (ETFs) to diversify their portfolios.\nThe largest AI ETFs are the Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ), the Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) and the ROBO Global Robotics And Automation Index ETF (ASX: ROBO). A question to ask is: Have they beaten the overall market?\nBOTZ ETF: According to data compiled from etf.com, the BOTZ ETF is the largest AI ETF with $2.76 billion in assets under management. BOTZ has appreciated by 10.63% in year-to-date 2024.\nBOTZ\u2019s largest holdings are NVIDIA Corp (NASDAQ:NVDA),10.45%; ABB ...Full story available on Benzinga.com",
+          "article_url": "https://www.benzinga.com/etfs/specialty-etfs/24/05/39071065/artificial-intelligence-etfs-have-they-beaten-the-market-in-2024",
+          "publisher": "Benzinga",
+          "author": "Hayden Buckfire",
+          "tickers": [
+            "ABBNY",
+            "SPY",
+            "ADSK",
+            "AMZN",
+            "ISRG",
+            "MSFT",
+            "NVDA",
+            "QCOM",
+            "AIQ",
+            "PATH",
+            "TCEHY",
+            "FANUY",
+            "OMRNY",
+            "ROBO",
+            "BOTZ"
+          ],
+          "keywords": [
+            "Specialty ETFs",
+            "Emerging Market ETFs",
+            "Top Stories",
+            "Tech",
+            "ETFs"
+          ]
+        },
+        {
+          "published_utc": "2024-05-29T19:52:58Z",
+          "title": "Fed Beige Book Shows Modest Economic Expansion Ahead Of Key GDP, Inflation Data Release",
+          "description": "The Federal Reserve\u2019s latest Beige Book \u2014 covering April to mid-May \u2014 reveals a continuation of modest economic expansion across most Districts, though two Districts noted no change in activity from the prior release.\nThe Beige Book provides qualitative data gathered by Federal Reserve policymakers from business contacts across Fed Districts. This data includes insights into economic conditions and trends, which policymakers consider alongside quantitative data to inform their decisions on monetary policy.\nNotably, Thursday will bring the second estimate of Q1 U.S. gross domestic product, initially showing a 1.3% annualized growth, while Friday will feature the highly anticipated Personal Consumption Expenditure (PCE) price index for April, the Fed\u2019s preferred inflation measure.\nKey Insights From May\u2019s Fed Beige Book\nConsumer Spending and Retail:\n\nOverall Activity: Retail spending was flat to slightly up, reflecting reduced discretionary spending and heightened price sensitivity among consumers.\nAuto Sales: Auto sales were stable, with some districts noting manufacturers offering incentives to boost sales.\nTravel and Tourism: Strengthened nationwide, driven by increased leisure and business travel, though the hospitality sector\u2019s outlook for the summer was mixed.\n\nManufacturing and Services:\n\nNonfinancial Services: Demand rose, with transportation services showing mixed results. Port and rail activity increased, while trucking and freight demand varied.\nNonprofits and Community Organizations: Continued to report solid demand for their services.\nManufacturing: Described as flat to slightly ...Full story available on Benzinga.com",
+          "article_url": "https://www.benzinga.com/economics/macro-economic-events/24/05/39072594/fed-beige-book-shows-modest-economic-expansion-ahead-of-key-gdp-inflation-data-re",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "SPY",
+            "TLT"
+          ],
+          "keywords": [
+            "Macro Economic Events",
+            "Market Summary",
+            "Macro Notification",
+            "Broad U.S. Equity ETFs",
+            "Bonds",
+            "Treasuries",
+            "Econ #s",
+            "Top Stories",
+            "Economics",
+            "ETFs"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

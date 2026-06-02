@@ -1,0 +1,111 @@
+{
+  "event": {
+    "event_id": "JPM_20260224_143000",
+    "ticker": "JPM",
+    "t0_utc": "2026-02-24 14:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-02-24T11:30:00+00:00",
+      "end": "2026-02-24T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-02-24T11:38:18Z",
+        "title": "Jamie Dimon Predicts JPMorgan Will Be 'A Winner' In AI Race, Boosts 2026 Tech Spend To Nearly $20 Billion",
+        "description": "JPMorgan Chase CEO Jamie Dimon expressed confidence that the bank will be a winner in the AI race and announced a $2 billion increase in tech spending to $19.8 billion for 2026. Despite Dimon's optimistic outlook on AI and competitive positioning against fintech rivals, JPMorgan shares fell 4.22% on concerns over private credit and AI-related credit risks.",
+        "article_url": "https://www.benzinga.com/markets/large-cap/26/02/50808191/jamie-dimon-predicts-jpmorgan-will-be-a-winner-in-ai-race-boosts-2026-tech-spend-to-nearly-20-b?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "AMJB",
+          "JPM",
+          "JPMpC",
+          "JPMpD",
+          "JPMpJ",
+          "JPMpK",
+          "JPMpL",
+          "JPMpM",
+          "VYLD",
+          "PYPL",
+          "XLF"
+        ],
+        "keywords": [
+          "AI investment",
+          "technology spending",
+          "banking competition",
+          "fintech",
+          "financial sector decline",
+          "stablecoins"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-02-24T13:31:53Z",
+          "title": "Stock Market Today: S&P 500 Futures Slip As Dow, Nasdaq 100 Gain Following Trump's Tariff Threat \u2014 Whirlpool, Uber, HP In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Tuesday following Monday's sell-off triggered by AI-related economic concerns and a viral 'Global Intelligence Crisis' report. Market sentiment remains cautious amid Trump's tariff threats and geopolitical tensions. Key movers include Keysight Technologies surging 16% on strong earnings, Vir Biotechnology jumping 63% on revenue beat, and Whirlpool plunging 7.46% after announcing an $800 million capital raise.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50806573/stock-market-today-dow-jones-nasdaq-100-futures-gain-amid-ai-led-sell-off-trumps-threat-to-tradi?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "KEYS",
+            "VIR",
+            "WHR",
+            "HPQ",
+            "UBER",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "AI sell-off",
+            "tariffs",
+            "earnings",
+            "Federal Reserve",
+            "Treasury yields",
+            "market sentiment"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-02-24T13:31:53Z",
+          "title": "Stock Market Today: S&P 500 Futures Slip As Dow, Nasdaq 100 Gain Following Trump's Tariff Threat \u2014 Whirlpool, Uber, HP In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Tuesday following Monday's sell-off triggered by AI-related economic concerns and a viral 'Global Intelligence Crisis' report. Market sentiment remains cautious amid Trump's tariff threats and geopolitical tensions. Key movers include Keysight Technologies surging 16% on strong earnings, Vir Biotechnology jumping 63% on revenue beat, and Whirlpool plunging 7.46% after announcing an $800 million capital raise.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50806573/stock-market-today-dow-jones-nasdaq-100-futures-gain-amid-ai-led-sell-off-trumps-threat-to-tradi?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "KEYS",
+            "VIR",
+            "WHR",
+            "HPQ",
+            "UBER",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "AI sell-off",
+            "tariffs",
+            "earnings",
+            "Federal Reserve",
+            "Treasury yields",
+            "market sentiment"
+          ]
+        }
+      ]
+    }
+  }
+}

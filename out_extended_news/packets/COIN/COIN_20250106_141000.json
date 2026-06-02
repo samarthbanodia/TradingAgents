@@ -1,0 +1,68 @@
+{
+  "event": {
+    "event_id": "COIN_20250106_141000",
+    "ticker": "COIN",
+    "t0_utc": "2025-01-06 14:10:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-01-06T11:10:00+00:00",
+      "end": "2025-01-06T15:10:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-01-06T13:06:00Z",
+          "title": "Risk-On Sentiment Prevails for 2025\u2019s Debut, Fueled by US Stocks",
+          "description": "The risk-on sentiment prevails at the start of 2025, driven by the strength of US stocks, while stocks outside the US and US bonds are faltering.",
+          "article_url": "https://www.investing.com/analysis/riskon-sentiment-prevails-for-2025s-debut-fueled-by-us-stocks-200655901",
+          "publisher": "Investing.com",
+          "author": "James Picerno",
+          "tickers": [
+            "SPY",
+            "VEA",
+            "BND"
+          ],
+          "keywords": [
+            "US stocks",
+            "global assets",
+            "US bonds"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-01-06T11:15:00Z",
+          "title": "1 Tech ETF Set to Outperform as Agentic and Physical AI Transform 2025",
+          "description": "The article discusses how AI investments could drive stronger returns in 2025, with the Invesco QQQ Trust (QQQ) expected to deliver a 15.5% gain. It highlights the growth in AI-ready data center capacity, the potential for AI to automate up to 50% of tasks, and the push into physical AI with Nvidia's Jetson Thor. These trends are expected to benefit the tech giants in the QQQ fund.",
+          "article_url": "https://www.fool.com/investing/2025/01/06/1-tech-etf-set-to-outperform-as-agentic-and-physic/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "George Budwell",
+          "tickers": [
+            "QQQ",
+            "NVDA",
+            "MSFT",
+            "CRM"
+          ],
+          "keywords": [
+            "AI",
+            "data centers",
+            "Invesco QQQ Trust",
+            "Nvidia",
+            "Microsoft",
+            "Salesforce",
+            "robotics"
+          ]
+        }
+      ]
+    }
+  }
+}

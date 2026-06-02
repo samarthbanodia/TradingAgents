@@ -1,0 +1,65 @@
+{
+  "event": {
+    "event_id": "AMD_20250924_132500",
+    "ticker": "AMD",
+    "t0_utc": "2025-09-24 13:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-09-24T10:25:00+00:00",
+      "end": "2025-09-24T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-09-24T11:08:59Z",
+          "title": "Tom Lee Claps Back At Powell's Overvalued Markets Warning, Says Fed Has Never Considered Stocks 'Attractively Priced'",
+          "description": "Federal Reserve Chair Jerome Powell suggested stocks are 'fairly highly valued', prompting Fundstrat's Tom Lee to argue that the Fed has never considered stocks attractively priced. Lee advised investors not to view Powell's comments as an ominous sign.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/25/09/47837669/tom-lee-claps-back-at-powells-overvalued-markets-warning-says-fed-has-never-considered-stoc",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "stock valuation",
+            "market sentiment",
+            "Jerome Powell",
+            "Tom Lee"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-09-24T11:08:59Z",
+          "title": "Tom Lee Claps Back At Powell's Overvalued Markets Warning, Says Fed Has Never Considered Stocks 'Attractively Priced'",
+          "description": "Federal Reserve Chair Jerome Powell suggested stocks are 'fairly highly valued', prompting Fundstrat's Tom Lee to argue that the Fed has never considered stocks attractively priced. Lee advised investors not to view Powell's comments as an ominous sign.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/25/09/47837669/tom-lee-claps-back-at-powells-overvalued-markets-warning-says-fed-has-never-considered-stoc",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "stock valuation",
+            "market sentiment",
+            "Jerome Powell",
+            "Tom Lee"
+          ]
+        }
+      ]
+    }
+  }
+}

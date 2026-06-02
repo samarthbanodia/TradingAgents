@@ -1,0 +1,106 @@
+{
+  "event": {
+    "event_id": "AMD_20251008_133000",
+    "ticker": "AMD",
+    "t0_utc": "2025-10-08 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-10-08T10:30:00+00:00",
+      "end": "2025-10-08T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-10-08T10:39:10Z",
+        "title": "Intel To Reportedly Unveil Details Of Upcoming Laptop Chip This Week",
+        "description": "Intel plans to reveal technical details of its Panther Lake laptop chip on Thursday, which is manufactured using its next-generation 18A process. The new chips, expected in early 2026, aim to improve energy efficiency and data processing capabilities while helping Intel regain PC market share.",
+        "article_url": "https://www.benzinga.com/markets/tech/25/10/48095336/intel-to-reportedly-unveil-details-of-upcoming-laptop-chip-this-week",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "INTC",
+          "AMD"
+        ],
+        "keywords": [
+          "laptop chip",
+          "Panther Lake",
+          "18A process",
+          "semiconductor",
+          "market share"
+        ]
+      },
+      {
+        "published_utc": "2025-10-08T11:15:00Z",
+        "title": "Is Nvidia Stock a Buy After Its Blockbuster Deal With OpenAI?",
+        "description": "Nvidia continues to see significant growth despite being barred from China's market, with a groundbreaking $100 billion partnership with OpenAI aimed at developing advanced AI infrastructure and potentially achieving artificial general intelligence (AGI).",
+        "article_url": "https://www.fool.com/investing/2025/10/08/is-nvidia-stock-a-buy-after-its-blockbuster-deal-w/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Robert Izquierdo",
+        "tickers": [
+          "NVDA",
+          "AMD"
+        ],
+        "keywords": [
+          "AI",
+          "GPU",
+          "semiconductor",
+          "OpenAI",
+          "investment",
+          "technology"
+        ]
+      },
+      {
+        "published_utc": "2025-10-08T11:32:00Z",
+        "title": "Meet the Low-Cost Vanguard ETF That Has 20% of Its Holdings in Nvidia, Broadcom, and AMD",
+        "description": "The Vanguard Mega Cap Growth ETF offers investors exposure to large tech stocks with a low 0.07% expense ratio, featuring significant holdings in AI chip companies like Nvidia, AMD, and Broadcom. While the fund has performed exceptionally well with 18.9% annualized returns over 10 years, investors should be cautious of potential volatility due to high valuations.",
+        "article_url": "https://www.fool.com/investing/2025/10/08/meet-the-low-cost-vanguard-etf-that-has-20-of-its/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Matt Frankel",
+        "tickers": [
+          "NVDA",
+          "AMD",
+          "AVGO",
+          "MGK"
+        ],
+        "keywords": [
+          "ETF",
+          "technology",
+          "growth stocks",
+          "investment",
+          "Vanguard"
+        ]
+      },
+      {
+        "published_utc": "2025-10-08T13:23:27Z",
+        "title": "TSMC Faces Uncertainty As Taiwan's Energy Security Reportedly Comes Under Chinese Threat",
+        "description": "Taiwan's energy security is under potential threat from Chinese military exercises, with implications for its semiconductor industry. The country is reconsidering its energy strategy, including potential return to nuclear power and seeking alternative energy supply routes.",
+        "article_url": "https://www.benzinga.com/markets/tech/25/10/48098722/tsmc-faces-uncertainty-as-taiwans-energy-security-reportedly-comes-under-chinese-threat",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "TSM",
+          "AMD"
+        ],
+        "keywords": [
+          "energy security",
+          "semiconductor",
+          "Taiwan",
+          "China",
+          "military threat",
+          "LNG"
+        ]
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "event": {
+    "event_id": "NVDA_20260430_133000",
+    "ticker": "NVDA",
+    "t0_utc": "2026-04-30 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-04-30T10:30:00+00:00",
+      "end": "2026-04-30T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-04-30T11:40:00Z",
+        "title": "S&P 500 Resilience Persists Even as Underlying Momentum Fades",
+        "description": "The S&P 500 is consolidating after recent tech earnings, showing resilience despite headwinds including rising oil prices, higher bond yields, and a hawkish Fed stance that has eliminated rate cut expectations. While the index is holding support levels, momentum has stalled and the rally appears increasingly dependent on AI-driven institutional flows into mega-cap tech stocks. Technical consolidation between 7000-7043 suggests a pause rather than a reversal.",
+        "article_url": "https://www.investing.com/analysis/sp-500-resilience-persists-even-as-underlying-momentum-fades-200679444",
+        "publisher": "Investing.com",
+        "author": "Fawad Razaqzada",
+        "tickers": [
+          "META",
+          "GOOG",
+          "GOOGL",
+          "QCOM",
+          "MSFT",
+          "NVDA",
+          "AAPL",
+          "TSLA",
+          "AMZN"
+        ],
+        "keywords": [
+          "S&P 500",
+          "consolidation",
+          "tech earnings",
+          "oil prices",
+          "Federal Reserve",
+          "interest rates",
+          "AI rally",
+          "momentum fade",
+          "geopolitical risk",
+          "Strait of Hormuz"
+        ]
+      },
+      {
+        "published_utc": "2026-04-30T12:15:00Z",
+        "title": "Meet the Unstoppable Vanguard ETF Beating the S&P 500, the Nasdaq-100, and the Dow Jones in 2026",
+        "description": "The Vanguard Russell 2000 ETF is outperforming major U.S. indexes in 2026 with an 11.1% return year-to-date. Small-cap companies in the Russell 2000 are more insulated from geopolitical risks as they conduct most business domestically, while large-cap tech-heavy indexes face headwinds from global instability. The Russell's diversified sector composition and exposure to beneficiaries of U.S. government policies position it to continue outperforming in 2026.",
+        "article_url": "https://www.fool.com/investing/2026/04/30/vanguard-etf-beat-sp-500-nasdaq-dow-vtwo/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Anthony Di Pizio",
+        "tickers": [
+          "VTWO",
+          "BE",
+          "CDE",
+          "HL",
+          "HLpB",
+          "FN",
+          "NVDA"
+        ],
+        "keywords": [
+          "Russell 2000",
+          "small-cap stocks",
+          "geopolitical risks",
+          "domestic companies",
+          "ETF performance",
+          "AI infrastructure",
+          "precious metals"
+        ]
+      },
+      {
+        "published_utc": "2026-04-30T12:25:37Z",
+        "title": "Are Semiconductor Stocks The Market's 'North Star'? AI Chip Demand Powers Record Tech Share",
+        "description": "Semiconductor stocks have reached record dominance in the U.S. equity market, now accounting for 41.9% of the S&P 500 information technology sector's market cap and 47.1% of forward earnings. Driven by strong AI chip demand, the semiconductor index surged 27% in the past month, with record inflows into semiconductor ETFs totaling $5.5 billion in April alone.",
+        "article_url": "https://www.benzinga.com/markets/tech/26/04/52167653/are-semiconductor-stocks-the-markets-north-star-ai-chip-demand-powers-record-tech-share?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Sweta Killa",
+        "tickers": [
+          "NVDA",
+          "MU",
+          "SNDK",
+          "WDC",
+          "SOXX",
+          "SMH"
+        ],
+        "keywords": [
+          "semiconductor stocks",
+          "AI chip demand",
+          "market dominance",
+          "technology sector",
+          "semiconductor ETFs",
+          "earnings growth"
+        ]
+      },
+      {
+        "published_utc": "2026-04-30T12:31:57Z",
+        "title": "Microsoft Doubles Down On Agentic AI, Custom Chips And Data Center Surge As Q3 Results Shine",
+        "description": "Microsoft reported strong Q3 results with AI business surpassing $37 billion in annual recurring revenue. CEO Satya Nadella outlined the company's strategy centered on 'agentic computing' and announced plans to double data center footprint within two years. Microsoft is investing in custom silicon (Maia 200 and Cobalt) while integrating hardware from partners, achieving 40% improvement in AI inference throughput. The company is scaling AI platforms like Foundry and Fabric with strong enterprise adoption.",
+        "article_url": "https://www.benzinga.com/markets/tech/26/04/52168059/microsoft-doubles-down-on-agentic-ai-custom-chips-and-data-center-surge-as-q3-results-shine?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Sweta Killa",
+        "tickers": [
+          "MSFT",
+          "NVDA",
+          "AMD",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "agentic AI",
+          "custom chips",
+          "data center expansion",
+          "AI infrastructure",
+          "cloud computing",
+          "GitHub Copilot",
+          "AI agents",
+          "enterprise AI adoption"
+        ]
+      },
+      {
+        "published_utc": "2026-04-30T13:30:00Z",
+        "title": "8 Words From Billionaire Howard Marks Investors Must Hear Before Buying More Stocks",
+        "description": "Billionaire investor Howard Marks warns that current market conditions don't represent true bargains despite recent dips. He argues that bargains only emerge when investors panic and sentiment shifts from optimism to fear. While the broader S&P 500 trades at elevated valuations, Marks believes high-quality mega-cap tech companies with strong competitive advantages, particularly the 'Magnificent Seven,' deserve their premium valuations and trade at reasonable multiples.",
+        "article_url": "https://www.fool.com/investing/2026/04/30/8-words-from-billionaire-howard-marks-investors-mu/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Adam Levy",
+        "tickers": [
+          "META",
+          "MSFT",
+          "NVDA",
+          "TSM"
+        ],
+        "keywords": [
+          "stock market valuation",
+          "bargain hunting",
+          "market sentiment",
+          "artificial intelligence stocks",
+          "Magnificent Seven",
+          "P/E ratios",
+          "investor psychology"
+        ]
+      },
+      {
+        "published_utc": "2026-04-30T13:55:34Z",
+        "title": "Intel's 115% Stock Boom Is Shattering Records After Years Of Doubt",
+        "description": "Intel stock surged approximately 115% in April, closing at $94.75 after starting the month at $44.13, marking a record-breaking rally and dramatic turnaround. The comeback reflects improved execution under CEO Lip-Bu Tan, stronger data center demand, and renewed optimism around Intel's foundry strategy. The U.S. government's investment in Intel, authorized by President Trump, has generated over $30 billion in gains. While risks remain regarding Intel's foundry business competitiveness, the market is now pricing in Intel as a major beneficiary of reshoring, government support, and AI spending.",
+        "article_url": "https://www.benzinga.com/trading-ideas/movers/26/04/52172123/intel-stock-intc-record-rally?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Erica Kollmann",
+        "tickers": [
+          "INTC",
+          "NVDA",
+          "AMD",
+          "TSM"
+        ],
+        "keywords": [
+          "Intel stock surge",
+          "semiconductor",
+          "AI infrastructure",
+          "chip manufacturing",
+          "foundry strategy",
+          "government investment",
+          "reshoring"
+        ]
+      },
+      {
+        "published_utc": "2026-04-30T14:05:01Z",
+        "title": "Which iShares Tech ETF Is Better to Invest in Artificial Intelligence (AI), SOXX or IYW?",
+        "description": "The article compares two iShares tech ETFs for AI investment: SOXX (Semiconductor ETF) offers concentrated exposure to chipmakers with higher volatility and stronger 1-year returns (148%), while IYW (U.S. Technology ETF) provides broader tech sector diversification with lower risk. SOXX has a lower expense ratio (0.34% vs 0.38%) and higher dividend yield (0.5% vs 0.1%), but IYW offers reduced volatility and exposure to non-semiconductor AI players like Alphabet.",
+        "article_url": "https://www.fool.com/coverage/etfs/2026/04/30/which-ishares-tech-etf-is-better-for-artificial-intelligence-ai-soxx-or-iyw/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Robert Izquierdo",
+        "tickers": [
+          "SOXX",
+          "IYW",
+          "NVDA",
+          "GOOG",
+          "GOOGL",
+          "AAPL",
+          "AMD",
+          "AVGO"
+        ],
+        "keywords": [
+          "ETF comparison",
+          "artificial intelligence",
+          "semiconductor stocks",
+          "technology sector",
+          "investment strategy",
+          "volatility",
+          "diversification"
+        ]
+      },
+      {
+        "published_utc": "2026-04-30T14:07:00Z",
+        "title": "Meta CEO Mark Zuckerberg Just Delivered Great News for Nvidia and Micron Investors",
+        "description": "Meta raised its capital expenditure forecast to $125-145 billion (from $115-135 billion), citing higher component costs, particularly memory pricing. This signals continued strong AI spending across hyperscalers, with Google Cloud growing 63%, Azure up 39%, and AWS at 28%. Nvidia and Micron are positioned to benefit from increased capex and higher chip prices, which improve margins. The commentary suggests the AI investment boom is still in early stages with several more years of growth expected.",
+        "article_url": "https://www.fool.com/investing/2026/04/30/meta-platforms-just-delivered-great-news-for-nvidi/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jeremy Bowman",
+        "tickers": [
+          "META",
+          "NVDA",
+          "MU",
+          "GOOG",
+          "GOOGL",
+          "MSFT",
+          "AMZN"
+        ],
+        "keywords": [
+          "AI spending",
+          "capital expenditure",
+          "semiconductor chips",
+          "cloud computing growth",
+          "memory pricing",
+          "hyperscalers",
+          "data center GPUs"
+        ]
+      }
+    ],
+    "ticker_news_count": 8,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-04-30T12:58:29Z",
+          "title": "Stock Market Today: Dow Jones, S&P 500 Futures Gain As Trump Weighs 'Short And Powerful' Iran Strikes\u2014 Alphabet, Meta, Amazon In Focus (UPDATED)",
+          "description": "U.S. stock futures showed mixed performance on Thursday as the Fed maintained interest rates at 3.50%-3.75%. Tech stocks led gains with Amazon, Alphabet, and Apple posting strong earnings results, while Microsoft and Meta raised capital expenditure guidance despite stock declines. Geopolitical tensions over potential Iran strikes and persistent inflation concerns tempered broader market sentiment.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/04/52160887/stock-market-today-dow-jones-futures-drop-nasdaq-gains-as-trump-weighs-short-and-powerful-iran-s?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AMZN",
+            "GOOG",
+            "GOOGL",
+            "AAPL",
+            "MSFT",
+            "META",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "Fed interest rates",
+            "tech earnings",
+            "capital expenditure",
+            "geopolitical tensions",
+            "inflation",
+            "AI infrastructure"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-04-30T12:58:29Z",
+          "title": "Stock Market Today: Dow Jones, S&P 500 Futures Gain As Trump Weighs 'Short And Powerful' Iran Strikes\u2014 Alphabet, Meta, Amazon In Focus (UPDATED)",
+          "description": "U.S. stock futures showed mixed performance on Thursday as the Fed maintained interest rates at 3.50%-3.75%. Tech stocks led gains with Amazon, Alphabet, and Apple posting strong earnings results, while Microsoft and Meta raised capital expenditure guidance despite stock declines. Geopolitical tensions over potential Iran strikes and persistent inflation concerns tempered broader market sentiment.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/04/52160887/stock-market-today-dow-jones-futures-drop-nasdaq-gains-as-trump-weighs-short-and-powerful-iran-s?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AMZN",
+            "GOOG",
+            "GOOGL",
+            "AAPL",
+            "MSFT",
+            "META",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "Fed interest rates",
+            "tech earnings",
+            "capital expenditure",
+            "geopolitical tensions",
+            "inflation",
+            "AI infrastructure"
+          ]
+        }
+      ]
+    }
+  }
+}

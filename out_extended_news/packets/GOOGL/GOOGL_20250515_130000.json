@@ -1,0 +1,66 @@
+{
+  "event": {
+    "event_id": "GOOGL_20250515_130000",
+    "ticker": "GOOGL",
+    "t0_utc": "2025-05-15 13:00:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-05-15T10:00:00+00:00",
+      "end": "2025-05-15T14:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-05-15T11:15:00Z",
+        "title": "2 Tech Dividend Stocks to Buy and Hold Forever",
+        "description": "Alphabet and Meta Platforms are tech companies that have recently started paying dividends, making them attractive buy-and-hold options for investors. Alphabet's search dominance and diversified business model, as well as Meta's large user base and monetization potential, suggest they can perform well over the long run.",
+        "article_url": "https://www.fool.com/investing/2025/05/15/2-tech-dividend-stocks-to-buy-and-hold-forever/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Prosper Junior Bakiny",
+        "tickers": [
+          "GOOG",
+          "GOOGL",
+          "META"
+        ],
+        "keywords": [
+          "Alphabet",
+          "Meta Platforms",
+          "dividend investing",
+          "tech stocks"
+        ]
+      },
+      {
+        "published_utc": "2025-05-15T13:05:00Z",
+        "title": "1 Top Artificial Intelligence (AI) Stock Down 32% to Buy Before It Skyrockets",
+        "description": "The Trade Desk, a programmatic advertising company, has seen strong growth in its AI-powered platform Kokai, leading to a 25% revenue jump in Q1 2025. The company is growing faster than larger rivals like Meta and Google, and its adoption of AI in digital advertising is expected to drive further growth.",
+        "article_url": "https://www.fool.com/investing/2025/05/15/1-top-artificial-intelligence-ai-stock-down-32-to/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Harsh Chauhan",
+        "tickers": [
+          "TTD",
+          "META",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "The Trade Desk",
+          "programmatic advertising",
+          "AI",
+          "digital advertising",
+          "growth"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

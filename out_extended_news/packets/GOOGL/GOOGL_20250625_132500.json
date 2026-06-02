@@ -1,0 +1,44 @@
+{
+  "event": {
+    "event_id": "GOOGL_20250625_132500",
+    "ticker": "GOOGL",
+    "t0_utc": "2025-06-25 13:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-06-25T10:25:00+00:00",
+      "end": "2025-06-25T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-06-25T11:30:00Z",
+        "title": "Billionaire Investor Philippe Laffont Just Predicted the \"Fantastic 40\" Companies by 2030",
+        "description": "Billionaire investor Philippe Laffont has predicted the 'Fantastic 40' companies that will thrive by 2030. The article discusses Laffont's insights and the surprising omission from the list.",
+        "article_url": "https://www.fool.com/investing/2025/06/25/billionaire-investor-philippe-laffont-just-predict/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "GOOG",
+          "GOOGL",
+          "AAPL"
+        ],
+        "keywords": [
+          "Billionaire investor",
+          "Fantastic 40",
+          "Companies by 2030"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

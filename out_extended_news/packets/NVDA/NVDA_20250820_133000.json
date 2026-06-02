@@ -1,0 +1,231 @@
+{
+  "event": {
+    "event_id": "NVDA_20250820_133000",
+    "ticker": "NVDA",
+    "t0_utc": "2025-08-20 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-08-20T10:30:00+00:00",
+      "end": "2025-08-20T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-08-20T10:30:00Z",
+        "title": "Meet the Monster Stock That's Crushing Nvidia and Palantir on the Market",
+        "description": "CoreWeave, a cloud AI infrastructure provider, has experienced remarkable growth with tripling quarterly revenues, a massive $30 billion revenue backlog, and a 125% stock price increase since its IPO, positioning itself as a strong competitor to Nvidia and Palantir in the AI market.",
+        "article_url": "https://www.fool.com/investing/2025/08/20/meet-the-monster-stock-thats-crushing-nvidia-and-p/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Harsh Chauhan",
+        "tickers": [
+          "CRWV",
+          "NVDA",
+          "PLTR"
+        ],
+        "keywords": [
+          "AI",
+          "cloud infrastructure",
+          "GPU",
+          "technology investment",
+          "artificial intelligence"
+        ]
+      },
+      {
+        "published_utc": "2025-08-20T11:00:00Z",
+        "title": "Bitget Debuts First-Ever RWA Index Perpetuals Featuring Major Real-World Assets",
+        "description": "Bitget introduces the first Real-World Asset (RWA) Index Perpetual Contract, enabling trading of tokenized traditional assets like Tesla, NVIDIA, and Carnival stocks with innovative pricing and risk management strategies.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/08/20/3136284/0/en/Bitget-Debuts-First-Ever-RWA-Index-Perpetuals-Featuring-Major-Real-World-Assets.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Gracy Chen",
+        "tickers": [
+          "TSLA",
+          "NVDA",
+          "CCL"
+        ],
+        "keywords": [
+          "RWA",
+          "cryptocurrency",
+          "tokenization",
+          "perpetual contract",
+          "Web3"
+        ]
+      },
+      {
+        "published_utc": "2025-08-20T11:30:00Z",
+        "title": "Is D-Wave Quantum a Buy?",
+        "description": "D-Wave Quantum, a quantum computing company, has seen its stock surge 1,711% in the past year despite minimal revenue. The company focuses on quantum annealing and has attracted customers like Mastercard and Deloitte, but remains a speculative investment with significant financial uncertainties.",
+        "article_url": "https://www.fool.com/investing/2025/08/20/is-d-wave-quantum-a-buy/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jeremy Bowman",
+        "tickers": [
+          "QBTS",
+          "QBTS.WS",
+          "NVDA",
+          "MSFT",
+          "MA"
+        ],
+        "keywords": [
+          "quantum computing",
+          "quantum annealing",
+          "technology stocks",
+          "speculative investment"
+        ]
+      },
+      {
+        "published_utc": "2025-08-20T11:30:00Z",
+        "title": "Prediction: Nvidia Stock Will Jump Higher After Aug. 27",
+        "description": "Nvidia is expected to deliver strong Q2 earnings with potential positive guidance, driven by AI chip market dominance, renewed potential in China, and increased cloud computing investments from major tech companies.",
+        "article_url": "https://www.fool.com/investing/2025/08/20/prediction-nvidia-stock-will-jump-higher-after-aug/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Harsh Chauhan",
+        "tickers": [
+          "NVDA",
+          "AMZN",
+          "MSFT",
+          "META",
+          "GOOG",
+          "GOOGL",
+          "AMD"
+        ],
+        "keywords": [
+          "Nvidia",
+          "AI",
+          "earnings",
+          "semiconductors",
+          "cloud computing",
+          "export licenses"
+        ]
+      },
+      {
+        "published_utc": "2025-08-20T13:25:00Z",
+        "title": "Nvidia Stock Stumble Shows Why Investors Must Widen Their AI Lens",
+        "description": "Nvidia's recent stock decline highlights the risks of over-concentration in tech stocks, particularly in AI. Investors are advised to diversify their AI investments across sectors and geographies, recognizing that AI opportunities extend beyond a few dominant companies.",
+        "article_url": "https://www.investing.com/analysis/nvidia-stock-stumble-shows-why-investors-must-widen-their-ai-lens-200665602",
+        "publisher": "Investing.com",
+        "author": "Nigel Green",
+        "tickers": [
+          "NVDA",
+          "AAPL",
+          "TSLA",
+          "META"
+        ],
+        "keywords": [
+          "AI",
+          "Nvidia",
+          "tech stocks",
+          "market concentration",
+          "diversification"
+        ]
+      },
+      {
+        "published_utc": "2025-08-20T14:00:00Z",
+        "title": "Software Defined Vehicles Market Accelerates with 20.42% CAGR | Infotainment & Telematics Dominate, Security Systems Rising Fast",
+        "description": "The global Software Defined Vehicles market is projected to grow from $34.11 billion in 2024 to $218.74 billion by 2034, driven by increasing demand for electric and autonomous vehicles, advanced software systems, and AI integration.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/08/20/3136524/0/en/Software-Defined-Vehicles-Market-Accelerates-with-20-42-CAGR-Infotainment-Telematics-Dominate-Security-Systems-Rising-Fast.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Towards Automotive",
+        "tickers": [
+          "APTV",
+          "MBLY",
+          "NVDA",
+          "TSLA"
+        ],
+        "keywords": [
+          "Software Defined Vehicles",
+          "Automotive Technology",
+          "Electric Vehicles",
+          "AI in Automotive",
+          "Connected Cars"
+        ]
+      },
+      {
+        "published_utc": "2025-08-20T14:03:17Z",
+        "title": "What's Going on With CoreWeave Stock?",
+        "description": "The Motley Fool is a financial services company founded in 1993, providing investing solutions, market analysis, and financial education to millions of people monthly.",
+        "article_url": "https://www.fool.com/investing/2025/08/20/whats-going-on-with-coreweave-stock/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Parkev Tatevosian, Cfa",
+        "tickers": [
+          "NVDA",
+          "CRWV"
+        ],
+        "keywords": [
+          "investing",
+          "financial services",
+          "market analysis",
+          "personal finance"
+        ]
+      }
+    ],
+    "ticker_news_count": 7,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-08-20T12:13:17Z",
+          "title": "Mohamed El-Erian Slams 'Backward-Looking' Powell, Question's Fed's 2% Inflation Target\u2014'Being Too Late'",
+          "description": "Economist Mohamed El-Erian criticized Federal Reserve Chair Jerome Powell for being 'backward-looking' and potentially making policy mistakes regarding inflation, suggesting the Fed should consider cutting rates and potentially revising its 2% inflation target.",
+          "article_url": "https://www.benzinga.com/markets/macro-economic-events/25/08/47231694/mohamed-el-erian-slams-backward-looking-powell-questions-feds-2-inflation-target-be",
+          "publisher": "Benzinga",
+          "author": "Namrata Sen",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "inflation",
+            "monetary policy",
+            "rate cuts",
+            "economic strategy"
+          ]
+        },
+        {
+          "published_utc": "2025-08-20T13:25:00Z",
+          "title": "Homebuilder Stocks Are Rallying: Is the Optimism Premature?",
+          "description": "Homebuilder stocks are experiencing a rally despite ongoing challenges in the housing market, including high mortgage rates and reduced construction permits. The SPDR S&P Homebuilders ETF is trading near its highest level since December, but uncertainties remain about future housing market conditions.",
+          "article_url": "https://www.investing.com/analysis/homebuilder-stocks-are-rallying-is-the-optimism-premature-200665608",
+          "publisher": "Investing.com",
+          "author": "James Picerno",
+          "tickers": [
+            "XHB",
+            "SPY"
+          ],
+          "keywords": [
+            "homebuilder stocks",
+            "housing market",
+            "mortgage rates",
+            "construction",
+            "real estate"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-08-20T12:13:17Z",
+          "title": "Mohamed El-Erian Slams 'Backward-Looking' Powell, Question's Fed's 2% Inflation Target\u2014'Being Too Late'",
+          "description": "Economist Mohamed El-Erian criticized Federal Reserve Chair Jerome Powell for being 'backward-looking' and potentially making policy mistakes regarding inflation, suggesting the Fed should consider cutting rates and potentially revising its 2% inflation target.",
+          "article_url": "https://www.benzinga.com/markets/macro-economic-events/25/08/47231694/mohamed-el-erian-slams-backward-looking-powell-questions-feds-2-inflation-target-be",
+          "publisher": "Benzinga",
+          "author": "Namrata Sen",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "inflation",
+            "monetary policy",
+            "rate cuts",
+            "economic strategy"
+          ]
+        }
+      ]
+    }
+  }
+}

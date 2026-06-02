@@ -1,0 +1,90 @@
+{
+  "event": {
+    "event_id": "AMZN_20250730_200000",
+    "ticker": "AMZN",
+    "t0_utc": "2025-07-30 20:00:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-07-30T17:00:00+00:00",
+      "end": "2025-07-30T21:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-07-30T18:02:00Z",
+        "title": "Microsoft Earnings Preview: Short-Term Costs Could Fuel Long-Term AI Domination",
+        "description": "Microsoft is positioned for long-term AI dominance despite short-term investment challenges, with Azure cloud platform growth and strategic AI partnerships driving potential $45 billion in AI-driven revenue by 2026.",
+        "article_url": "https://www.investing.com/analysis/microsoft-earnings-preview-shortterm-costs-could-fuel-longterm-ai-domination-200664584",
+        "publisher": "Investing.com",
+        "author": "Ali Merchant",
+        "tickers": [
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "AMZN"
+        ],
+        "keywords": [
+          "AI",
+          "cloud computing",
+          "earnings",
+          "technology investment",
+          "Azure"
+        ]
+      },
+      {
+        "published_utc": "2025-07-30T18:02:00Z",
+        "title": "Meta Earnings Preview: Can Social Media Giant Justify Massive Bet on AI?",
+        "description": "Meta Platforms is preparing to report quarterly earnings, with significant focus on its AI investments and potential increased spending to compete with tech rivals. The company's stock is currently in a corrective phase, and investors are watching closely to see how its AI strategy and ad revenues perform.",
+        "article_url": "https://www.investing.com/analysis/meta-earnings-preview-can-social-media-giant-justify-massive-bet-on-ai-200664552",
+        "publisher": "Investing.com",
+        "author": "Damian Nowiszewski",
+        "tickers": [
+          "META",
+          "GOOG",
+          "GOOGL",
+          "AAPL",
+          "AMZN",
+          "MSFT"
+        ],
+        "keywords": [
+          "AI",
+          "earnings",
+          "data centers",
+          "advertising",
+          "tech investment"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-07-30T20:24:00Z",
+          "title": "S&P 500 Rally Stalls as Bearish Divergences Suggest a Pause Ahead",
+          "description": "The S&P 500 rally is showing signs of potential stagnation due to bearish divergences, with technical indicators suggesting a possible modest pullback in the market, particularly in the 6100 range.",
+          "article_url": "https://www.investing.com/analysis/sp-500-rally-stalls-as-bearish-divergences-suggest-a-pause-ahead-200664604",
+          "publisher": "Investing.com",
+          "author": "Tim Ord",
+          "tickers": [
+            "SPY",
+            "GDX"
+          ],
+          "keywords": [
+            "S&P 500",
+            "market rally",
+            "technical analysis",
+            "bearish divergence",
+            "market pause"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

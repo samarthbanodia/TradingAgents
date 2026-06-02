@@ -1,0 +1,86 @@
+{
+  "event": {
+    "event_id": "MSFT_20240801_133000",
+    "ticker": "MSFT",
+    "t0_utc": "2024-08-01 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2024-08-01T10:30:00+00:00",
+      "end": "2024-08-01T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-08-01T11:57:00Z",
+        "title": "Identity and Access Management (IAM) Market Report 2024: BFSI, Travel & Hospitality, Healthcare, Retail & E-Commerce, Education, IT & ITES, Government & Defense Forecast to 2029",
+        "description": "The global Identity and Access Management (IAM) market is projected to grow from $22.9 billion in 2024 to $34.3 billion by 2029, driven by factors like digital transformation, cloud adoption, and increased cybersecurity needs. The BFSI sector is expected to have the largest market size, while the Asia Pacific region is anticipated to see the highest growth.",
+        "article_url": "https://www.globenewswire.com/news-release/2024/08/01/2922692/28124/en/Identity-and-Access-Management-IAM-Market-Report-2024-BFSI-Travel-Hospitality-Healthcare-Retail-E-Commerce-Education-IT-ITES-Government-Defense-Forecast-to-2029.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Researchandmarkets.Com",
+        "tickers": [
+          "MSFT",
+          "OKTA",
+          "IBM",
+          "ORCL",
+          "CRM"
+        ],
+        "keywords": [
+          "Identity and Access Management",
+          "IAM",
+          "BFSI",
+          "Cloud",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "published_utc": "2024-08-01T12:36:00Z",
+        "title": "3 AI Stocks That You Can Buy and Hold Forever",
+        "description": "The article discusses three AI stocks that are applying AI technology in meaningful ways to build value and generate cash flow: Symbotic, Intuitive Surgical, and Microsoft.",
+        "article_url": "https://www.investing.com/analysis/3-ai-stocks-that-you-can-buy-and-hold-forever-200650553",
+        "publisher": "Investing.com",
+        "author": "Marketbeat.Com",
+        "tickers": [
+          "SYM",
+          "ISRG",
+          "MSFT"
+        ],
+        "keywords": [
+          "AI stocks",
+          "Symbotic",
+          "Intuitive Surgical",
+          "Microsoft"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-08-01T13:40:00Z",
+          "title": "S&P 500: Key Levels and Indicators to Watch",
+          "description": "The article discusses key levels and indicators to watch for the S&P 500 index, including the TRIN indicator, recent price action, and the outlook for the broader market.",
+          "article_url": "https://www.investing.com/analysis/sp-500-key-levels-and-indicators-to-watch-200650559",
+          "publisher": "Investing.com",
+          "author": "Tim Ord",
+          "tickers": [
+            "SPY",
+            "GDX"
+          ],
+          "keywords": [
+            "S&P 500",
+            "TRIN",
+            "market indicators",
+            "market outlook"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

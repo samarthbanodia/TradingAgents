@@ -1,0 +1,158 @@
+{
+  "event": {
+    "event_id": "NVDA_20251006_105000",
+    "ticker": "NVDA",
+    "t0_utc": "2025-10-06 10:50:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-10-06T07:50:00+00:00",
+      "end": "2025-10-06T11:50:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-10-06T08:05:00Z",
+        "title": "3 Reasons to Buy This Unstoppable Artificial Intelligence (AI) Stock Before It Soars Well Past $4 Trillion, According to Wall Street",
+        "description": "Microsoft is positioned as a strong AI investment due to its massive enterprise user base, growing cloud computing platform, and ability to generate significant free cash flow while investing heavily in AI technologies.",
+        "article_url": "https://www.fool.com/investing/2025/10/06/reasons-buy-artificial-intelligence-ai-stock/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Adam Levy",
+        "tickers": [
+          "MSFT",
+          "ORCL",
+          "GOOG",
+          "GOOGL",
+          "AMZN",
+          "AAPL",
+          "NVDA"
+        ],
+        "keywords": [
+          "AI",
+          "cloud computing",
+          "enterprise software",
+          "Microsoft Copilot",
+          "Azure"
+        ]
+      },
+      {
+        "published_utc": "2025-10-06T08:12:00Z",
+        "title": "Billionaires Buy an Artificial Intelligence (AI) Stock That a Wall Street Analyst Says Could Soar to $10 Trillion",
+        "description": "Technology analyst Beth Kindig predicts Nvidia will reach a $10 trillion market cap by 2030, with several hedge fund billionaires investing heavily in the company due to its dominant position in AI hardware and infrastructure.",
+        "article_url": "https://www.fool.com/investing/2025/10/06/billionaires-buy-ai-stocks-could-soar-10-trillion/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Trevor Jennewine",
+        "tickers": [
+          "NVDA",
+          "TSLA",
+          "GOOG",
+          "GOOGL",
+          "AMZN"
+        ],
+        "keywords": [
+          "AI",
+          "Artificial Intelligence",
+          "Nvidia",
+          "GPUs",
+          "Technology",
+          "Investment"
+        ]
+      },
+      {
+        "published_utc": "2025-10-06T08:32:00Z",
+        "title": "Meet the Unstoppable Semiconductor Stock Crushing Nvidia, AMD, and Broadcom Right Now",
+        "description": "Corning has emerged as a key player in AI infrastructure by providing advanced fiber optic cables for data centers, driving its stock up 75% in 2025 and outperforming major semiconductor companies.",
+        "article_url": "https://www.fool.com/investing/2025/10/06/meet-stock-crushing-nvidia-amd-and-broadcom-right/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Anthony Di Pizio",
+        "tickers": [
+          "GLW",
+          "NVDA",
+          "AMD",
+          "AVGO"
+        ],
+        "keywords": [
+          "AI",
+          "semiconductor",
+          "data centers",
+          "fiber optics",
+          "infrastructure"
+        ]
+      },
+      {
+        "published_utc": "2025-10-06T08:54:00Z",
+        "title": "Semiconductor Market Analysis 2025: Node Sizes, Types, and Applications in Focus",
+        "description": "The semiconductor chip market is projected to grow from $0.74 trillion in 2025 to $1.6 trillion by 2030, with a 16.1% CAGR, driven by technological advancements in IT, telecom, healthcare, automotive, and industrial applications.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/06/3161492/28124/en/Semiconductor-Market-Analysis-2025-Node-Sizes-Types-and-Applications-in-Focus.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Researchandmarkets.Com",
+        "tickers": [
+          "INTC",
+          "TSM",
+          "NVDA",
+          "AVGO"
+        ],
+        "keywords": [
+          "semiconductor chips",
+          "market growth",
+          "technological innovation",
+          "5G",
+          "AI",
+          "IoT"
+        ]
+      },
+      {
+        "published_utc": "2025-10-06T10:30:00Z",
+        "title": "Palantir Is Up 1,700% 5 Years After Its IPO. What Will the Next 5 Years Hold?",
+        "description": "Palantir Technologies has dramatically transformed from a government data analytics contractor to an AI-focused company, experiencing significant revenue growth and expanding its commercial customer base through its Artificial Intelligence Platform (AIP).",
+        "article_url": "https://www.fool.com/investing/2025/10/06/palantir-is-up-1700-5-years-after-its-ipo-what-wil/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Geoffrey Seiler",
+        "tickers": [
+          "PLTR",
+          "PYPL",
+          "NVDA"
+        ],
+        "keywords": [
+          "AI",
+          "technology",
+          "data analytics",
+          "artificial intelligence",
+          "government contracts"
+        ]
+      },
+      {
+        "published_utc": "2025-10-06T10:30:00Z",
+        "title": "Can Investors Finally Trust the Recovery in Alibaba Stock?",
+        "description": "Alibaba's stock has risen over 110% in 2023 despite historical political risks, with potential AI investments and improved government relations. However, slowing revenue growth and ongoing political uncertainties present significant investment challenges.",
+        "article_url": "https://www.fool.com/investing/2025/10/06/can-investors-trust-recovery-in-alibaba-stock/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Will Healy",
+        "tickers": [
+          "BABA",
+          "AMZN",
+          "SE",
+          "NVDA"
+        ],
+        "keywords": [
+          "Alibaba",
+          "China",
+          "e-commerce",
+          "AI",
+          "technology",
+          "investing"
+        ]
+      }
+    ],
+    "ticker_news_count": 6,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

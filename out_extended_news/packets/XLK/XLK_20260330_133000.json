@@ -1,0 +1,87 @@
+{
+  "event": {
+    "event_id": "XLK_20260330_133000",
+    "ticker": "XLK",
+    "t0_utc": "2026-03-30 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-03-30T10:30:00+00:00",
+      "end": "2026-03-30T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-03-30T12:45:43Z",
+          "title": "Stock Market Today: S&P 500, Dow, Nasdaq Futures Gain As Trump Calls Iran's New Leaders 'Very Reasonable'\u2014 PLTR, RZLV, ENTX In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Monday following Friday's sharp sell-off, with major indices recovering from correction territory. President Trump suggested the U.S. could seize Iran's oil infrastructure while characterizing Iran's new leaders as 'very reasonable.' Markets are pricing in a 96.4% likelihood of unchanged Fed rates in April. Key movers include Palantir Technologies, Rezolve AI, and Entera Bio, while analyst Mohamed El-Erian warns of 'stagflationary winds' and economic headwinds ahead.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/03/51532274/stock-market-today-sp-500-dow-futures-gain-as-trump-calls-irans-new-leaders-very-reasonable-pala?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "PLTR",
+            "RZLV",
+            "RZLVW",
+            "ENTX",
+            "TOT",
+            "TTE",
+            "PRGS",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market futures",
+            "S&P 500",
+            "Nasdaq",
+            "Iran geopolitics",
+            "correction territory",
+            "Federal Reserve",
+            "stagflation",
+            "energy stocks",
+            "market volatility"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-03-30T12:45:43Z",
+          "title": "Stock Market Today: S&P 500, Dow, Nasdaq Futures Gain As Trump Calls Iran's New Leaders 'Very Reasonable'\u2014 PLTR, RZLV, ENTX In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Monday following Friday's sharp sell-off, with major indices recovering from correction territory. President Trump suggested the U.S. could seize Iran's oil infrastructure while characterizing Iran's new leaders as 'very reasonable.' Markets are pricing in a 96.4% likelihood of unchanged Fed rates in April. Key movers include Palantir Technologies, Rezolve AI, and Entera Bio, while analyst Mohamed El-Erian warns of 'stagflationary winds' and economic headwinds ahead.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/03/51532274/stock-market-today-sp-500-dow-futures-gain-as-trump-calls-irans-new-leaders-very-reasonable-pala?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "PLTR",
+            "RZLV",
+            "RZLVW",
+            "ENTX",
+            "TOT",
+            "TTE",
+            "PRGS",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market futures",
+            "S&P 500",
+            "Nasdaq",
+            "Iran geopolitics",
+            "correction territory",
+            "Federal Reserve",
+            "stagflation",
+            "energy stocks",
+            "market volatility"
+          ]
+        }
+      ]
+    }
+  }
+}

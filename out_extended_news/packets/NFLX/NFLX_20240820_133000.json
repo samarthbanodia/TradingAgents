@@ -1,0 +1,45 @@
+{
+  "event": {
+    "event_id": "NFLX_20240820_133000",
+    "ticker": "NFLX",
+    "t0_utc": "2024-08-20 13:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-08-20T10:30:00+00:00",
+      "end": "2024-08-20T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-08-20T12:21:00Z",
+          "title": "This Simple ETF Could Turn $200 a Month Into $530,806",
+          "description": "The article discusses how investing in an S&P 500 index fund, with a modest monthly contribution and dividend reinvestment, can lead to significant long-term returns. It highlights the power of compound growth and the benefits of index investing.",
+          "article_url": "https://www.fool.com/investing/2024/08/20/this-simple-etf-could-turn-200-a-month-into-530806/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Anders Bylund",
+          "tickers": [
+            "VOO",
+            "SPY",
+            "IVV"
+          ],
+          "keywords": [
+            "index investing",
+            "S&P 500",
+            "compound returns",
+            "dividend reinvestment"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

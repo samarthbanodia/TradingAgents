@@ -1,0 +1,66 @@
+{
+  "event": {
+    "event_id": "JPM_20250225_144000",
+    "ticker": "JPM",
+    "t0_utc": "2025-02-25 14:40:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-02-25T11:40:00+00:00",
+      "end": "2025-02-25T15:40:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-02-25T11:45:00Z",
+          "title": "Late to Retirement Planning? 4 Strategies to Help You Catch Up to Your Peers",
+          "description": "The article provides four key retirement savings tactics: 1) Invest in stocks as the most reliable path to building retirement wealth, 2) Opt for simple index funds over complex investment strategies, 3) Maximize returns on idle cash, and 4) Prioritize retirement savings as the first payment from each paycheck.",
+          "article_url": "https://www.fool.com/retirement/2025/02/25/late-to-retirement-planning-4-strategies-to-help/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "James Brumley",
+          "tickers": [
+            "VOO",
+            "SPY"
+          ],
+          "keywords": [
+            "retirement savings",
+            "investment strategies",
+            "index funds",
+            "cash management"
+          ]
+        },
+        {
+          "published_utc": "2025-02-25T15:15:00Z",
+          "title": "Warren Buffett Just Made a Surprise Move. Here's What It Could Mean For the Markets",
+          "description": "Warren Buffett's Berkshire Hathaway has made several moves in the 2024 fourth quarter, including selling its positions in Ulta Beauty and two S&P 500 ETFs. This suggests Buffett believes the market is overpriced and may be due for a correction.",
+          "article_url": "https://www.fool.com/investing/2025/02/25/warren-buffett-just-made-a-surprise-move-heres/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Jennifer Saibil",
+          "tickers": [
+            "BRK.A",
+            "BRK.B",
+            "ULTA",
+            "VOO",
+            "SPY",
+            "STZ"
+          ],
+          "keywords": [
+            "Warren Buffett",
+            "Berkshire Hathaway",
+            "Ulta Beauty",
+            "S&P 500 ETF"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

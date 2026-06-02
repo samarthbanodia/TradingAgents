@@ -1,0 +1,91 @@
+{
+  "event": {
+    "event_id": "NVDA_20260217_143000",
+    "ticker": "NVDA",
+    "t0_utc": "2026-02-17 14:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2026-02-17T11:30:00+00:00",
+      "end": "2026-02-17T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-02-17T11:55:00Z",
+        "title": "YieldMax\u00ae ETFs Announces Distributions on MSST, NVIT, and TEST",
+        "description": "YieldMax announced distributions for three Performance & Distribution Target 25 ETFs (MSST, NVIT, TEST) with ex-dividend dates on February 18, 2026. The funds seek to generate income with a 25% target annual income level through call-writing strategies on MSTR, NVDA, and TSLA respectively.",
+        "article_url": "https://www.benzinga.com/pressreleases/26/02/g50644499/yieldmax-etfs-announces-distributions-on-msst-nvit-and-test?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Globe Newswire",
+        "tickers": [
+          "YMAX",
+          "NVDA",
+          "TSLA"
+        ],
+        "keywords": [
+          "ETF distributions",
+          "call-writing strategy",
+          "income generation",
+          "MSTR",
+          "NVDA",
+          "TSLA",
+          "YieldMax"
+        ]
+      },
+      {
+        "published_utc": "2026-02-17T13:48:00Z",
+        "title": "Nvidia Stock Looks Undervalued as Analyst Targets Keep Moving Higher",
+        "description": "Nvidia appears undervalued with 52 analysts rating it a Buy and a consensus price target suggesting 45% upside. Technical analysis shows a bullish pennant pattern with potential for 50-100% gains. Upcoming Q4 2025 earnings and the GTC developer conference in mid-March are expected catalysts. Institutional investors are aggressively accumulating shares, providing support for continued gains.",
+        "article_url": "https://www.investing.com/analysis/nvidia-stock-looks-undervalued-as-analyst-targets-keep-moving-higher-200675153",
+        "publisher": "Investing.com",
+        "author": "Thomas Hughes",
+        "tickers": [
+          "NVDA"
+        ],
+        "keywords": [
+          "Nvidia",
+          "undervalued",
+          "analyst targets",
+          "Q4 earnings",
+          "GTC conference",
+          "bullish pennant",
+          "institutional buying",
+          "price target",
+          "upside potential"
+        ]
+      },
+      {
+        "published_utc": "2026-02-17T15:30:00Z",
+        "title": "Prediction: These 3 Stocks Will Be Worth More Than $500 in 5 Years",
+        "description": "An analyst predicts that Nvidia, Taiwan Semiconductor Manufacturing, and Broadcom will all trade above $500 per share within five years, driven by massive AI infrastructure spending and data center capital expenditures. Taiwan Semiconductor and Broadcom need only 33% and 47% gains respectively, while Nvidia requires a 163% increase but could achieve this if it captures one-third of a $3 trillion data center market by 2030.",
+        "article_url": "https://www.fool.com/investing/2026/02/17/prediction-these-3-stocks-will-be-worth-more-than/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Keithen Drury",
+        "tickers": [
+          "NVDA",
+          "TSM",
+          "AVGO"
+        ],
+        "keywords": [
+          "AI infrastructure spending",
+          "data center capital expenditures",
+          "semiconductor stocks",
+          "stock price predictions",
+          "tech hardware",
+          "chip manufacturing"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

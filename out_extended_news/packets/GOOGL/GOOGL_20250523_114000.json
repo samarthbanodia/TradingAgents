@@ -1,0 +1,47 @@
+{
+  "event": {
+    "event_id": "GOOGL_20250523_114000",
+    "ticker": "GOOGL",
+    "t0_utc": "2025-05-23 11:40:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-05-23T08:40:00+00:00",
+      "end": "2025-05-23T12:40:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-05-23T10:05:00Z",
+        "title": "Got $3,000? 3 Artificial Intelligence (AI) Stocks to Buy and Hold for the Long Term.",
+        "description": "The article recommends three AI-related stocks for long-term investment: Taiwan Semiconductor Manufacturing (TSMC), Airbnb, and Alphabet (Google). It highlights the growth potential and attractive valuations of these companies in the AI space.",
+        "article_url": "https://www.fool.com/investing/2025/05/23/got-3000-3-ai-stocks-buy-hold-long-term/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "TSM",
+          "ABNB",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "AI stocks",
+          "long-term investment",
+          "TSMC",
+          "Airbnb",
+          "Alphabet"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

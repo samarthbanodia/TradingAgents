@@ -1,0 +1,65 @@
+{
+  "event": {
+    "event_id": "COIN_20241030_200000",
+    "ticker": "COIN",
+    "t0_utc": "2024-10-30 20:00:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-10-30T17:00:00+00:00",
+      "end": "2024-10-30T21:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-10-30T20:37:55Z",
+          "title": "Fed's Favorite Inflation Gauge Expected To Fall In September: How Will Markets React?",
+          "description": "The Federal Reserve's preferred inflation measure, the Personal Consumption Expenditure (PCE) price index, is expected to decline in September, which could solidify expectations for continued Fed rate cuts. The consensus expects headline PCE inflation to fall to 2.1% year-over-year, while core PCE is projected to decline to 2.6%.",
+          "article_url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/10/41637473/feds-favorite-inflation-gauge-expected-to-fall-in-september-how-will-markets-react",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "PCE",
+            "inflation",
+            "interest rates",
+            "market reaction"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2024-10-30T20:37:55Z",
+          "title": "Fed's Favorite Inflation Gauge Expected To Fall In September: How Will Markets React?",
+          "description": "The Federal Reserve's preferred inflation measure, the Personal Consumption Expenditure (PCE) price index, is expected to decline in September, which could solidify expectations for continued Fed rate cuts. The consensus expects headline PCE inflation to fall to 2.1% year-over-year, while core PCE is projected to decline to 2.6%.",
+          "article_url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/10/41637473/feds-favorite-inflation-gauge-expected-to-fall-in-september-how-will-markets-react",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "PCE",
+            "inflation",
+            "interest rates",
+            "market reaction"
+          ]
+        }
+      ]
+    }
+  }
+}

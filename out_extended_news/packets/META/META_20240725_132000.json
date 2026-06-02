@@ -1,0 +1,25 @@
+{
+  "event": {
+    "event_id": "META_20240725_132000",
+    "ticker": "META",
+    "t0_utc": "2024-07-25 13:20:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2024-07-25T10:20:00+00:00",
+      "end": "2024-07-25T14:20:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

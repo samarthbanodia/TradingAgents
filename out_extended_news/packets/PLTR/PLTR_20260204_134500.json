@@ -1,0 +1,131 @@
+{
+  "event": {
+    "event_id": "PLTR_20260204_134500",
+    "ticker": "PLTR",
+    "t0_utc": "2026-02-04 13:45:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-02-04T10:45:00+00:00",
+      "end": "2026-02-04T14:45:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-02-04T11:15:00Z",
+        "title": "Does Stanley Druckenmiller Know Something Wall Street Doesn't? He Dumped All of His Shares in a Company Dominating a Market That May Soon Be Worth $100 Billion and Opened Positions in 3 AI Giants.",
+        "description": "Billionaire investor Stanley Druckenmiller sold all 100,675 shares of Eli Lilly and opened new positions in three AI giants: Amazon, Meta Platforms, and Alphabet. The move suggests a strategic shift toward established tech companies with AI exposure rather than abandoning the weight loss drug market opportunity. Druckenmiller previously sold Nvidia and Palantir due to rich valuations, indicating a preference for reasonably-priced AI players.",
+        "article_url": "https://www.fool.com/investing/2026/02/04/stanley-druckenmiller-buys-3-ai-giants/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Adria Cimino",
+        "tickers": [
+          "LLY",
+          "AMZN",
+          "META",
+          "GOOG",
+          "GOOGL",
+          "NVDA",
+          "PLTR"
+        ],
+        "keywords": [
+          "Stanley Druckenmiller",
+          "portfolio rebalancing",
+          "AI investment",
+          "weight loss drugs",
+          "valuation concerns",
+          "Form 13F filings"
+        ]
+      },
+      {
+        "published_utc": "2026-02-04T13:37:27Z",
+        "title": "Broadcom Is 'Uncle Sam Of AI,' Says Futurum Equities As It Lists 15 Non-Mag7 AI Disruptors",
+        "description": "Futurum Equities released its AI Fifteen report identifying 15 non-Mag7 companies disrupting the AI economy. Broadcom leads the list as the 'Uncle Sam of AI' with AI chip revenue accelerating to $6.5 billion and guidance of $8.2 billion next quarter (~100% YoY growth), with a $73 billion backlog. TSMC, Palantir, ASML, and Micron round out the top 5. The AI server market is experiencing 28% growth with Broadcom and AMD as significant players alongside Nvidia.",
+        "article_url": "https://www.benzinga.com/markets/tech/26/02/50371875/broadcom-is-uncle-sam-of-ai-says-futurum-equities-as-it-lists-15-non-mag7-ai-disruptors?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "AVGO",
+          "TSM",
+          "PLTR",
+          "ASML",
+          "MU",
+          "AMD",
+          "ALAB"
+        ],
+        "keywords": [
+          "AI infrastructure",
+          "semiconductor chips",
+          "custom AI chips",
+          "AI economy",
+          "XPUs",
+          "hyperscalers",
+          "AI server market"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-02-04T13:53:10Z",
+          "title": "Stock Market Today: Dow Futures Gain, Nasdaq Drops As Trump Signs Bill To End Partial Shutdown\u2014 AMD, SMCI, LLY In Focus (UPDATED)",
+          "description": "U.S. stock futures were mixed on Wednesday following Tuesday's negative close. President Trump signed a funding deal to end a four-day partial government shutdown. The Fed is expected to hold rates steady in March with 91.1% probability. Key movers included AMD declining 7.63% despite beating earnings, Super Micro Computer surging 12.27% on strong results, and Enphase Energy jumping 23.39% after beating estimates. Eli Lilly and Alphabet were awaiting earnings releases.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50364308/stock-market-today-dow-futures-gain-nasdaq-drops-as-trump-signs-bill-to-end-partial-shutdown-amd?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AMD",
+            "SMCI",
+            "ENPH",
+            "LLY",
+            "GOOG",
+            "GOOGL",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "government shutdown",
+            "earnings",
+            "Fed policy",
+            "technology stocks",
+            "premarket trading"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-02-04T13:53:10Z",
+          "title": "Stock Market Today: Dow Futures Gain, Nasdaq Drops As Trump Signs Bill To End Partial Shutdown\u2014 AMD, SMCI, LLY In Focus (UPDATED)",
+          "description": "U.S. stock futures were mixed on Wednesday following Tuesday's negative close. President Trump signed a funding deal to end a four-day partial government shutdown. The Fed is expected to hold rates steady in March with 91.1% probability. Key movers included AMD declining 7.63% despite beating earnings, Super Micro Computer surging 12.27% on strong results, and Enphase Energy jumping 23.39% after beating estimates. Eli Lilly and Alphabet were awaiting earnings releases.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50364308/stock-market-today-dow-futures-gain-nasdaq-drops-as-trump-signs-bill-to-end-partial-shutdown-amd?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AMD",
+            "SMCI",
+            "ENPH",
+            "LLY",
+            "GOOG",
+            "GOOGL",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "government shutdown",
+            "earnings",
+            "Fed policy",
+            "technology stocks",
+            "premarket trading"
+          ]
+        }
+      ]
+    }
+  }
+}

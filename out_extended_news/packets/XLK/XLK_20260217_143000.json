@@ -1,0 +1,49 @@
+{
+  "event": {
+    "event_id": "XLK_20260217_143000",
+    "ticker": "XLK",
+    "t0_utc": "2026-02-17 14:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2026-02-17T11:30:00+00:00",
+      "end": "2026-02-17T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-02-17T13:40:00Z",
+        "title": "Take Control of Your Cash Flow; Energy Stocks on Fire",
+        "description": "The Motley Fool's 2026 Financial Planning Challenge focuses on intentional cash flow management. Energy stocks lead market performance, up 18% in 2026 and outperforming tech over five years. The episode covers four steps for financial planning: tracking spending, choosing debt strategies, building emergency savings, and automating finances. Bond market performance remains weak due to historically low starting yields five years ago.",
+        "article_url": "https://www.fool.com/investing/2026/02/17/take-control-of-your-cash-flow-energy-stocks-on-fi/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Motley Fool Staff",
+        "tickers": [
+          "XLE",
+          "XLK",
+          "CSCO"
+        ],
+        "keywords": [
+          "cash flow management",
+          "financial planning",
+          "energy sector",
+          "debt payoff strategies",
+          "emergency fund",
+          "automation",
+          "savings goals",
+          "budget tracking"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

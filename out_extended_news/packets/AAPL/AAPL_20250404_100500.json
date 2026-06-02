@@ -1,0 +1,134 @@
+{
+  "event": {
+    "event_id": "AAPL_20250404_100500",
+    "ticker": "AAPL",
+    "t0_utc": "2025-04-04 10:05:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-04-04T07:05:00+00:00",
+      "end": "2025-04-04T11:05:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-04-04T07:06:00Z",
+        "title": "Warren Buffett's Favorite Stock to Buy -- $78 Billion Purchased in Less Than 7 Years -- Is Absolutely Crushing the S&P 500 This Year",
+        "description": "Warren Buffett has spent nearly $78 billion purchasing his favorite stock, Berkshire Hathaway, in less than seven years. This stock has outperformed the S&P 500 by over 21 percentage points year-to-date and 75 percentage points over the last five years. However, Berkshire Hathaway's stock is now trading at a premium, and Buffett has not purchased any shares in the second half of 2024, indicating that the stock may no longer be a bargain.",
+        "article_url": "https://www.fool.com/investing/2025/04/04/warren-buffett-favorite-stock-to-buy-78-billion/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "BRK.A",
+          "BRK.B",
+          "AAPL"
+        ],
+        "keywords": [
+          "Warren Buffett",
+          "Berkshire Hathaway",
+          "S&P 500",
+          "stock buybacks",
+          "value investing"
+        ]
+      },
+      {
+        "published_utc": "2025-04-04T07:55:00Z",
+        "title": "2 Warren Buffett Dividend Stocks to Buy and Hold Forever",
+        "description": "The article discusses the benefits of investing in dividend-paying stocks, particularly Apple and Visa, which are part of Warren Buffett's investment strategy. It highlights the companies' strong economic moats, growth potential, and dividend programs.",
+        "article_url": "https://www.fool.com/investing/2025/04/04/2-warren-buffett-dividend-stocks-to-buy-and-hold-f/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Prosper Junior Bakiny",
+        "tickers": [
+          "AAPL",
+          "V"
+        ],
+        "keywords": [
+          "dividend stocks",
+          "Apple",
+          "Visa",
+          "Warren Buffett",
+          "economic moat",
+          "growth"
+        ]
+      },
+      {
+        "published_utc": "2025-04-04T10:18:40Z",
+        "title": "US Stocks Likely To Open Lower After The Worst Selloff Since 2020: Tariff Announcement Was '100% Smoot Hawley Disguised As Thoughtful Policy,' Says Expert",
+        "description": "U.S. stock futures declined on Friday after a broad market selloff on Thursday following the introduction of President Trump's tariffs. Experts criticized the tariffs as a 'Smoot Hawley disguised as thoughtful policy', which caused the market to plummet.",
+        "article_url": "https://www.benzinga.com/25/04/44643100/us-stocks-likely-to-open-lower-after-the-worst-selloff-since-2020-tariff-announcement-was-100-smoot-hawley-disgui",
+        "publisher": "Benzinga",
+        "author": "Rishabh Mishra",
+        "tickers": [
+          "AAPL",
+          "AMS",
+          "AMZN",
+          "SPY",
+          "QQQ",
+          "NVDA"
+        ],
+        "keywords": [
+          "US stocks",
+          "tariffs",
+          "market selloff",
+          "Smoot Hawley"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-04-04T10:18:40Z",
+          "title": "US Stocks Likely To Open Lower After The Worst Selloff Since 2020: Tariff Announcement Was '100% Smoot Hawley Disguised As Thoughtful Policy,' Says Expert",
+          "description": "U.S. stock futures declined on Friday after a broad market selloff on Thursday following the introduction of President Trump's tariffs. Experts criticized the tariffs as a 'Smoot Hawley disguised as thoughtful policy', which caused the market to plummet.",
+          "article_url": "https://www.benzinga.com/25/04/44643100/us-stocks-likely-to-open-lower-after-the-worst-selloff-since-2020-tariff-announcement-was-100-smoot-hawley-disgui",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AAPL",
+            "AMS",
+            "AMZN",
+            "SPY",
+            "QQQ",
+            "NVDA"
+          ],
+          "keywords": [
+            "US stocks",
+            "tariffs",
+            "market selloff",
+            "Smoot Hawley"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-04-04T10:18:40Z",
+          "title": "US Stocks Likely To Open Lower After The Worst Selloff Since 2020: Tariff Announcement Was '100% Smoot Hawley Disguised As Thoughtful Policy,' Says Expert",
+          "description": "U.S. stock futures declined on Friday after a broad market selloff on Thursday following the introduction of President Trump's tariffs. Experts criticized the tariffs as a 'Smoot Hawley disguised as thoughtful policy', which caused the market to plummet.",
+          "article_url": "https://www.benzinga.com/25/04/44643100/us-stocks-likely-to-open-lower-after-the-worst-selloff-since-2020-tariff-announcement-was-100-smoot-hawley-disgui",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AAPL",
+            "AMS",
+            "AMZN",
+            "SPY",
+            "QQQ",
+            "NVDA"
+          ],
+          "keywords": [
+            "US stocks",
+            "tariffs",
+            "market selloff",
+            "Smoot Hawley"
+          ]
+        }
+      ]
+    }
+  }
+}

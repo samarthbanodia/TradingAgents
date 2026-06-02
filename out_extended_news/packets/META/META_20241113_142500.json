@@ -1,0 +1,80 @@
+{
+  "event": {
+    "event_id": "META_20241113_142500",
+    "ticker": "META",
+    "t0_utc": "2024-11-13 14:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "unclear",
+    "window": {
+      "start": "2024-11-13T11:25:00+00:00",
+      "end": "2024-11-13T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-11-13T11:30:00Z",
+        "title": "Should You Buy Nvidia Stock Before Nov. 20? History Says This Will Happen.",
+        "description": "Nvidia's upcoming earnings report is highly anticipated as the company benefits from the massive investments in AI infrastructure by tech giants like Microsoft, Meta, and Alphabet. The rollout of Nvidia's new Blackwell architecture chips is expected to be a crucial factor in the company's continued dominance in the AI chipmaking market.",
+        "article_url": "https://www.fool.com/investing/2024/11/13/should-you-buy-nvidia-stock-before-november-20-his/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "NVDA",
+          "MSFT",
+          "META",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "Nvidia",
+          "AI",
+          "Blackwell",
+          "Microsoft",
+          "Meta",
+          "Alphabet"
+        ]
+      },
+      {
+        "published_utc": "2024-11-13T12:45:00Z",
+        "title": "Marjorie Taylor Greene Loaded Up on Stocks to Start November. Here Are 6 She Just Bought.",
+        "description": "Marjorie Taylor Greene, the Republican congresswoman from Georgia, made several stock purchases in early November, including shares of companies involved in artificial intelligence (AI) such as AMD, Apple, Digital Realty Trust, Meta Platforms, and Tesla.",
+        "article_url": "https://www.fool.com/investing/2024/11/13/marjorie-taylor-greene-loaded-up-on-stocks-to-star/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "AMD",
+          "AAPL",
+          "DLR",
+          "DLRpJ",
+          "DLRpK",
+          "DLRpL",
+          "META",
+          "TSLA",
+          "BRK.A",
+          "BRK.B"
+        ],
+        "keywords": [
+          "Marjorie Taylor Greene",
+          "stocks",
+          "artificial intelligence",
+          "AMD",
+          "Apple",
+          "Digital Realty Trust",
+          "Meta Platforms",
+          "Tesla",
+          "Berkshire Hathaway"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

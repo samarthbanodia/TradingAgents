@@ -1,0 +1,44 @@
+{
+  "event": {
+    "event_id": "NVDA_20250430_195500",
+    "ticker": "NVDA",
+    "t0_utc": "2025-04-30 19:55:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-04-30T16:55:00+00:00",
+      "end": "2025-04-30T20:55:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-04-30T17:23:53Z",
+        "title": "Nvidia Stock Is Pulling Back Today. Here's Why Investors Are Nervous.",
+        "description": "Nvidia shares dropped due to concerns over a slowdown in AI spending, as evidenced by a business update from server manufacturer Super Micro Computer that slashed its guidance. A Wall Street analyst also issued a 'sell' recommendation on Nvidia based on these concerns.",
+        "article_url": "https://www.fool.com/investing/2025/04/30/nvidia-stock-is-pulling-back-today-heres-why-inves/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Howard Smith",
+        "tickers": [
+          "NVDA",
+          "SMCI"
+        ],
+        "keywords": [
+          "Nvidia",
+          "Super Micro Computer",
+          "AI spending",
+          "data center investments"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

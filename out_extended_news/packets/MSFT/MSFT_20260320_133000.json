@@ -1,0 +1,235 @@
+{
+  "event": {
+    "event_id": "MSFT_20260320_133000",
+    "ticker": "MSFT",
+    "t0_utc": "2026-03-20 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "unclear",
+    "window": {
+      "start": "2026-03-20T10:30:00+00:00",
+      "end": "2026-03-20T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-03-20T12:00:00Z",
+        "title": "Rezolve Ai and Microsoft to Spotlight the Rise of Agentic Commerce\u00a0at the 38th Annual Roth Conference",
+        "description": "Rezolve Ai (NASDAQ: RZLV) announced that its CEO Daniel M. Wagner will participate in a fireside chat with Microsoft's Vic Miles at the 38th Annual Roth Conference on March 24, 2026. The discussion will focus on Agentic Commerce and the strategic partnership between the two companies as retailers increasingly seek AI-powered solutions for enhanced consumer engagement and digital commerce efficiency.",
+        "article_url": "https://www.globenewswire.com/news-release/2026/03/20/3259691/0/en/Rezolve-Ai-and-Microsoft-to-Spotlight-the-Rise-of-Agentic-Commerce-at-the-38th-Annual-Roth-Conference.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Na",
+        "tickers": [
+          "RZLV",
+          "RZLVW",
+          "MSFT"
+        ],
+        "keywords": [
+          "Agentic Commerce",
+          "AI-powered retail",
+          "strategic partnership",
+          "consumer engagement",
+          "digital commerce",
+          "Roth Conference 2026"
+        ]
+      },
+      {
+        "published_utc": "2026-03-20T12:05:00Z",
+        "title": "Wall Street Is Wrong About This Quantum Computing Stock",
+        "description": "Adam Spatacco argues that Wall Street is overvaluing IonQ despite analyst price targets showing 100%+ upside. While IonQ has impressive revenue growth (202% YoY), the analyst raises concerns about the company's $4 billion in acquisitions, massive cash burn ($500M+ net losses in 2025), negative operating cash flow, and aggressive share dilution to fund growth. He predicts IonQ will trade below $10 by year-end rather than reach Wall Street's $65 target, comparing it to a meme stock similar to dot-com bubble companies.",
+        "article_url": "https://www.fool.com/investing/2026/03/20/wall-street-is-wrong-about-this-quantum-computing/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Adam Spatacco",
+        "tickers": [
+          "IONQ",
+          "IONQ.WS",
+          "MSFT",
+          "AMZN",
+          "GOOG",
+          "GOOGL",
+          "NVDA",
+          "CSCO"
+        ],
+        "keywords": [
+          "quantum computing",
+          "IonQ",
+          "stock valuation",
+          "cash burn",
+          "share dilution",
+          "acquisitions",
+          "revenue growth",
+          "profitability concerns"
+        ]
+      },
+      {
+        "published_utc": "2026-03-20T12:30:00Z",
+        "title": "3 Monster Stocks to Hold for the Next 20 Years Starting Right Now",
+        "description": "The Motley Fool recommends Amazon, Microsoft, and Netflix as long-term investment picks for the next 20 years. Amazon leads in e-commerce and cloud computing with strong competitive moats. Microsoft dominates operating systems and productivity software while growing its Azure cloud business faster than competitors. Netflix revolutionized streaming and maintains advantages through its brand and user data despite increasing competition.",
+        "article_url": "https://www.fool.com/investing/2026/03/20/3-monster-stocks-to-hold-for-the-next-20-years-sta/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Prosper Junior Bakiny",
+        "tickers": [
+          "AMZN",
+          "MSFT",
+          "NFLX"
+        ],
+        "keywords": [
+          "long-term investing",
+          "tech stocks",
+          "e-commerce",
+          "cloud computing",
+          "streaming",
+          "competitive moat",
+          "artificial intelligence"
+        ]
+      },
+      {
+        "published_utc": "2026-03-20T14:30:00Z",
+        "title": "3 AI Stocks Trading at Bargain Prices After the Recent Sell-Off",
+        "description": "Following a recent market sell-off that has hit technology stocks particularly hard, three 'Magnificent Seven' AI stocks are trading at attractive valuations. Nvidia maintains dominant market position in AI chips despite valuation concerns. Amazon is investing heavily in AI infrastructure with strong AWS growth. Meta's AI-powered advertising tools are driving significant earnings growth despite investor skepticism.",
+        "article_url": "https://www.fool.com/investing/2026/03/20/ai-stocks-trading-bargain-prices-sell-off/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Adam Spatacco",
+        "tickers": [
+          "NVDA",
+          "AMZN",
+          "META",
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "AMD",
+          "AVGO"
+        ],
+        "keywords": [
+          "AI stocks",
+          "market sell-off",
+          "bargain valuations",
+          "technology sector",
+          "Magnificent Seven",
+          "GPU market",
+          "cloud infrastructure",
+          "AI advertising"
+        ]
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-03-20T10:32:26Z",
+          "title": "BlackRock's Rick Rieder Says Fed 'Patience' Is Right Call Despite $820 Billion Market Rout, Oil Spike",
+          "description": "BlackRock's CIO Rick Rieder argues the Federal Reserve's patient stance on interest rates is appropriate despite an $820 billion stock market decline and surging oil prices. He distinguishes between episodic supply shocks and underlying demand-driven inflation, noting that longer-term inflation expectations remain anchored. While near-term commodity pressures exist, Rieder suggests rate cuts remain possible this year as core economic fundamentals remain stable.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/26/03/51374173/blackrock-cio-says-fed-patience-on-rates-justified?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "BLK",
+            "DIVB",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "interest rates",
+            "inflation",
+            "oil prices",
+            "stock market decline",
+            "supply shocks",
+            "monetary policy",
+            "rate cuts"
+          ]
+        },
+        {
+          "published_utc": "2026-03-20T12:51:31Z",
+          "title": "Stock Market Today: Futures Drop Ahead Of 'Triple Witching' Session As Iran Threatens 'Zero Restraint'\u2014 FedEx, Super Micro In Focus (UPDATED)",
+          "description": "U.S. stock futures declined on Friday with major indices down slightly ahead of 'triple witching' expiration. FedEx surged 10.43% on better-than-expected earnings and raised guidance, while Super Micro Computer plunged 23.61% after its co-founder was charged in an alleged AI technology export scheme to China. Planet Labs soared 17.25% and Scholastic gained 10.54% on strong earnings. Geopolitical tensions with Iran and energy market disruptions added to market uncertainty.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/03/51373609/stock-market-today-sp-500-dow-futures-down-ahead-of-triple-witching-as-iran-warns-of-zero-restra?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "FDX",
+            "SMCI",
+            "PL",
+            "PL.WS",
+            "SCHL",
+            "SER",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "S&P 500",
+            "triple witching",
+            "futures",
+            "Iran",
+            "FedEx",
+            "Super Micro Computer",
+            "earnings",
+            "geopolitical risk",
+            "energy markets"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-03-20T10:32:26Z",
+          "title": "BlackRock's Rick Rieder Says Fed 'Patience' Is Right Call Despite $820 Billion Market Rout, Oil Spike",
+          "description": "BlackRock's CIO Rick Rieder argues the Federal Reserve's patient stance on interest rates is appropriate despite an $820 billion stock market decline and surging oil prices. He distinguishes between episodic supply shocks and underlying demand-driven inflation, noting that longer-term inflation expectations remain anchored. While near-term commodity pressures exist, Rieder suggests rate cuts remain possible this year as core economic fundamentals remain stable.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/26/03/51374173/blackrock-cio-says-fed-patience-on-rates-justified?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "BLK",
+            "DIVB",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "interest rates",
+            "inflation",
+            "oil prices",
+            "stock market decline",
+            "supply shocks",
+            "monetary policy",
+            "rate cuts"
+          ]
+        },
+        {
+          "published_utc": "2026-03-20T12:51:31Z",
+          "title": "Stock Market Today: Futures Drop Ahead Of 'Triple Witching' Session As Iran Threatens 'Zero Restraint'\u2014 FedEx, Super Micro In Focus (UPDATED)",
+          "description": "U.S. stock futures declined on Friday with major indices down slightly ahead of 'triple witching' expiration. FedEx surged 10.43% on better-than-expected earnings and raised guidance, while Super Micro Computer plunged 23.61% after its co-founder was charged in an alleged AI technology export scheme to China. Planet Labs soared 17.25% and Scholastic gained 10.54% on strong earnings. Geopolitical tensions with Iran and energy market disruptions added to market uncertainty.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/03/51373609/stock-market-today-sp-500-dow-futures-down-ahead-of-triple-witching-as-iran-warns-of-zero-restra?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "FDX",
+            "SMCI",
+            "PL",
+            "PL.WS",
+            "SCHL",
+            "SER",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "S&P 500",
+            "triple witching",
+            "futures",
+            "Iran",
+            "FedEx",
+            "Super Micro Computer",
+            "earnings",
+            "geopolitical risk",
+            "energy markets"
+          ]
+        }
+      ]
+    }
+  }
+}

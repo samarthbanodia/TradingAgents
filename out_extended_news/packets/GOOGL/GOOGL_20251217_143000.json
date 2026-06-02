@@ -1,0 +1,115 @@
+{
+  "event": {
+    "event_id": "GOOGL_20251217_143000",
+    "ticker": "GOOGL",
+    "t0_utc": "2025-12-17 14:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-12-17T11:30:00+00:00",
+      "end": "2025-12-17T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-12-17T11:30:00Z",
+        "title": "2 High-Flying AI Stocks I'd Sell Before 2026 Arrives",
+        "description": "The article recommends selling two AI stocks, Palantir and BigBear.ai, due to unrealistic valuations and poor growth prospects heading into 2026.",
+        "article_url": "https://www.fool.com/investing/2025/12/17/2-high-flying-ai-stocks-id-sell-before-2026-arrive/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Keithen Drury",
+        "tickers": [
+          "PLTR",
+          "BBAI",
+          "BBAI.WS",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "AI stocks",
+          "technology",
+          "stock market",
+          "investment strategy"
+        ]
+      },
+      {
+        "published_utc": "2025-12-17T13:31:53Z",
+        "title": "Jefferies Sees $198 Billion Revenue Potential By 2040 For Quantum Computing",
+        "description": "Jefferies analysts predict quantum computing industry could grow from $1 billion to $198 billion by 2040, with major tech companies and governments supporting the emerging technology.",
+        "article_url": "https://www.benzinga.com/markets/tech/25/12/49446719/jefferies-sees-198-billion-revenue-potential-by-2040-for-quantum-computing?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "GOOG",
+          "GOOGL",
+          "IBM",
+          "IONQ",
+          "IONQ.WS",
+          "QBTS",
+          "RGTI",
+          "RGTIW"
+        ],
+        "keywords": [
+          "quantum computing",
+          "revenue potential",
+          "tech investment",
+          "market growth"
+        ]
+      },
+      {
+        "published_utc": "2025-12-17T15:00:50Z",
+        "title": "Nvidia Vs. Alphabet: Which Could Be The World's Biggest Company By End-2026?",
+        "description": "Nvidia and Alphabet are competing to become the world's largest company by end-2026, with both having a 35% probability of achieving this milestone. Their competition centers around AI dominance, with Nvidia leading in GPU technology and Alphabet embedding AI across its product ecosystem.",
+        "article_url": "https://www.benzinga.com/markets/tech/25/12/49450508/nvidia-vs-alphabet-which-could-be-the-worlds-biggest-company-by-end-2026?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Piero Cingari",
+        "tickers": [
+          "NVDA",
+          "GOOG",
+          "GOOGL",
+          "AAPL",
+          "MSFT"
+        ],
+        "keywords": [
+          "AI",
+          "market capitalization",
+          "technology",
+          "stock valuation",
+          "prediction markets"
+        ]
+      },
+      {
+        "published_utc": "2025-12-17T15:05:00Z",
+        "title": "Should You Buy Rivian While It's Below $20?",
+        "description": "Rivian is exploring AI and autonomous vehicle technologies, planning a semi-autonomous subscription service and a more affordable R2 vehicle by 2026, but faces challenges in the competitive EV market with uncertain near-term growth prospects.",
+        "article_url": "https://www.fool.com/investing/2025/12/17/should-you-buy-rivian-while-its-below-20/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Chris Neiger",
+        "tickers": [
+          "RIVN",
+          "TSLA",
+          "GOOG",
+          "GOOGL",
+          "LCID"
+        ],
+        "keywords": [
+          "electric vehicles",
+          "autonomous driving",
+          "AI technology",
+          "EV market",
+          "technology investment"
+        ]
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

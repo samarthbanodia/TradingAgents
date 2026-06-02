@@ -1,0 +1,156 @@
+{
+  "event": {
+    "event_id": "JPM_20260107_142500",
+    "ticker": "JPM",
+    "t0_utc": "2026-01-07 14:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-01-07T11:25:00+00:00",
+      "end": "2026-01-07T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-01-07T12:30:00Z",
+        "title": "2 Dividend ETFs to Buy With $500 and Hold Forever",
+        "description": "The article recommends two dividend ETFs for long-term investors with $500: the Schwab U.S. Dividend Equity ETF (SCHD) with a high 3.7% yield and 100 holdings, and the Vanguard Dividend Appreciation ETF (VIG) with a lower 1.6% yield but higher growth potential and 338 holdings. Both offer diversification, stability, and passive income through established companies, though they underperform growth stocks in bull markets.",
+        "article_url": "https://www.fool.com/investing/2026/01/07/2-dividend-etfs-to-buy-with-500/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jennifer Saibil",
+        "tickers": [
+          "SCHD",
+          "VIG",
+          "BMY",
+          "CELGr",
+          "MRK",
+          "COP",
+          "LMT",
+          "CVX",
+          "AVGO",
+          "MSFT",
+          "AAPL",
+          "AMJB",
+          "JPM",
+          "JPMpC",
+          "JPMpD",
+          "JPMpJ",
+          "JPMpK",
+          "JPMpL",
+          "JPMpM",
+          "VYLD",
+          "LLY"
+        ],
+        "keywords": [
+          "dividend ETFs",
+          "passive income",
+          "long-term investing",
+          "portfolio diversification",
+          "dividend yield",
+          "index funds"
+        ]
+      },
+      {
+        "published_utc": "2026-01-07T14:46:22Z",
+        "title": "Why Lloyds Is Betting On Blockchain, Not Crypto Speculation",
+        "description": "Lloyds Banking Group is aggressively adopting blockchain technology for operational efficiency rather than crypto speculation. The bank plans to roll out tokenized deposits by mid-2027, which could revolutionize mortgage processing and settlement times. This institutional approach to blockchain contrasts with decentralized finance platforms, as traditional banks leverage blockchain while maintaining regulatory oversight and consumer protections.",
+        "article_url": "https://www.benzinga.com/Opinion/26/01/49754679/why-lloyds-is-betting-on-blockchain-not-crypto-speculation?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Hillary Remy",
+        "tickers": [
+          "LYG",
+          "AMJB",
+          "JPM",
+          "JPMpC",
+          "JPMpD",
+          "JPMpJ",
+          "JPMpK",
+          "JPMpL",
+          "JPMpM",
+          "VYLD",
+          "BLK",
+          "DIVB"
+        ],
+        "keywords": [
+          "blockchain adoption",
+          "tokenized deposits",
+          "institutional finance",
+          "real world asset tokenization",
+          "traditional finance vs DeFi",
+          "mortgage processing",
+          "regulatory compliance"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-01-07T14:06:57Z",
+          "title": "Stock Market Today: Dow Futures Up, S&P 500 And Nasdaq Slip As ADP Jobs Data Signals Modest Rebound\u2014 Mobileye, Penguin Solutions In Focus (UPDATED)",
+          "description": "U.S. stock futures were mixed on Wednesday following a strong Tuesday close. ADP reported private-sector job additions of 41,000 in December, signaling modest labor market stabilization. The Dow Jones futures rose 0.04% while S&P 500 and Nasdaq futures declined slightly. Key movers included Mobileye jumping 11% on a $900M robotics acquisition, Ventyx surging 68% on Eli Lilly acquisition talks, and AAR Corp rising 5% on better-than-expected earnings.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/49746784/stock-market-today-dow-futures-rise-sp-500-nasdaq-drops-as-street-awaits-slew-of-economic-releas?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "MBLY",
+            "VTYX",
+            "AIR",
+            "PENG",
+            "STZ",
+            "LLY"
+          ],
+          "keywords": [
+            "stock market",
+            "ADP jobs data",
+            "futures",
+            "labor market",
+            "acquisitions",
+            "earnings",
+            "Federal Reserve",
+            "AI",
+            "robotics"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-01-07T14:06:57Z",
+          "title": "Stock Market Today: Dow Futures Up, S&P 500 And Nasdaq Slip As ADP Jobs Data Signals Modest Rebound\u2014 Mobileye, Penguin Solutions In Focus (UPDATED)",
+          "description": "U.S. stock futures were mixed on Wednesday following a strong Tuesday close. ADP reported private-sector job additions of 41,000 in December, signaling modest labor market stabilization. The Dow Jones futures rose 0.04% while S&P 500 and Nasdaq futures declined slightly. Key movers included Mobileye jumping 11% on a $900M robotics acquisition, Ventyx surging 68% on Eli Lilly acquisition talks, and AAR Corp rising 5% on better-than-expected earnings.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/49746784/stock-market-today-dow-futures-rise-sp-500-nasdaq-drops-as-street-awaits-slew-of-economic-releas?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "MBLY",
+            "VTYX",
+            "AIR",
+            "PENG",
+            "STZ",
+            "LLY"
+          ],
+          "keywords": [
+            "stock market",
+            "ADP jobs data",
+            "futures",
+            "labor market",
+            "acquisitions",
+            "earnings",
+            "Federal Reserve",
+            "AI",
+            "robotics"
+          ]
+        }
+      ]
+    }
+  }
+}

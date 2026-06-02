@@ -1,0 +1,205 @@
+{
+  "event": {
+    "event_id": "GOOGL_20250721_133000",
+    "ticker": "GOOGL",
+    "t0_utc": "2025-07-21 13:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-07-21T10:30:00+00:00",
+      "end": "2025-07-21T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-07-21T11:00:00Z",
+        "title": "Muutokset Nokia Oyj:n omien osakkeiden omistuksessa",
+        "description": "Nokia has transferred 11,148 of its own shares to participants of its stock-based incentive programs, reducing its treasury stock holdings to 64,685,389 shares.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/07/21/3118580/0/fi/Muutokset-Nokia-Oyj-n-omien-osakkeiden-omistuksessa.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Nokia Oyj",
+        "tickers": [
+          "NOK",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "stock distribution",
+          "incentive program",
+          "treasury shares"
+        ]
+      },
+      {
+        "published_utc": "2025-07-21T13:09:00Z",
+        "title": "2025 Q2 Earnings Season Off to a Strong Start After Bank Reports",
+        "description": "Big banks reported strong Q2 profits driven by trading and investment banking, with cautious economic outlooks. Tech and industrial companies are set to report this week during peak earnings season from July 28 to August 15.",
+        "article_url": "https://www.investing.com/analysis/2025-q2-earnings-season-off-to-a-strong-start-after-bank-reports-200664034",
+        "publisher": "Investing.com",
+        "author": "Christine Short",
+        "tickers": [
+          "AMJB",
+          "JPM",
+          "JPMpC",
+          "JPMpD",
+          "JPMpJ",
+          "JPMpK",
+          "JPMpL",
+          "JPMpM",
+          "VYLD",
+          "C",
+          "CpN",
+          "WFC",
+          "WFCpA",
+          "WFCpC",
+          "WFCpD",
+          "WFCpL",
+          "WFCpY",
+          "WFCpZ",
+          "BAC",
+          "BACpB",
+          "BACpE",
+          "BACpK",
+          "BACpL",
+          "BACpM",
+          "BACpN",
+          "BACpO",
+          "BACpP",
+          "BACpQ",
+          "BACpS",
+          "BMLpG",
+          "BMLpH",
+          "BMLpJ",
+          "BMLpL",
+          "MERpK",
+          "TSLA",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "earnings",
+          "Q2",
+          "banks",
+          "trading",
+          "investment banking",
+          "tech stocks"
+        ]
+      },
+      {
+        "published_utc": "2025-07-21T13:25:30Z",
+        "title": "Earnings Season Looms Over Inflation Data, Tariff Impact",
+        "description": "Inflation data shows mixed signals in the US, with core inflation rising 2.9% annually. Upcoming earnings season will feature major tech and consumer companies reporting, while the Federal Reserve and European Central Bank's monetary policies remain in focus.",
+        "article_url": "https://www.benzinga.com/government/25/07/46518248/earnings-season-looms-over-inflation-data-tariff-impact",
+        "publisher": "Benzinga",
+        "author": "Singapore Forex Club Benzinga Contributor",
+        "tickers": [
+          "GOOG",
+          "GOOGL",
+          "TSLA",
+          "KO",
+          "INTC"
+        ],
+        "keywords": [
+          "inflation",
+          "earnings",
+          "Federal Reserve",
+          "tariffs",
+          "interest rates"
+        ]
+      },
+      {
+        "published_utc": "2025-07-21T13:43:00Z",
+        "title": "Nasdaq 100 Muted With Trade Tariffs and Tech Earnings in Focus",
+        "description": "US stocks are expected to open muted as investors await trade deal developments and key tech earnings from Tesla and Alphabet. Trade tariffs and upcoming corporate reports are the primary market focus, with most S&P 500 companies beating earnings expectations so far.",
+        "article_url": "https://www.investing.com/analysis/nasdaq-100-forecast-qqq-is-muted-with-trade-tariffs-and-tech-earnings-in-focus-200664039",
+        "publisher": "Investing.com",
+        "author": "Fiona Cincotta",
+        "tickers": [
+          "TSLA",
+          "GOOG",
+          "GOOGL",
+          "XYZ",
+          "PINS",
+          "DPZ"
+        ],
+        "keywords": [
+          "trade tariffs",
+          "tech earnings",
+          "Nasdaq",
+          "S&P 500",
+          "earnings season"
+        ]
+      },
+      {
+        "published_utc": "2025-07-21T14:05:00Z",
+        "title": "2 Stocks That Could Outperform With Earnings in Focus",
+        "description": "The article analyzes Alphabet and IBM as potential investment opportunities, highlighting their complementary strengths in growth and stability ahead of their upcoming earnings reports.",
+        "article_url": "https://www.investing.com/analysis/2-stocks-that-could-outperform-with-earnings-in-focus-200664025",
+        "publisher": "Investing.com",
+        "author": "Matteo Farci",
+        "tickers": [
+          "GOOG",
+          "GOOGL",
+          "IBM"
+        ],
+        "keywords": [
+          "earnings",
+          "tech stocks",
+          "investment",
+          "market analysis",
+          "portfolio diversification"
+        ]
+      }
+    ],
+    "ticker_news_count": 5,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": [
+        {
+          "published_utc": "2025-07-21T13:13:54Z",
+          "title": "Redhawk Loads Up on 7,181 QQQ Shares in Q2 Filing",
+          "description": "Redhawk Wealth Advisors purchased 7,181 shares of QQQ, valued at $3.57 million, increasing its total QQQ position to 18,597 shares. The investment comes during a period of economic uncertainty, with the NASDAQ-100 index underperforming the S&P 500.",
+          "article_url": "https://www.fool.com/coverage/filings/2025/07/21/redhawk-loads-up-on-7181-qqq-shares-in-q2-filing/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Anders Bylund",
+          "tickers": [
+            "QQQ"
+          ],
+          "keywords": [
+            "QQQ",
+            "ETF",
+            "NASDAQ-100",
+            "investment",
+            "market uncertainty"
+          ]
+        },
+        {
+          "published_utc": "2025-07-21T14:15:00Z",
+          "title": "5 Simple ETFs to Buy With $1,000 and Hold for a Lifetime",
+          "description": "The article discusses five recommended ETFs for long-term investors, focusing on diversification, growth, and income across different market segments including U.S. large-cap, technology, dividend, and international stocks.",
+          "article_url": "https://www.fool.com/investing/2025/07/21/5-simple-etfs-to-buy-with-1000-and-hold-for-a-life/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Geoffrey Seiler",
+          "tickers": [
+            "VOO",
+            "VUG",
+            "QQQ",
+            "SCHD",
+            "VYMI"
+          ],
+          "keywords": [
+            "ETFs",
+            "investing",
+            "long-term wealth",
+            "stock market",
+            "diversification"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "event": {
+    "event_id": "AAPL_20260306_142000",
+    "ticker": "AAPL",
+    "t0_utc": "2026-03-06 14:20:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2026-03-06T11:20:00+00:00",
+      "end": "2026-03-06T15:20:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-03-06T13:35:00Z",
+        "title": "Socket Mobile Announces Industrial Scanning Solutions for iPhone 17e",
+        "description": "Socket Mobile announced that its industrial scanning solutions\u2014XtremeScan, DuraSled, and DuraScan Terminal\u2014are now compatible with Apple's newly released iPhone 17e. The company's rugged scanning devices integrate with the iPhone 17e's enhanced durability and performance for applications in warehousing, logistics, manufacturing, retail, and field service. Socket Mobile's CaptureSDK enables developers to quickly integrate support for the new device with minimal effort.",
+        "article_url": "https://www.benzinga.com/pressreleases/26/03/n51093953/socket-mobile-announces-industrial-scanning-solutions-for-iphone-17e?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Prnewswire",
+        "tickers": [
+          "SCKT",
+          "AAPL"
+        ],
+        "keywords": [
+          "industrial scanning",
+          "iPhone 17e",
+          "barcode scanning",
+          "data capture",
+          "mobile solutions",
+          "CaptureSDK",
+          "rugged devices"
+        ]
+      },
+      {
+        "published_utc": "2026-03-06T15:15:00Z",
+        "title": "Warren Buffett Recommends This 1 Investment to All Investors. Here's How It Could Help Build a Million-Dollar Portfolio.",
+        "description": "Warren Buffett recommends S&P 500 index funds, particularly the Vanguard S&P 500 ETF (VOO), as an ideal investment for non-professional investors seeking long-term wealth building. Through compound returns averaging 10% annually, an initial $900 investment plus $300 monthly contributions could exceed $1 million over 35 years. Buffett has emphasized this strategy in shareholder letters and even directed his trustee to invest 90% of his estate's cash in an S&P 500 index fund.",
+        "article_url": "https://www.fool.com/investing/2026/03/06/buffett-recommends-this-1-investment-to-all/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Adria Cimino",
+        "tickers": [
+          "VOO",
+          "BRK.A",
+          "BRK.B",
+          "AAPL",
+          "AXP",
+          "BAC",
+          "BACpB",
+          "BACpE",
+          "BACpK",
+          "BACpL",
+          "BACpM",
+          "BACpN",
+          "BACpO",
+          "BACpP",
+          "BACpQ",
+          "BACpS",
+          "BMLpG",
+          "BMLpH",
+          "BMLpJ",
+          "BMLpL",
+          "MERpK"
+        ],
+        "keywords": [
+          "S&P 500 index fund",
+          "long-term investing",
+          "compound returns",
+          "wealth building",
+          "passive investing",
+          "ETF",
+          "retail investors"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-03-06T13:42:44Z",
+          "title": "Stock Market Today: Dow Jones, S&P 500 Futures Tumble As Payrolls Edge Down 92K\u2014 Marvell Technology, Gap, Oracle In Focus (UPDATED)",
+          "description": "U.S. stock futures fell on Friday amid ongoing Iran-US conflict and ahead of February employment data. Markets expect 55,000 payroll additions and a steady 4.3% jobless rate. The Fed is expected to hold rates unchanged in March with 97.3% probability. Key movers include Marvell Technology surging 11.92% on strong earnings, Gap tumbling 7.06% on disappointing results, and Oracle rising on AI-driven job cut plans.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/03/51090647/stock-market-today-dow-jones-sp-500-futures-tumble-ahead-of-february-employment-data-marvell-tec?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "MRVL",
+            "GAP",
+            "ORCL",
+            "ORCLpD",
+            "COST",
+            "F",
+            "FpB",
+            "FpC",
+            "FpD",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures decline",
+            "employment data",
+            "Federal Reserve",
+            "earnings",
+            "geopolitical tensions"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-03-06T13:42:44Z",
+          "title": "Stock Market Today: Dow Jones, S&P 500 Futures Tumble As Payrolls Edge Down 92K\u2014 Marvell Technology, Gap, Oracle In Focus (UPDATED)",
+          "description": "U.S. stock futures fell on Friday amid ongoing Iran-US conflict and ahead of February employment data. Markets expect 55,000 payroll additions and a steady 4.3% jobless rate. The Fed is expected to hold rates unchanged in March with 97.3% probability. Key movers include Marvell Technology surging 11.92% on strong earnings, Gap tumbling 7.06% on disappointing results, and Oracle rising on AI-driven job cut plans.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/03/51090647/stock-market-today-dow-jones-sp-500-futures-tumble-ahead-of-february-employment-data-marvell-tec?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "MRVL",
+            "GAP",
+            "ORCL",
+            "ORCLpD",
+            "COST",
+            "F",
+            "FpB",
+            "FpC",
+            "FpD",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures decline",
+            "employment data",
+            "Federal Reserve",
+            "earnings",
+            "geopolitical tensions"
+          ]
+        }
+      ]
+    }
+  }
+}

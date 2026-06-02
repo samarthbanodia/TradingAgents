@@ -1,0 +1,139 @@
+{
+  "event": {
+    "event_id": "NVDA_20240716_133000",
+    "ticker": "NVDA",
+    "t0_utc": "2024-07-16 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-07-16T10:30:00+00:00",
+      "end": "2024-07-16T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-07-16T11:15:00Z",
+        "title": "Super Micro Computer Has Outperformed Nvidia Halfway Through 2024. Can It Do the Same to End the Year? - The Motley Fool",
+        "description": "Super Micro Computer (SMCI) has outperformed Nvidia (NVDA) so far in 2024, with a 217% rise compared to Nvidia's 172%. While Nvidia has game-changing technology, Supermicro's advantage is its customizability. Supermicro is expected to have strong growth at the end of 2024 and in fiscal year 2025, making it a potential top-performing stock in the S&P 500 for the year.",
+        "article_url": "https://www.fool.com/investing/2024/07/16/super-micro-computer-has-outperformed-nvidia-halfw/",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "SMCI",
+          "NVDA"
+        ],
+        "keywords": [
+          "Super Micro Computer",
+          "Nvidia",
+          "AI",
+          "GPUs",
+          "server customization"
+        ]
+      },
+      {
+        "published_utc": "2024-07-16T12:25:58Z",
+        "title": "3 Semiconductor Stocks to Buy in 2024 as the Sector Marches on - Zacks Investment Research",
+        "description": "Semiconductors have been the success story of Wall Street, with the industry expected to grow significantly in the coming years. The semiconductor boom has led to advances in various sectors, and the global semiconductor market's fundamentals remain robust.",
+        "article_url": "https://www.zacks.com/stock/news/2302379/3-semiconductor-stocks-to-buy-in-2024-as-the-sector-marches-on",
+        "publisher": "Zacks Investment Research",
+        "author": "N/A",
+        "tickers": [
+          "TSM",
+          "MU",
+          "CRUS",
+          "NVDA"
+        ],
+        "keywords": [
+          "semiconductors",
+          "technology sector",
+          "AI",
+          "electronics",
+          "chip-making"
+        ]
+      },
+      {
+        "published_utc": "2024-07-16T13:47:57Z",
+        "title": "Is Nvidia Stock the Undisputed King of Artificial Intelligence? - The Motley Fool",
+        "description": "Nvidia's stock price has surged due to its innovative products that support the development of artificial intelligence. The article also mentions Broadcom, which has completed a 10-for-1 stock split, but its outlook differs from Nvidia's over the next 5 years.",
+        "article_url": "https://www.fool.com/investing/2024/07/16/is-nvidia-stock-the-undisputed-king-of-artificial/",
+        "publisher": "The Motley Fool",
+        "author": "Parkev Tatevosian, Cfa",
+        "tickers": [
+          "NVDA",
+          "AVGO"
+        ],
+        "keywords": [
+          "Nvidia",
+          "Broadcom",
+          "artificial intelligence",
+          "stock split"
+        ]
+      },
+      {
+        "published_utc": "2024-07-16T13:50:49Z",
+        "title": "Best AI Stocks: Nvidia Stock vs. Meta Stock - The Motley Fool",
+        "description": "Nvidia and Meta Platforms are both benefiting from the rising effectiveness of artificial intelligence, but Parkev Tatevosian compares the two stocks to determine the better AI stock to buy today.",
+        "article_url": "https://www.fool.com/investing/2024/07/16/best-ai-stocks-nvidia-stock-vs-meta-stock/",
+        "publisher": "The Motley Fool",
+        "author": "Parkev Tatevosian",
+        "tickers": [
+          "NVDA",
+          "META"
+        ],
+        "keywords": [
+          "Nvidia",
+          "Meta Platforms",
+          "AI",
+          "stock comparison"
+        ]
+      },
+      {
+        "published_utc": "2024-07-16T14:01:11Z",
+        "title": "EchoStar's (SATS) ORCID Advances O-RAN Testing & Deployment - Zacks Investment Research",
+        "description": "EchoStar Corporation has unveiled the Open RAN Center for Integration and Deployment (ORCID) at its Cheyenne, WY, data center facility. ORCID aims to advance the development, deployment, and adoption of open and interoperable standards-based radio access networks (RAN). The initiative is expected to boost the O-RAN ecosystem by transitioning from lab-based trials to real-world commercial deployments.",
+        "article_url": "https://www.zacks.com/stock/news/2302646/echostars-sats-orcid-advances-o-ran-testing-deployment",
+        "publisher": "Zacks Investment Research",
+        "author": "Zacks Equity Research",
+        "tickers": [
+          "SATS",
+          "NVDA",
+          "MSI",
+          "ONTO"
+        ],
+        "keywords": [
+          "EchoStar",
+          "Open RAN",
+          "5G",
+          "wireless technology"
+        ]
+      },
+      {
+        "published_utc": "2024-07-16T14:01:48Z",
+        "title": "Why Nvidia Stock Will Dominate in Artificial Intelligence (AI) - The Motley Fool",
+        "description": "Nvidia's revenue and earnings per share have seen significant growth, and the company is expected to continue thriving in the artificial intelligence market.",
+        "article_url": "https://www.fool.com/investing/2024/07/16/why-nvidia-stock-will-dominate-in-artificial-intel/",
+        "publisher": "The Motley Fool",
+        "author": "Parkev Tatevosian",
+        "tickers": [
+          "NVDA"
+        ],
+        "keywords": [
+          "Nvidia",
+          "artificial intelligence",
+          "revenue growth",
+          "earnings growth"
+        ]
+      }
+    ],
+    "ticker_news_count": 6,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

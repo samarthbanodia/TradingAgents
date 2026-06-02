@@ -1,0 +1,108 @@
+{
+  "event": {
+    "event_id": "AAPL_20260217_142500",
+    "ticker": "AAPL",
+    "t0_utc": "2026-02-17 14:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-02-17T11:25:00+00:00",
+      "end": "2026-02-17T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-02-17T11:55:18Z",
+        "title": "Apple Gears Up For 'Special Experience' Event On March 4: Here's What To Expect",
+        "description": "Apple announced a 'special Apple Experience' event on March 4 in New York, London, and Shanghai. The intimate gathering is expected to unveil multiple new products including iPhone 17e, MacBook Pro with M5 chips, iPad Air, updated Studio Display, budget MacBook with A18 chip, new Apple TV, and HomePod mini. Apple stock declined 5.62% year-to-date and fell 2.27% on Friday to close at $255.78.",
+        "article_url": "https://www.benzinga.com/markets/tech/26/02/50644505/apple-gears-up-for-special-experience-event-on-march-4-heres-what-to-expect?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "AAPL"
+        ],
+        "keywords": [
+          "Apple event",
+          "March 4",
+          "iPhone 17e",
+          "MacBook Pro M5",
+          "iPad Air",
+          "product launch",
+          "special experience"
+        ]
+      },
+      {
+        "published_utc": "2026-02-17T13:22:00Z",
+        "title": "AI Capital Expenditure (Capex) Is Off the Charts: Who Stands to Lose?",
+        "description": "Big Tech companies are spending approximately $400 billion on AI infrastructure over four quarters in a 'scorched earth' competition to dominate AI. While companies like Alphabet are using massive spending to prevent disruption, concerns arise about whether this spending will generate adequate returns. Companies like CoreWeave face higher bankruptcy risk due to heavy debt reliance, while Oracle's strategy is more sustainable given its stable business foundation, though it remains expensive at current valuations.",
+        "article_url": "https://www.fool.com/investing/2026/02/17/ai-capital-expenditure-capex-is-off-the-charts-who/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Motley Fool Staff",
+        "tickers": [
+          "GOOG",
+          "GOOGL",
+          "META",
+          "MSFT",
+          "AMZN",
+          "AAPL",
+          "CRWV",
+          "ORCL",
+          "ORCLpD",
+          "MNDY",
+          "KD"
+        ],
+        "keywords": [
+          "AI capital expenditure",
+          "tech spending",
+          "infrastructure investment",
+          "AI competition",
+          "debt financing",
+          "return on investment",
+          "data centers"
+        ]
+      },
+      {
+        "published_utc": "2026-02-17T14:15:00Z",
+        "title": "Subscription Prices Are Going Up Again",
+        "description": "Subscription services like Spotify, Netflix, and Disney+ are raising prices again, successfully improving profitability despite concerns about unlimited pricing power. Meanwhile, retail sales came in below expectations at 2.4% growth, reflecting a K-shaped economy where wealthy consumers drive spending while lower-income households struggle. Unity Software plummeted 30% after providing weak guidance despite beating earnings, as investors fear AI disruption from tools like Google's Project Genie.",
+        "article_url": "https://www.fool.com/investing/2026/02/17/subscription-prices-are-going-up-again/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Motley Fool Staff",
+        "tickers": [
+          "SPOT",
+          "NFLX",
+          "DIS",
+          "WMT",
+          "TGT",
+          "U",
+          "GOOG",
+          "GOOGL",
+          "AMZN",
+          "META",
+          "INTC",
+          "AAPL"
+        ],
+        "keywords": [
+          "subscription price increases",
+          "streaming services",
+          "retail sales",
+          "K-shaped economy",
+          "AI disruption",
+          "consumer spending",
+          "profitability",
+          "pricing power"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

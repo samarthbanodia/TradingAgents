@@ -1,0 +1,93 @@
+{
+  "event": {
+    "event_id": "NFLX_20260209_143000",
+    "ticker": "NFLX",
+    "t0_utc": "2026-02-09 14:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "unclear",
+    "window": {
+      "start": "2026-02-09T11:30:00+00:00",
+      "end": "2026-02-09T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-02-09T13:35:59Z",
+          "title": "Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Decline\u2014 STMicroelectronics, Kroger, FedEx In Focus (UPDATED)",
+          "description": "U.S. stock futures declined on Monday following Friday's record close, with the Dow Jones, S&P 500, and Nasdaq 100 all trading lower in premarket. Key movers include STMicroelectronics jumping on an AWS deal, Kroger gaining on CEO speculation, and FedEx rising after announcing the InPost acquisition. Strategy Inc. continued falling after reporting a massive $12.4 billion net loss. Asian markets closed higher, while the Fed is expected to hold rates steady in March.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50473679/stock-market-today-dow-jones-futures-drop-after-fridays-record-close-stmicroelectronics-kroger-f?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "STM",
+            "KR",
+            "FDX",
+            "MSTR",
+            "STRC",
+            "STRD",
+            "STRF",
+            "STRK",
+            "ON",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market futures",
+            "Dow Jones",
+            "S&P 500",
+            "STMicroelectronics",
+            "Kroger",
+            "FedEx",
+            "Federal Reserve",
+            "interest rates",
+            "earnings",
+            "premarket trading"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-02-09T13:35:59Z",
+          "title": "Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Decline\u2014 STMicroelectronics, Kroger, FedEx In Focus (UPDATED)",
+          "description": "U.S. stock futures declined on Monday following Friday's record close, with the Dow Jones, S&P 500, and Nasdaq 100 all trading lower in premarket. Key movers include STMicroelectronics jumping on an AWS deal, Kroger gaining on CEO speculation, and FedEx rising after announcing the InPost acquisition. Strategy Inc. continued falling after reporting a massive $12.4 billion net loss. Asian markets closed higher, while the Fed is expected to hold rates steady in March.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50473679/stock-market-today-dow-jones-futures-drop-after-fridays-record-close-stmicroelectronics-kroger-f?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "STM",
+            "KR",
+            "FDX",
+            "MSTR",
+            "STRC",
+            "STRD",
+            "STRF",
+            "STRK",
+            "ON",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market futures",
+            "Dow Jones",
+            "S&P 500",
+            "STMicroelectronics",
+            "Kroger",
+            "FedEx",
+            "Federal Reserve",
+            "interest rates",
+            "earnings",
+            "premarket trading"
+          ]
+        }
+      ]
+    }
+  }
+}

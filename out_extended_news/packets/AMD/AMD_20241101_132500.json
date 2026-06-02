@@ -1,0 +1,82 @@
+{
+  "event": {
+    "event_id": "AMD_20241101_132500",
+    "ticker": "AMD",
+    "t0_utc": "2024-11-01 13:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-11-01T10:25:00+00:00",
+      "end": "2024-11-01T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-11-01T12:21:09Z",
+        "title": "Should You Buy AMD Stock on the Dip?",
+        "description": "AMD's AI business is thriving, but other segments continue to weigh on the company's growth, leading to a nearly 8% drop in stock price.",
+        "article_url": "https://www.fool.com/investing/2024/11/01/should-you-buy-amd-stock-on-the-dip/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Parkev Tatevosian, Cfa",
+        "tickers": [
+          "AMD"
+        ],
+        "keywords": [
+          "AMD",
+          "AI",
+          "chip sales"
+        ]
+      },
+      {
+        "published_utc": "2024-11-01T13:56:00Z",
+        "title": "4 Top Stocks to Buy in November",
+        "description": "The article discusses four stocks that the author is looking to buy in November, including Alphabet (GOOGL). The author believes the market could finish the year higher than where it is currently.",
+        "article_url": "https://www.fool.com/investing/2024/11/01/4-top-stocks-to-buy-in-november/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Mark Roussin, Cpa",
+        "tickers": [
+          "AMD",
+          "CBDY"
+        ],
+        "keywords": [
+          "stocks",
+          "investing",
+          "market analysis"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-11-01T14:17:21Z",
+          "title": "Stocks Rebound After Selloff As October Hiring Slump Fuels Interest Rate Cut Bets: 10 ETFs To Watch Friday",
+          "description": "Stocks rebounded after Thursday's decline as a hiring freeze in October boosted market expectations for Federal Reserve rate cuts. The SPDR S&P 500 ETF Trust, Roundhill Magnificent Seven ETF, and other sector-specific ETFs saw gains.",
+          "article_url": "https://www.benzinga.com/markets/equities/24/11/41687354/stocks-rebound-after-selloff-as-october-hiring-slump-fuels-interest-rate-cut-bets-10-etfs-to-wat",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari, Benzinga Staff Writer",
+          "tickers": [
+            "SPY",
+            "MAGS",
+            "XLY",
+            "ITB",
+            "SOXX"
+          ],
+          "keywords": [
+            "stocks",
+            "federal reserve",
+            "interest rates",
+            "employment",
+            "etfs"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

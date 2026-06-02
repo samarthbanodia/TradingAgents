@@ -1,0 +1,152 @@
+{
+  "event": {
+    "event_id": "NFLX_20260123_143000",
+    "ticker": "NFLX",
+    "t0_utc": "2026-01-23 14:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-01-23T11:30:00+00:00",
+      "end": "2026-01-23T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-01-23T12:24:00Z",
+        "title": "Netflix Discovered a Hidden Subscriber Growth Engine That Has Nothing to Do with Binge-Watching",
+        "description": "Netflix is leveraging live events as a powerful subscriber acquisition and retention tool, despite accounting for a small portion of viewing hours. The company broadcast over 200 live events in 2025, including NFL games and WWE programming, with Christmas Day NFL games generating 430,000 new subscribers. Netflix plans to expand live events internationally, viewing them as a strategic complement to its $3.4 billion annual marketing spend.",
+        "article_url": "https://www.fool.com/investing/2026/01/23/netflix-discovered-a-hidden-subscriber-growth-engi/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Timothy Green",
+        "tickers": [
+          "NFLX"
+        ],
+        "keywords": [
+          "live events",
+          "subscriber growth",
+          "customer acquisition",
+          "WWE",
+          "NFL",
+          "streaming strategy",
+          "content investment"
+        ]
+      },
+      {
+        "published_utc": "2026-01-23T13:24:00Z",
+        "title": "Netflix Stock Drops 35%+ After Q4 as WBD Deal Risk Rises",
+        "description": "Netflix stock has declined approximately 37% from its mid-2025 peak of $134, closing down 3% after Q4 earnings. While the company posted solid results with 18% sales growth and beat earnings estimates, investors are concerned about moderating growth and uncertainty surrounding its $82.7 billion all-cash acquisition of Warner Bros. Discovery. The deal faces potential antitrust scrutiny and competition from Paramount Skydance's offer, though analysts maintain average price targets around $117, suggesting 38% upside potential.",
+        "article_url": "https://www.investing.com/analysis/netflix-stock-drops-35-after-q4-as-wbd-deal-risk-rises-200673780",
+        "publisher": "Investing.com",
+        "author": "Leo Miller",
+        "tickers": [
+          "NFLX",
+          "WBD"
+        ],
+        "keywords": [
+          "Netflix earnings",
+          "stock decline",
+          "Warner Bros Discovery acquisition",
+          "antitrust scrutiny",
+          "streaming competition",
+          "free cash flow",
+          "share buyback suspension"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-01-23T12:32:12Z",
+          "title": "This Silver Stock Is Up 281% and One Fund Just Took $5 Million Off the Table",
+          "description": "Azarias Capital Management sold 536,928 shares of Endeavour Silver (EXK) worth approximately $4.55 million in Q4, reducing its stake to 2.59% of AUM. Despite the sale, the fund maintains meaningful exposure to the stock. Endeavour Silver shares have surged 281% over the past year, significantly outperforming the S&P 500's 14% gain. The company expects strong 2026 guidance with increased production and lower costs as new mines ramp up.",
+          "article_url": "https://www.fool.com/coverage/filings/2026/01/23/this-silver-stock-is-up-281-and-one-fund-just-took-usd5-million-off-the-table/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Jonathan Ponciano",
+          "tickers": [
+            "EXK",
+            "SPY"
+          ],
+          "keywords": [
+            "silver mining",
+            "precious metals",
+            "stock sale",
+            "fund rebalancing",
+            "production guidance",
+            "Mexico mining",
+            "Chile mining"
+          ]
+        },
+        {
+          "published_utc": "2026-01-23T13:38:13Z",
+          "title": "Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Decline After 2 Consecutive Days Of Gains\u2014Intel, CSX In Focus (UPDATED)",
+          "description": "U.S. stock futures declined slightly on Friday after two consecutive days of gains, following President Trump's withdrawal of EU tariffs and better-than-expected Q3 GDP figures at 4.4%. Key movers include Intel down 12% on weak guidance, Capital One down 3.31% on earnings miss, Revelation Biosciences up 38% on FDA approval pathway, and CSX up 2.99% despite missing estimates. Bank of America's fund manager survey shows institutional investors at their most bullish since 2021.",
+          "article_url": "https://www.benzinga.com/markets/market-summary/26/01/50090375/stock-market-today-sp-500-dow-jones-nasdaq-100-futures-decline-after-2-consecutive-days-of?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Vishaal Sanjay",
+          "tickers": [
+            "INTC",
+            "COF",
+            "COFpI",
+            "COFpJ",
+            "COFpK",
+            "COFpL",
+            "COFpN",
+            "REVB",
+            "REVBW",
+            "CSX",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market futures",
+            "S&P 500",
+            "Nasdaq 100",
+            "GDP",
+            "tariffs",
+            "earnings",
+            "fund manager sentiment"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-01-23T13:38:13Z",
+          "title": "Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Decline After 2 Consecutive Days Of Gains\u2014Intel, CSX In Focus (UPDATED)",
+          "description": "U.S. stock futures declined slightly on Friday after two consecutive days of gains, following President Trump's withdrawal of EU tariffs and better-than-expected Q3 GDP figures at 4.4%. Key movers include Intel down 12% on weak guidance, Capital One down 3.31% on earnings miss, Revelation Biosciences up 38% on FDA approval pathway, and CSX up 2.99% despite missing estimates. Bank of America's fund manager survey shows institutional investors at their most bullish since 2021.",
+          "article_url": "https://www.benzinga.com/markets/market-summary/26/01/50090375/stock-market-today-sp-500-dow-jones-nasdaq-100-futures-decline-after-2-consecutive-days-of?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Vishaal Sanjay",
+          "tickers": [
+            "INTC",
+            "COF",
+            "COFpI",
+            "COFpJ",
+            "COFpK",
+            "COFpL",
+            "COFpN",
+            "REVB",
+            "REVBW",
+            "CSX",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market futures",
+            "S&P 500",
+            "Nasdaq 100",
+            "GDP",
+            "tariffs",
+            "earnings",
+            "fund manager sentiment"
+          ]
+        }
+      ]
+    }
+  }
+}

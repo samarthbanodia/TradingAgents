@@ -1,0 +1,48 @@
+{
+  "event": {
+    "event_id": "AAPL_20251001_133000",
+    "ticker": "AAPL",
+    "t0_utc": "2025-10-01 13:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "unclear",
+    "window": {
+      "start": "2025-10-01T10:30:00+00:00",
+      "end": "2025-10-01T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-10-01T12:29:40Z",
+          "title": "Stock Market Today: S&P 500, Dow, Nasdaq Futures Decline Following Government Shutdown\u2014Nike, Ryvyl, Conagra Brands In Focus",
+          "description": "U.S. stock futures declined on Wednesday following a government shutdown, with major indices experiencing premarket drops. Despite the shutdown, historical data suggests limited long-term market impact, and analysts remain cautiously optimistic about market performance in October.",
+          "article_url": "https://www.benzinga.com/markets/equities/25/10/47962325/stock-market-today-sp-500-dow-nasdaq-futures-drop-following-government-shutdown-nike-ryvyl-conag",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "NKE",
+            "CAG",
+            "RVYL",
+            "ASTS",
+            "SPY"
+          ],
+          "keywords": [
+            "government shutdown",
+            "stock futures",
+            "market performance",
+            "October trading",
+            "economic indicators"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

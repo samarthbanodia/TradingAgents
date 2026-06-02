@@ -1,0 +1,136 @@
+{
+  "event": {
+    "event_id": "GOOGL_20251021_150000",
+    "ticker": "GOOGL",
+    "t0_utc": "2025-10-21 15:00:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-10-21T12:00:00+00:00",
+      "end": "2025-10-21T16:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-10-21T15:00:00Z",
+        "title": "BizClik Releases October 2025 Sustainability Portfolio Editions",
+        "description": "Sustainability Magazine's October 2025 issue features executive interviews and insights on sustainability, including perspectives from Schneider Electric, Radisson Hotel Group, PepsiCo, IBM, Google, and NetApp on decarbonization and climate action strategies.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/21/3170422/0/en/BizClik-Releases-October-2025-Sustainability-Portfolio-Editions.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Izzy Hutchin",
+        "tickers": [
+          "SBGSY",
+          "PEP",
+          "IBM",
+          "GOOG",
+          "GOOGL",
+          "NTAP"
+        ],
+        "keywords": [
+          "sustainability",
+          "net zero",
+          "climate tech",
+          "ESG",
+          "decarbonization"
+        ]
+      },
+      {
+        "published_utc": "2025-10-21T15:03:00Z",
+        "title": "3 Growth Stocks to Invest $1,000 in Right Now",
+        "description": "The AI revolution is reshaping the tech industry, with Nvidia, Taiwan Semiconductor, and Alphabet emerging as key players driving technological innovation and infrastructure development in artificial intelligence.",
+        "article_url": "https://www.fool.com/investing/2025/10/21/3-growth-stocks-to-invest-1000-right-now/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Adam Spatacco",
+        "tickers": [
+          "NVDA",
+          "TSM",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "AI",
+          "semiconductors",
+          "technology",
+          "investment",
+          "innovation"
+        ]
+      },
+      {
+        "published_utc": "2025-10-21T15:33:20Z",
+        "title": "Big Money Moves: Investment Advisor Stocks Up on Often-Overlooked Artificial Intelligence (AI) Stock",
+        "description": "Sander Capital Advisors Inc added 18,880 Oracle shares worth $4.81 million in Q3 2025, making Oracle its 5th-largest holding at 10% of assets under management, signaling confidence in the company's AI and data center expansion strategy.",
+        "article_url": "https://www.fool.com/coverage/filings/2025/10/21/big-money-moves-investment-advisor-stocks-up-on-often-overlooked-artificial-intelligence-ai-stock/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jake Lerch",
+        "tickers": [
+          "ORCL",
+          "MSFT",
+          "AAPL",
+          "AMZN",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "AI",
+          "investment",
+          "Oracle",
+          "data centers",
+          "technology"
+        ]
+      },
+      {
+        "published_utc": "2025-10-21T15:33:36Z",
+        "title": "Investment Advisor Pulls Plug on Software Giant, Recent Filing Shows",
+        "description": "Shaker Investments sold its entire $2.94 million stake in Salesforce during Q3 2025, citing underperformance and potential AI-related challenges in the software industry.",
+        "article_url": "https://www.fool.com/coverage/filings/2025/10/21/investment-advisor-pulls-plug-on-software-giant-recent-filing-shows/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jake Lerch",
+        "tickers": [
+          "CRM",
+          "NVDA",
+          "MSFT",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "Salesforce",
+          "stock sale",
+          "institutional investment",
+          "AI disruption"
+        ]
+      },
+      {
+        "published_utc": "2025-10-21T15:33:48Z",
+        "title": "Investment Manager Takes a Big Step Back From Software Giant",
+        "description": "Shaker Investments sold approximately 2,910 shares of ServiceNow, reducing its portfolio exposure by about 75%, potentially signaling concerns about the company's performance amid shifting market sentiment towards AI-driven technologies.",
+        "article_url": "https://www.fool.com/coverage/filings/2025/10/21/investment-manager-takes-a-big-step-back-from-software-giant/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jake Lerch",
+        "tickers": [
+          "NOW",
+          "GOOG",
+          "GOOGL",
+          "MSFT",
+          "NVDA"
+        ],
+        "keywords": [
+          "ServiceNow",
+          "stock sale",
+          "institutional investment",
+          "AI transformation",
+          "workflow automation"
+        ]
+      }
+    ],
+    "ticker_news_count": 5,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

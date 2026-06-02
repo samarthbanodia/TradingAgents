@@ -1,0 +1,148 @@
+{
+  "event": {
+    "event_id": "TSLA_20251002_124500",
+    "ticker": "TSLA",
+    "t0_utc": "2025-10-02 12:45:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-10-02T09:45:00+00:00",
+      "end": "2025-10-02T13:45:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-10-02T11:34:00Z",
+        "title": "S&P 500 Hits New Highs as Risk Appetite Remains Insatiable",
+        "description": "The S&P 500 reached new record highs despite the US government shutdown, driven by expectations of potential Federal Reserve rate cuts and strong performance in tech stocks. Market sentiment remains bullish, with investors anticipating the upcoming Q3 earnings season.",
+        "article_url": "https://www.investing.com/analysis/sp-500-hits-new-highs-as-risk-appetite-remains-insatiable-200667878",
+        "publisher": "Investing.com",
+        "author": "Fawad Razaqzada",
+        "tickers": [
+          "TSLA",
+          "AAPL",
+          "NVDA",
+          "AMZN",
+          "META"
+        ],
+        "keywords": [
+          "S&P 500",
+          "Federal Reserve",
+          "rate cuts",
+          "tech stocks",
+          "earnings season"
+        ]
+      },
+      {
+        "published_utc": "2025-10-02T11:58:02Z",
+        "title": "Elon Musk Is 'The Ultimate GPU,' Says Nvidia CEO Jensen Huang\u2014Predicts He Could Be The First To Hit A Gigawatt",
+        "description": "Nvidia CEO Jensen Huang praised Elon Musk's cognitive abilities, comparing his brain to a GPU and predicting he could be the first to achieve a gigawatt AI training cluster using Nvidia technology.",
+        "article_url": "https://www.benzinga.com/markets/tech/25/10/47990733/elon-musk-is-the-ultimate-gpu-says-nvidia-ceo-jensen-huang-predicts-he-could-be-the-first-to-hit-a-g",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "NVDA",
+          "TSLA"
+        ],
+        "keywords": [
+          "AI",
+          "GPU",
+          "supercomputer",
+          "Elon Musk",
+          "Jensen Huang"
+        ]
+      },
+      {
+        "published_utc": "2025-10-02T13:24:00Z",
+        "title": "Nasdaq Pushes to Record Highs as Rate Cut Bets Clash With Shutdown Risks",
+        "description": "U.S. stocks opened higher with Nasdaq 100 and S&P 500 on track for record highs, driven by rate cut optimism following weak private payroll data, despite ongoing government shutdown concerns.",
+        "article_url": "https://www.investing.com/analysis/nasdaq-pushes-to-record-highs-as-rate-cut-bets-clash-with-shutdown-risks-200667886",
+        "publisher": "Investing.com",
+        "author": "Fiona Cincotta",
+        "tickers": [
+          "TSLA",
+          "AAPL",
+          "STLA",
+          "META"
+        ],
+        "keywords": [
+          "Nasdaq",
+          "rate cuts",
+          "government shutdown",
+          "stock market",
+          "Federal Reserve"
+        ]
+      },
+      {
+        "published_utc": "2025-10-02T13:45:00Z",
+        "title": "Tesla Q3 Delivery Beat Supports Stock, but Valuation Still Hinges on Autonomy",
+        "description": "Tesla exceeded Q3 vehicle delivery expectations with 497,099 vehicles, driven by customers rushing to secure federal EV tax credits. The stock performance remains tied to future expectations of autonomous driving and energy technology platforms.",
+        "article_url": "https://www.investing.com/analysis/tesla-q3-delivery-beat-supports-stock-but-valuation-still-hinges-on-autonomy-200667887",
+        "publisher": "Investing.com",
+        "author": "Khasay Hashimov",
+        "tickers": [
+          "TSLA",
+          "VWAGY"
+        ],
+        "keywords": [
+          "Tesla",
+          "EV",
+          "autonomous driving",
+          "delivery",
+          "tax credits",
+          "market valuation"
+        ]
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-10-02T11:26:40Z",
+          "title": "Recession Odds 'Not At 0%,' Says Economist As Small And Medium Businesses Drive Job Losses In ADP Report Amid BLS Shutdown",
+          "description": "ADP Employment report shows private payrolls unexpectedly lost 32,000 jobs in September, with small and medium businesses driving job losses. Economists warn recession risks are increasing, potentially prompting Federal Reserve to consider rate cuts.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/25/10/47990357/recession-odds-not-at-0-says-economist-as-small-and-medium-businesses-drive-job-losses-in-a",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "recession",
+            "job losses",
+            "ADP report",
+            "labor market",
+            "monetary policy"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-10-02T11:26:40Z",
+          "title": "Recession Odds 'Not At 0%,' Says Economist As Small And Medium Businesses Drive Job Losses In ADP Report Amid BLS Shutdown",
+          "description": "ADP Employment report shows private payrolls unexpectedly lost 32,000 jobs in September, with small and medium businesses driving job losses. Economists warn recession risks are increasing, potentially prompting Federal Reserve to consider rate cuts.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/25/10/47990357/recession-odds-not-at-0-says-economist-as-small-and-medium-businesses-drive-job-losses-in-a",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "recession",
+            "job losses",
+            "ADP report",
+            "labor market",
+            "monetary policy"
+          ]
+        }
+      ]
+    }
+  }
+}

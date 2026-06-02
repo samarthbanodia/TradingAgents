@@ -1,0 +1,101 @@
+{
+  "event": {
+    "event_id": "AMD_20241003_131500",
+    "ticker": "AMD",
+    "t0_utc": "2024-10-03 13:15:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2024-10-03T10:15:00+00:00",
+      "end": "2024-10-03T14:15:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-10-03T11:45:00Z",
+        "title": "Is Taiwan Semiconductor a Millionaire-Maker Stock?",
+        "description": "TSMC's stock has soared by over 3,000% since its American depositary shares debuted on the NYSE in 1997. The chipmaker is set to benefit from increasing chip demand for AI infrastructure and end devices. TSMC is the clear technological leader in the contract semiconductor manufacturing industry and is well-positioned to capitalize on the AI infrastructure build-out.",
+        "article_url": "https://www.fool.com/investing/2024/10/03/is-taiwan-semiconductor-a-millionaire-maker-stock/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "TSM",
+          "AAPL",
+          "NVDA",
+          "AVGO",
+          "AMD"
+        ],
+        "keywords": [
+          "TSMC",
+          "AI",
+          "semiconductor",
+          "chip manufacturing"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-10-03T11:10:40Z",
+          "title": "US Stocks Staring At Another Weak Open As Traders Await Key Jobs Report; Sentiment Wavers As Oil Extends Surge Amid Middle East Tensions",
+          "description": "US stock index futures are trading lower on Thursday as traders await key economic data, including the non-farm payrolls report on Friday. Geopolitical tensions and a dockworkers strike are also weighing on sentiment.",
+          "article_url": "https://www.benzinga.com/news/earnings/24/10/41161081/us-stocks-staring-at-another-weak-open-as-traders-await-key-jobs-report-sentiment-wavers-as-oil-ext",
+          "publisher": "Benzinga",
+          "author": "Benzinga Editor",
+          "tickers": [
+            "QQQ",
+            "SPY",
+            "TSLA",
+            "RIVN",
+            "LCID",
+            "CHPT",
+            "LEVI"
+          ],
+          "keywords": [
+            "Nasdaq",
+            "S&P 500",
+            "futures",
+            "economic data",
+            "non-farm payrolls",
+            "geopolitical tensions",
+            "dockworkers strike"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2024-10-03T11:10:40Z",
+          "title": "US Stocks Staring At Another Weak Open As Traders Await Key Jobs Report; Sentiment Wavers As Oil Extends Surge Amid Middle East Tensions",
+          "description": "US stock index futures are trading lower on Thursday as traders await key economic data, including the non-farm payrolls report on Friday. Geopolitical tensions and a dockworkers strike are also weighing on sentiment.",
+          "article_url": "https://www.benzinga.com/news/earnings/24/10/41161081/us-stocks-staring-at-another-weak-open-as-traders-await-key-jobs-report-sentiment-wavers-as-oil-ext",
+          "publisher": "Benzinga",
+          "author": "Benzinga Editor",
+          "tickers": [
+            "QQQ",
+            "SPY",
+            "TSLA",
+            "RIVN",
+            "LCID",
+            "CHPT",
+            "LEVI"
+          ],
+          "keywords": [
+            "Nasdaq",
+            "S&P 500",
+            "futures",
+            "economic data",
+            "non-farm payrolls",
+            "geopolitical tensions",
+            "dockworkers strike"
+          ]
+        }
+      ]
+    }
+  }
+}

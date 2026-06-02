@@ -1,0 +1,473 @@
+{
+  "event": {
+    "event_id": "NVDA_20240606_130500",
+    "ticker": "NVDA",
+    "t0_utc": "2024-06-06 13:05:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-06-06T10:05:00+00:00",
+      "end": "2024-06-06T14:05:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-06-06T10:14:00Z",
+        "title": "Prediction: This Could Be Nvidia Stock's Next Massive-Growth Opportunity",
+        "description": "The company reported impressive growth in a business that could become huge in the long run.",
+        "article_url": "https://www.fool.com/investing/2024/06/06/prediction-this-could-be-nvidia-stocks-next-massiv/",
+        "publisher": "The Motley Fool",
+        "author": "newsfeedback@fool.com (Harsh Chauhan)",
+        "tickers": [
+          "NVDA",
+          "MSFT"
+        ],
+        "keywords": [
+          "investing"
+        ]
+      },
+      {
+        "published_utc": "2024-06-06T10:15:00Z",
+        "title": "2 Growth Stocks That Are Screaming Buys in June",
+        "description": "These companies have come back strong after the bear market, proving their worth as long-term investments.",
+        "article_url": "https://www.fool.com/investing/2024/06/06/2-growth-stocks-that-are-screaming-buys-in-june/",
+        "publisher": "The Motley Fool",
+        "author": "newsfeedback@fool.com (Dani Cook)",
+        "tickers": [
+          "AMD",
+          "AMZN",
+          "INTC",
+          "NVDA"
+        ],
+        "keywords": [
+          "investing"
+        ]
+      },
+      {
+        "published_utc": "2024-06-06T10:41:00Z",
+        "title": "Juniper (JNPR) Enhances Secure AI-Native Networking Platform",
+        "description": "The updates promise significant improvements in cost efficiency and network performance, positioning Juniper (JNPR) as a leader in the AI-driven networking market.",
+        "article_url": "https://www.zacks.com/stock/news/2284434/juniper-jnpr-enhances-secure-ai-native-networking-platform",
+        "publisher": "Zacks Investment Research",
+        "author": "Zacks Equity Research",
+        "tickers": [
+          "JNPR",
+          "NVDA",
+          "MSI",
+          "ANET"
+        ],
+        "keywords": []
+      },
+      {
+        "published_utc": "2024-06-06T11:00:00Z",
+        "title": "Semiconductor ETF (SOXQ) Hits New 52-Week High",
+        "description": "The semiconductor ETF hit a 52-week high lately. Can it soar higher?",
+        "article_url": "https://www.zacks.com/stock/news/2284413/semiconductor-etf-soxq-hits-new-52-week-high",
+        "publisher": "Zacks Investment Research",
+        "author": "Sanghamitra Saha",
+        "tickers": [
+          "NVDA",
+          "SOXQ"
+        ],
+        "keywords": []
+      },
+      {
+        "published_utc": "2024-06-06T11:00:00Z",
+        "title": "3 Reasons to Buy Nvidia Stock (Hint: It's Not Its Stock Split)",
+        "description": "Nvidia has been thriving on the rise of AI.",
+        "article_url": "https://www.fool.com/investing/2024/06/06/3-reasons-to-buy-nvidia-stock-hint-its-not-its-sto/",
+        "publisher": "The Motley Fool",
+        "author": "newsfeedback@fool.com (Keithen Drury)",
+        "tickers": [
+          "NVDA"
+        ],
+        "keywords": [
+          "investing"
+        ]
+      },
+      {
+        "published_utc": "2024-06-06T11:24:10Z",
+        "title": "US Stock Futures Tread Water As Indices Perch At Record Highs: Amid Nvidia Spike And ECB Rate-Cut Hopes, Analyst Sees More Volatility In Summer",
+        "description": "Early indications from the futures market suggest caution after Wednesday\u2019s exhilarating run. Earnings news continues to be positive, reinforcing the strength in corporate profit growth. The rate-cut premise based on which the market has been rallying could be put to the test with a couple of labor market readings due Thursday. \nAfter the Bank of Canada became the first G-7 central bank to cut rates, the first one in about four years, all eyes would be on its counterpart from across the Atlantic. The European Central Bank is widely expected to begin lowering rates despite inflation remaining an irritant. A cut by the bank could provide a further thrust to Wall Street ahead of next week\u2019s Federal Open Market Committee meeting.\n\n\n\n\nFutures\nPerformance (+/-)\n\n\nNasdaq 100\n+0.05%\n\n\nS&P 500\n-0.01%\n\n\nDow\n-0.07%\n\n\nR2K\n-0.43%\n\n\n\n\nIn premarket trading on Thursday,\u00a0the SPDR S&P 500 ETF Trust (NYSE:SPY) edged down 0.01% to $534,61, while the\u00a0Invesco QQQ ETF (NASDAQ:QQQ) traded up 0.09% at $463.93, according to\u00a0Benzinga Pro data.\nCues From Previous Session:\nU.S. stocks advanced strongly on Wednesday, with the smaller-than-expected private jobs added in May and the stronger-than-expected service sector activity data providing a big thrust to the market. These data allayed both inflation and growth concerns. The increase in risk appetite manifested well and truly in growth-focused tech stocks.\nNvidia Corp. (NASDAQ:NVDA) rallied over 5%, leading the gains in the tech space.\nThe Nasdaq Composite and the S&P 500 Index hit fresh intraday and closing highs during the session.\n\n\n\n\nIndex\nPerformance   (+/-)\nValue\n\n\nNasdaq Composite\n+1.96%\n17,187.90\n\n\nS&P 500 Index\n+1.18%\n5,354.03\n\n\nDow Industrials\n+0.25%\n38,807.33\n\n\nRussell 2000\n+1.47%\n2,063.87\n\n\n\n\nInsights From ...Full story available on Benzinga.com",
+        "article_url": "https://www.benzinga.com/markets/equities/24/06/39202679/us-stock-futures-tread-water-as-indices-perch-at-record-highs-amid-nvidia-spike-and-ecb-rate-cut",
+        "publisher": "Benzinga",
+        "author": "Shanthi Rexaline",
+        "tickers": [
+          "FIVE",
+          "SMAR",
+          "IOT",
+          "DOCU",
+          "SPY",
+          "NIO",
+          "CIEN",
+          "GIII",
+          "LULU",
+          "NVDA",
+          "SMTC",
+          "ZUMZ",
+          "ABM",
+          "BIG",
+          "MTN",
+          "SJM",
+          "QQQ",
+          "CHPT"
+        ],
+        "keywords": [
+          "News",
+          "Equities",
+          "Futures",
+          "Previews",
+          "Top Stories",
+          "Economics",
+          "Federal Reserve",
+          "Pre-Market Outlook",
+          "Markets",
+          "Movers",
+          "Trading Ideas"
+        ]
+      },
+      {
+        "published_utc": "2024-06-06T12:00:00Z",
+        "title": "ETFs for Leveraging the Surge in Nasdaq and S&P 500",
+        "description": "The S&P 500 and the Nasdaq keep surging higher. Both indexes hit an all-time high yesterday, mainly on strength in NVIDIA.",
+        "article_url": "https://www.zacks.com/stock/news/2284436/etfs-for-leveraging-the-surge-in-nasdaq-and-sp-500",
+        "publisher": "Zacks Investment Research",
+        "author": "Sanghamitra Saha",
+        "tickers": [
+          "AAPL",
+          "NVDA",
+          "QQQ",
+          "SPY",
+          "SPXL",
+          "UPRO",
+          "QLD",
+          "SSO",
+          "TQQQ"
+        ],
+        "keywords": []
+      },
+      {
+        "published_utc": "2024-06-06T12:27:00Z",
+        "title": "Descartes' (DSGX) Solution Used by Yellow Diamond Logistics",
+        "description": "Descartes' (DSGX) Aljex TMS platform and MacroPoint solution are leveraged by Yellow Diamond Logistics to attain significant improvement in on-time delivery performance.",
+        "article_url": "https://www.zacks.com/stock/news/2284552/descartes-dsgx-solution-used-by-yellow-diamond-logistics",
+        "publisher": "Zacks Investment Research",
+        "author": "Zacks Equity Research",
+        "tickers": [
+          "NVDA",
+          "MSI",
+          "DSGX",
+          "ANET"
+        ],
+        "keywords": []
+      },
+      {
+        "published_utc": "2024-06-06T12:40:00Z",
+        "title": "Nvidia ETFs: Is There More Room to Run?",
+        "description": "With strong demand and innovative products, Nvidia continues to be a compelling investment in the tech sector, despite some warnings of a potential bubble.",
+        "article_url": "https://www.zacks.com/stock/news/2284460/nvidia-etfs-is-there-more-room-to-run",
+        "publisher": "Zacks Investment Research",
+        "author": "Sanghamitra Saha",
+        "tickers": [
+          "AAPL",
+          "NVDA",
+          "SMH",
+          "LRNZ",
+          "WUGI",
+          "SHOC",
+          "DARP"
+        ],
+        "keywords": []
+      },
+      {
+        "published_utc": "2024-06-06T12:47:00Z",
+        "title": "NVIDIA Pulls Up AI Semiconductor Space: 4 Stocks to Watch",
+        "description": "Five major gainers of the AI-based semiconductor space are: NVDA, AMD, MU, QCOM, TSM.",
+        "article_url": "https://www.zacks.com/stock/news/2284525/nvidia-pulls-up-ai-semiconductor-space-4-stocks-to-watch",
+        "publisher": "Zacks Investment Research",
+        "author": "Nalak Das",
+        "tickers": [
+          "QCOM",
+          "AMD",
+          "MU",
+          "NVDA",
+          "TSM"
+        ],
+        "keywords": []
+      },
+      {
+        "published_utc": "2024-06-06T13:05:00Z",
+        "title": "WIX Adds AI Creation Capability to its Mobile App Builder",
+        "description": "WIX unveils modern AI creation capabilities for its mobile app builder platform, set to redefine application building for iOS and Android without the need for any code.",
+        "article_url": "https://www.zacks.com/stock/news/2284703/wix-adds-ai-creation-capability-to-its-mobile-app-builder",
+        "publisher": "Zacks Investment Research",
+        "author": "Zacks Equity Research",
+        "tickers": [
+          "NVDA",
+          "MSI",
+          "ANET",
+          "WIX"
+        ],
+        "keywords": []
+      },
+      {
+        "published_utc": "2024-06-06T13:19:00Z",
+        "title": "Stock Market News for June 6, 2024",
+        "description": "U.S. markets ended higher on Wednesday driven by tech stocks.",
+        "article_url": "https://www.zacks.com/stock/news/2284546/stock-market-news-for-june-6-2024",
+        "publisher": "Zacks Investment Research",
+        "author": "Zacks Equity Research",
+        "tickers": [
+          "AAPL",
+          "NVDA"
+        ],
+        "keywords": []
+      },
+      {
+        "published_utc": "2024-06-06T13:23:00Z",
+        "title": "Zacks Investment Ideas feature highlights: Carvana, Nvidia, GameStop and Netflix",
+        "description": "Carvana, Nvidia, GameStop and Netflix are part of the Zacks Investment Ideas article.",
+        "article_url": "https://www.zacks.com/stock/news/2284719/zacks-investment-ideas-feature-highlights-carvana-nvidia-gamestop-and-netflix",
+        "publisher": "Zacks Investment Research",
+        "author": "Zacks Equity Research",
+        "tickers": [
+          "NFLX",
+          "NVDA",
+          "GME",
+          "CVNA"
+        ],
+        "keywords": []
+      },
+      {
+        "published_utc": "2024-06-06T13:26:00Z",
+        "title": "Is NVIDIA (NVDA) Stock Worth Buying as Market Cap Tops $3T?",
+        "description": "NVIDIA (NVDA) has been on a remarkable run, with its market capitalization reaching more than $3 trillion on the massive growth prospects of generative AI.",
+        "article_url": "https://www.zacks.com/stock/news/2284551/is-nvidia-nvda-stock-worth-buying-as-market-cap-tops-3t",
+        "publisher": "Zacks Investment Research",
+        "author": "Zacks Equity Research",
+        "tickers": [
+          "AAPL",
+          "MSFT",
+          "NVDA",
+          "CRWD"
+        ],
+        "keywords": []
+      },
+      {
+        "published_utc": "2024-06-06T13:30:00Z",
+        "title": "Where Will Nvidia Stock Be in 3 Years?",
+        "description": "The company's top line is set to jump at a terrific pace over the next three years thanks to AI.",
+        "article_url": "https://www.fool.com/investing/2024/06/06/where-will-nvidia-stock-be-in-3-years/",
+        "publisher": "The Motley Fool",
+        "author": "newsfeedback@fool.com (Harsh Chauhan)",
+        "tickers": [
+          "NVDA"
+        ],
+        "keywords": [
+          "investing"
+        ]
+      },
+      {
+        "published_utc": "2024-06-06T13:37:00Z",
+        "title": "Pure Storage (PSTG) Invests in LandingAI to Boost Vision AI",
+        "description": "Pure Storage (PSTG) makes a strategic investment in LandingAI to boost the development of vision AI.",
+        "article_url": "https://www.zacks.com/stock/news/2284741/pure-storage-pstg-invests-in-landingai-to-boost-vision-ai",
+        "publisher": "Zacks Investment Research",
+        "author": "Zacks Equity Research",
+        "tickers": [
+          "BMI",
+          "NVDA",
+          "ANET",
+          "PSTG"
+        ],
+        "keywords": []
+      },
+      {
+        "published_utc": "2024-06-06T13:40:00Z",
+        "title": "Rockwell Automation (ROK) to Expand Collaboration With NVIDIA",
+        "description": "Rockwell Automation (ROK) partners with NVIDIA to accelerate the development of safer and smarter industrial AI mobile robots.",
+        "article_url": "https://www.zacks.com/stock/news/2284743/rockwell-automation-rok-to-expand-collaboration-with-nvidia",
+        "publisher": "Zacks Investment Research",
+        "author": "Zacks Equity Research",
+        "tickers": [
+          "NVDA",
+          "ROK",
+          "ACCO",
+          "IDN"
+        ],
+        "keywords": []
+      },
+      {
+        "published_utc": "2024-06-06T14:00:00Z",
+        "title": "NVIDIA Overtakes Apple: ETFs to Tap the Incredible Growth Story",
+        "description": "NVIDIA (NVDA) surpasses Apple (AAPL) in terms of market cap and becomes the second-most valuable company in the United States. Its incredible surge is expected to continue.",
+        "article_url": "https://www.zacks.com/stock/news/2284700/nvidia-overtakes-apple-etfs-to-tap-the-incredible-growth-story",
+        "publisher": "Zacks Investment Research",
+        "author": "Sweta Killa",
+        "tickers": [
+          "AAPL",
+          "AMD",
+          "NVDA",
+          "SMH",
+          "LRNZ",
+          "WUGI",
+          "SHOC",
+          "DARP"
+        ],
+        "keywords": []
+      }
+    ],
+    "ticker_news_count": 18,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-06-06T11:24:10Z",
+          "title": "US Stock Futures Tread Water As Indices Perch At Record Highs: Amid Nvidia Spike And ECB Rate-Cut Hopes, Analyst Sees More Volatility In Summer",
+          "description": "Early indications from the futures market suggest caution after Wednesday\u2019s exhilarating run. Earnings news continues to be positive, reinforcing the strength in corporate profit growth. The rate-cut premise based on which the market has been rallying could be put to the test with a couple of labor market readings due Thursday. \nAfter the Bank of Canada became the first G-7 central bank to cut rates, the first one in about four years, all eyes would be on its counterpart from across the Atlantic. The European Central Bank is widely expected to begin lowering rates despite inflation remaining an irritant. A cut by the bank could provide a further thrust to Wall Street ahead of next week\u2019s Federal Open Market Committee meeting.\n\n\n\n\nFutures\nPerformance (+/-)\n\n\nNasdaq 100\n+0.05%\n\n\nS&P 500\n-0.01%\n\n\nDow\n-0.07%\n\n\nR2K\n-0.43%\n\n\n\n\nIn premarket trading on Thursday,\u00a0the SPDR S&P 500 ETF Trust (NYSE:SPY) edged down 0.01% to $534,61, while the\u00a0Invesco QQQ ETF (NASDAQ:QQQ) traded up 0.09% at $463.93, according to\u00a0Benzinga Pro data.\nCues From Previous Session:\nU.S. stocks advanced strongly on Wednesday, with the smaller-than-expected private jobs added in May and the stronger-than-expected service sector activity data providing a big thrust to the market. These data allayed both inflation and growth concerns. The increase in risk appetite manifested well and truly in growth-focused tech stocks.\nNvidia Corp. (NASDAQ:NVDA) rallied over 5%, leading the gains in the tech space.\nThe Nasdaq Composite and the S&P 500 Index hit fresh intraday and closing highs during the session.\n\n\n\n\nIndex\nPerformance   (+/-)\nValue\n\n\nNasdaq Composite\n+1.96%\n17,187.90\n\n\nS&P 500 Index\n+1.18%\n5,354.03\n\n\nDow Industrials\n+0.25%\n38,807.33\n\n\nRussell 2000\n+1.47%\n2,063.87\n\n\n\n\nInsights From ...Full story available on Benzinga.com",
+          "article_url": "https://www.benzinga.com/markets/equities/24/06/39202679/us-stock-futures-tread-water-as-indices-perch-at-record-highs-amid-nvidia-spike-and-ecb-rate-cut",
+          "publisher": "Benzinga",
+          "author": "Shanthi Rexaline",
+          "tickers": [
+            "FIVE",
+            "SMAR",
+            "IOT",
+            "DOCU",
+            "SPY",
+            "NIO",
+            "CIEN",
+            "GIII",
+            "LULU",
+            "NVDA",
+            "SMTC",
+            "ZUMZ",
+            "ABM",
+            "BIG",
+            "MTN",
+            "SJM",
+            "QQQ",
+            "CHPT"
+          ],
+          "keywords": [
+            "News",
+            "Equities",
+            "Futures",
+            "Previews",
+            "Top Stories",
+            "Economics",
+            "Federal Reserve",
+            "Pre-Market Outlook",
+            "Markets",
+            "Movers",
+            "Trading Ideas"
+          ]
+        },
+        {
+          "published_utc": "2024-06-06T12:00:00Z",
+          "title": "ETFs for Leveraging the Surge in Nasdaq and S&P 500",
+          "description": "The S&P 500 and the Nasdaq keep surging higher. Both indexes hit an all-time high yesterday, mainly on strength in NVIDIA.",
+          "article_url": "https://www.zacks.com/stock/news/2284436/etfs-for-leveraging-the-surge-in-nasdaq-and-sp-500",
+          "publisher": "Zacks Investment Research",
+          "author": "Sanghamitra Saha",
+          "tickers": [
+            "AAPL",
+            "NVDA",
+            "QQQ",
+            "SPY",
+            "SPXL",
+            "UPRO",
+            "QLD",
+            "SSO",
+            "TQQQ"
+          ],
+          "keywords": []
+        },
+        {
+          "published_utc": "2024-06-06T12:25:00Z",
+          "title": "Economist Mohamad El-Erian Says Fed 'Traumatized' By Big Mistake It Made In 2021, Calls For Rate Cut In July",
+          "description": "With the Bank of Canada and the European Central Bank becoming the first two G7 central banks to go ahead with rate cuts, traders\u2019 eyes are now firmly on the U.S. Federal Reserve. According to economist Mohmad El-Erian, it is only right that the U.S. central bank starts cutting rates sooner rather than later.\nWhat Happened: The Fed should begin to lower interest rates at the July meeting, said El-Erian in an interview with Fox News. But he was not sure whether it would. \u201cWe have got a Fed that is so traumatized by the big mistake they made in 2021,\u201d he said, referring to the large COVID-19 stimulus it handed out.\n\u201cThey only look at the past,\u201d the economist said, adding that the central bank is reactionary and therefore a rate cut may not be announced in July but should be.\nPremising his view on evidence of slowing growth, El-Erian ...Full story available on Benzinga.com",
+          "article_url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/06/39204474/economist-mohamad-el-erian-says-fed-traumatized-by-big-mistake-it-made-in-2021-call",
+          "publisher": "Benzinga",
+          "author": "Shanthi Rexaline",
+          "tickers": [
+            "SPY"
+          ],
+          "keywords": [
+            "News",
+            "Analyst Color",
+            "Top Stories",
+            "Economics",
+            "Federal Reserve"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2024-06-06T11:24:10Z",
+          "title": "US Stock Futures Tread Water As Indices Perch At Record Highs: Amid Nvidia Spike And ECB Rate-Cut Hopes, Analyst Sees More Volatility In Summer",
+          "description": "Early indications from the futures market suggest caution after Wednesday\u2019s exhilarating run. Earnings news continues to be positive, reinforcing the strength in corporate profit growth. The rate-cut premise based on which the market has been rallying could be put to the test with a couple of labor market readings due Thursday. \nAfter the Bank of Canada became the first G-7 central bank to cut rates, the first one in about four years, all eyes would be on its counterpart from across the Atlantic. The European Central Bank is widely expected to begin lowering rates despite inflation remaining an irritant. A cut by the bank could provide a further thrust to Wall Street ahead of next week\u2019s Federal Open Market Committee meeting.\n\n\n\n\nFutures\nPerformance (+/-)\n\n\nNasdaq 100\n+0.05%\n\n\nS&P 500\n-0.01%\n\n\nDow\n-0.07%\n\n\nR2K\n-0.43%\n\n\n\n\nIn premarket trading on Thursday,\u00a0the SPDR S&P 500 ETF Trust (NYSE:SPY) edged down 0.01% to $534,61, while the\u00a0Invesco QQQ ETF (NASDAQ:QQQ) traded up 0.09% at $463.93, according to\u00a0Benzinga Pro data.\nCues From Previous Session:\nU.S. stocks advanced strongly on Wednesday, with the smaller-than-expected private jobs added in May and the stronger-than-expected service sector activity data providing a big thrust to the market. These data allayed both inflation and growth concerns. The increase in risk appetite manifested well and truly in growth-focused tech stocks.\nNvidia Corp. (NASDAQ:NVDA) rallied over 5%, leading the gains in the tech space.\nThe Nasdaq Composite and the S&P 500 Index hit fresh intraday and closing highs during the session.\n\n\n\n\nIndex\nPerformance   (+/-)\nValue\n\n\nNasdaq Composite\n+1.96%\n17,187.90\n\n\nS&P 500 Index\n+1.18%\n5,354.03\n\n\nDow Industrials\n+0.25%\n38,807.33\n\n\nRussell 2000\n+1.47%\n2,063.87\n\n\n\n\nInsights From ...Full story available on Benzinga.com",
+          "article_url": "https://www.benzinga.com/markets/equities/24/06/39202679/us-stock-futures-tread-water-as-indices-perch-at-record-highs-amid-nvidia-spike-and-ecb-rate-cut",
+          "publisher": "Benzinga",
+          "author": "Shanthi Rexaline",
+          "tickers": [
+            "FIVE",
+            "SMAR",
+            "IOT",
+            "DOCU",
+            "SPY",
+            "NIO",
+            "CIEN",
+            "GIII",
+            "LULU",
+            "NVDA",
+            "SMTC",
+            "ZUMZ",
+            "ABM",
+            "BIG",
+            "MTN",
+            "SJM",
+            "QQQ",
+            "CHPT"
+          ],
+          "keywords": [
+            "News",
+            "Equities",
+            "Futures",
+            "Previews",
+            "Top Stories",
+            "Economics",
+            "Federal Reserve",
+            "Pre-Market Outlook",
+            "Markets",
+            "Movers",
+            "Trading Ideas"
+          ]
+        },
+        {
+          "published_utc": "2024-06-06T12:00:00Z",
+          "title": "ETFs for Leveraging the Surge in Nasdaq and S&P 500",
+          "description": "The S&P 500 and the Nasdaq keep surging higher. Both indexes hit an all-time high yesterday, mainly on strength in NVIDIA.",
+          "article_url": "https://www.zacks.com/stock/news/2284436/etfs-for-leveraging-the-surge-in-nasdaq-and-sp-500",
+          "publisher": "Zacks Investment Research",
+          "author": "Sanghamitra Saha",
+          "tickers": [
+            "AAPL",
+            "NVDA",
+            "QQQ",
+            "SPY",
+            "SPXL",
+            "UPRO",
+            "QLD",
+            "SSO",
+            "TQQQ"
+          ],
+          "keywords": []
+        }
+      ]
+    }
+  }
+}

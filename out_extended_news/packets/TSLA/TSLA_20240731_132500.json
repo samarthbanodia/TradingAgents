@@ -1,0 +1,49 @@
+{
+  "event": {
+    "event_id": "TSLA_20240731_132500",
+    "ticker": "TSLA",
+    "t0_utc": "2024-07-31 13:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-07-31T10:25:00+00:00",
+      "end": "2024-07-31T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-07-31T10:45:00Z",
+        "title": "Instead of Buying the Dip on \"Magnificent Seven\" Stocks Like Nvidia and Tesla, Consider These 3 Growth Stocks",
+        "description": "The article suggests considering Rocket Lab, Hexcel, and Enphase Energy as growth stock alternatives to the popular 'Magnificent Seven' stocks like Nvidia and Tesla, which have seen recent pullbacks.",
+        "article_url": "https://www.fool.com/investing/2024/07/31/buy-dip-nvidia-tesla-growth-stocks-investing/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "RKLB",
+          "HXL",
+          "ENPH",
+          "NVDA",
+          "TSLA"
+        ],
+        "keywords": [
+          "growth stocks",
+          "Nvidia",
+          "Tesla",
+          "Rocket Lab",
+          "Hexcel",
+          "Enphase Energy"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

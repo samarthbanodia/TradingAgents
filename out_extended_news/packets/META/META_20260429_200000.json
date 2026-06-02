@@ -1,0 +1,101 @@
+{
+  "event": {
+    "event_id": "META_20260429_200000",
+    "ticker": "META",
+    "t0_utc": "2026-04-29 20:00:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-04-29T17:00:00+00:00",
+      "end": "2026-04-29T21:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-04-29T18:34:01Z",
+        "title": "Waters Parkerson Bets $3 Million on a CBIZ Rebound",
+        "description": "Waters Parkerson added 85,796 shares of CBIZ worth $3 million in Q1 2026, increasing its stake to 523,042 shares valued at $14 million. The move is contrarian, as CBIZ shares have fallen 51% over the past year due to integration challenges from its November 2024 acquisition of Marcum LLP. While the acquisition boosted 2025 revenue 52% to $2.8 billion, organic growth was modest at 2%. Waters Parkerson's purchase suggests confidence that integration headwinds will be temporary.",
+        "article_url": "https://www.fool.com/coverage/filings/2026/04/29/waters-parkerson-bets-usd3-million-on-a-cbiz-rebound/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Andy Gould",
+        "tickers": [
+          "CBZ",
+          "AMJB",
+          "JPM",
+          "JPMpC",
+          "JPMpD",
+          "JPMpJ",
+          "JPMpK",
+          "JPMpL",
+          "JPMpM",
+          "VYLD",
+          "COHR",
+          "META",
+          "V"
+        ],
+        "keywords": [
+          "CBIZ acquisition",
+          "Marcum LLP integration",
+          "contrarian investment",
+          "professional services",
+          "post-merger headwinds",
+          "free cash flow guidance"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-04-29T18:39:50Z",
+          "title": "Fed Holds Rates Unchanged: Traders Brace For Powell's Likely Final Presser (UPDATED)",
+          "description": "The Federal Reserve maintained the benchmark federal funds rate at 3.50-3.75% in what is expected to be Chair Jerome Powell's final policy decision before Kevin Warsh takes over on May 15. The Fed adopted a more hawkish stance, noting elevated inflation and Middle East uncertainty. Markets repriced expectations, nearly erasing rate cut probabilities for 2026 and implying a 25% chance of a hike by April 2027. The S&P 500 declined 0.3% while crude oil surged over 7% to $107 amid geopolitical tensions.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/26/04/52144038/fed-holds-rates-unchanged-traders-brace-for-powells-likely-final-presser?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "interest rates",
+            "Jerome Powell",
+            "Kevin Warsh",
+            "inflation",
+            "Middle East tensions",
+            "monetary policy",
+            "market reaction"
+          ]
+        },
+        {
+          "published_utc": "2026-04-29T20:17:23Z",
+          "title": "Powell's Last Stand Killed The Rate-Cut Trade: What's The Risk Of A Hike Now?",
+          "description": "Federal Reserve Chair Jerome Powell signaled an unexpectedly hawkish stance, announcing he will remain as a Governor after his term ends on May 15, effectively killing market expectations for rate cuts in 2026. With four dissents from the FOMC\u2014the largest split since October 1992\u2014Powell emphasized inflation is moving in the wrong direction and the Fed is moving toward a neutral policy stance. Markets now price zero probability of rate cuts by December 2026 and assign a 44.5% chance of a rate hike by April 2027.",
+          "article_url": "https://www.benzinga.com/markets/macro-economic-events/26/04/52151393/powell-last-stand-killed-rate-cut-trade-fed-hike-risk-2026?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "Jerome Powell",
+            "interest rates",
+            "monetary policy",
+            "rate cuts",
+            "inflation",
+            "FOMC dissent",
+            "Fed independence",
+            "Kevin Warsh"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

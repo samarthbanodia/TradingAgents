@@ -1,0 +1,85 @@
+{
+  "event": {
+    "event_id": "AMZN_20241121_142500",
+    "ticker": "AMZN",
+    "t0_utc": "2024-11-21 14:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-11-21T11:25:00+00:00",
+      "end": "2024-11-21T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-11-21T11:30:00Z",
+        "title": "2 Growth Stocks to Buy and Hold Forever",
+        "description": "The article discusses two growth stocks, Amazon and Chewy, that have strong positions in high-growth markets like e-commerce, cloud computing, and artificial intelligence. It suggests these stocks are good long-term investments due to their solid earnings prospects and competitive advantages.",
+        "article_url": "https://www.fool.com/investing/2024/11/21/2-growth-stocks-to-buy-and-hold-forever/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Adria Cimino",
+        "tickers": [
+          "AMZN",
+          "CHWY"
+        ],
+        "keywords": [
+          "growth stocks",
+          "e-commerce",
+          "cloud computing",
+          "artificial intelligence",
+          "Amazon",
+          "Chewy"
+        ]
+      },
+      {
+        "published_utc": "2024-11-21T12:00:00Z",
+        "title": "Now Fresh: Safe & Festive Foods for Your Dog",
+        "description": "Now Fresh Good Gravy\u2122 is a new premium dog food featuring fresh meats, fruits, and vegetables. It can be served dry or mixed with water to create a hydrating bone broth gravy. The food is designed to provide a nutritious and flavorful meal for dogs, especially during the holiday season.",
+        "article_url": "https://www.globenewswire.com/news-release/2024/11/21/2985075/0/en/Now-Fresh-Safe-Festive-Foods-for-Your-Dog.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Na",
+        "tickers": [
+          "CHWY",
+          "AMZN"
+        ],
+        "keywords": [
+          "dog food",
+          "nutrition",
+          "holiday",
+          "fresh ingredients"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-11-21T14:15:00Z",
+          "title": "Worried About Buying Stocks Right Now? Follow This Advice from Warren Buffett.",
+          "description": "The article discusses Warren Buffett's advice for investing in uncertain times, highlighting his recommendation to invest in S&P 500 index funds as a low-risk, long-term strategy. It also notes that while the overall market may appear expensive, some individual stocks still represent good value.",
+          "article_url": "https://www.fool.com/investing/2024/11/21/worried-about-buying-stocks-now-follow-buffett/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Adria Cimino",
+          "tickers": [
+            "AXP",
+            "KO",
+            "SPY"
+          ],
+          "keywords": [
+            "Warren Buffett",
+            "S&P 500",
+            "index funds",
+            "stock market",
+            "investing"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

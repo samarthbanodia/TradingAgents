@@ -1,0 +1,74 @@
+{
+  "event": {
+    "event_id": "PLTR_20240705_132500",
+    "ticker": "PLTR",
+    "t0_utc": "2024-07-05 13:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-07-05T10:25:00+00:00",
+      "end": "2024-07-05T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-07-05T11:15:00Z",
+        "title": "3 Reasons to Buy Palantir Like There's No Tomorrow - The Motley Fool",
+        "description": "Palantir Technologies, a data mining and AI specialist, has seen its stock surge 47% so far in 2024. The company reported strong Q1 2024 results, with revenue exceeding estimates and adjusted EPS meeting expectations. Despite this, the stock initially fell due to conservative revenue guidance, but has since regained its losses. Palantir's Artificial Intelligence Platform (AIP) has witnessed solid customer adoption, and the company's commercial and government businesses have demonstrated robust growth.",
+        "article_url": "https://www.fool.com/investing/2024/07/05/3-reasons-to-buy-palantir-like-theres-no-tomorrow/",
+        "publisher": "The Motley Fool",
+        "author": "Manali Pradhan",
+        "tickers": [
+          "PLTR"
+        ],
+        "keywords": [
+          "Palantir Technologies",
+          "data mining",
+          "artificial intelligence",
+          "AI",
+          "software-as-a-service",
+          "SaaS",
+          "government",
+          "commercial"
+        ]
+      },
+      {
+        "published_utc": "2024-07-05T13:25:32Z",
+        "title": "Tech Bull Shares Top Stock Picks For Second Half Of 2024 After AI-Fueled Rally: Do You Own These Stocks? - Invesco ... - Benzinga",
+        "description": "Wedbush analyst Daniel Ives believes the tech sector will continue to rally in the second half of 2024, driven by the AI revolution. He lists nine stocks as his top picks, including Microsoft, Apple, Alphabet, and Salesforce.",
+        "article_url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/07/39646688/tech-bull-shares-top-stock-picks-for-second-half-of-2024-after-ai-fueled-rally-do-y",
+        "publisher": "Benzinga",
+        "author": "Shanthi Rexaline",
+        "tickers": [
+          "MSFT",
+          "AAPL",
+          "GOOG",
+          "GOOGL",
+          "PLTR",
+          "PANW",
+          "CHKP",
+          "CRWD",
+          "ZS",
+          "CRM"
+        ],
+        "keywords": [
+          "tech stocks",
+          "AI",
+          "stock picks",
+          "Wedbush",
+          "Daniel Ives"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

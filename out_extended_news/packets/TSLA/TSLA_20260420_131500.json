@@ -1,0 +1,67 @@
+{
+  "event": {
+    "event_id": "TSLA_20260420_131500",
+    "ticker": "TSLA",
+    "t0_utc": "2026-04-20 13:15:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2026-04-20T10:15:00+00:00",
+      "end": "2026-04-20T14:15:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-04-20T11:58:25Z",
+        "title": "Inside Elon Musk's Strategy To Shelter Tesla From Billions In US Taxes\u2014Was Bernie Sanders Right?",
+        "description": "Tesla reported zero federal tax liability for 2025, with investigations revealing the company shifted approximately $18 billion in profits through Dutch and Singaporean subsidiaries between 2023-2025, potentially avoiding over $400 million in U.S. taxes. While the practices are legal, they have drawn scrutiny from lawmakers including Senator Bernie Sanders, who previously criticized Musk's effective tax rate of less than 3.3%.",
+        "article_url": "https://www.benzinga.com/markets/equities/26/04/51909270/inside-elon-musks-strategy-to-shelter-tesla-from-billions-in-us-taxes-was-bernie-sanders-right?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "TSLA"
+        ],
+        "keywords": [
+          "tax avoidance",
+          "profit shifting",
+          "corporate taxation",
+          "tax loopholes",
+          "subsidiaries",
+          "federal tax liability",
+          "wealth tax"
+        ]
+      },
+      {
+        "published_utc": "2026-04-20T12:30:00Z",
+        "title": "Why Tesla Stock Could Double as Optimus Reaches Human-Level Proficiency This Year",
+        "description": "Tesla's stock could potentially double if its Optimus 3 humanoid robot achieves human-level proficiency as planned. The company plans to begin initial production in summer 2026 and ramp up by 2027, with robots priced at $20,000-$30,000. While the robotics breakthrough could revolutionize labor markets and significantly impact GDP, investors should be cautious about execution risks, regulatory hurdles, and Tesla's high valuation (P/E of 185) that leaves no room for error.",
+        "article_url": "https://www.fool.com/investing/2026/04/20/why-tesla-stock-could-double-as-optimus-reaches-hu/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Prosper Junior Bakiny",
+        "tickers": [
+          "TSLA"
+        ],
+        "keywords": [
+          "humanoid robot",
+          "Optimus 3",
+          "labor market disruption",
+          "manufacturing",
+          "robotics",
+          "valuation risk",
+          "regulatory risk",
+          "EV market competition"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "event": {
+    "event_id": "AMD_20241022_133000",
+    "ticker": "AMD",
+    "t0_utc": "2024-10-22 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2024-10-22T10:30:00+00:00",
+      "end": "2024-10-22T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-10-22T11:11:23Z",
+        "title": "US Stocks Remains On Edge Ahead Of Flurry Of Earnings From Lockheed Martin, GM And Others: This Is Still A 'Buy The Dip' Market, Says Expert",
+        "description": "US stocks remain cautious ahead of earnings reports from major companies like Lockheed Martin, GM, and others. However, an expert believes this is still a 'buy the dip' market, with positive sentiment around AI stocks and expectations of strong earnings growth.",
+        "article_url": "https://www.benzinga.com/news/earnings/24/10/41447996/us-stocks-remains-on-edge-ahead-of-flurry-of-earnings-from-lockheed-martin-gm-and-others-this-is-st",
+        "publisher": "Benzinga",
+        "author": "Rounak Jain",
+        "tickers": [
+          "AAPL",
+          "AMD",
+          "LMT",
+          "GM",
+          "SPY",
+          "QQQ",
+          "NVDA"
+        ],
+        "keywords": [
+          "US stocks",
+          "earnings",
+          "Lockheed Martin",
+          "GM",
+          "AI stocks",
+          "earnings growth"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-10-22T11:11:23Z",
+          "title": "US Stocks Remains On Edge Ahead Of Flurry Of Earnings From Lockheed Martin, GM And Others: This Is Still A 'Buy The Dip' Market, Says Expert",
+          "description": "US stocks remain cautious ahead of earnings reports from major companies like Lockheed Martin, GM, and others. However, an expert believes this is still a 'buy the dip' market, with positive sentiment around AI stocks and expectations of strong earnings growth.",
+          "article_url": "https://www.benzinga.com/news/earnings/24/10/41447996/us-stocks-remains-on-edge-ahead-of-flurry-of-earnings-from-lockheed-martin-gm-and-others-this-is-st",
+          "publisher": "Benzinga",
+          "author": "Rounak Jain",
+          "tickers": [
+            "AAPL",
+            "AMD",
+            "LMT",
+            "GM",
+            "SPY",
+            "QQQ",
+            "NVDA"
+          ],
+          "keywords": [
+            "US stocks",
+            "earnings",
+            "Lockheed Martin",
+            "GM",
+            "AI stocks",
+            "earnings growth"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2024-10-22T11:11:23Z",
+          "title": "US Stocks Remains On Edge Ahead Of Flurry Of Earnings From Lockheed Martin, GM And Others: This Is Still A 'Buy The Dip' Market, Says Expert",
+          "description": "US stocks remain cautious ahead of earnings reports from major companies like Lockheed Martin, GM, and others. However, an expert believes this is still a 'buy the dip' market, with positive sentiment around AI stocks and expectations of strong earnings growth.",
+          "article_url": "https://www.benzinga.com/news/earnings/24/10/41447996/us-stocks-remains-on-edge-ahead-of-flurry-of-earnings-from-lockheed-martin-gm-and-others-this-is-st",
+          "publisher": "Benzinga",
+          "author": "Rounak Jain",
+          "tickers": [
+            "AAPL",
+            "AMD",
+            "LMT",
+            "GM",
+            "SPY",
+            "QQQ",
+            "NVDA"
+          ],
+          "keywords": [
+            "US stocks",
+            "earnings",
+            "Lockheed Martin",
+            "GM",
+            "AI stocks",
+            "earnings growth"
+          ]
+        }
+      ]
+    }
+  }
+}

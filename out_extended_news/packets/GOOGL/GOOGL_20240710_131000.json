@@ -1,0 +1,110 @@
+{
+  "event": {
+    "event_id": "GOOGL_20240710_131000",
+    "ticker": "GOOGL",
+    "t0_utc": "2024-07-10 13:10:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2024-07-10T10:10:00+00:00",
+      "end": "2024-07-10T14:10:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-07-10T10:45:00Z",
+        "title": "Is It Too Late to Buy Apple Stock? - The Motley Fool",
+        "description": "Apple's new AI feature, Apple Intelligence, is expected to drive accelerating growth for the company. Analysts believe it could boost iPhone demand and lead to market share gains, as Apple's focus on user privacy resonates with consumers. The feature could also drive a strong upgrade cycle and expand Apple's services revenue.",
+        "article_url": "https://www.fool.com/investing/2024/07/10/is-it-too-late-to-buy-apple-stock/",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "AAPL",
+          "MSFT",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "Apple",
+          "AI",
+          "iPhone",
+          "Privacy",
+          "Upgrade Cycle",
+          "Services"
+        ]
+      },
+      {
+        "published_utc": "2024-07-10T10:53:00Z",
+        "title": "Is IonQ Stock a Buy Now? - The Motley Fool",
+        "description": "IonQ's revenue is growing rapidly, but the company is not yet profitable and is burning through cash quickly. It faces competition from well-funded rivals like IBM and Alphabet, which could pose challenges in the future. Investors should consider their risk tolerance and investment goals before investing in IonQ's unprofitable business.",
+        "article_url": "https://www.fool.com/investing/2024/07/10/is-ionq-stock-a-buy-now/",
+        "publisher": "The Motley Fool",
+        "author": "Anders Bylund",
+        "tickers": [
+          "IONQ",
+          "IONQ.WS",
+          "IBM",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "IonQ",
+          "quantum computing",
+          "IBM",
+          "Alphabet"
+        ]
+      },
+      {
+        "published_utc": "2024-07-10T13:21:00Z",
+        "title": "Is SoundHound AI Stock a Buy Now? - The Motley Fool",
+        "description": "SoundHound AI, a voice AI technology company, has seen impressive revenue growth and a large backlog, but faces competition from tech giants like Alphabet and is highly unprofitable. Investors should consider the stock speculative due to its high valuation and the need for the company to prove it can dominate the competition while becoming profitable.",
+        "article_url": "https://www.fool.com/investing/2024/07/10/is-soundhound-ai-stock-a-buy-now/",
+        "publisher": "The Motley Fool",
+        "author": "Justin Pope",
+        "tickers": [
+          "SOUN",
+          "SOUNW",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "SoundHound AI",
+          "Alphabet",
+          "voice AI",
+          "technology",
+          "investment"
+        ]
+      },
+      {
+        "published_utc": "2024-07-10T14:01:20Z",
+        "title": "The Rise of Visual Cloud Market: $237.2 billion Industry - GlobeNewswire",
+        "description": "The global Visual Cloud Market is projected to grow from $126.0 billion in 2024 to $237.2 billion by 2029, driven by the increasing demand for video content and the growing adoption of edge computing infrastructure. The market is dominated by tech giants like Microsoft, Google, IBM, and AWS.",
+        "article_url": "https://www.globenewswire.com/news-release/2024/07/10/2911214/0/en/The-Rise-of-Visual-Cloud-Market-237-2-billion-Industry-Dominated-by-Tech-Giants-Microsoft-US-Google-US-IBM-US-AWS-US.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Marketsandmarkets",
+        "tickers": [
+          "GOOG",
+          "GOOGL",
+          "IBM"
+        ],
+        "keywords": [
+          "visual cloud",
+          "cloud computing",
+          "video content",
+          "edge computing",
+          "tech giants"
+        ]
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "event": {
+    "event_id": "GOOGL_20250930_132500",
+    "ticker": "GOOGL",
+    "t0_utc": "2025-09-30 13:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-09-30T10:25:00+00:00",
+      "end": "2025-09-30T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-09-30T10:30:00Z",
+          "title": "Is Investing $50,000 in the Stock Market Today Enough to Grow Your Portfolio to More Than $1 Million by Retirement?",
+          "description": "Investing $50,000 in an S&P 500 ETF could potentially grow to $1 million over 35 years, assuming an average annual return of 8-10%. A buy-and-hold strategy with diversified index funds is recommended for steady, low-risk portfolio growth.",
+          "article_url": "https://www.fool.com/investing/2025/09/30/is-investing-50000-in-the-stock-market-today-enoug/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "David Jagielski",
+          "tickers": [
+            "MSFT",
+            "AAPL",
+            "WMT",
+            "COST",
+            "SPY"
+          ],
+          "keywords": [
+            "stock market",
+            "investing",
+            "retirement",
+            "ETF",
+            "S&P 500",
+            "portfolio growth"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

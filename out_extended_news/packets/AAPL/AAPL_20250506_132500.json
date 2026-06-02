@@ -1,0 +1,81 @@
+{
+  "event": {
+    "event_id": "AAPL_20250506_132500",
+    "ticker": "AAPL",
+    "t0_utc": "2025-05-06 13:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-05-06T10:25:00+00:00",
+      "end": "2025-05-06T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-05-06T11:10:00Z",
+        "title": "After Warren Buffett's New $348 Billion Warning to Wall Street, Is He Worried About the Recent Stock Market Turmoil? The Answer May Surprise You.",
+        "description": "Warren Buffett has been a net seller of stocks and has built up a record stockpile of cash at Berkshire Hathaway. Despite the recent stock market turmoil, Buffett is not worried and believes that investors should focus on the long-term and seize opportunities during difficult markets.",
+        "article_url": "https://www.fool.com/investing/2025/05/06/after-warren-buffetts-new-348-billion-warning-to-w/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "BRK.A",
+          "BRK.B",
+          "AAPL",
+          "BAC",
+          "BACpB",
+          "BACpE",
+          "BACpK",
+          "BACpL",
+          "BACpM",
+          "BACpN",
+          "BACpO",
+          "BACpP",
+          "BACpQ",
+          "BACpS",
+          "BMLpG",
+          "BMLpH",
+          "BMLpJ",
+          "BMLpL",
+          "MERpK"
+        ],
+        "keywords": [
+          "Warren Buffett",
+          "Berkshire Hathaway",
+          "stock market",
+          "investing"
+        ]
+      },
+      {
+        "published_utc": "2025-05-06T13:04:00Z",
+        "title": "Qualcomm: Analyst Opinions Split, But Upside Potential Remains",
+        "description": "Qualcomm's stock price has been volatile, with analysts divided on the company's long-term prospects. Some see significant upside potential, while others remain cautious due to concerns about China exposure and declining Apple-related revenue.",
+        "article_url": "https://www.investing.com/analysis/qualcomm-analyst-opinions-split-but-upside-potential-remains-200660416",
+        "publisher": "Investing.com",
+        "author": "Marketbeat.Com",
+        "tickers": [
+          "QCOM",
+          "AAPL",
+          "NVDA",
+          "AMD"
+        ],
+        "keywords": [
+          "Qualcomm",
+          "semiconductor",
+          "analyst ratings",
+          "valuation"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

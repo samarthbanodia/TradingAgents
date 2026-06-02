@@ -1,0 +1,64 @@
+{
+  "event": {
+    "event_id": "META_20250219_142500",
+    "ticker": "META",
+    "t0_utc": "2025-02-19 14:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-02-19T11:25:00+00:00",
+      "end": "2025-02-19T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-02-19T14:05:00Z",
+        "title": "Arista Earnings: AI Wave Keeps Rolling",
+        "description": "Arista Networks surpassed Cisco Systems in the data center switch market, driven by strong demand from cloud computing giants investing in artificial intelligence infrastructure. Arista reported solid Q4 results, but growth is expected to slow slightly in 2025 despite the AI boom.",
+        "article_url": "https://www.fool.com/investing/2025/02/19/arista-earnings-ai-wave-keeps-rolling/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "ANET",
+          "CSCO",
+          "MSFT",
+          "META"
+        ],
+        "keywords": [
+          "Arista Networks",
+          "Cisco Systems",
+          "data center switches",
+          "artificial intelligence",
+          "cloud computing"
+        ]
+      },
+      {
+        "published_utc": "2025-02-19T14:30:00Z",
+        "title": "Massive News for Meta Platforms Stock Investors",
+        "description": "The article discusses recent updates affecting Meta Platforms (META) and potential stock splits in 2025 for two AI stocks that have seen significant gains since early 2023.",
+        "article_url": "https://www.fool.com/investing/2025/02/19/massive-news-for-meta-platforms-stock-investors/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jose Najarro",
+        "tickers": [
+          "META",
+          "NVDA"
+        ],
+        "keywords": [
+          "Meta Platforms",
+          "stock splits",
+          "AI stocks"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "event": {
+    "event_id": "PLTR_20241206_142500",
+    "ticker": "PLTR",
+    "t0_utc": "2024-12-06 14:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2024-12-06T11:25:00+00:00",
+      "end": "2024-12-06T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": [
+        {
+          "published_utc": "2024-12-06T11:27:00Z",
+          "title": "1 Unstoppable ETF Can Generate 10x Returns in the Long Run",
+          "description": "The article discusses how the Invesco QQQ Trust (QQQ) ETF can potentially generate 10x returns for buy-and-hold investors over the long run, despite the risks associated with high-growth investments. It highlights the ETF's ability to outperform the S&P 500 and the benefits of staying invested in the markets rather than trying to time them.",
+          "article_url": "https://www.fool.com/investing/2024/12/06/1-unstoppable-etf-can-generate-10x-returns-in-the/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "David Jagielski",
+          "tickers": [
+            "QQQ"
+          ],
+          "keywords": [
+            "Invesco QQQ Trust",
+            "ETF",
+            "growth stocks",
+            "long-term investing",
+            "market timing"
+          ]
+        }
+      ]
+    }
+  }
+}

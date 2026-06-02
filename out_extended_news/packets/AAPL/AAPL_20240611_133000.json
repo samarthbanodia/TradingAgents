@@ -1,0 +1,171 @@
+{
+  "event": {
+    "event_id": "AAPL_20240611_133000",
+    "ticker": "AAPL",
+    "t0_utc": "2024-06-11 13:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-06-11T10:30:00+00:00",
+      "end": "2024-06-11T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-06-11T11:04:00Z",
+        "title": "Is It Too Late to Buy Intel Stock?",
+        "description": "This company's venture into AI makes it a screaming buy for long-term investors.",
+        "article_url": "https://www.fool.com/investing/2024/06/11/is-it-too-late-to-buy-intel-stock/",
+        "publisher": "The Motley Fool",
+        "author": "newsfeedback@fool.com (Dani Cook)",
+        "tickers": [
+          "INTC",
+          "MSFT",
+          "AAPL",
+          "AMZN",
+          "TSM",
+          "NVDA",
+          "AMD"
+        ],
+        "keywords": [
+          "investing"
+        ]
+      },
+      {
+        "published_utc": "2024-06-11T12:30:00Z",
+        "title": "Should You Bet on \"Apple Intelligence\" With These ETFs?",
+        "description": "Apple (AAPL) announced its much-awaited generative AI initiative called Apple Intelligence at its WWDC conference on Monday. Will it see success?",
+        "article_url": "https://www.zacks.com/stock/news/2286460/should-you-bet-on-apple-intelligence-with-these-etfs",
+        "publisher": "Zacks Investment Research",
+        "author": "Sanghamitra Saha",
+        "tickers": [
+          "GOOG",
+          "AAPL",
+          "MSFT",
+          "XLK",
+          "IYW",
+          "IXN",
+          "META"
+        ],
+        "keywords": []
+      },
+      {
+        "published_utc": "2024-06-11T13:00:13Z",
+        "title": "Apple Inc. (AAPL) Is a Trending Stock: Facts to Know Before Betting on It",
+        "description": "Apple (AAPL) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
+        "article_url": "https://www.zacks.com/stock/news/2286505/apple-inc-aapl-is-a-trending-stock-facts-to-know-before-betting-on-it",
+        "publisher": "Zacks Investment Research",
+        "author": "Zacks Equity Research",
+        "tickers": [
+          "AAPL"
+        ],
+        "keywords": []
+      },
+      {
+        "published_utc": "2024-06-11T13:28:00Z",
+        "title": "Company News for June 11, 2024",
+        "description": "Companies in The News Are: AAPL, PCG, LUV, KEY",
+        "article_url": "https://www.zacks.com/stock/news/2286546/company-news-for-june-11-2024",
+        "publisher": "Zacks Investment Research",
+        "author": "Zacks Equity Research",
+        "tickers": [
+          "AAPL",
+          "LUV",
+          "PCG",
+          "KEY"
+        ],
+        "keywords": []
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-06-11T11:26:06Z",
+          "title": "Wall Street Holds Breath After Record Close For Fed Decision, CPI Data: Why This Analyst Sees Positive Inflation Trends Ahead",
+          "description": "U.S. stock futures point to a weak start on Tuesday, signaling a pause after Monday\u2019s record run. Global cues are negative and commodity prices weakened as well. Traders may prefer to wait it out until the Federal Reserve meeting and May inflation reports. A cooler inflation report and/or a dot-plot chart that points to at least two rate cuts could help the market push ahead with renewed optimism. Oracle Corp.\u2019s (NYSE:ORCL) earnings could also be in the spotlight, given the company\u2019s exposure to AI.\n\n\n\n\nFutures\nPerformance (+/-)\n\n\nNasdaq 100\n-0.25%\n\n\nS&P 500\n-0.22%\n\n\nDow\n-0.35%\n\n\nR2K\n-0.85%\n\n\n\nIn premarket trading on Tuesday,\u00a0the SPDR S&P 500 ETF Trust (NYSE:SPY) fell 0.25% to $534.34, and the\u00a0Invesco QQQ ETF (NASDAQ:QQQ) traded down 0.27% at $463.59, according to\u00a0Benzinga Pro data.\nCues From Previous Session:\nWall Street posted uneasy gains on Monday ahead of some key economic catalysts. The major indices opened lower but reversed course in early trading and advanced steadily in the morning, They broadly consolidated in the afternoon before ending in the green. Energy, utility, communication services, and consumer discretionary stocks were among the biggest gainers of the session.\nThe Nasdaq Composite and the S&P 500 indices closed at a fresh record, although failing ...Full story available on Benzinga.com",
+          "article_url": "https://www.benzinga.com/news/earnings/24/06/39267511/wall-street-holds-breath-after-record-close-for-fed-decision-cpi-data-why-this-analyst-sees-positiv",
+          "publisher": "Benzinga",
+          "author": "Shanthi Rexaline",
+          "tickers": [
+            "APO",
+            "SPY",
+            "CASY",
+            "ORCL",
+            "QQQ",
+            "YEXT",
+            "DXC",
+            "KD"
+          ],
+          "keywords": [
+            "News",
+            "Earnings",
+            "Equities",
+            "Futures",
+            "Previews",
+            "Top Stories",
+            "Economics",
+            "Federal Reserve",
+            "Pre-Market Outlook",
+            "Movers",
+            "Trading Ideas"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2024-06-11T11:26:06Z",
+          "title": "Wall Street Holds Breath After Record Close For Fed Decision, CPI Data: Why This Analyst Sees Positive Inflation Trends Ahead",
+          "description": "U.S. stock futures point to a weak start on Tuesday, signaling a pause after Monday\u2019s record run. Global cues are negative and commodity prices weakened as well. Traders may prefer to wait it out until the Federal Reserve meeting and May inflation reports. A cooler inflation report and/or a dot-plot chart that points to at least two rate cuts could help the market push ahead with renewed optimism. Oracle Corp.\u2019s (NYSE:ORCL) earnings could also be in the spotlight, given the company\u2019s exposure to AI.\n\n\n\n\nFutures\nPerformance (+/-)\n\n\nNasdaq 100\n-0.25%\n\n\nS&P 500\n-0.22%\n\n\nDow\n-0.35%\n\n\nR2K\n-0.85%\n\n\n\nIn premarket trading on Tuesday,\u00a0the SPDR S&P 500 ETF Trust (NYSE:SPY) fell 0.25% to $534.34, and the\u00a0Invesco QQQ ETF (NASDAQ:QQQ) traded down 0.27% at $463.59, according to\u00a0Benzinga Pro data.\nCues From Previous Session:\nWall Street posted uneasy gains on Monday ahead of some key economic catalysts. The major indices opened lower but reversed course in early trading and advanced steadily in the morning, They broadly consolidated in the afternoon before ending in the green. Energy, utility, communication services, and consumer discretionary stocks were among the biggest gainers of the session.\nThe Nasdaq Composite and the S&P 500 indices closed at a fresh record, although failing ...Full story available on Benzinga.com",
+          "article_url": "https://www.benzinga.com/news/earnings/24/06/39267511/wall-street-holds-breath-after-record-close-for-fed-decision-cpi-data-why-this-analyst-sees-positiv",
+          "publisher": "Benzinga",
+          "author": "Shanthi Rexaline",
+          "tickers": [
+            "APO",
+            "SPY",
+            "CASY",
+            "ORCL",
+            "QQQ",
+            "YEXT",
+            "DXC",
+            "KD"
+          ],
+          "keywords": [
+            "News",
+            "Earnings",
+            "Equities",
+            "Futures",
+            "Previews",
+            "Top Stories",
+            "Economics",
+            "Federal Reserve",
+            "Pre-Market Outlook",
+            "Movers",
+            "Trading Ideas"
+          ]
+        },
+        {
+          "published_utc": "2024-06-11T14:00:00Z",
+          "title": "Consumer Optimism at 3-Year High: 5 ETF Picks",
+          "description": "Consumers are currently the most bullish on the outlook for stocks since May 2021. We have highlighted five ETFs having a solid Zacks ETF Rank #1 (Strong Buy) or 2 (Buy) that could be compelling ways to tap this bullish view.",
+          "article_url": "https://www.zacks.com/stock/news/2286690/consumer-optimism-at-3-year-high-5-etf-picks",
+          "publisher": "Zacks Investment Research",
+          "author": "Sweta Killa",
+          "tickers": [
+            "QQQ",
+            "RTH",
+            "SMH",
+            "IVV",
+            "IGPT"
+          ],
+          "keywords": []
+        }
+      ]
+    }
+  }
+}

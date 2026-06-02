@@ -1,0 +1,84 @@
+{
+  "event": {
+    "event_id": "NVDA_20241231_142500",
+    "ticker": "NVDA",
+    "t0_utc": "2024-12-31 14:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-12-31T11:25:00+00:00",
+      "end": "2024-12-31T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-12-31T12:10:00Z",
+        "title": "Meet the Supercharged Growth Stock That Could Make You a Millionaire",
+        "description": "The article discusses Taiwan Semiconductor Manufacturing (TSM) as a potential investment that could provide market-beating returns, driven by its leading position in chip manufacturing and the growing demand for its products, particularly in the artificial intelligence (AI) segment.",
+        "article_url": "https://www.fool.com/investing/2024/12/31/meet-the-supercharged-growth-stock-that-could-make/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Keithen Drury",
+        "tickers": [
+          "TSM",
+          "NVDA",
+          "TSLA",
+          "AAPL",
+          "MSFT"
+        ],
+        "keywords": [
+          "Taiwan Semiconductor Manufacturing",
+          "Nvidia",
+          "Tesla",
+          "Apple",
+          "Microsoft",
+          "Artificial Intelligence"
+        ]
+      },
+      {
+        "published_utc": "2024-12-31T13:15:00Z",
+        "title": "1 Artificial Intelligence (AI) Stock That's Up 230,000% Since Its IPO and Still Has Massive Opportunities",
+        "description": "Amazon's AI business has generated billions in revenue, and the company sees massive growth opportunities ahead as generative AI transforms industries. Despite a 50% drop in 2022, Amazon stock is up 166% since its bottom, and the company's AI platform is a significant growth driver for its cloud computing business.",
+        "article_url": "https://www.fool.com/investing/2024/12/31/1-artificial-intelligence-ai-stock-thats-up-230000/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "AMZN",
+          "NVDA",
+          "TSM"
+        ],
+        "keywords": [
+          "Artificial Intelligence",
+          "Amazon",
+          "Generative AI",
+          "Cloud Computing"
+        ]
+      },
+      {
+        "published_utc": "2024-12-31T15:10:28Z",
+        "title": "Nvidia Stock Investors Got Amazing News About the Robotics Market",
+        "description": "The article discusses Nvidia and recent semiconductor market updates. It provides an overview of The Motley Fool's services, including premium investing solutions, free guidance, and market analysis.",
+        "article_url": "https://www.fool.com/investing/2024/12/31/nvidia-stock-investors-got-amazing-news-about-the/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jose Najarro",
+        "tickers": [
+          "NVDA"
+        ],
+        "keywords": [
+          "Nvidia",
+          "semiconductor",
+          "market updates"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

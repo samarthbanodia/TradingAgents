@@ -1,0 +1,298 @@
+\documentclass[11pt, a4paper]{article}
+
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{parskip}
+\usepackage{microtype}
+\usepackage{fancyhdr}
+\usepackage{array}
+\usepackage{multirow}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue!60!black,
+    urlcolor=blue!60!black,
+}
+
+\titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
+\titleformat{\subsection}{\normalsize\bfseries}{}{0em}{}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{\small TradingAgents — Intraday Spike Classification}
+\lhead{\small Samarth Banodia, IIT Bombay}
+\cfoot{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+
+\setlength{\parskip}{6pt}
+\setlength{\parindent}{0pt}
+
+% ─────────────────────────────────────────────────────────────────────────────
+\begin{document}
+
+\begin{center}
+    {\LARGE \textbf{TradingAgents}}\\[4pt]
+    {\large LLM-Augmented Intraday Price Spike Classification}\\[6pt]
+    {\normalsize Arinjay Nigam \quad IIT Bombay \quad \texttt{24b0608@iitb.ac.in}}\\[2pt]
+    {\small \today}
+\end{center}
+
+\hrule height 1pt
+\vspace{8pt}
+
+% ─────────────────────────────────────────────────────────────────────────────
+\section{Problem Statement}
+
+When a stock price spikes sharply within a 5-minute window during regular trading hours, will it \textbf{continue} in the same direction or \textbf{reverse} over the next 60 minutes?
+
+This is a three-class prediction problem:
+\begin{itemize}[leftmargin=1.5em, itemsep=2pt]
+    \item \textbf{Continuation} — the spike was driven by real information; price holds or extends.
+    \item \textbf{Reversal} — the spike was mechanical (panic, stop cascade, liquidity); price mean-reverts.
+    \item \textbf{Unclear} — no decisive 60-minute outcome.
+\end{itemize}
+
+\textbf{Motivation.}  Large intraday spikes are precisely where the informed-vs-uninformed trading distinction matters most. Pure price statistics are ambiguous — the same spike pattern can mean fundamentally different things depending on news context, macro regime, and order flow. This motivates bringing in AI agents capable of reasoning over heterogeneous inputs.
+
+% ─────────────────────────────────────────────────────────────────────────────
+\section{Data}
+
+\textbf{OHLCV price data.} 5-minute bars from Polygon.io for 11 tickers (AAPL, MSFT, NVDA, TSLA, META, AMD, NFLX, PLTR, SPY, QQQ, XLK), covering October 2025 -- January 2026 ($\approx$84 trading days). Total: 126,719 rows stored in \texttt{ohlcv\_5min.parquet}.
+
+\textbf{News data.} For each selected event, the Polygon.io news API is queried for articles published within a 3-hour pre-event window. Per-event JSON packets stored in \texttt{out\_news/packets/}.
+
+\textbf{Label proxy.} The 60-minute forward return from $t_0$ determines the ground-truth label: $>$0.3\% same direction $\to$ continuation; $>$0.3\% opposite $\to$ reversal; otherwise unclear. Labels are \emph{never} shown to agents.
+
+% ─────────────────────────────────────────────────────────────────────────────
+\section{Pipeline Overview}
+
+\begin{center}
+\renewcommand{\arraystretch}{1.3}
+\begin{tabular}{clll}
+\toprule
+\textbf{Step} & \textbf{Script} & \textbf{Output} & \textbf{Count} \\
+\midrule
+1 & \texttt{mine\_events\_strict.py} & Candidate events & 451 \\
+2 & \texttt{select\_best\_events.py} & Balanced event set & 100 \\
+3 & \texttt{build\_news\_packets.py} & News JSON per event & 100 \\
+4 & \texttt{run\_ip\_v3.py} & Agent outputs (JSONL) & 100 \\
+5 & \texttt{eval/ml\_stage.py} & Final predictions & 85 (clear) \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\textbf{Event mining} uses a two-stage filter: Stage 1 flags bars with return z-score $\geq$3, volume $\geq$4$\times$, or range $\geq$3$\times$ typical. Stage 2 confirms with stricter thresholds (z $\geq$4, absolute move $\geq$60bp) plus a persistence check (6-bar return $\geq$50\% of 3-bar peak).
+
+\textbf{Event selection} enforces per-ticker quotas (8--15 events for stocks, 3--8 for ETFs), caps unclear events at 15\%, and applies a 60-minute temporal de-duplication window per ticker to avoid correlated events.
+
+% ─────────────────────────────────────────────────────────────────────────────
+\section{Agent Architecture — Version History}
+
+\subsection{V1 and V2.1 — Multi-Agent Debate (5 LLM calls/event)}
+
+The initial design framed each spike as a mixture of \textbf{Information} (I) and \textbf{Panic} (P) components: I $>$ P $\to$ continuation; P $>$ I $\to$ reversal. Three specialist agents (Microstructure, News, Macro) each produced I/P scores. A Skeptic agent critiqued them; agents revised; a Judge issued the final verdict.
+
+\textbf{V1 result: 35.2\%.} The Judge exhibited strong reversal bias.
+
+\textbf{V2.1 result: 16.3\%.} Worse than V1 due to \emph{Degeneration-of-Thought} [1]: the Microstructure agent's confident continuation scores ``infected'' all other agents through the Skeptic round. The Judge predicted continuation 95/98 times; true continuations are only 43\% of events, yielding 16.3\%.
+
+\subsection{V3 — Direct-Label Ensemble (3 LLM calls/event)}
+
+\textbf{Key design changes:}
+\begin{itemize}[leftmargin=1.5em, itemsep=2pt]
+    \item Agents output \emph{direct labels} (continuation/reversal) not I/P scores.
+    \item Skeptic and Judge eliminated; ensemble is pure mathematics.
+    \item ReTuning evidence-scoring format [3]: agents enumerate evidence \emph{for each label} (0--20 points) before committing.
+    \item "Unclear" is forbidden per-agent — only the ensemble can declare it.
+    \item 7 new pre-event microstructure features added.
+\end{itemize}
+
+\textbf{Model routing.} GPT-4o-mini (OpenAI) for Microstructure; Claude Haiku (Anthropic) for News; DeepSeek-Chat for Macro. Intentional provider diversity reduces correlated errors [2].
+
+\textbf{Agent inputs:}
+\begin{center}
+\renewcommand{\arraystretch}{1.2}
+\begin{tabular}{lp{9.5cm}}
+\toprule
+\textbf{Agent} & \textbf{Receives} \\
+\midrule
+Micro & Spike stats (z-score, volume mult, cluster length) + 7 V3 microstructure features \\
+News  & Up to 5 pre-event articles (strictly before $t_0$) + publication timestamps \\
+Macro & SPY/QQQ 15-min and 60-min pre-event returns + up to 4 macro headlines \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\subsection{The 7 V3 Microstructure Features}
+
+\begin{center}
+\renewcommand{\arraystretch}{1.2}
+\begin{tabular}{lp{8.5cm}}
+\toprule
+\textbf{Feature} & \textbf{Finance meaning} \\
+\midrule
+\texttt{idio\_resid\_bp} & Stock return $-$ $\beta\cdot$SPY return. Large value $\to$ stock-specific overreaction $\to$ reversal. \\
+\texttt{rs\_ratio}       & Downward semivariance / total variance in pre-event bars. $\approx$0.5 $\to$ noisy two-sided action $\to$ reversal. \\
+\texttt{signed\_vol\_ratio\_pre} & Net buyer/seller pressure in 5 bars before $t_0$. Strong one-side $\to$ informed $\to$ continuation. \\
+\texttt{vpin\_proxy\_pre} & Order flow imbalance (pre-event). High VPIN $\to$ informed trader $\to$ continuation. \\
+\texttt{spread\_bp}      & Estimated bid-ask spread at $t_0$. Wide spread $\to$ market-maker uncertainty $\to$ reversal. \\
+\texttt{pre\_spike\_run\_len} & Consecutive bars in spike direction before $t_0$. Long run $\to$ exhaustion $\to$ reversal. \\
+\texttt{is\_macro\_driven} & $|$SPY z-score$|>1.5$ at $t_0$. Market-wide move $\to$ efficient absorption $\to$ continuation. \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\subsection{Weighted Math Ensemble}
+
+After agents vote, a direction heuristic acts as a 4th voter (up$\to$reversal, down$\to$continuation), justified by the intraday mean-reversion literature (Jegadeesh 1990, Lehmann 1990):
+
+\[
+\text{votes}[\ell] = w_\text{micro}\cdot c_\text{micro} + w_\text{news}\cdot c_\text{news} + w_\text{macro}\cdot c_\text{macro} + w_\text{dir}\cdot p_\text{dir}
+\]
+
+where $c_i$ is agent confidence and $w = \{0.35,\, 0.20,\, 0.15,\, 0.22\text{--}0.38\}$. The direction weight varies by time-of-day (higher in the last 2 hours; lower at open). If $\max(\text{votes}) < 0.35$ the ensemble returns ``unclear.''
+
+The reversal prior $p_\text{dir}$ is asymmetric: 0.62 for z $>$ 3 (large spikes revert more), reduced by 15\% if macro-driven, and reduced by 18\% for down-spikes (leverage asymmetry).
+
+% ─────────────────────────────────────────────────────────────────────────────
+\section{ML Stage — LightGBM + RF + ExtraTrees}
+
+V3 agent outputs (labels, confidence scores, score ratios) are combined with the 7 microstructure features and event statistics into a \textbf{35-feature matrix} over 85 clear-label events (100 minus 15 unclear).
+
+Three classifiers are trained with \textbf{Leave-One-Out cross-validation} (LOO-CV): on each fold, 84 events train and 1 tests. LOO-CV is the most conservative estimator for small $N$.
+
+\[
+\text{Stacked prob} = \tfrac{1}{3}\,p_\text{LGBM} + \tfrac{1}{3}\,p_\text{RF} + \tfrac{1}{3}\,p_\text{ET}
+\]
+
+\textbf{Classifier settings.} LightGBM: \texttt{num\_leaves=8, min\_child\_samples=5, lr=0.05}. RandomForest and ExtraTrees: \texttt{max\_depth=4, min\_samples\_leaf=4, class\_weight=balanced}.
+
+% ─────────────────────────────────────────────────────────────────────────────
+\section{Data Leakage — Discovery and Fix}
+
+\textbf{The bug.} An external reviewer found that the top 3 LightGBM features (\texttt{vpin\_proxy}, \texttt{cluster\_len}, \texttt{signed\_vol\_ratio}) were computed using bars \emph{starting at or after} $t_0$, not strictly before. The original code:
+
+\begin{verbatim}
+at_after = sub[sub["timestamp"] >= t0]   # >= includes t0 and beyond
+return at_after.iloc[:cluster_len]        # post-event bars
+\end{verbatim}
+
+Because these bars overlap with the outcome window, the model partially learned ``given early outcome, predict outcome'' — a form of target leakage.
+
+\textbf{The fix.}
+\begin{itemize}[leftmargin=1.5em, itemsep=2pt]
+    \item \texttt{vpin\_proxy} and \texttt{signed\_vol\_ratio} recomputed from the 5 bars strictly before $t_0$.
+    \item \texttt{cluster\_len} removed from the ML feature matrix entirely.
+    \item \texttt{strength\_score} removed (contained \texttt{cluster\_len} at 20\% weight).
+\end{itemize}
+
+\textbf{Impact:}
+
+\begin{center}
+\begin{tabular}{lc}
+\toprule
+& \textbf{Stacked accuracy} \\
+\midrule
+Before fix (leaky) & 82.4\% \\
+After fix (clean)  & \textbf{67.1\%} \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+The 15.3pp drop is entirely attributable to the removed features. 67.1\% is the honest number.
+
+\textbf{Remaining disclosures.} \texttt{cluster\_len} still appears in agent briefs (indirect, unquantifiable contamination of LLM outputs; would require re-running all LLM calls to fix). Event selection used \texttt{label\_proxy} to prioritize clear-outcome events — this is a sample selection bias, not model leakage, but limits generalizability.
+
+% ─────────────────────────────────────────────────────────────────────────────
+\section{Results}
+
+\begin{center}
+\renewcommand{\arraystretch}{1.25}
+\begin{tabular}{lcc}
+\toprule
+\textbf{Strategy} & \textbf{3-way (N=100)} & \textbf{Clear subset (N=85)} \\
+\midrule
+V2.1 full pipeline              & 16.3\% & 9.6\% \\
+V1 full pipeline                & 35.2\% & — \\
+Always reversal                 & 42.0\% & 49.4\% \\
+Always continuation             & 43.0\% & 50.6\% \\
+Direction heuristic             & 48.0\% & 56.5\% \\
+V3b ensemble                    & 49.0\% & 57.6\% \\
+\midrule
+Math-only LGBM (no agents)      & — & 57.6\% \\
+Agents-only LGBM (no microstr.) & — & 61.2\% \\
+Full LightGBM LOO-CV            & — & 62.4\% \\
+Full RandomForest LOO-CV        & — & 65.9\% \\
+\textbf{Stacked LGBM+RF+ET}     & — & \textbf{67.1\%} \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\textbf{Top LightGBM features} (by mean LOO-fold importance): \texttt{vpin\_proxy\_pre} (114), \texttt{cluster\_len}* (92, removed), \texttt{signed\_vol\_ratio\_pre} (88), \texttt{peak\_range\_mult} (38), \texttt{idio\_resid\_bp} (35). Microstructure features dominate; LLM agent labels have secondary importance.
+
+% ─────────────────────────────────────────────────────────────────────────────
+\section{Ablation Study}
+
+\begin{center}
+\begin{tabular}{lcc}
+\toprule
+\textbf{Feature set} & \textbf{LGBM LOO-CV} & \textbf{vs.\ baseline} \\
+\midrule
+Math-only (no LLM features) & 57.6\% & +1.1pp vs heuristic \\
+Agents-only (no microstructure) & 61.2\% & +4.7pp vs math-only \\
+Full stack & 62.4\% & +4.8pp vs math-only \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\textbf{Finding.} LLM agents contribute a genuine +4.7pp (``Contextual Alpha'') over pure microstructure math. This confirms that agents add signal through news interpretation and macro reasoning beyond what numbers alone capture. However, the primary signal source is microstructure — agents are secondary.
+
+% ─────────────────────────────────────────────────────────────────────────────
+\section{Constants Stability}
+
+The V3 ensemble has 14 hardcoded constants (weights, priors, thresholds). We perturbed each by $\pm10\%$ and $\pm20\%$ and measured accuracy change on stored agent outputs (no LLM re-runs needed).
+
+\begin{center}
+\begin{tabular}{lcc}
+\toprule
+\textbf{Constant} & \textbf{Max $|\Delta|$ at $\pm$10\%} & \textbf{Max $|\Delta|$ at $\pm$20\%} \\
+\midrule
+\texttt{unclear\_thresh} (0.35) & 2.0pp & 3.1pp \\
+\texttt{w\_micro} (0.35) & 1.0pp & 2.0pp \\
+All other 12 constants & 0.0--1.0pp & 0.0--2.0pp \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+9 of 14 constants have zero effect at $\pm10\%$. The system is not tuned to the 85 events.
+
+% ─────────────────────────────────────────────────────────────────────────────
+\section{Limitations and Future Work}
+
+\begin{enumerate}[leftmargin=1.5em, itemsep=3pt]
+    \item \textbf{Small $N$.} N=85 is the primary weakness. LOO-CV is conservative but external validation on a held-out time period is required before deployment claims.
+    \item \textbf{Short data window.} Only $\approx$3 months of data (Oct 2025 -- Jan 2026). Extending to 1+ FY would provide more diverse market regimes.
+    \item \textbf{Residual brief contamination.} \texttt{cluster\_len} is shown in agent briefs but removed from ML features. Its indirect influence on agent outputs is unquantifiable without re-running all LLM calls.
+    \item \textbf{Sample selection bias.} Events selected partly for clear outcomes — results may overstate performance on ambiguous real-world events.
+    \item \textbf{Future directions.} Expand tickers and time window; add options flow and earnings calendar features; test whether agent $\Delta$accuracy holds out-of-sample.
+\end{enumerate}
+
+% ─────────────────────────────────────────────────────────────────────────────
+\section*{References}
+
+\begin{enumerate}[leftmargin=1.5em, itemsep=3pt, label={[\arabic*]}]
+    \item Liang et al. (2024). \textit{Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate.} EMNLP 2024. arXiv:2305.19118
+    \item Chen et al. (2025). \textit{Mixture of Agents.} arXiv:2602.08003
+    \item ReTuning evidence-scoring format. arXiv:2510.21604
+    \item Easley, D., de Prado, M., O'Hara, M. (2012). \textit{Flow Toxicity and Liquidity in a High-Frequency World.} Review of Financial Studies.
+    \item Jegadeesh, N. (1990). \textit{Evidence of Predictable Behavior of Security Returns.} Journal of Finance.
+    \item Lehmann, B. (1990). \textit{Fads, Martingales, and Market Efficiency.} Quarterly Journal of Economics.
+\end{enumerate}
+
+\end{document}

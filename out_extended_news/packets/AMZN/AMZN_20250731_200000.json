@@ -1,0 +1,46 @@
+{
+  "event": {
+    "event_id": "AMZN_20250731_200000",
+    "ticker": "AMZN",
+    "t0_utc": "2025-07-31 20:00:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-07-31T17:00:00+00:00",
+      "end": "2025-07-31T21:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-07-31T18:02:00Z",
+        "title": "Amazon Earnings Preview: Cloud Bet Faces High Bar After Microsoft\u2019s Results",
+        "description": "Amazon prepares to report Q2 earnings with high expectations for cloud performance, following strong results from Microsoft and Meta. Analysts expect sales of $162.1 billion and EPS of $1.32, with potential limited upside due to current valuation.",
+        "article_url": "https://www.investing.com/analysis/amazon-earnings-preview-cloud-bet-faces-high-bar-after-microsofts-strong-q2-200664639",
+        "publisher": "Investing.com",
+        "author": "David Wagner",
+        "tickers": [
+          "AMZN",
+          "MSFT",
+          "META"
+        ],
+        "keywords": [
+          "earnings",
+          "cloud computing",
+          "Q2 results",
+          "stock performance",
+          "valuation"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

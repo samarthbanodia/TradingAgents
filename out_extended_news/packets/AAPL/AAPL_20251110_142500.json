@@ -1,0 +1,47 @@
+{
+  "event": {
+    "event_id": "AAPL_20251110_142500",
+    "ticker": "AAPL",
+    "t0_utc": "2025-11-10 14:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-11-10T11:25:00+00:00",
+      "end": "2025-11-10T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-11-10T13:27:00Z",
+        "title": "S&P 500: Key Weekly Levels and Price Targets",
+        "description": "Analysis of S&P 500 futures focusing on technical developments, trading zones, and strategic price targets for the upcoming week.",
+        "article_url": "https://www.investing.com/analysis/sp-500-key-weekly-levels-and-price-targets-200669898",
+        "publisher": "Investing.com",
+        "author": "Patrick Munnelly",
+        "tickers": [
+          "AAPL",
+          "NVDA",
+          "TSLA",
+          "META"
+        ],
+        "keywords": [
+          "S&P 500",
+          "futures",
+          "technical analysis",
+          "trading",
+          "market levels"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

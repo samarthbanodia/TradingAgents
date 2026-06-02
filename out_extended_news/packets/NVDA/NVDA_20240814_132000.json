@@ -1,0 +1,49 @@
+{
+  "event": {
+    "event_id": "NVDA_20240814_132000",
+    "ticker": "NVDA",
+    "t0_utc": "2024-08-14 13:20:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2024-08-14T10:20:00+00:00",
+      "end": "2024-08-14T14:20:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-08-14T13:51:00Z",
+        "title": "Is It Too Late to Buy Intel Stock?",
+        "description": "Intel's stock has plunged 32% since its Q2 2024 earnings release, as the company missed expectations and announced cost-cutting measures. While Intel's long-term AI chip plans remain compelling, its poor financial position and valuation make it a risky investment compared to competitors like Nvidia, AMD, and TSMC.",
+        "article_url": "https://www.fool.com/investing/2024/08/14/is-it-too-late-to-buy-intel-stock/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Dani Cook",
+        "tickers": [
+          "INTC",
+          "NVDA",
+          "AMD",
+          "TSM"
+        ],
+        "keywords": [
+          "Intel",
+          "AI chips",
+          "earnings",
+          "stock price",
+          "Nvidia",
+          "AMD",
+          "TSMC"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "event": {
+    "event_id": "AMD_20240819_100000",
+    "ticker": "AMD",
+    "t0_utc": "2024-08-19 10:00:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-08-19T07:00:00+00:00",
+      "end": "2024-08-19T11:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-08-19T08:30:00Z",
+        "title": "Forget Intel: 2 Better Artificial Intelligence (AI) Stocks to Buy After a Sell-Off",
+        "description": "Intel's stock has declined significantly due to market uncertainty and weaker-than-expected earnings, but its valuation remains high compared to competitors Nvidia and AMD. Nvidia and AMD have stronger positions in the growing AI market, making them more attractive investment options.",
+        "article_url": "https://www.fool.com/investing/2024/08/19/forget-intel-2-better-artificial-intelligence-ai-s/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Dani Cook",
+        "tickers": [
+          "INTC",
+          "NVDA",
+          "AMD"
+        ],
+        "keywords": [
+          "Intel",
+          "Nvidia",
+          "AMD",
+          "AI",
+          "stock market"
+        ]
+      },
+      {
+        "published_utc": "2024-08-19T10:00:00Z",
+        "title": "AMD to Significantly Expand Data Center AI Systems Capabilities with Acquisition of Hyperscale Solutions Provider ZT Systems",
+        "description": "AMD announced the acquisition of ZT Systems, a leading provider of AI infrastructure for hyperscale computing companies, for $4.9 billion. The acquisition aims to strengthen AMD's data center AI systems and customer enablement capabilities.",
+        "article_url": "https://www.globenewswire.com/news-release/2024/08/19/2931975/0/en/AMD-to-Significantly-Expand-Data-Center-AI-Systems-Capabilities-with-Acquisition-of-Hyperscale-Solutions-Provider-ZT-Systems.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Amd",
+        "tickers": [
+          "AMD"
+        ],
+        "keywords": [
+          "AMD",
+          "ZT Systems",
+          "data center",
+          "AI",
+          "acquisition"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

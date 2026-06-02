@@ -1,0 +1,47 @@
+{
+  "event": {
+    "event_id": "MSFT_20251031_133000",
+    "ticker": "MSFT",
+    "t0_utc": "2025-10-31 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-10-31T10:30:00+00:00",
+      "end": "2025-10-31T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-10-31T13:16:00Z",
+        "title": "Alphabet and the Battle of Hyperscalers: What Its Earnings Reveal About AI Demand",
+        "description": "Alphabet's Q1 2025 earnings demonstrate robust AI demand, with 12% year-over-year revenue growth, strong performance across Google Search, YouTube, and Google Cloud, and significant AI infrastructure investments driving financial momentum.",
+        "article_url": "https://www.investing.com/analysis/alphabet-and-the-battle-of-hyperscalers-what-its-earnings-reveal-about-ai-demand-200669442",
+        "publisher": "Investing.com",
+        "author": "Shane Neagle",
+        "tickers": [
+          "GOOG",
+          "GOOGL",
+          "MSFT",
+          "AMZN"
+        ],
+        "keywords": [
+          "AI",
+          "hyperscalers",
+          "cloud infrastructure",
+          "earnings",
+          "technology investment"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

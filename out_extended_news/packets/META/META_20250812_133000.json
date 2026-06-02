@@ -1,0 +1,47 @@
+{
+  "event": {
+    "event_id": "META_20250812_133000",
+    "ticker": "META",
+    "t0_utc": "2025-08-12 13:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "unclear",
+    "window": {
+      "start": "2025-08-12T10:30:00+00:00",
+      "end": "2025-08-12T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-08-12T13:18:00Z",
+        "title": "CPI Meets Forecast for First Time in Six Months, Lifting US Equity Futures",
+        "description": "The Consumer Price Index (CPI) met market expectations for the first time in six months, causing an immediate positive reaction in equity futures. Nasdaq and Russell futures saw significant gains, suggesting a bullish market sentiment.",
+        "article_url": "https://www.investing.com/analysis/cpi-meets-forecast-for-first-time-in-six-months-lifting-us-equity-futures-200665186",
+        "publisher": "Investing.com",
+        "author": "Tim Knight",
+        "tickers": [
+          "AAPL",
+          "NVDA",
+          "META",
+          "TSLA"
+        ],
+        "keywords": [
+          "CPI",
+          "inflation",
+          "equity futures",
+          "market sentiment",
+          "economic indicators"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

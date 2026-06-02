@@ -1,0 +1,65 @@
+{
+  "event": {
+    "event_id": "MSFT_20251203_140000",
+    "ticker": "MSFT",
+    "t0_utc": "2025-12-03 14:00:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-12-03T11:00:00+00:00",
+      "end": "2025-12-03T15:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-12-03T14:00:00Z",
+        "title": "According to a New Public Briefing by an AI Expert, A Quiet Technological Upheaval Is Forming\u2014And America Isn\u2019t Ready",
+        "description": "A new public briefing reveals that the rapid advancement of AI is creating a computational bottleneck, which quantum computing is poised to solve, potentially triggering unprecedented technological growth across multiple industries.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/12/03/3198924/0/en/According-to-a-New-Public-Briefing-by-an-AI-Expert-A-Quiet-Technological-Upheaval-Is-Forming-And-America-Isn-t-Ready.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "James Altucher",
+        "tickers": [
+          "NVDA",
+          "GOOG",
+          "GOOGL",
+          "MSFT"
+        ],
+        "keywords": [
+          "AI",
+          "quantum computing",
+          "technological disruption",
+          "computational power",
+          "innovation"
+        ]
+      },
+      {
+        "published_utc": "2025-12-03T14:17:00Z",
+        "title": "The Best Way to Reinvest Your Required Minimum Distribution (RMD) if You Don't Need the Money Right Away",
+        "description": "When taking Required Minimum Distributions (RMDs), investors can reinvest funds into taxable brokerage accounts, allowing continued investment growth and potential tax advantages through strategies like holding stocks long-term for heirs.",
+        "article_url": "https://www.fool.com/retirement/2025/12/03/the-best-way-to-reinvest-your-required-minimum-dis/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Marc Guberti",
+        "tickers": [
+          "MSFT"
+        ],
+        "keywords": [
+          "RMD",
+          "retirement",
+          "investing",
+          "brokerage accounts",
+          "tax strategy"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

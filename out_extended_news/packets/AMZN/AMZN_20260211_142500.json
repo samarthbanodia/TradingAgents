@@ -1,0 +1,61 @@
+{
+  "event": {
+    "event_id": "AMZN_20260211_142500",
+    "ticker": "AMZN",
+    "t0_utc": "2026-02-11 14:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-02-11T11:25:00+00:00",
+      "end": "2026-02-11T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-02-11T13:15:00Z",
+        "title": "Did Anthropic Just Give Investors Another DeepSeek Moment?",
+        "description": "Anthropic's launch of Claude Cowork, an AI tool designed to replace multiple software tools, triggered a significant sell-off in SaaS stocks. Software companies like Shopify, Monday.com, and Fastly dropped 15-23%, similar to the market's reaction to DeepSeek last year. However, analysts suggest the impact varies by company type\u2014mission-critical, deeply integrated software providers are better positioned to weather AI disruption than single-function tools. Meanwhile, January job data showed the lowest openings since 2020 and highest layoffs since 2009, though unemployment remains historically average.",
+        "article_url": "https://www.fool.com/investing/2026/02/11/did-anthropic-just-give-investors-another-deepseek/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Motley Fool Staff",
+        "tickers": [
+          "SHOP",
+          "MNDY",
+          "FSLY",
+          "BILL",
+          "HUBS",
+          "TEAM",
+          "CRWD",
+          "TOST",
+          "ZS",
+          "GDDY",
+          "POWL",
+          "MSFT",
+          "META",
+          "GOOG",
+          "GOOGL",
+          "AMZN"
+        ],
+        "keywords": [
+          "AI disruption",
+          "SaaS sell-off",
+          "Claude Cowork",
+          "software companies",
+          "job market",
+          "cybersecurity",
+          "mission-critical software"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

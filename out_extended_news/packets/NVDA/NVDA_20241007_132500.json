@@ -1,0 +1,117 @@
+{
+  "event": {
+    "event_id": "NVDA_20241007_132500",
+    "ticker": "NVDA",
+    "t0_utc": "2024-10-07 13:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-10-07T10:25:00+00:00",
+      "end": "2024-10-07T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-10-07T10:41:40Z",
+        "title": "Wall Street Set To Start New Week Sharply Lower As Traders Brace For Key Economic Data And Fed Minutes: Why Strategist Sees Market Consolidating In Near Term",
+        "description": "U.S. stock futures are headed lower on Monday as traders await key economic data and the Federal Reserve's September meeting minutes. The market could be stuck in a trading range until the November election, with the Middle East tensions and the upcoming earnings season adding to the cautious sentiment.",
+        "article_url": "https://www.benzinga.com/news/earnings/24/10/41203264/wall-street-set-to-start-new-week-sharply-lower-as-traders-brace-for-key-economic-data-and-fed-minu",
+        "publisher": "Benzinga",
+        "author": "Benzinga",
+        "tickers": [
+          "QQQ",
+          "SPY",
+          "PFE",
+          "SPR",
+          "NVDA",
+          "TSLA"
+        ],
+        "keywords": [
+          "Nasdaq",
+          "S&P 500",
+          "Federal Reserve",
+          "economic data",
+          "earnings season"
+        ]
+      },
+      {
+        "published_utc": "2024-10-07T13:30:00Z",
+        "title": "Should You Buy Nvidia Stock As Its AI Summit Gets Underway? History Says This Will Happen.",
+        "description": "Nvidia, the AI leader, is set to host its 2024 AI Summit. The article discusses Nvidia's dominance in the AI silicon market and the potential impact of the upcoming event on its stock price.",
+        "article_url": "https://www.fool.com/investing/2024/10/07/should-you-buy-nvidia-as-its-ai-summit-gets/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "NVDA",
+          "AMD",
+          "GOOG",
+          "GOOGL",
+          "INTC"
+        ],
+        "keywords": [
+          "Nvidia",
+          "AI",
+          "stock price"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-10-07T10:41:40Z",
+          "title": "Wall Street Set To Start New Week Sharply Lower As Traders Brace For Key Economic Data And Fed Minutes: Why Strategist Sees Market Consolidating In Near Term",
+          "description": "U.S. stock futures are headed lower on Monday as traders await key economic data and the Federal Reserve's September meeting minutes. The market could be stuck in a trading range until the November election, with the Middle East tensions and the upcoming earnings season adding to the cautious sentiment.",
+          "article_url": "https://www.benzinga.com/news/earnings/24/10/41203264/wall-street-set-to-start-new-week-sharply-lower-as-traders-brace-for-key-economic-data-and-fed-minu",
+          "publisher": "Benzinga",
+          "author": "Benzinga",
+          "tickers": [
+            "QQQ",
+            "SPY",
+            "PFE",
+            "SPR",
+            "NVDA",
+            "TSLA"
+          ],
+          "keywords": [
+            "Nasdaq",
+            "S&P 500",
+            "Federal Reserve",
+            "economic data",
+            "earnings season"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2024-10-07T10:41:40Z",
+          "title": "Wall Street Set To Start New Week Sharply Lower As Traders Brace For Key Economic Data And Fed Minutes: Why Strategist Sees Market Consolidating In Near Term",
+          "description": "U.S. stock futures are headed lower on Monday as traders await key economic data and the Federal Reserve's September meeting minutes. The market could be stuck in a trading range until the November election, with the Middle East tensions and the upcoming earnings season adding to the cautious sentiment.",
+          "article_url": "https://www.benzinga.com/news/earnings/24/10/41203264/wall-street-set-to-start-new-week-sharply-lower-as-traders-brace-for-key-economic-data-and-fed-minu",
+          "publisher": "Benzinga",
+          "author": "Benzinga",
+          "tickers": [
+            "QQQ",
+            "SPY",
+            "PFE",
+            "SPR",
+            "NVDA",
+            "TSLA"
+          ],
+          "keywords": [
+            "Nasdaq",
+            "S&P 500",
+            "Federal Reserve",
+            "economic data",
+            "earnings season"
+          ]
+        }
+      ]
+    }
+  }
+}

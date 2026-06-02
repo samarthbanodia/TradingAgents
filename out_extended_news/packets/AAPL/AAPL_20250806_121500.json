@@ -1,0 +1,90 @@
+{
+  "event": {
+    "event_id": "AAPL_20250806_121500",
+    "ticker": "AAPL",
+    "t0_utc": "2025-08-06 12:15:00+00:00",
+    "direction": 1,
+    "label_proxy": "unclear",
+    "window": {
+      "start": "2025-08-06T09:15:00+00:00",
+      "end": "2025-08-06T13:15:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-08-06T09:30:00Z",
+        "title": "With Apple Starting to See iPhone Sales Momentum, Is Now the Time to Buy the Stock?",
+        "description": "Apple reported strong Q3 results with 13% iPhone sales growth and 10% overall revenue increase, driven by iPhone 16 upgrades and service segment performance. However, challenges remain around AI implementation and potential regulatory risks.",
+        "article_url": "https://www.fool.com/investing/2025/08/06/with-apple-starting-to-see-iphone-sales-momentum-i/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Geoffrey Seiler",
+        "tickers": [
+          "AAPL",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "iPhone",
+          "quarterly earnings",
+          "sales growth",
+          "tariffs",
+          "AI",
+          "services"
+        ]
+      },
+      {
+        "published_utc": "2025-08-06T13:02:00Z",
+        "title": "S&P 500: Overbought Conditions, High Valuations Set to Test Bullish Resolve",
+        "description": "The S&P 500 faces potential pullback risks due to high valuations, overbought technical conditions, and weakening economic data. Seasonality factors suggest August and September might be challenging months for US stocks, with potential market volatility ahead.",
+        "article_url": "https://www.investing.com/analysis/sp-500-overbought-conditions-high-valuations-set-to-test-bullish-resolve-200664898",
+        "publisher": "Investing.com",
+        "author": "Fawad Razaqzada",
+        "tickers": [
+          "AAPL",
+          "NVDA",
+          "TSLA",
+          "SPY"
+        ],
+        "keywords": [
+          "S&P 500",
+          "market valuation",
+          "technical analysis",
+          "economic indicators",
+          "market volatility"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-08-06T13:02:00Z",
+          "title": "S&P 500: Overbought Conditions, High Valuations Set to Test Bullish Resolve",
+          "description": "The S&P 500 faces potential pullback risks due to high valuations, overbought technical conditions, and weakening economic data. Seasonality factors suggest August and September might be challenging months for US stocks, with potential market volatility ahead.",
+          "article_url": "https://www.investing.com/analysis/sp-500-overbought-conditions-high-valuations-set-to-test-bullish-resolve-200664898",
+          "publisher": "Investing.com",
+          "author": "Fawad Razaqzada",
+          "tickers": [
+            "AAPL",
+            "NVDA",
+            "TSLA",
+            "SPY"
+          ],
+          "keywords": [
+            "S&P 500",
+            "market valuation",
+            "technical analysis",
+            "economic indicators",
+            "market volatility"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

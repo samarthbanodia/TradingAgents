@@ -1,0 +1,44 @@
+{
+  "event": {
+    "event_id": "TSLA_20240816_132500",
+    "ticker": "TSLA",
+    "t0_utc": "2024-08-16 13:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2024-08-16T10:25:00+00:00",
+      "end": "2024-08-16T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-08-16T11:53:00Z",
+        "title": "Nvidia Sell-Off: Is It Time to Be Concerned?",
+        "description": "Nvidia's stock has seen a significant drop of over 25% this summer, the largest decline since the start of 2023. The article discusses the reasons behind this, including concerns about the company's revenue growth and valuation expectations.",
+        "article_url": "https://www.fool.com/investing/2024/08/16/nvidia-sell-off-is-it-time-to-be-concerned/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jake Lerch",
+        "tickers": [
+          "NVDA",
+          "TSLA"
+        ],
+        "keywords": [
+          "Nvidia",
+          "stock",
+          "revenue growth",
+          "valuation"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

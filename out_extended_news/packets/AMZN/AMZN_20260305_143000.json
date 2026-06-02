@@ -1,0 +1,135 @@
+{
+  "event": {
+    "event_id": "AMZN_20260305_143000",
+    "ticker": "AMZN",
+    "t0_utc": "2026-03-05 14:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2026-03-05T11:30:00+00:00",
+      "end": "2026-03-05T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-03-05T11:57:02Z",
+        "title": "OpenAI's Annualized Revenue Skyrockets Beyond $25 Billion: Report",
+        "description": "OpenAI has surpassed $25 billion in annualized revenue as of February 2026, representing a 17% increase from the previous year's $21.4 billion. Despite impressive growth, the company faces intensifying competition from Anthropic, which is targeting a 180% revenue increase. OpenAI received significant funding from SoftBank, Amazon, and Nvidia, with Nvidia's CEO suggesting their $30 billion investment may be the last before OpenAI's anticipated IPO later in 2026.",
+        "article_url": "https://www.benzinga.com/markets/tech/26/03/51061532/openais-annualized-revenue-skyrockets-beyond-25-billion-report?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "AMZN",
+          "GOOG",
+          "GOOGL",
+          "NVDA"
+        ],
+        "keywords": [
+          "OpenAI",
+          "revenue growth",
+          "AI startup",
+          "IPO",
+          "venture capital",
+          "competition",
+          "Anthropic",
+          "infrastructure spending"
+        ]
+      },
+      {
+        "published_utc": "2026-03-05T13:05:00Z",
+        "title": "Broadcom Gains as AI Chip Outlook Points to $100B Revenue Path by 2027",
+        "description": "Broadcom shares surged 7% in premarket trading after CEO Hock Tan announced the company has clear visibility to exceed $100 billion in AI chip sales by 2027, up from $20 billion in 2025. The company secured major partnerships with OpenAI, Anthropic, Google, and Meta, and announced a $10 billion share repurchase program. Despite the positive outlook, Broadcom faces competition from Nvidia, which is expected to generate around $333 billion in AI data center revenue in fiscal 2027.",
+        "article_url": "https://www.investing.com/analysis/broadcom-gains-as-ai-chip-outlook-points-to-100b-revenue-path-by-2027-200676135",
+        "publisher": "Investing.com",
+        "author": "Timothy Fries",
+        "tickers": [
+          "AVGO",
+          "NVDA",
+          "GOOG",
+          "GOOGL",
+          "META",
+          "MSFT",
+          "AMZN"
+        ],
+        "keywords": [
+          "AI chips",
+          "semiconductor",
+          "custom chips",
+          "AI accelerators",
+          "earnings",
+          "revenue forecast",
+          "share buyback",
+          "AI infrastructure spending"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-03-05T13:45:50Z",
+          "title": "Stock Market Today: S&P 500, Dow, Nasdaq Futures Decline As Iran War Escalates\u2014 Trade Desk, Webull, Broadcom In Focus (UPDATED)",
+          "description": "U.S. stock futures declined on Thursday following geopolitical tensions in the Middle East, with reports of Iran initiating contact with Trump for ceasefire negotiations. The S&P 500 and Nasdaq 100 fell slightly in premarket trading. Notable movers included Broadcom surging 6.66% on better-than-expected Q1 results, Veeva Systems rising 11.32% on strong guidance, Trade Desk jumping 16.85% following insider buying, and Webull falling 3.13% after missing profit targets.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/03/51059966/stock-market-today-sp-500-dow-jones-futures-decline-amid-reports-of-iran-initiating-contact-with?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AVGO",
+            "VEEV",
+            "COST",
+            "BULL",
+            "BULLW",
+            "TTD",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures decline",
+            "Iran-Trump negotiations",
+            "geopolitical tensions",
+            "earnings",
+            "insider trading",
+            "AI",
+            "Federal Reserve"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-03-05T13:45:50Z",
+          "title": "Stock Market Today: S&P 500, Dow, Nasdaq Futures Decline As Iran War Escalates\u2014 Trade Desk, Webull, Broadcom In Focus (UPDATED)",
+          "description": "U.S. stock futures declined on Thursday following geopolitical tensions in the Middle East, with reports of Iran initiating contact with Trump for ceasefire negotiations. The S&P 500 and Nasdaq 100 fell slightly in premarket trading. Notable movers included Broadcom surging 6.66% on better-than-expected Q1 results, Veeva Systems rising 11.32% on strong guidance, Trade Desk jumping 16.85% following insider buying, and Webull falling 3.13% after missing profit targets.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/03/51059966/stock-market-today-sp-500-dow-jones-futures-decline-amid-reports-of-iran-initiating-contact-with?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AVGO",
+            "VEEV",
+            "COST",
+            "BULL",
+            "BULLW",
+            "TTD",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures decline",
+            "Iran-Trump negotiations",
+            "geopolitical tensions",
+            "earnings",
+            "insider trading",
+            "AI",
+            "Federal Reserve"
+          ]
+        }
+      ]
+    }
+  }
+}

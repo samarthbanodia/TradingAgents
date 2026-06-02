@@ -1,0 +1,163 @@
+{
+  "event": {
+    "event_id": "AAPL_20260323_110500",
+    "ticker": "AAPL",
+    "t0_utc": "2026-03-23 11:05:00+00:00",
+    "direction": 1,
+    "label_proxy": "unclear",
+    "window": {
+      "start": "2026-03-23T08:05:00+00:00",
+      "end": "2026-03-23T12:05:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-03-23T08:30:00Z",
+        "title": "Should You Buy the Invesco QQQ ETF During the Stock Market Sell-Off? History Offers a Clear Answer.",
+        "description": "The Invesco QQQ ETF, which tracks the Nasdaq-100 index heavily weighted toward technology stocks (60%), is down 8.8% from its all-time high amid economic uncertainty and geopolitical tensions. Historical analysis suggests that despite five bear markets since 1999, the ETF has delivered a 10.3% compound annual return and 20.3% annually over the last decade, indicating that staying invested during market downturns has historically been rewarded.",
+        "article_url": "https://www.fool.com/investing/2026/03/23/should-buy-invesco-qqq-etf-stock-sell-off-history/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Anthony Di Pizio",
+        "tickers": [
+          "QQQ",
+          "NVDA",
+          "AAPL",
+          "MSFT",
+          "AVGO",
+          "GOOG",
+          "GOOGL",
+          "AMZN",
+          "TSLA",
+          "META",
+          "PLTR"
+        ],
+        "keywords": [
+          "Invesco QQQ ETF",
+          "Nasdaq-100",
+          "stock market sell-off",
+          "technology stocks",
+          "artificial intelligence",
+          "bear market",
+          "long-term investing"
+        ]
+      },
+      {
+        "published_utc": "2026-03-23T08:46:00Z",
+        "title": "AI Infrastructure Boom Is Driving a Clearer Split in Big Tech",
+        "description": "The AI infrastructure investment boom is creating a divergence between Microsoft and Apple in 2026. Microsoft benefits directly from enterprise AI capex through Azure cloud services, with AI spending by major tech companies projected at $650 billion in 2026. Apple, despite record consumer revenue, remains structurally disconnected from enterprise AI deployment budgets. The MSFT/AAPL spread trade has gained traction as a proxy for the broader AI infrastructure versus consumer hardware debate.",
+        "article_url": "https://www.investing.com/analysis/ai-infrastructure-boom-is-driving-a-clearer-split-in-big-tech-200677077",
+        "publisher": "Investing.com",
+        "author": "Versus Trade",
+        "tickers": [
+          "MSFT",
+          "AAPL",
+          "AMZN",
+          "GOOG",
+          "GOOGL",
+          "META"
+        ],
+        "keywords": [
+          "AI infrastructure",
+          "cloud computing",
+          "enterprise spending",
+          "Azure",
+          "AI capex",
+          "tech divergence",
+          "spread trading"
+        ]
+      },
+      {
+        "published_utc": "2026-03-23T09:06:00Z",
+        "title": "Warren Buffett's Successor, Greg Abel, Has $64 Billion of Berkshire Hathaway's Assets Invested in 3 Unstoppable AI Stocks",
+        "description": "Greg Abel has taken over Berkshire Hathaway's $313 billion investment portfolio from Warren Buffett. Despite Buffett's historical skepticism of tech stocks, the portfolio contains $64 billion invested in three major AI stocks: Apple (integrating AI into physical devices), Alphabet (growing Google Cloud with AI capabilities), and Amazon (expanding AWS with generative AI features). All three companies are positioned as leaders in integrating AI into their platforms.",
+        "article_url": "https://www.fool.com/investing/2026/03/23/warren-buffett-abel-64-billion-brka-3-ai-stocks/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Sean Williams",
+        "tickers": [
+          "AAPL",
+          "GOOG",
+          "GOOGL",
+          "AMZN",
+          "BRK.A",
+          "BRK.B"
+        ],
+        "keywords": [
+          "artificial intelligence",
+          "AI stocks",
+          "Berkshire Hathaway",
+          "Greg Abel",
+          "Warren Buffett",
+          "cloud infrastructure",
+          "generative AI"
+        ]
+      },
+      {
+        "published_utc": "2026-03-23T10:27:00Z",
+        "title": "This ETF Is Crushing the Market -- and There's No Way I'd Ever Invest in It",
+        "description": "The Breakwave Tanker Shipping ETF (BWET) has surged 243% year-to-date due to geopolitical tensions affecting shipping routes, particularly around the Strait of Hormuz. However, the author argues against investing in it for long-term retirement portfolios, citing its heavy dependence on short-term geopolitical events and freight rate volatility. She prefers broad-based index ETFs like the Vanguard S&P 500 ETF that track stable, long-term business fundamentals.",
+        "article_url": "https://www.fool.com/investing/2026/03/23/this-etf-is-crushing-the-market-and-theres-no-way/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Dana George",
+        "tickers": [
+          "VOO",
+          "AAPL",
+          "MSFT",
+          "AMZN",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "ETF performance",
+          "tanker shipping",
+          "geopolitical risk",
+          "long-term investing",
+          "freight rates",
+          "Strait of Hormuz",
+          "index funds",
+          "portfolio diversification"
+        ]
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": [
+        {
+          "published_utc": "2026-03-23T08:30:00Z",
+          "title": "Should You Buy the Invesco QQQ ETF During the Stock Market Sell-Off? History Offers a Clear Answer.",
+          "description": "The Invesco QQQ ETF, which tracks the Nasdaq-100 index heavily weighted toward technology stocks (60%), is down 8.8% from its all-time high amid economic uncertainty and geopolitical tensions. Historical analysis suggests that despite five bear markets since 1999, the ETF has delivered a 10.3% compound annual return and 20.3% annually over the last decade, indicating that staying invested during market downturns has historically been rewarded.",
+          "article_url": "https://www.fool.com/investing/2026/03/23/should-buy-invesco-qqq-etf-stock-sell-off-history/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Anthony Di Pizio",
+          "tickers": [
+            "QQQ",
+            "NVDA",
+            "AAPL",
+            "MSFT",
+            "AVGO",
+            "GOOG",
+            "GOOGL",
+            "AMZN",
+            "TSLA",
+            "META",
+            "PLTR"
+          ],
+          "keywords": [
+            "Invesco QQQ ETF",
+            "Nasdaq-100",
+            "stock market sell-off",
+            "technology stocks",
+            "artificial intelligence",
+            "bear market",
+            "long-term investing"
+          ]
+        }
+      ]
+    }
+  }
+}

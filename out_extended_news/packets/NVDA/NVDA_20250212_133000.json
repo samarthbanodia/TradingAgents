@@ -1,0 +1,180 @@
+{
+  "event": {
+    "event_id": "NVDA_20250212_133000",
+    "ticker": "NVDA",
+    "t0_utc": "2025-02-12 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-02-12T10:30:00+00:00",
+      "end": "2025-02-12T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-02-12T11:30:00Z",
+        "title": "1 Must-See Quote for AI Stock Investors From Arm Holdings' CEO",
+        "description": "Arm Holdings' stock has slipped despite strong AI demand and record revenue. The article suggests that Arm is well-positioned to benefit from the growth in AI and cloud computing, making it a potential buying opportunity for investors.",
+        "article_url": "https://www.fool.com/investing/2025/02/12/1-must-see-quote-from-arm-holdings-ceo-for-ai/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jeremy Bowman",
+        "tickers": [
+          "ARM",
+          "NVDA"
+        ],
+        "keywords": [
+          "Arm Holdings",
+          "AI",
+          "cloud computing",
+          "edge AI"
+        ]
+      },
+      {
+        "published_utc": "2025-02-12T11:45:00Z",
+        "title": "Buying This Artificial Intelligence (AI) Chip Stock Is a No-Brainer After This Development",
+        "description": "AMD stock fell after its Q4 2024 results, as data center growth was lower than expected. However, the company's overall performance and outlook remain strong, with impressive growth in its client segment and expectations of a rebound in the data center business in the second half of 2025. Analysts expect AMD to deliver robust earnings growth in 2025, making it an attractive investment opportunity.",
+        "article_url": "https://www.fool.com/investing/2025/02/12/buying-this-artificial-intelligence-ai-chip-stock/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Harsh Chauhan",
+        "tickers": [
+          "AMD",
+          "NVDA"
+        ],
+        "keywords": [
+          "AMD",
+          "data center",
+          "AI",
+          "PC",
+          "earnings growth"
+        ]
+      },
+      {
+        "published_utc": "2025-02-12T13:15:00Z",
+        "title": "Amazon Drops Massive News for Nvidia Stock Investors",
+        "description": "The article discusses Amazon and Nvidia, providing analysis and recommendations for these companies.",
+        "article_url": "https://www.fool.com/investing/2025/02/12/amazon-drops-massive-news-for-nvidia-stock-investo/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jose Najarro",
+        "tickers": [
+          "AMZN",
+          "NVDA"
+        ],
+        "keywords": [
+          "Amazon",
+          "Nvidia",
+          "investing",
+          "stock analysis"
+        ]
+      },
+      {
+        "published_utc": "2025-02-12T14:15:00Z",
+        "title": "What's Going On With Nvidia Stock?",
+        "description": "The article discusses recent updates regarding Nvidia (NVDA) stock, noting that it has done something only twice before in the past 4 years, and suggesting that history indicates what will happen next.",
+        "article_url": "https://www.fool.com/investing/2025/02/12/whats-going-on-with-nvidia-stock/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Neil Rozenbaum",
+        "tickers": [
+          "NVDA"
+        ],
+        "keywords": [
+          "Nvidia",
+          "stock",
+          "updates"
+        ]
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-02-12T11:13:34Z",
+          "title": "US Stocks Set For A Cautious Start Ahead Of Inflation Data: Expert Says 'Strong Bull Markets Tend To Roar Back To Life After Corrections'",
+          "description": "U.S. stock futures fell ahead of the release of inflation data, with traders expecting a modest report that could signal easing price pressures and potential interest rate cuts by the Federal Reserve. Experts noted a 'weak recovery' in the market, but sentiment remains constructive.",
+          "article_url": "https://www.benzinga.com/government/regulations/25/02/43651497/us-stocks-set-for-a-cautious-start-ahead-of-inflation-data-expert-says-strong-bull-markets",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "BIIB",
+            "CME",
+            "CSCO",
+            "CVS",
+            "DASH",
+            "HOOD",
+            "KHC",
+            "KO",
+            "PBI",
+            "PBIpB",
+            "QQQ",
+            "RDDT",
+            "SPY",
+            "TSLA",
+            "Z",
+            "ZG"
+          ],
+          "keywords": [
+            "US stocks",
+            "inflation data",
+            "Federal Reserve",
+            "market sentiment"
+          ]
+        },
+        {
+          "published_utc": "2025-02-12T13:48:11Z",
+          "title": "Inflation Rises More Than Expected In January, Chills Interest Rate Cut Hopes",
+          "description": "Inflation surged more than expected in January, with CPI rising 3% year-over-year and 0.5% month-over-month, exceeding forecasts and dampening investor hopes for Federal Reserve interest rate cuts.",
+          "article_url": "https://www.benzinga.com/government/regulations/25/02/43656846/inflation-rises-more-than-expected-in-january-chills-interest-rate-cut-hopes",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "SPY"
+          ],
+          "keywords": [
+            "inflation",
+            "CPI",
+            "interest rates",
+            "Federal Reserve"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-02-12T11:13:34Z",
+          "title": "US Stocks Set For A Cautious Start Ahead Of Inflation Data: Expert Says 'Strong Bull Markets Tend To Roar Back To Life After Corrections'",
+          "description": "U.S. stock futures fell ahead of the release of inflation data, with traders expecting a modest report that could signal easing price pressures and potential interest rate cuts by the Federal Reserve. Experts noted a 'weak recovery' in the market, but sentiment remains constructive.",
+          "article_url": "https://www.benzinga.com/government/regulations/25/02/43651497/us-stocks-set-for-a-cautious-start-ahead-of-inflation-data-expert-says-strong-bull-markets",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "BIIB",
+            "CME",
+            "CSCO",
+            "CVS",
+            "DASH",
+            "HOOD",
+            "KHC",
+            "KO",
+            "PBI",
+            "PBIpB",
+            "QQQ",
+            "RDDT",
+            "SPY",
+            "TSLA",
+            "Z",
+            "ZG"
+          ],
+          "keywords": [
+            "US stocks",
+            "inflation data",
+            "Federal Reserve",
+            "market sentiment"
+          ]
+        }
+      ]
+    }
+  }
+}

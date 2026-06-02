@@ -1,0 +1,48 @@
+{
+  "event": {
+    "event_id": "META_20250430_195000",
+    "ticker": "META",
+    "t0_utc": "2025-04-30 19:50:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-04-30T16:50:00+00:00",
+      "end": "2025-04-30T20:50:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-04-30T17:38:37Z",
+        "title": "Why Amazon, Meta Platforms, and Alphabet Slumped on Wednesday",
+        "description": "The U.S. economy contracted in the first quarter of 2025, raising fears of a potential recession. This news has negatively impacted tech giants like Amazon, Meta Platforms, and Alphabet, as they are major providers of digital advertising, which is typically one of the first budget items cut during economic downturns.",
+        "article_url": "https://www.fool.com/investing/2025/04/30/why-amazon-meta-platforms-and-alphabet-slumped-on/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "AMZN",
+          "META",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "GDP",
+          "recession",
+          "tariffs",
+          "trade war",
+          "digital advertising",
+          "cloud computing"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

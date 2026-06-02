@@ -1,0 +1,78 @@
+{
+  "event": {
+    "event_id": "NVDA_20240906_131500",
+    "ticker": "NVDA",
+    "t0_utc": "2024-09-06 13:15:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2024-09-06T10:15:00+00:00",
+      "end": "2024-09-06T14:15:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-09-06T11:45:00Z",
+        "title": "Is Nvidia a Safe Stock to Own During a Recession?",
+        "description": "Nvidia has seen phenomenal growth in recent years, but its high valuation could make it vulnerable during a recession. While it remains a leader in the AI chip market, investors should be prepared for the possibility of underperformance compared to the broader market if the economy slows down.",
+        "article_url": "https://www.fool.com/investing/2024/09/06/is-nvidia-a-safe-stock-to-own-during-a-recession/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "David Jagielski",
+        "tickers": [
+          "NVDA"
+        ],
+        "keywords": [
+          "Nvidia",
+          "AI",
+          "recession",
+          "growth",
+          "valuation"
+        ]
+      },
+      {
+        "published_utc": "2024-09-06T13:26:14Z",
+        "title": "Nvidia CEO Jensen Huang Describes Why Businesses Cannot Afford Not to Buy Its Products",
+        "description": "Nvidia CEO Jensen Huang emphasizes the importance of businesses investing in Nvidia's products, suggesting that they cannot afford to miss out on the benefits they provide.",
+        "article_url": "https://www.fool.com/investing/2024/09/06/nvidia-ceo-jensen-huang-describes-why-businesses-c/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Parkev Tatevosian",
+        "tickers": [
+          "NVDA"
+        ],
+        "keywords": [
+          "Nvidia",
+          "business investment"
+        ]
+      },
+      {
+        "published_utc": "2024-09-06T13:28:53Z",
+        "title": "Should Nvidia Stock Investors Be Worried About Broadcom's Latest Earnings Report?",
+        "description": "The article discusses recent news and developments in the semiconductor market, focusing on Nvidia and Broadcom. It highlights the impact of artificial intelligence (AI) on the industry.",
+        "article_url": "https://www.fool.com/investing/2024/09/06/should-nvidia-stock-investors-be-worried-about-bro/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jose Najarro",
+        "tickers": [
+          "NVDA",
+          "AVGO"
+        ],
+        "keywords": [
+          "Nvidia",
+          "Broadcom",
+          "semiconductor",
+          "artificial intelligence",
+          "AI"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

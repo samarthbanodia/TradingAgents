@@ -1,0 +1,83 @@
+{
+  "event": {
+    "event_id": "NFLX_20260326_132500",
+    "ticker": "NFLX",
+    "t0_utc": "2026-03-26 13:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2026-03-26T10:25:00+00:00",
+      "end": "2026-03-26T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-03-26T12:46:05Z",
+          "title": "Stock Market Today: S&P 500, Dow Futures Trip As Trump Tells Iran To 'Get Serious'\u2014 Pony AI, Worthington Steel, Olaplex In Focus (UPDATED)",
+          "description": "U.S. stock futures fell on Thursday amid escalating Iran tensions and Trump's threats of military action. Major indices declined with the Dow down 0.47%, S&P 500 down 0.55%, and Nasdaq 100 down 0.65%. BlackRock downgraded U.S. stocks to neutral citing geopolitical risks and energy market disruptions. Several individual stocks experienced significant moves: Olaplex surged 48% on acquisition news, while Worthington Steel plunged 14% and MillerKnoll dropped 19% on weak earnings.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/03/51475286/stock-market-today-dow-jones-sp-500-futures-fall?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "OLPX",
+            "WS",
+            "MLKN",
+            "PONY",
+            "NOTE",
+            "NOTE.WS",
+            "UBER"
+          ],
+          "keywords": [
+            "stock market",
+            "Iran tensions",
+            "geopolitical risk",
+            "energy prices",
+            "Fed policy",
+            "earnings",
+            "acquisitions"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-03-26T12:46:05Z",
+          "title": "Stock Market Today: S&P 500, Dow Futures Trip As Trump Tells Iran To 'Get Serious'\u2014 Pony AI, Worthington Steel, Olaplex In Focus (UPDATED)",
+          "description": "U.S. stock futures fell on Thursday amid escalating Iran tensions and Trump's threats of military action. Major indices declined with the Dow down 0.47%, S&P 500 down 0.55%, and Nasdaq 100 down 0.65%. BlackRock downgraded U.S. stocks to neutral citing geopolitical risks and energy market disruptions. Several individual stocks experienced significant moves: Olaplex surged 48% on acquisition news, while Worthington Steel plunged 14% and MillerKnoll dropped 19% on weak earnings.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/03/51475286/stock-market-today-dow-jones-sp-500-futures-fall?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "OLPX",
+            "WS",
+            "MLKN",
+            "PONY",
+            "NOTE",
+            "NOTE.WS",
+            "UBER"
+          ],
+          "keywords": [
+            "stock market",
+            "Iran tensions",
+            "geopolitical risk",
+            "energy prices",
+            "Fed policy",
+            "earnings",
+            "acquisitions"
+          ]
+        }
+      ]
+    }
+  }
+}

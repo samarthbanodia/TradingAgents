@@ -1,0 +1,198 @@
+{
+  "event": {
+    "event_id": "AAPL_20260202_142500",
+    "ticker": "AAPL",
+    "t0_utc": "2026-02-02 14:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-02-02T11:25:00+00:00",
+      "end": "2026-02-02T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-02-02T11:33:00Z",
+        "title": "This Top Non-Tech AI Trade for 2026 Pays a Huge 11.6% Dividend",
+        "description": "The article argues that the Magnificent 7 tech stocks' dominance is fading as AI benefits spread to other sectors. The author recommends rebalancing away from tech and investing in the Abrdn Life Sciences Investors (HQL) closed-end fund, which yields 11.6% and focuses on biopharma companies poised to benefit from AI optimization in drug development.",
+        "article_url": "https://www.investing.com/analysis/this-top-nontech-ai-trade-for-2026-pays-a-huge-116-dividend-200674275",
+        "publisher": "Investing.com",
+        "author": "Brett Owens",
+        "tickers": [
+          "AAPL",
+          "AMZN",
+          "GOOG",
+          "GOOGL",
+          "META",
+          "MSFT",
+          "NVDA",
+          "TSLA",
+          "NFLX",
+          "AMGN",
+          "REGN",
+          "GILD"
+        ],
+        "keywords": [
+          "AI",
+          "tech sector rotation",
+          "Magnificent 7",
+          "dividend yield",
+          "biopharma",
+          "closed-end fund",
+          "general purpose technology"
+        ]
+      },
+      {
+        "published_utc": "2026-02-02T13:39:18Z",
+        "title": "Trump Reportedly Set To Launch $12 Billion Critical Mineral Stockpile To Counter China: AAPL, GM, GOOG, BA In Focus",
+        "description": "President Trump is reportedly unveiling Project Vault, a $12 billion critical minerals stockpile initiative combining $10 billion in Ex-Im Bank loans and $1.67 billion in private capital. The program aims to reduce U.S. dependence on Chinese rare earth minerals and protect tech firms, automakers, and manufacturers from supply disruptions. Major companies including Apple, General Motors, Google, Boeing, and Corning have signed up to participate in the raw material handling effort.",
+        "article_url": "https://www.benzinga.com/markets/tech/26/02/50297645/trump-reportedly-set-to-launch-12-billion-critical-mineral-stockpile-to-counter-china-aapl-gm-goog-b?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "AAPL",
+          "GM",
+          "GOOG",
+          "GOOGL",
+          "BA",
+          "BApA",
+          "GLW",
+          "AREC",
+          "USAR",
+          "MP",
+          "LAC",
+          "TMQ"
+        ],
+        "keywords": [
+          "critical minerals",
+          "rare earth elements",
+          "supply chain",
+          "China dependence",
+          "Project Vault",
+          "strategic stockpile"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-02-02T13:42:47Z",
+          "title": "Stock Market Today: S&P 500, Dow, Nasdaq Futures Decline Amid Kevin Warsh's Fed Chair Nomination\u2014Walt Disney, Strategy, GameStop In Focus (UPDATED)",
+          "description": "U.S. stock futures declined on Monday following Friday's sell-off triggered by President Trump's nomination of Kevin Warsh as Federal Reserve Chair. Major indices fell with the S&P 500 down 0.58% and Nasdaq 100 down 0.88%. Gold and precious metals dropped sharply after January's rally. Key stocks in focus include Walt Disney ahead of earnings, GameStop which surged 2.97% on CEO Ryan Cohen's $100 billion acquisition plans, and NXP Semiconductors which fell 1.14% ahead of earnings.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50292206/stock-market-today-sp-500-dow-futures-decline-amid-kevin-warshs-fed-chair-nomination-walt-disney?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "DIS",
+            "GME",
+            "GME.WS",
+            "NXPI",
+            "MSTR",
+            "STRC",
+            "STRD",
+            "STRF",
+            "STRK",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market decline",
+            "Fed Chair nomination",
+            "Kevin Warsh",
+            "futures",
+            "earnings",
+            "cryptocurrency",
+            "gold prices",
+            "volatility"
+          ]
+        },
+        {
+          "published_utc": "2026-02-02T14:10:45Z",
+          "title": "5 Things Kevin Warsh Could Change At The Fed \u2014 And Why Markets Are Nervous",
+          "description": "Kevin Warsh's nomination as Federal Reserve Chair signals potential major policy shifts including rejecting the Phillips Curve model, pairing rate cuts with balance sheet reduction, reducing Fed communication/transparency, closer Treasury coordination, and reforming bank regulations. These changes represent a significant departure from current Fed practices and are creating market uncertainty about inflation, interest rates, and risk pricing.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/26/02/50298850/5-things-kevin-warsh-could-change-fed-market-implications?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "Kevin Warsh",
+            "monetary policy",
+            "inflation",
+            "interest rates",
+            "balance sheet",
+            "bank regulation",
+            "Fed independence",
+            "Phillips Curve"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-02-02T12:25:00Z",
+          "title": "3 Warning Signs That the Stock Market Today Is in an Artificial Intelligence (AI) Bubble",
+          "description": "The article identifies three warning signs of an AI bubble: (1) massive capital expenditures by hyperscalers and complex financial engineering to fund AI infrastructure, with OpenAI facing a potential $1.4 trillion funding gap; (2) low monetization rates, with only 3% of AI users paying for premium services; and (3) the possibility that AI's economic benefits may be overstated compared to previous technological innovations.",
+          "article_url": "https://www.fool.com/investing/2026/02/02/3-warning-signs-stock-market-today-ai-bubble/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Neil Patel",
+          "tickers": [
+            "AMZN",
+            "MSFT",
+            "GOOG",
+            "GOOGL",
+            "META",
+            "QQQ"
+          ],
+          "keywords": [
+            "AI bubble",
+            "capital expenditure",
+            "hyperscalers",
+            "financial engineering",
+            "monetization",
+            "tech stocks",
+            "Magnificent Seven"
+          ]
+        },
+        {
+          "published_utc": "2026-02-02T13:42:47Z",
+          "title": "Stock Market Today: S&P 500, Dow, Nasdaq Futures Decline Amid Kevin Warsh's Fed Chair Nomination\u2014Walt Disney, Strategy, GameStop In Focus (UPDATED)",
+          "description": "U.S. stock futures declined on Monday following Friday's sell-off triggered by President Trump's nomination of Kevin Warsh as Federal Reserve Chair. Major indices fell with the S&P 500 down 0.58% and Nasdaq 100 down 0.88%. Gold and precious metals dropped sharply after January's rally. Key stocks in focus include Walt Disney ahead of earnings, GameStop which surged 2.97% on CEO Ryan Cohen's $100 billion acquisition plans, and NXP Semiconductors which fell 1.14% ahead of earnings.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50292206/stock-market-today-sp-500-dow-futures-decline-amid-kevin-warshs-fed-chair-nomination-walt-disney?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "DIS",
+            "GME",
+            "GME.WS",
+            "NXPI",
+            "MSTR",
+            "STRC",
+            "STRD",
+            "STRF",
+            "STRK",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market decline",
+            "Fed Chair nomination",
+            "Kevin Warsh",
+            "futures",
+            "earnings",
+            "cryptocurrency",
+            "gold prices",
+            "volatility"
+          ]
+        }
+      ]
+    }
+  }
+}

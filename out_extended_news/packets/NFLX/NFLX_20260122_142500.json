@@ -1,0 +1,93 @@
+{
+  "event": {
+    "event_id": "NFLX_20260122_142500",
+    "ticker": "NFLX",
+    "t0_utc": "2026-01-22 14:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-01-22T11:25:00+00:00",
+      "end": "2026-01-22T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-01-22T13:46:50Z",
+          "title": "Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Rise As BEA Pegs Q3 GDP At 4.4%\u2014 Microsoft, Moderna, Intel In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Thursday following Wednesday's gains, with major indices climbing over 1% after President Trump withdrew planned EU tariffs following a meeting with NATO Secretary General Mark Rutte. Key stocks in focus include Intel reporting quarterly earnings, Microsoft announcing a partnership with Mercedes-AMG PETRONAS F1 Team, Moderna surging on positive cancer therapy study results, and Micron gaining on AI-driven memory chip demand.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/50060930/stock-market-today-sp-500-dow-jones-futures-rise-as-trump-scales-down-eu-tariff-threats-microsof?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "INTC",
+            "MSFT",
+            "MRNA",
+            "MRK",
+            "MU",
+            "TMC",
+            "TMCWW",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "S&P 500",
+            "Dow Jones futures",
+            "tariffs",
+            "Trump",
+            "EU",
+            "Intel",
+            "Microsoft",
+            "Moderna",
+            "Micron Technology",
+            "artificial intelligence",
+            "Federal Reserve"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-01-22T13:46:50Z",
+          "title": "Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Rise As BEA Pegs Q3 GDP At 4.4%\u2014 Microsoft, Moderna, Intel In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Thursday following Wednesday's gains, with major indices climbing over 1% after President Trump withdrew planned EU tariffs following a meeting with NATO Secretary General Mark Rutte. Key stocks in focus include Intel reporting quarterly earnings, Microsoft announcing a partnership with Mercedes-AMG PETRONAS F1 Team, Moderna surging on positive cancer therapy study results, and Micron gaining on AI-driven memory chip demand.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/50060930/stock-market-today-sp-500-dow-jones-futures-rise-as-trump-scales-down-eu-tariff-threats-microsof?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "INTC",
+            "MSFT",
+            "MRNA",
+            "MRK",
+            "MU",
+            "TMC",
+            "TMCWW",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "S&P 500",
+            "Dow Jones futures",
+            "tariffs",
+            "Trump",
+            "EU",
+            "Intel",
+            "Microsoft",
+            "Moderna",
+            "Micron Technology",
+            "artificial intelligence",
+            "Federal Reserve"
+          ]
+        }
+      ]
+    }
+  }
+}

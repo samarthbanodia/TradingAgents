@@ -1,0 +1,189 @@
+{
+  "event": {
+    "event_id": "NVDA_20260209_143000",
+    "ticker": "NVDA",
+    "t0_utc": "2026-02-09 14:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-02-09T11:30:00+00:00",
+      "end": "2026-02-09T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-02-09T12:15:00Z",
+        "title": "This Top Artificial Intelligence (AI) Stock Could Have More Upside in 2026",
+        "description": "Nvidia is positioned for continued growth in 2026 as corporate AI spending remains strong. The company is expanding beyond chip sales into advanced computing systems, including a partnership with Thermo Fisher Scientific for AI-powered lab systems in life sciences. Trading at 24x forward earnings with expected 57% earnings growth, analysts view the stock as attractively valued with potential for further upside.",
+        "article_url": "https://www.fool.com/investing/2026/02/09/this-top-ai-stock-upside-2026/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "John Ballard",
+        "tickers": [
+          "NVDA",
+          "GOOG",
+          "GOOGL",
+          "TMO",
+          "AVGO"
+        ],
+        "keywords": [
+          "artificial intelligence",
+          "chip manufacturing",
+          "data centers",
+          "AI hyperscalers",
+          "life sciences",
+          "computing systems",
+          "capital expenditures"
+        ]
+      },
+      {
+        "published_utc": "2026-02-09T13:36:00Z",
+        "title": "CEO Lip-Bu Tan Just Delivered Fantastic News For Intel Shareholders",
+        "description": "Intel CEO Lip-Bu Tan announced strong momentum for the company at Cisco's AI summit. Server CPU demand is surging due to agentic AI inference requiring traditional CPU compute, with Intel raising prices 10% for Chinese customers. The company's 18A chip technology is proving competitive with excellent Panther Lake laptop reviews, attracting foundry customers. Intel continues investing in future GPU and advanced materials R&D despite cost-cutting measures.",
+        "article_url": "https://www.fool.com/investing/2026/02/09/ceo-lip-bu-tan-just-delivered-fantastic-news-for-i/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Billy Duberstein",
+        "tickers": [
+          "INTC",
+          "TSM",
+          "NVDA",
+          "CSCO"
+        ],
+        "keywords": [
+          "Intel",
+          "CPU demand",
+          "agentic AI",
+          "18A node",
+          "foundry business",
+          "server processors",
+          "Panther Lake",
+          "GPU development",
+          "semiconductor yields"
+        ]
+      },
+      {
+        "published_utc": "2026-02-09T14:09:29Z",
+        "title": "Elon Musk's Moon City Runs On AI \u2014 And These Chip Stocks Power It",
+        "description": "SpaceX's ambitious lunar program creates significant demand for semiconductor chips used in high-performance computing, AI-driven systems, and satellite networking. Nvidia, Broadcom, and STMicroelectronics are positioned to benefit as suppliers of critical components for flight modeling, landing systems, mission simulations, and Starlink infrastructure, despite SpaceX's vertical integration strategy.",
+        "article_url": "https://www.benzinga.com/markets/tech/26/02/50478928/elon-musks-moon-city-runs-on-ai-and-these-chip-stocks-power-it?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Surbhi Jain",
+        "tickers": [
+          "NVDA",
+          "AVGO",
+          "STM"
+        ],
+        "keywords": [
+          "SpaceX",
+          "moon missions",
+          "semiconductors",
+          "AI",
+          "high-performance computing",
+          "Starlink",
+          "satellite networking",
+          "chip demand"
+        ]
+      },
+      {
+        "published_utc": "2026-02-09T15:20:00Z",
+        "title": "Could Nvidia Reach $300 in 2026? The Answer May Blow Your Mind.",
+        "description": "Nvidia stock could reach $300 per share by end of 2026, requiring a 70% gain from current $191.74 levels. The thesis is supported by massive capital expenditure increases from AI hyperscalers Meta and Alphabet for 2026, combined with Nvidia's expected earnings per share of $7.66 for FY2027, which at a 40x P/E ratio would justify the $300 target. Additional tailwinds include removal of China export restrictions and inventory write-downs.",
+        "article_url": "https://www.fool.com/investing/2026/02/09/could-nvidia-reach-300-in-2026-the-answer-may-blow/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Keithen Drury",
+        "tickers": [
+          "NVDA",
+          "META",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "Nvidia",
+          "AI spending",
+          "capital expenditure",
+          "hyperscalers",
+          "GPU demand",
+          "earnings projections",
+          "stock valuation"
+        ]
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-02-09T13:35:59Z",
+          "title": "Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Decline\u2014 STMicroelectronics, Kroger, FedEx In Focus (UPDATED)",
+          "description": "U.S. stock futures declined on Monday following Friday's record close, with the Dow Jones, S&P 500, and Nasdaq 100 all trading lower in premarket. Key movers include STMicroelectronics jumping on an AWS deal, Kroger gaining on CEO speculation, and FedEx rising after announcing the InPost acquisition. Strategy Inc. continued falling after reporting a massive $12.4 billion net loss. Asian markets closed higher, while the Fed is expected to hold rates steady in March.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50473679/stock-market-today-dow-jones-futures-drop-after-fridays-record-close-stmicroelectronics-kroger-f?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "STM",
+            "KR",
+            "FDX",
+            "MSTR",
+            "STRC",
+            "STRD",
+            "STRF",
+            "STRK",
+            "ON",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market futures",
+            "Dow Jones",
+            "S&P 500",
+            "STMicroelectronics",
+            "Kroger",
+            "FedEx",
+            "Federal Reserve",
+            "interest rates",
+            "earnings",
+            "premarket trading"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-02-09T13:35:59Z",
+          "title": "Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Decline\u2014 STMicroelectronics, Kroger, FedEx In Focus (UPDATED)",
+          "description": "U.S. stock futures declined on Monday following Friday's record close, with the Dow Jones, S&P 500, and Nasdaq 100 all trading lower in premarket. Key movers include STMicroelectronics jumping on an AWS deal, Kroger gaining on CEO speculation, and FedEx rising after announcing the InPost acquisition. Strategy Inc. continued falling after reporting a massive $12.4 billion net loss. Asian markets closed higher, while the Fed is expected to hold rates steady in March.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50473679/stock-market-today-dow-jones-futures-drop-after-fridays-record-close-stmicroelectronics-kroger-f?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "STM",
+            "KR",
+            "FDX",
+            "MSTR",
+            "STRC",
+            "STRD",
+            "STRF",
+            "STRK",
+            "ON",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market futures",
+            "Dow Jones",
+            "S&P 500",
+            "STMicroelectronics",
+            "Kroger",
+            "FedEx",
+            "Federal Reserve",
+            "interest rates",
+            "earnings",
+            "premarket trading"
+          ]
+        }
+      ]
+    }
+  }
+}

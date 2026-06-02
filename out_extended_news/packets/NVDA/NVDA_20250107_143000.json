@@ -1,0 +1,188 @@
+{
+  "event": {
+    "event_id": "NVDA_20250107_143000",
+    "ticker": "NVDA",
+    "t0_utc": "2025-01-07 14:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-01-07T11:30:00+00:00",
+      "end": "2025-01-07T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-01-07T12:30:00Z",
+        "title": "Is Nvidia Stock a Buy Now?",
+        "description": "Nvidia, a leading AI chip maker, has seen its stock price surge 2,447% in the past five years. However, the author expresses concerns about the company's high valuation and the risk of its customers developing their own AI chips, potentially reducing demand for Nvidia's products.",
+        "article_url": "https://www.fool.com/investing/2025/01/07/is-nvidia-stock-a-buy-now/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Neil Patel",
+        "tickers": [
+          "NVDA",
+          "META",
+          "MSFT",
+          "AMZN",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "Nvidia",
+          "AI",
+          "valuation",
+          "customer concentration"
+        ]
+      },
+      {
+        "published_utc": "2025-01-07T12:42:09Z",
+        "title": "Aurora Teams Up With NVIDIA & Continental To Power Driverless Trucks: Details",
+        "description": "Aurora Innovation has partnered with NVIDIA and Continental to scale driverless trucks, using NVIDIA's DRIVE Thor SoC. The Aurora Driver, an SAE Level 4 autonomous system, is targeting an April 2025 launch in Texas, with Continental set to mass-produce the system starting in 2027.",
+        "article_url": "https://www.benzinga.com/news/contracts/25/01/42841305/aurora-teams-up-with-nvidia-continental-to-power-driverless-trucks-details",
+        "publisher": "Benzinga",
+        "author": "Lekha Gupta",
+        "tickers": [
+          "AUR",
+          "AUROW",
+          "NVDA"
+        ],
+        "keywords": [
+          "driverless trucks",
+          "autonomous vehicles",
+          "NVIDIA",
+          "Continental"
+        ]
+      },
+      {
+        "published_utc": "2025-01-07T13:00:12Z",
+        "title": "US Stocks Could Open On A Tentative Note; Nvidia, AMD And Toyota On Investors' Radar: Experts Flag Over Reliance On AI, Tech Stocks",
+        "description": "U.S. stocks could open on a tentative note as investors remain cautious about the market's reliance on AI and tech stocks. Experts warn that this overreliance could lead to a market correction or a bear market in the Nasdaq if a market rotation to other sectors does not occur soon.",
+        "article_url": "https://www.benzinga.com/markets/futures/25/01/42841776/us-stocks-could-open-on-a-tentative-note-nvidia-amd-and-toyota-on-investors-radar-experts-flag-ov",
+        "publisher": "Benzinga",
+        "author": "Benzinga Senior Editor",
+        "tickers": [
+          "NVDA",
+          "AMD",
+          "MU",
+          "TM",
+          "SPY",
+          "QQQ"
+        ],
+        "keywords": [
+          "US stocks",
+          "AI",
+          "tech stocks",
+          "market rotation",
+          "Nvidia",
+          "AMD",
+          "Toyota"
+        ]
+      },
+      {
+        "published_utc": "2025-01-07T14:29:00Z",
+        "title": "Nvidia Vs. Broadcom: Which Stock Is Poised for Bigger Gains in 2025?",
+        "description": "Nvidia and Broadcom are two tech giants competing in the AI space. Nvidia is the market leader, but Broadcom is quickly catching up. Analysts see more upside potential for Nvidia in 2025 compared to Broadcom.",
+        "article_url": "https://www.investing.com/analysis/nvidia-vs-broadcom-which-stock-is-poised-for-bigger-gains-in-2025-200655957",
+        "publisher": "Investing.com",
+        "author": "Alessandro Bergonzi",
+        "tickers": [
+          "NVDA",
+          "AVGO"
+        ],
+        "keywords": [
+          "Nvidia",
+          "Broadcom",
+          "AI",
+          "stock market"
+        ]
+      },
+      {
+        "published_utc": "2025-01-07T15:15:00Z",
+        "title": "These Were the 5 Top-Performing Stocks in the Dow Jones Industrial Average in 2024",
+        "description": "The article discusses the top-performing Dow Jones stocks of 2024, including Nvidia, Walmart, American Express, and Goldman Sachs. It highlights the factors that contributed to their strong performance, such as AI enthusiasm, e-commerce growth, and consistent earnings growth.",
+        "article_url": "https://www.fool.com/investing/2025/01/07/these-were-the-5-top-performing-stocks-in-the-dow/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "NVDA",
+          "WMT",
+          "AXP",
+          "GS",
+          "GSpA",
+          "GSpC",
+          "GSpD",
+          "AMZN"
+        ],
+        "keywords": [
+          "Dow Jones",
+          "stock performance",
+          "Nvidia",
+          "Walmart",
+          "American Express",
+          "Goldman Sachs"
+        ]
+      }
+    ],
+    "ticker_news_count": 5,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-01-07T13:00:12Z",
+          "title": "US Stocks Could Open On A Tentative Note; Nvidia, AMD And Toyota On Investors' Radar: Experts Flag Over Reliance On AI, Tech Stocks",
+          "description": "U.S. stocks could open on a tentative note as investors remain cautious about the market's reliance on AI and tech stocks. Experts warn that this overreliance could lead to a market correction or a bear market in the Nasdaq if a market rotation to other sectors does not occur soon.",
+          "article_url": "https://www.benzinga.com/markets/futures/25/01/42841776/us-stocks-could-open-on-a-tentative-note-nvidia-amd-and-toyota-on-investors-radar-experts-flag-ov",
+          "publisher": "Benzinga",
+          "author": "Benzinga Senior Editor",
+          "tickers": [
+            "NVDA",
+            "AMD",
+            "MU",
+            "TM",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "US stocks",
+            "AI",
+            "tech stocks",
+            "market rotation",
+            "Nvidia",
+            "AMD",
+            "Toyota"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-01-07T13:00:12Z",
+          "title": "US Stocks Could Open On A Tentative Note; Nvidia, AMD And Toyota On Investors' Radar: Experts Flag Over Reliance On AI, Tech Stocks",
+          "description": "U.S. stocks could open on a tentative note as investors remain cautious about the market's reliance on AI and tech stocks. Experts warn that this overreliance could lead to a market correction or a bear market in the Nasdaq if a market rotation to other sectors does not occur soon.",
+          "article_url": "https://www.benzinga.com/markets/futures/25/01/42841776/us-stocks-could-open-on-a-tentative-note-nvidia-amd-and-toyota-on-investors-radar-experts-flag-ov",
+          "publisher": "Benzinga",
+          "author": "Benzinga Senior Editor",
+          "tickers": [
+            "NVDA",
+            "AMD",
+            "MU",
+            "TM",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "US stocks",
+            "AI",
+            "tech stocks",
+            "market rotation",
+            "Nvidia",
+            "AMD",
+            "Toyota"
+          ]
+        }
+      ]
+    }
+  }
+}

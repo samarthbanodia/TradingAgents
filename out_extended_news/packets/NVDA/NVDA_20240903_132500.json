@@ -1,0 +1,143 @@
+{
+  "event": {
+    "event_id": "NVDA_20240903_132500",
+    "ticker": "NVDA",
+    "t0_utc": "2024-09-03 13:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-09-03T10:25:00+00:00",
+      "end": "2024-09-03T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-09-03T10:50:21Z",
+        "title": "Wall Street Poised For Sharply Lower Start In New Week As Risk-Off Sentiment Dominates, VIX Spikes: Analysts Fret Over Sluggish September Seasonality",
+        "description": "The Nasdaq and S&P 500 futures are down sharply at the start of the trading week, as risk appetite has waned amid concerns over sluggish September seasonality and the upcoming jobs data, which could influence the Federal Reserve's rate decision.",
+        "article_url": "https://www.benzinga.com/news/earnings/24/09/40682836/wall-street-poised-for-sharply-lower-start-in-new-week-as-risk-off-sentiment-dominates-vix-spikes-a",
+        "publisher": "Benzinga",
+        "author": "Shanthi Rexaline",
+        "tickers": [
+          "QQQ",
+          "SPY",
+          "NVDA",
+          "X",
+          "GTLB",
+          "PD",
+          "ZS"
+        ],
+        "keywords": [
+          "Nasdaq",
+          "S&P 500",
+          "futures",
+          "risk appetite",
+          "September seasonality",
+          "jobs data",
+          "Federal Reserve"
+        ]
+      },
+      {
+        "published_utc": "2024-09-03T13:01:42Z",
+        "title": "Apple, Nvidia Key Supplier TSMC Leads Taiwanese Chip Giants To Localize Neon Gas Production By 2025",
+        "description": "Taiwan's leading chip manufacturers, including TSMC, Winbond, and UMC, are set to begin domestic production of neon gas by 2025 to secure a stable supply of this key chipmaking material, which was previously disrupted by the Ukraine war.",
+        "article_url": "https://www.benzinga.com/news/24/09/40686890/apple-nvidia-key-supplier-tsmc-leads-taiwanese-chip-giants-to-localize-neon-gas-production-by-2025",
+        "publisher": "Benzinga",
+        "author": "Benzinga Neuro, Benzinga Staff Writer",
+        "tickers": [
+          "TSM",
+          "UMC",
+          "NVDA",
+          "AAPL"
+        ],
+        "keywords": [
+          "chip manufacturing",
+          "neon gas",
+          "supply chain",
+          "Taiwan"
+        ]
+      },
+      {
+        "published_utc": "2024-09-03T14:06:10Z",
+        "title": "Nvidia vs. AMD: Recent Benchmark Shows a Drastic Gap in AI Performance",
+        "description": "The article discusses recent updates affecting Nvidia, Advanced Micro Devices, and other companies providing artificial intelligence accelerators. It suggests that Wall Street had predicted Nvidia's stock to decline before the company's Q2 update, and now analysts are reevaluating their views.",
+        "article_url": "https://www.fool.com/investing/2024/09/03/nvidia-vs-amd-recent-benchmark-shows-a-drastic-gap/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jose Najarro",
+        "tickers": [
+          "NVDA",
+          "AMD"
+        ],
+        "keywords": [
+          "Nvidia",
+          "Advanced Micro Devices",
+          "artificial intelligence accelerators"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-09-03T10:50:21Z",
+          "title": "Wall Street Poised For Sharply Lower Start In New Week As Risk-Off Sentiment Dominates, VIX Spikes: Analysts Fret Over Sluggish September Seasonality",
+          "description": "The Nasdaq and S&P 500 futures are down sharply at the start of the trading week, as risk appetite has waned amid concerns over sluggish September seasonality and the upcoming jobs data, which could influence the Federal Reserve's rate decision.",
+          "article_url": "https://www.benzinga.com/news/earnings/24/09/40682836/wall-street-poised-for-sharply-lower-start-in-new-week-as-risk-off-sentiment-dominates-vix-spikes-a",
+          "publisher": "Benzinga",
+          "author": "Shanthi Rexaline",
+          "tickers": [
+            "QQQ",
+            "SPY",
+            "NVDA",
+            "X",
+            "GTLB",
+            "PD",
+            "ZS"
+          ],
+          "keywords": [
+            "Nasdaq",
+            "S&P 500",
+            "futures",
+            "risk appetite",
+            "September seasonality",
+            "jobs data",
+            "Federal Reserve"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2024-09-03T10:50:21Z",
+          "title": "Wall Street Poised For Sharply Lower Start In New Week As Risk-Off Sentiment Dominates, VIX Spikes: Analysts Fret Over Sluggish September Seasonality",
+          "description": "The Nasdaq and S&P 500 futures are down sharply at the start of the trading week, as risk appetite has waned amid concerns over sluggish September seasonality and the upcoming jobs data, which could influence the Federal Reserve's rate decision.",
+          "article_url": "https://www.benzinga.com/news/earnings/24/09/40682836/wall-street-poised-for-sharply-lower-start-in-new-week-as-risk-off-sentiment-dominates-vix-spikes-a",
+          "publisher": "Benzinga",
+          "author": "Shanthi Rexaline",
+          "tickers": [
+            "QQQ",
+            "SPY",
+            "NVDA",
+            "X",
+            "GTLB",
+            "PD",
+            "ZS"
+          ],
+          "keywords": [
+            "Nasdaq",
+            "S&P 500",
+            "futures",
+            "risk appetite",
+            "September seasonality",
+            "jobs data",
+            "Federal Reserve"
+          ]
+        }
+      ]
+    }
+  }
+}

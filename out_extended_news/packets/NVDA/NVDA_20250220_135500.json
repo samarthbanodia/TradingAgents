@@ -1,0 +1,70 @@
+{
+  "event": {
+    "event_id": "NVDA_20250220_135500",
+    "ticker": "NVDA",
+    "t0_utc": "2025-02-20 13:55:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-02-20T10:55:00+00:00",
+      "end": "2025-02-20T14:55:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-02-20T11:25:00Z",
+        "title": "One Incredible Artificial Intelligence (AI) Quantum Computing Stock to Buy Before it Surges 23%, According to Wall Street Analysts",
+        "description": "The article discusses Nvidia as a promising investment in the quantum computing space, with its CUDA-Q architecture and strong position in the GPU market. The article suggests Nvidia is well-positioned to dominate the quantum computing arena and is currently reasonably valued.",
+        "article_url": "https://www.fool.com/investing/2025/02/20/one-incredible-artificial-intelligence-ai-quantum/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "NVDA",
+          "RGTI",
+          "RGTIW",
+          "QBTS",
+          "QBTS.WS",
+          "IONQ",
+          "IONQ.WS"
+        ],
+        "keywords": [
+          "Nvidia",
+          "Quantum Computing",
+          "Artificial Intelligence",
+          "GPU",
+          "CUDA"
+        ]
+      },
+      {
+        "published_utc": "2025-02-20T11:30:00Z",
+        "title": "SoundHound AI Plunges After Nvidia Exits Its Stake. Should Investors Follow Suit?",
+        "description": "SoundHound AI's stock plunged after Nvidia exited its investment in the voice AI company. SoundHound operates an AI voice platform and has been growing its revenue quickly, but its valuation had become quite high. The stock's valuation is now more reasonable, but it remains a speculative investment.",
+        "article_url": "https://www.fool.com/investing/2025/02/20/soundhound-ai-plunges-after-nvidia-exits-stake-sho/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Geoffrey Seiler",
+        "tickers": [
+          "SOUN",
+          "SOUNW",
+          "NVDA"
+        ],
+        "keywords": [
+          "SoundHound AI",
+          "Nvidia",
+          "voice AI",
+          "revenue growth",
+          "valuation"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

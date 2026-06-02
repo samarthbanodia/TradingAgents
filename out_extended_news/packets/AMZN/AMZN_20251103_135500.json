@@ -1,0 +1,175 @@
+{
+  "event": {
+    "event_id": "AMZN_20251103_135500",
+    "ticker": "AMZN",
+    "t0_utc": "2025-11-03 13:55:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-11-03T10:55:00+00:00",
+      "end": "2025-11-03T14:55:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-11-03T11:53:00Z",
+        "title": "S&P 500: Earnings Momentum Poised to Carry the Bull Run Into 2026",
+        "description": "The S&P 500 earnings per share continue to beat expectations, with Q3 earnings on track to reach a new record high. The Magnificent-7 are leading market performance, driven by strong AI and cloud computing demand, with forward earnings projected to reach $350 per share by end of 2026.",
+        "article_url": "https://www.investing.com/analysis/sp-500-earnings-momentum-poised-to-carry-the-bull-run-into-2026-200669497",
+        "publisher": "Investing.com",
+        "author": "Ed Yardeni",
+        "tickers": [
+          "AMZN",
+          "NVDA",
+          "AAPL",
+          "TSLA"
+        ],
+        "keywords": [
+          "S&P 500",
+          "earnings",
+          "AI",
+          "cloud computing",
+          "Magnificent-7"
+        ]
+      },
+      {
+        "published_utc": "2025-11-03T12:20:00Z",
+        "title": "AI's Power Problem",
+        "description": "The article discusses the massive power infrastructure challenges facing AI development, highlighting the need for significant new power generation capacity, with a particular focus on nuclear small modular reactors (SMRs) as a potential solution to meet growing energy demands from AI and data centers.",
+        "article_url": "https://www.fool.com/investing/2025/11/03/ais-power-problem/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Motley Fool Staff",
+        "tickers": [
+          "SMR",
+          "OKLO",
+          "AMZN",
+          "MSFT"
+        ],
+        "keywords": [
+          "AI",
+          "power infrastructure",
+          "nuclear energy",
+          "small modular reactors",
+          "data centers",
+          "energy demand"
+        ]
+      },
+      {
+        "published_utc": "2025-11-03T12:21:00Z",
+        "title": "The Motley Fool Interviews Scott D. Anthony: Epic Disruptions",
+        "description": "Scott D. Anthony discusses disruptive innovation, highlighting how successful companies transform complex and expensive technologies into simple, affordable solutions that drive market growth, using examples from Kodak, Apple, and emerging AI technologies.",
+        "article_url": "https://www.fool.com/investing/2025/11/03/the-motley-fool-interviews-scott-d-anthony-epic-di/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Scott D. Anthony",
+        "tickers": [
+          "KODK",
+          "AAPL",
+          "AMZN"
+        ],
+        "keywords": [
+          "disruption",
+          "innovation",
+          "AI",
+          "business models",
+          "technology transformation"
+        ]
+      },
+      {
+        "published_utc": "2025-11-03T12:36:34Z",
+        "title": "Dollar Returns, Central Banks Signal Caution, Capital Seeks Safety",
+        "description": "Central banks like BOJ and Federal Reserve showed cautious monetary policy, causing market uncertainty. Corporate earnings remained strong, with tech companies delivering solid results, but institutional investors are moderating risk exposure.",
+        "article_url": "https://www.benzinga.com/Opinion/25/11/48587152/dollar-returns-central-banks-signal-caution-capital-seeks-safety?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Finit Benzinga Contributor",
+        "tickers": [
+          "AMZN",
+          "AAPL",
+          "MSFT",
+          "NVDA",
+          "META",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "monetary policy",
+          "central banks",
+          "dollar",
+          "earnings",
+          "market uncertainty"
+        ]
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-11-03T13:27:40Z",
+          "title": "US Stocks Face Two Short-Term Threats Amid Fed's Cautious Approach, Warn Analysts",
+          "description": "Morgan Stanley analysts warn of two key risks for US stocks: the Federal Reserve's cautious interest rate policy and potential tariff impacts. Despite strong corporate earnings, market uncertainty remains about future monetary stance.",
+          "article_url": "https://www.benzinga.com/markets/equities/25/11/48588301/us-stocks-face-two-short-term-threats-amid-feds-cautious-approach-warn-analysts?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Namrata Sen",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "interest rates",
+            "stock market",
+            "corporate earnings",
+            "tariffs"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-11-03T13:08:00Z",
+          "title": "These 2 AI ETFs Are Ready to Crush the S&P 500 Over the Next 10 Years",
+          "description": "The article discusses two AI-focused ETFs that offer different investment strategies: the Invesco QQQ ETF, which provides broad AI exposure through large-cap tech stocks, and the Ark Autonomous Technology & Robotics ETF, which focuses on unique AI and robotics opportunities with an actively managed approach.",
+          "article_url": "https://www.fool.com/investing/2025/11/03/these-2-ai-etfs-are-ready-to-crush-the-sp-500-over/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Matt Frankel",
+          "tickers": [
+            "QQQ",
+            "ARKQ",
+            "TSLA",
+            "TER",
+            "KTOS"
+          ],
+          "keywords": [
+            "AI",
+            "ETF",
+            "technology",
+            "investing",
+            "robotics"
+          ]
+        },
+        {
+          "published_utc": "2025-11-03T13:27:40Z",
+          "title": "US Stocks Face Two Short-Term Threats Amid Fed's Cautious Approach, Warn Analysts",
+          "description": "Morgan Stanley analysts warn of two key risks for US stocks: the Federal Reserve's cautious interest rate policy and potential tariff impacts. Despite strong corporate earnings, market uncertainty remains about future monetary stance.",
+          "article_url": "https://www.benzinga.com/markets/equities/25/11/48588301/us-stocks-face-two-short-term-threats-amid-feds-cautious-approach-warn-analysts?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Namrata Sen",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "interest rates",
+            "stock market",
+            "corporate earnings",
+            "tariffs"
+          ]
+        }
+      ]
+    }
+  }
+}

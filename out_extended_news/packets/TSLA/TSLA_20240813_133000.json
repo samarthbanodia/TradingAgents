@@ -1,0 +1,50 @@
+{
+  "event": {
+    "event_id": "TSLA_20240813_133000",
+    "ticker": "TSLA",
+    "t0_utc": "2024-08-13 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2024-08-13T10:30:00+00:00",
+      "end": "2024-08-13T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-08-13T12:30:00Z",
+        "title": "Nasdaq Sell-Off: Buy the Dip on This \"Magnificent Seven\" Stock Before It Takes Off",
+        "description": "Meta Platforms (META) has experienced a mix of performance in the 'Magnificent Seven' tech companies, with the stock up 42% year-to-date. The company's advertising revenue and AI-powered initiatives, including its Llama language model, represent growth opportunities. Despite recent market volatility, Meta Platforms is expected to bounce back and deliver excellent long-term results.",
+        "article_url": "https://www.fool.com/investing/2024/08/13/nasdaq-sell-off-buy-the-dip-on-this-magnificent/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Prosper Junior Bakiny",
+        "tickers": [
+          "GOOG",
+          "GOOGL",
+          "AAPL",
+          "AMZN",
+          "MSFT",
+          "META",
+          "NVDA",
+          "TSLA"
+        ],
+        "keywords": [
+          "Meta Platforms",
+          "online advertising",
+          "AI",
+          "metaverse"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

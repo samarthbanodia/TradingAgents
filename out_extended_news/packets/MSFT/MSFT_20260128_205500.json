@@ -1,0 +1,114 @@
+{
+  "event": {
+    "event_id": "MSFT_20260128_205500",
+    "ticker": "MSFT",
+    "t0_utc": "2026-01-28 20:55:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2026-01-28T17:55:00+00:00",
+      "end": "2026-01-28T21:55:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-01-28T18:03:00Z",
+        "title": "Microsoft Earnings: High Capex Signals Confidence \u2014 Now the Numbers Must Deliver",
+        "description": "Microsoft's earnings report is expected to show strong AI-driven growth in Azure Intelligent Cloud services, with commercial cloud revenue estimated at $51.2 billion (up ~25% YoY). The company's record capital spending near $100 billion signals confidence in AI demand, though investors will scrutinize whether results meet expectations. Technical analysis suggests a potential reversal of recent declines if earnings beat forecasts, with a target price around $500 per share.",
+        "article_url": "https://www.investing.com/analysis/microsoft-earnings-high-capex-signals-confidence--now-the-numbers-must-deliver-200673991",
+        "publisher": "Investing.com",
+        "author": "Damian Nowiszewski",
+        "tickers": [
+          "MSFT"
+        ],
+        "keywords": [
+          "Microsoft earnings",
+          "Azure Intelligent Cloud",
+          "capital expenditure",
+          "AI services",
+          "cloud revenue",
+          "technical analysis",
+          "stock valuation"
+        ]
+      },
+      {
+        "published_utc": "2026-01-28T20:15:00Z",
+        "title": "Only 2 \"Magnificent Seven\" Stocks Outperformed the S&P 500 in 2025. Are They Both Buys for 2026?",
+        "description": "Of the Magnificent Seven tech stocks, only Nvidia (+38.9%) and Alphabet (+65.4%) outperformed the S&P 500's 16.4% return in 2025. Both are recommended as buys for long-term investors. Nvidia maintains dominance in AI chip hardware despite inevitable future competition, while Alphabet has successfully integrated AI into its search business without cannibalizing revenue.",
+        "article_url": "https://www.fool.com/investing/2026/01/28/only-2-magnificent-seven-stocks-outperformed-the-s/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Stefon Walters",
+        "tickers": [
+          "NVDA",
+          "GOOG",
+          "GOOGL",
+          "AMZN",
+          "MSFT",
+          "TSLA"
+        ],
+        "keywords": [
+          "Magnificent Seven",
+          "AI chips",
+          "GPU hardware",
+          "search dominance",
+          "cloud services",
+          "market performance",
+          "long-term investing"
+        ]
+      },
+      {
+        "published_utc": "2026-01-28T21:03:59Z",
+        "title": "Lantz Financial Buys $5 Million of Invesco BulletShares 2027 Corporate Bond ETF",
+        "description": "Lantz Financial LLC purchased 270,586 shares of Invesco BulletShares 2027 Corporate Bond ETF (BSCR) for approximately $5.34 million on January 14, 2026. The investment represents 1.53% of the fund's assets under management. The purchase suggests Lantz Financial is positioning for potential interest rate declines in 2026 as inflation cools, while also increasing positions in equities like the S&P 500 ETF and Microsoft, indicating confidence in economic growth.",
+        "article_url": "https://www.fool.com/coverage/filings/2026/01/28/lantz-financial-buys-5-million-invesco-bond-etf/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "John Ballard",
+        "tickers": [
+          "BSCR",
+          "MSFT",
+          "IVV"
+        ],
+        "keywords": [
+          "corporate bond ETF",
+          "fixed income investment",
+          "interest rates",
+          "portfolio diversification",
+          "defined maturity bonds",
+          "investment grade bonds"
+        ]
+      },
+      {
+        "published_utc": "2026-01-28T21:25:00Z",
+        "title": "Why Less Than 10% of AI Investors Plan to Reduce Their Holdings in 2026, and 3 Stocks Worth Buying in 2026",
+        "description": "With 90% of AI investors planning to maintain or increase holdings in 2026, the AI boom continues strong. The article recommends three stocks: Nvidia, which dominates GPU chip market with 92% share and has a $500 billion backlog; Microsoft, leveraging its enterprise relationships and OpenAI stake for AI growth; and Salesforce, trading at a 40% discount amid AI concerns but positioned to benefit from AI-enhanced products.",
+        "article_url": "https://www.fool.com/investing/2026/01/28/why-ai-investors-reduce-holdings-2026-stocks/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Justin Pope",
+        "tickers": [
+          "NVDA",
+          "MSFT",
+          "CRM"
+        ],
+        "keywords": [
+          "artificial intelligence",
+          "AI stocks",
+          "GPU chips",
+          "data centers",
+          "enterprise AI",
+          "stock recommendations",
+          "market sentiment"
+        ]
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

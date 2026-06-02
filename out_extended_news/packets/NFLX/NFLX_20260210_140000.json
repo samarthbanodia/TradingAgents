@@ -1,0 +1,107 @@
+{
+  "event": {
+    "event_id": "NFLX_20260210_140000",
+    "ticker": "NFLX",
+    "t0_utc": "2026-02-10 14:00:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-02-10T11:00:00+00:00",
+      "end": "2026-02-10T15:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-02-10T13:03:00Z",
+        "title": "Spotify Draws Fresh Buying as Profit Outlook Improves",
+        "description": "Spotify shares surged 14% in premarket trading after beating Q4 earnings expectations with \u20ac4.43 EPS versus \u20ac2.85 estimate and revenue of \u20ac4.53 billion. The company added a record 38 million monthly active users (751 million total) and posted 47% year-over-year operating income growth to \u20ac701 million. Q1 2026 guidance exceeded analyst estimates for operating income at \u20ac660 million. However, the stock remains down 28.56% year-to-date despite strong fundamentals.",
+        "article_url": "https://www.investing.com/analysis/spotify-draws-fresh-buying-as-profit-outlook-improves-200674764",
+        "publisher": "Investing.com",
+        "author": "Timothy Fries",
+        "tickers": [
+          "SPOT",
+          "AAPL",
+          "AMZN",
+          "NFLX"
+        ],
+        "keywords": [
+          "earnings beat",
+          "user growth",
+          "profitability improvement",
+          "price optimization",
+          "AI-powered features",
+          "premium subscribers",
+          "free cash flow"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-02-10T13:53:23Z",
+          "title": "Stock Market Today: S&P 500, Dow Futures Pare Gains As Retail Sales Stall And Wage Growth Moderates \u2014 Oracle, Credo, Ford In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Tuesday as investors await delayed economic data including retail sales and employment costs. Major indices showed modest gains with the S&P 500 up 0.18% and Nasdaq 100 up 0.15%. Key movers included Credo Technology jumping 16.89% on strong earnings guidance, Oracle rising 1.47% after launching new AI agents, and Clear Channel Outdoor advancing 6.85% following a $6.2 billion acquisition agreement. Analysts maintain a constructive outlook on the global economy with expectations for continued AI investment and emerging market outperformance.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50502675/stock-market-today-sp-500-dow-futures-rise-as-investors-await-delayed-data-oracle-credo-technolo?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "CRDO",
+            "ORCL",
+            "CCO",
+            "F",
+            "FpB",
+            "FpC",
+            "FpD",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock futures",
+            "S&P 500",
+            "economic data",
+            "Federal Reserve",
+            "AI investment",
+            "earnings",
+            "emerging markets"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-02-10T13:53:23Z",
+          "title": "Stock Market Today: S&P 500, Dow Futures Pare Gains As Retail Sales Stall And Wage Growth Moderates \u2014 Oracle, Credo, Ford In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Tuesday as investors await delayed economic data including retail sales and employment costs. Major indices showed modest gains with the S&P 500 up 0.18% and Nasdaq 100 up 0.15%. Key movers included Credo Technology jumping 16.89% on strong earnings guidance, Oracle rising 1.47% after launching new AI agents, and Clear Channel Outdoor advancing 6.85% following a $6.2 billion acquisition agreement. Analysts maintain a constructive outlook on the global economy with expectations for continued AI investment and emerging market outperformance.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50502675/stock-market-today-sp-500-dow-futures-rise-as-investors-await-delayed-data-oracle-credo-technolo?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "CRDO",
+            "ORCL",
+            "CCO",
+            "F",
+            "FpB",
+            "FpC",
+            "FpD",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock futures",
+            "S&P 500",
+            "economic data",
+            "Federal Reserve",
+            "AI investment",
+            "earnings",
+            "emerging markets"
+          ]
+        }
+      ]
+    }
+  }
+}

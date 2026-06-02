@@ -1,0 +1,145 @@
+{
+  "event": {
+    "event_id": "MSFT_20240910_133000",
+    "ticker": "MSFT",
+    "t0_utc": "2024-09-10 13:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-09-10T10:30:00+00:00",
+      "end": "2024-09-10T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-09-10T10:34:00Z",
+        "title": "Prediction: This Growth ETF Will Beat the Market Over the Next 5 Years",
+        "description": "The Vanguard Growth ETF (VUG) is likely to outperform the broader market over the next 5 years and longer. It tracks the CRSP US Large Cap Growth Index, owning about 200 of the largest and most growth-oriented stocks in the S&P 500. The ETF has outperformed the market by over 2 percentage points annually over the past 10 years, and its strategy and makeup are expected to continue this trend.",
+        "article_url": "https://www.fool.com/investing/2024/09/10/prediction-this-growth-etf-will-beat-the-market-ov/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jennifer Saibil",
+        "tickers": [
+          "VUG",
+          "AAPL",
+          "MSFT",
+          "NVDA",
+          "AMZN",
+          "META",
+          "LLY",
+          "V"
+        ],
+        "keywords": [
+          "Vanguard Growth ETF",
+          "S&P 500",
+          "growth investing",
+          "index funds",
+          "ETFs"
+        ]
+      },
+      {
+        "published_utc": "2024-09-10T10:40:00Z",
+        "title": "Is Nvidia Stock a Buy Now?",
+        "description": "Nvidia's stock price has dropped 22% from its June 2024 high, but analysts believe it could still be a bargain due to its dominance in the AI chip market. However, there are concerns about customer concentration and potential pricing pressure that investors should consider.",
+        "article_url": "https://www.fool.com/investing/2024/09/10/is-nvidia-stock-a-buy-now/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "NVDA",
+          "MSFT",
+          "META",
+          "GOOG",
+          "GOOGL",
+          "AMZN"
+        ],
+        "keywords": [
+          "Nvidia",
+          "AI",
+          "stock price",
+          "customer concentration",
+          "pricing pressure"
+        ]
+      },
+      {
+        "published_utc": "2024-09-10T12:42:00Z",
+        "title": "Gesture Recognition and Touchless Sensing Market is Expected to Reach USD 127.78 Billion by 2032, Fueled by Increased Use in Various Industries",
+        "description": "The Gesture Recognition and Touchless Sensing Market is expected to grow significantly, driven by advancements in technology and increasing adoption in various industries, including consumer electronics, automotive, and healthcare.",
+        "article_url": "https://www.globenewswire.com/news-release/2024/09/10/2943677/0/en/Gesture-Recognition-and-Touchless-Sensing-Market-is-Expected-to-Reach-USD-127-78-Billion-by-2032-Fueled-by-Increased-Use-in-Various-Industries.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Sns Insider",
+        "tickers": [
+          "INTC",
+          "JBL",
+          "MCHP",
+          "SONY",
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "AAPL"
+        ],
+        "keywords": [
+          "gesture recognition",
+          "touchless sensing",
+          "consumer electronics",
+          "automotive",
+          "healthcare"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-09-10T11:05:10Z",
+          "title": "Nasdaq, S&P 500 Futures Slip As Traders Eye Presidential Debate, Oracle Rallies Over 8%: Economist Points This Shift In Broader Market Trend Amid Flurry Of Weak Data",
+          "description": "Wall Street is cautious ahead of this week's key inflation reports, which will shape the Fed's policy decisions. Bargain hunting helped reverse sentiment on Monday, but the market remains volatile as traders await the economic data and the first presidential debate.",
+          "article_url": "https://www.benzinga.com/news/earnings/24/09/40789317/nasdaq-s-p-500-futures-slip-as-traders-eye-presidential-debate-oracle-rallies-over-8-economist-poin",
+          "publisher": "Benzinga",
+          "author": "Benzinga Editor",
+          "tickers": [
+            "QQQ",
+            "SPY",
+            "ORCL",
+            "AAPL",
+            "GOOG",
+            "GOOGL"
+          ],
+          "keywords": [
+            "inflation",
+            "Federal Reserve",
+            "market sentiment",
+            "economic data"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2024-09-10T11:05:10Z",
+          "title": "Nasdaq, S&P 500 Futures Slip As Traders Eye Presidential Debate, Oracle Rallies Over 8%: Economist Points This Shift In Broader Market Trend Amid Flurry Of Weak Data",
+          "description": "Wall Street is cautious ahead of this week's key inflation reports, which will shape the Fed's policy decisions. Bargain hunting helped reverse sentiment on Monday, but the market remains volatile as traders await the economic data and the first presidential debate.",
+          "article_url": "https://www.benzinga.com/news/earnings/24/09/40789317/nasdaq-s-p-500-futures-slip-as-traders-eye-presidential-debate-oracle-rallies-over-8-economist-poin",
+          "publisher": "Benzinga",
+          "author": "Benzinga Editor",
+          "tickers": [
+            "QQQ",
+            "SPY",
+            "ORCL",
+            "AAPL",
+            "GOOG",
+            "GOOGL"
+          ],
+          "keywords": [
+            "inflation",
+            "Federal Reserve",
+            "market sentiment",
+            "economic data"
+          ]
+        }
+      ]
+    }
+  }
+}

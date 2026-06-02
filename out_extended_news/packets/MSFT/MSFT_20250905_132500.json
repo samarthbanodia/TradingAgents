@@ -1,0 +1,180 @@
+{
+  "event": {
+    "event_id": "MSFT_20250905_132500",
+    "ticker": "MSFT",
+    "t0_utc": "2025-09-05 13:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-09-05T10:25:00+00:00",
+      "end": "2025-09-05T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-09-05T10:32:00Z",
+        "title": "2 Vanguard ETFs to Buy With $100 and Hold Forever",
+        "description": "The article discusses dollar-cost averaging and recommends two Vanguard ETFs for long-term investment: the S&P 500 ETF and the Growth ETF, highlighting their low costs, diversification, and potential for steady returns.",
+        "article_url": "https://www.fool.com/investing/2025/09/05/2-vanguard-etfs-to-buy-with-100-and-hold-forever/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Geoffrey Seiler",
+        "tickers": [
+          "VOO",
+          "VUG",
+          "NVDA",
+          "MSFT",
+          "AAPL"
+        ],
+        "keywords": [
+          "ETF",
+          "investing",
+          "dollar-cost averaging",
+          "index funds",
+          "technology stocks",
+          "market strategy"
+        ]
+      },
+      {
+        "published_utc": "2025-09-05T11:11:00Z",
+        "title": "If You'd Invested $1,000 in the Invesco QQQ Trust 10 Years Ago, Here's How Much You'd Have Today",
+        "description": "A $1,000 investment in the Invesco QQQ Trust tracking the Nasdaq-100 index would have grown to $6,280 over 10 years, representing a 20.2% annualized return and outperforming the S&P 500 by 218 percentage points.",
+        "article_url": "https://www.fool.com/investing/2025/09/05/if-youd-invested-1000-in-the-invesco-qqq-trust-10/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Matt Frankel",
+        "tickers": [
+          "QQQ",
+          "NVDA",
+          "MSFT"
+        ],
+        "keywords": [
+          "ETF",
+          "technology",
+          "investment",
+          "Nasdaq-100",
+          "AI"
+        ]
+      },
+      {
+        "published_utc": "2025-09-05T11:30:00Z",
+        "title": "The Best Growth ETF to Invest $1,000 in Right Now",
+        "description": "The Vanguard Information Technology ETF offers investors a diversified approach to technology sector investing, with high growth potential but also significant risk. The ETF includes major tech companies and provides exposure to innovative stocks while minimizing individual company risk.",
+        "article_url": "https://www.fool.com/investing/2025/09/05/the-best-industrycategory-etf-to-invest-1000-in/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jennifer Saibil",
+        "tickers": [
+          "NVDA",
+          "AAPL",
+          "MSFT",
+          "PLTR",
+          "FIG"
+        ],
+        "keywords": [
+          "ETF",
+          "technology",
+          "investing",
+          "growth stocks",
+          "market strategy"
+        ]
+      },
+      {
+        "published_utc": "2025-09-05T13:12:00Z",
+        "title": "Marvell Selloff Looks Overdone as Revenue Miss Masks AI Pipeline Strength",
+        "description": "Marvell Technology experienced a stock price drop after its Q2 earnings report, with a minor revenue miss in its data center segment. Despite the selloff, analysts suggest the decline might be overreactive, noting strong AI pipeline potential and new custom silicon design wins.",
+        "article_url": "https://www.investing.com/analysis/marvell-selloff-looks-overdone-as-revenue-miss-masks-ai-pipeline-strength-200666462",
+        "publisher": "Investing.com",
+        "author": "Leo Miller",
+        "tickers": [
+          "MRVL",
+          "AMZN",
+          "MSFT",
+          "AVGO"
+        ],
+        "keywords": [
+          "AI",
+          "semiconductor",
+          "earnings",
+          "custom silicon",
+          "data centers"
+        ]
+      },
+      {
+        "published_utc": "2025-09-05T13:26:00Z",
+        "title": "Microsoft: AI Push Beyond OpenAI Could Drive Next Breakout",
+        "description": "Microsoft is developing its own AI models (MAI-Voice-1 and MAI-1-preview) to reduce dependency on OpenAI, potentially strengthening its AI and cloud computing capabilities across Azure and Copilot services.",
+        "article_url": "https://www.investing.com/analysis/microsoft-ai-push-beyond-openai-could-drive-next-breakout-200666461",
+        "publisher": "Investing.com",
+        "author": "Chris Markoch",
+        "tickers": [
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "META"
+        ],
+        "keywords": [
+          "AI",
+          "Microsoft",
+          "OpenAI",
+          "Azure",
+          "Copilot",
+          "Large Language Models"
+        ]
+      },
+      {
+        "published_utc": "2025-09-05T14:00:00Z",
+        "title": "AI in Mining Market to Hit USD 478.29 Billion by 2032, Fueled by Automation, Predictive Maintenance, and Cloud Adoption Globally | Report by SNS Insider",
+        "description": "The AI in Mining Market is projected to grow from USD 28.91 billion in 2024 to USD 478.29 billion by 2032, driven by automation, predictive maintenance, and cloud adoption in mining operations globally.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/09/05/3145314/0/en/AI-in-Mining-Market-to-Hit-USD-478-29-Billion-by-2032-Fueled-by-Automation-Predictive-Maintenance-and-Cloud-Adoption-Globally-Report-by-SNS-Insider.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Sns Insider",
+        "tickers": [
+          "ACN",
+          "IBM",
+          "MSFT",
+          "SAP",
+          "CAT",
+          "BHP",
+          "RIO"
+        ],
+        "keywords": [
+          "AI",
+          "mining",
+          "automation",
+          "predictive maintenance",
+          "cloud computing",
+          "digital transformation"
+        ]
+      }
+    ],
+    "ticker_news_count": 6,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": [
+        {
+          "published_utc": "2025-09-05T11:11:00Z",
+          "title": "If You'd Invested $1,000 in the Invesco QQQ Trust 10 Years Ago, Here's How Much You'd Have Today",
+          "description": "A $1,000 investment in the Invesco QQQ Trust tracking the Nasdaq-100 index would have grown to $6,280 over 10 years, representing a 20.2% annualized return and outperforming the S&P 500 by 218 percentage points.",
+          "article_url": "https://www.fool.com/investing/2025/09/05/if-youd-invested-1000-in-the-invesco-qqq-trust-10/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Matt Frankel",
+          "tickers": [
+            "QQQ",
+            "NVDA",
+            "MSFT"
+          ],
+          "keywords": [
+            "ETF",
+            "technology",
+            "investment",
+            "Nasdaq-100",
+            "AI"
+          ]
+        }
+      ]
+    }
+  }
+}

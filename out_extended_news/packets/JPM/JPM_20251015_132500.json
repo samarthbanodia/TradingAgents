@@ -1,0 +1,65 @@
+{
+  "event": {
+    "event_id": "JPM_20251015_132500",
+    "ticker": "JPM",
+    "t0_utc": "2025-10-15 13:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-10-15T10:25:00+00:00",
+      "end": "2025-10-15T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-10-15T11:24:36Z",
+          "title": "Trump's Tariffs 'Papered Over By AI' Are Quietly Hurting Economy: 'We've Only Seen Half Of...'",
+          "description": "Experts warn that AI investment is masking significant economic damage from Trump-era tariffs, with small businesses particularly vulnerable and only half of the tariffs' potential negative impact currently felt.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/25/10/48220411/trumps-tariffs-papered-over-by-ai-are-quietly-hurting-economy-weve-only-seen-half-of",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "tariffs",
+            "AI",
+            "economy",
+            "trade",
+            "small businesses"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-10-15T11:24:36Z",
+          "title": "Trump's Tariffs 'Papered Over By AI' Are Quietly Hurting Economy: 'We've Only Seen Half Of...'",
+          "description": "Experts warn that AI investment is masking significant economic damage from Trump-era tariffs, with small businesses particularly vulnerable and only half of the tariffs' potential negative impact currently felt.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/25/10/48220411/trumps-tariffs-papered-over-by-ai-are-quietly-hurting-economy-weve-only-seen-half-of",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "tariffs",
+            "AI",
+            "economy",
+            "trade",
+            "small businesses"
+          ]
+        }
+      ]
+    }
+  }
+}

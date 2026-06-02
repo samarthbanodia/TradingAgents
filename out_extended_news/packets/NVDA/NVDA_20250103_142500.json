@@ -1,0 +1,73 @@
+{
+  "event": {
+    "event_id": "NVDA_20250103_142500",
+    "ticker": "NVDA",
+    "t0_utc": "2025-01-03 14:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-01-03T11:25:00+00:00",
+      "end": "2025-01-03T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-01-03T12:19:00Z",
+        "title": "Can Value Stocks Rebound in 2025?",
+        "description": "Growth stocks have outperformed value stocks in recent years, but value stocks may have an opportunity to rebound in 2025 due to high valuations in the growth stock market and the potential for a rotation towards undervalued stocks.",
+        "article_url": "https://www.investing.com/analysis/can-value-stocks-rebound-in-2025-200655828",
+        "publisher": "Investing.com",
+        "author": "Valuewalk",
+        "tickers": [
+          "NVDA",
+          "BLK",
+          "DIVB",
+          "IWF",
+          "IWD"
+        ],
+        "keywords": [
+          "value stocks",
+          "growth stocks",
+          "S&P 500",
+          "Nasdaq",
+          "Russell 1000"
+        ]
+      },
+      {
+        "published_utc": "2025-01-03T12:45:00Z",
+        "title": "Should You Buy the Dip in Micron Stock Right Now?",
+        "description": "Micron Technology's latest earnings report failed to meet Wall Street's expectations, leading to an 18% drop in the stock price. However, the author argues that Micron's long-term potential remains strong, with its position in the growing AI chip market and attractive valuation compared to peers.",
+        "article_url": "https://www.fool.com/investing/2025/01/03/should-you-buy-the-dip-in-micron-stock-right-now/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Adam Spatacco",
+        "tickers": [
+          "MU",
+          "NVDA",
+          "AMD",
+          "AMZN",
+          "GOOG",
+          "GOOGL",
+          "MSFT",
+          "META"
+        ],
+        "keywords": [
+          "Micron Technology",
+          "semiconductor",
+          "AI",
+          "earnings",
+          "valuation"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

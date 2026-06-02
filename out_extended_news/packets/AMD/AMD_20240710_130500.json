@@ -1,0 +1,64 @@
+{
+  "event": {
+    "event_id": "AMD_20240710_130500",
+    "ticker": "AMD",
+    "t0_utc": "2024-07-10 13:05:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-07-10T10:05:00+00:00",
+      "end": "2024-07-10T14:05:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-07-10T10:50:14Z",
+        "title": "AI PCs are garnering interest; Apple the greatest share gainer By Investing.com - Investing.com Australia",
+        "description": "The PC market is seeing growth driven by commercial refreshes and the emergence of AI PCs, with Apple gaining the most market share among top vendors.",
+        "article_url": "https://au.investing.com/news/stock-market-news/ai-pcs-are-garnering-interest-apple-the-greatest-share-gainer-432SI-3334202",
+        "publisher": "Investing.com",
+        "author": "Sam Bougheddad",
+        "tickers": [
+          "AAPL",
+          "INTC",
+          "QCOM",
+          "AMD"
+        ],
+        "keywords": [
+          "AI PCs",
+          "PC market",
+          "commercial refreshes",
+          "Apple"
+        ]
+      },
+      {
+        "published_utc": "2024-07-10T13:06:42Z",
+        "title": "AMD to Acquire Silo AI to Expand Enterprise AI Solutions Globally - GlobeNewswire",
+        "description": "AMD announced the acquisition of Silo AI, Europe's largest private AI lab, for $665 million. The acquisition will accelerate the development and deployment of AMD-powered AI models and software solutions, enhancing open-source AI capabilities for efficient training and inference on AMD platforms.",
+        "article_url": "https://www.globenewswire.com/news-release/2024/07/10/2911168/0/en/AMD-to-Acquire-Silo-AI-to-Expand-Enterprise-AI-Solutions-Globally.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Amd",
+        "tickers": [
+          "AMD"
+        ],
+        "keywords": [
+          "AI",
+          "acquisition",
+          "AMD",
+          "Silo AI",
+          "open-source"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "event": {
+    "event_id": "AAPL_20250130_213500",
+    "ticker": "AAPL",
+    "t0_utc": "2025-01-30 21:35:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-01-30T18:35:00+00:00",
+      "end": "2025-01-30T22:35:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-01-30T21:51:00Z",
+        "title": "Pixalate\u2019s Q4 2024 Connected TV (CTV) Device Market Share Reports: Roku Leads in US (39%), Mexico (74%), Canada (35%); Samsung No. 1 in UK (30%)",
+        "description": "Pixalate's research shows Roku leading in CTV device market share in the US (39%), Mexico (74%), and Canada (35%), while Samsung is the top player in the UK (30%). Other notable findings include Samsung, Amazon Fire TV, and Apple TV gaining market share in the US.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/01/30/3018472/0/en/Pixalate-s-Q4-2024-Connected-TV-CTV-Device-Market-Share-Reports-Roku-Leads-in-US-39-Mexico-74-Canada-35-Samsung-No-1-in-UK-30.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Pixalate",
+        "tickers": [
+          "ROKU",
+          "AAPL",
+          "LPL",
+          "XIACF"
+        ],
+        "keywords": [
+          "CTV",
+          "device market share",
+          "Roku",
+          "Samsung",
+          "Amazon Fire TV",
+          "Apple TV"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

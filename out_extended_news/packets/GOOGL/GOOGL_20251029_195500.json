@@ -1,0 +1,47 @@
+{
+  "event": {
+    "event_id": "GOOGL_20251029_195500",
+    "ticker": "GOOGL",
+    "t0_utc": "2025-10-29 19:55:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-10-29T16:55:00+00:00",
+      "end": "2025-10-29T20:55:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-10-29T18:10:00Z",
+        "title": "Buckle Up: Why Wednesday Could Be the Craziest Trading Day of the Year",
+        "description": "A pivotal Wednesday featuring the Federal Reserve's rate decision and earnings reports from major tech companies Microsoft, Alphabet, and Meta is expected to create significant market volatility, with potential impacts on interest rates and tech sector performance.",
+        "article_url": "https://www.investing.com/analysis/buckle-up-why-wednesday-could-be-the-craziest-trading-day-of-the-year-200669290",
+        "publisher": "Investing.com",
+        "author": "Jesse Cohen",
+        "tickers": [
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "META"
+        ],
+        "keywords": [
+          "Federal Reserve",
+          "interest rates",
+          "tech earnings",
+          "AI",
+          "market volatility"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

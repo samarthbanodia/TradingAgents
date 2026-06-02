@@ -1,0 +1,96 @@
+{
+  "event": {
+    "event_id": "AMZN_20241206_142500",
+    "ticker": "AMZN",
+    "t0_utc": "2024-12-06 14:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2024-12-06T11:25:00+00:00",
+      "end": "2024-12-06T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-12-06T13:23:00Z",
+        "title": "Can This Beaten-Down Growth Stock Bounce Back?",
+        "description": "Roku's shares have dropped 70% in the past three years, but the company's financial results have not been entirely awful. While Roku faces stiff competition and has lost market share in North America, it remains the worldwide leader in the connected TV market. The company's opportunities to bounce back remain intact, as it continues to grow its ecosystem and monetize international markets.",
+        "article_url": "https://www.fool.com/investing/2024/12/06/can-this-beaten-down-growth-stock-bounce-back/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Prosper Junior Bakiny",
+        "tickers": [
+          "ROKU",
+          "NFLX",
+          "AMZN"
+        ],
+        "keywords": [
+          "Roku",
+          "streaming",
+          "connected TV",
+          "advertising",
+          "international markets"
+        ]
+      },
+      {
+        "published_utc": "2024-12-06T14:00:00Z",
+        "title": "Data Center Virtualization Market to Reach USD 28.9 Billion by 2032, Driven by the Growing Need for Scalable, Cost-Effective Infrastructure Solutions | Research by SNS Insider",
+        "description": "The data center virtualization market is experiencing significant growth due to the increasing need for businesses to scale operations efficiently while minimizing costs. The demand for flexible, cost-effective IT infrastructure solutions is driving businesses toward virtualization technologies.",
+        "article_url": "https://www.globenewswire.com/news-release/2024/12/06/2993074/0/en/Data-Center-Virtualization-Market-to-Reach-USD-28-9-Billion-by-2032-Driven-by-the-Growing-Need-for-Scalable-Cost-Effective-Infrastructure-Solutions-Research-by-SNS-Insider.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Sns Insider",
+        "tickers": [
+          "MSFT",
+          "CSCO",
+          "IBM",
+          "AMZN",
+          "ORCL",
+          "HPE",
+          "HPEpC",
+          "DELL",
+          "NTNX",
+          "GOOG",
+          "GOOGL",
+          "BABA",
+          "JNPR",
+          "AVGO"
+        ],
+        "keywords": [
+          "data center virtualization",
+          "cloud computing",
+          "IT infrastructure",
+          "virtualization technology",
+          "digital transformation"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": [
+        {
+          "published_utc": "2024-12-06T11:27:00Z",
+          "title": "1 Unstoppable ETF Can Generate 10x Returns in the Long Run",
+          "description": "The article discusses how the Invesco QQQ Trust (QQQ) ETF can potentially generate 10x returns for buy-and-hold investors over the long run, despite the risks associated with high-growth investments. It highlights the ETF's ability to outperform the S&P 500 and the benefits of staying invested in the markets rather than trying to time them.",
+          "article_url": "https://www.fool.com/investing/2024/12/06/1-unstoppable-etf-can-generate-10x-returns-in-the/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "David Jagielski",
+          "tickers": [
+            "QQQ"
+          ],
+          "keywords": [
+            "Invesco QQQ Trust",
+            "ETF",
+            "growth stocks",
+            "long-term investing",
+            "market timing"
+          ]
+        }
+      ]
+    }
+  }
+}

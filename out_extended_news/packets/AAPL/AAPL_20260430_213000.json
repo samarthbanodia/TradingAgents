@@ -1,0 +1,161 @@
+{
+  "event": {
+    "event_id": "AAPL_20260430_213000",
+    "ticker": "AAPL",
+    "t0_utc": "2026-04-30 21:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-04-30T18:30:00+00:00",
+      "end": "2026-04-30T22:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-04-30T19:01:00Z",
+        "title": "3 Stocks I'd Rather Own Than Apple With a CEO Shakeup",
+        "description": "With Tim Cook stepping down as Apple CEO in September 2026 and John Ternus taking over, the article argues that leadership transitions create uncertainty. Apple trades at a premium valuation (34x earnings) without strong growth prospects and lacks a clear AI strategy. The author recommends Nvidia, Microsoft, and Alphabet as better investment alternatives due to their strong AI exposure, cloud computing growth, and more attractive valuations.",
+        "article_url": "https://www.fool.com/investing/2026/04/30/stocks-rather-own-than-apple-with-ceo-shakeup/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Keithen Drury",
+        "tickers": [
+          "AAPL",
+          "NVDA",
+          "MSFT",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "CEO transition",
+          "Apple leadership change",
+          "AI strategy",
+          "valuation premium",
+          "cloud computing",
+          "GPU technology",
+          "tech stocks"
+        ]
+      },
+      {
+        "published_utc": "2026-04-30T20:53:26Z",
+        "title": "Apple Posts Double Beat In Q2 As Active Installed Base Hits All-Time High \u2014 'Our Best March Quarter Ever'",
+        "description": "Apple reported fiscal Q2 2026 revenue of $111.18 billion and EPS of $2.01, both beating analyst estimates. Revenue grew 17% YoY and EPS climbed 22% YoY, driven by strong iPhone 17 demand and record March quarter performance. The company's active installed base hit all-time highs across all product categories. Apple authorized an additional $100 billion share repurchase program and increased its quarterly dividend by 4%. Despite the strong earnings beat, AAPL stock declined 0.50% in after-hours trading.",
+        "article_url": "https://www.benzinga.com/markets/earnings/26/04/52199329/apple-posts-double-beat-in-q2-as-active-installed-base-hits-all-time-high-our-best-march-quarter?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Adam Eckert",
+        "tickers": [
+          "AAPL"
+        ],
+        "keywords": [
+          "earnings beat",
+          "revenue growth",
+          "iPhone 17",
+          "installed base",
+          "share buyback",
+          "dividend increase",
+          "geographic segments"
+        ]
+      },
+      {
+        "published_utc": "2026-04-30T21:23:12Z",
+        "title": "Stock Market Today, April 30: U.S. Markets Surge Higher Despite a Mixed Bag of Earnings From Big Tech",
+        "description": "U.S. markets rose on April 30, 2026, with the S&P 500 gaining 1.02%, Nasdaq up 0.89%, and Dow jumping 1.62%. Alphabet surged 10% on strong earnings and AI commentary, while Microsoft and Meta declined 4% and 9% respectively due to concerns over massive AI capital expenditure. Caterpillar also rallied 10% on robust results, helping fuel the Dow's gains.",
+        "article_url": "https://www.fool.com/coverage/stock-market-today/2026/04/30/stock-market-today-april-30-u-s-markets-surge-higher-despite-a-mixed-bag-of-earnings-from-big-tech/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Josh Kohn-Lindquist",
+        "tickers": [
+          "GOOG",
+          "GOOGL",
+          "MSFT",
+          "META",
+          "CAT",
+          "AAPL"
+        ],
+        "keywords": [
+          "earnings",
+          "AI investment",
+          "capital expenditure",
+          "tech stocks",
+          "market movers",
+          "ROI concerns"
+        ]
+      },
+      {
+        "published_utc": "2026-04-30T22:04:02Z",
+        "title": "Apple Stock Pops On Strong Q3 Guidance: Details",
+        "description": "Apple delivered a strong fiscal Q2 earnings beat with $111.18B in revenue (up 17% YoY) and $2.01 EPS, exceeding expectations. The company guided for June-quarter revenue growth of 14-17%, well ahead of Street expectations of ~9%. Apple also announced a 4% dividend increase, $100B in share repurchases, and signaled a shift away from its net cash-neutral balance sheet strategy. The stock rose 3.59% in after-hours trading.",
+        "article_url": "https://www.benzinga.com/trading-ideas/movers/26/04/52201788/apple-stock-pops-on-strong-q3-guidance-details?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Erica Kollmann",
+        "tickers": [
+          "AAPL"
+        ],
+        "keywords": [
+          "earnings beat",
+          "Q3 guidance",
+          "revenue growth",
+          "iPhone revenue",
+          "Services revenue",
+          "gross margin",
+          "dividend increase",
+          "share repurchases",
+          "capital allocation"
+        ]
+      },
+      {
+        "published_utc": "2026-04-30T22:24:16Z",
+        "title": "While \"Magnificent Seven\" Companies Pour Hundreds of Billions into AI Infrastructure, Apple Continues to Execute the Classic Shareholder-Friendly Playbook",
+        "description": "Apple reported Q2 2026 earnings that beat estimates, raising its quarterly dividend by 4% to $0.27 per share and authorizing a $100 billion share repurchase program. While other 'Magnificent Seven' companies like Microsoft, Alphabet, Amazon, and Meta are investing heavily in AI infrastructure with capex exceeding $100 billion annually, Apple continues its traditional shareholder-friendly approach, having repurchased $37 billion in stock and distributed $7.7 billion in dividends in the first half of fiscal 2026.",
+        "article_url": "https://www.fool.com/investing/2026/04/30/while-magnificent-seven-companies-pour-hundreds-of/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Bram Berkowitz",
+        "tickers": [
+          "AAPL",
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "AMZN",
+          "META"
+        ],
+        "keywords": [
+          "Apple earnings",
+          "share buyback",
+          "dividend increase",
+          "AI infrastructure",
+          "Magnificent Seven",
+          "capital expenditure",
+          "shareholder returns"
+        ]
+      },
+      {
+        "published_utc": "2026-04-30T22:30:00Z",
+        "title": "1 Reason Apple Is Still My Favorite Stock I'd Hand Down to My Grandkids",
+        "description": "Apple is highlighted as a long-term 'forever stock' with exceptional historical returns (20% annualized since 1980, 29% over the past decade). While its walled garden ecosystem has driven dominance, the article argues that Apple's strongest competitive advantage is its brand loyalty\u2014with 96.4% of iPhone users planning to upgrade to another iPhone and a 92% customer retention rate. Even if regulatory pressures weaken its ecosystem, the author believes Apple's brand strength will sustain investor confidence and stock performance for decades.",
+        "article_url": "https://www.fool.com/investing/2026/04/30/1-reason-apple-is-still-my-favorite-stock-id-hand/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Dave Kovaleski",
+        "tickers": [
+          "AAPL"
+        ],
+        "keywords": [
+          "Apple stock",
+          "brand loyalty",
+          "walled garden ecosystem",
+          "long-term investing",
+          "customer retention",
+          "iPhone loyalty",
+          "forever stocks"
+        ]
+      }
+    ],
+    "ticker_news_count": 6,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

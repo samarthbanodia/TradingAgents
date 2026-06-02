@@ -1,0 +1,123 @@
+{
+  "event": {
+    "event_id": "AAPL_20250910_131000",
+    "ticker": "AAPL",
+    "t0_utc": "2025-09-10 13:10:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-09-10T10:10:00+00:00",
+      "end": "2025-09-10T14:10:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-09-10T11:23:00Z",
+        "title": "Is Netflix Stock an Nvidia-Level Winner?",
+        "description": "Netflix has potential for long-term growth, potentially reaching a $1 trillion market cap by 2030 and $4 trillion by 2040, but cannot realistically match Nvidia's rapid AI-driven market surge.",
+        "article_url": "https://www.fool.com/investing/2025/09/10/is-netflix-stock-an-nvidia-level-winner/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Anders Bylund",
+        "tickers": [
+          "NVDA",
+          "NFLX",
+          "MSFT",
+          "AAPL"
+        ],
+        "keywords": [
+          "market cap",
+          "streaming",
+          "AI",
+          "investment",
+          "technology"
+        ]
+      },
+      {
+        "published_utc": "2025-09-10T11:32:00Z",
+        "title": "The Smartest Vanguard ETF to Buy With $1,000 Right Now",
+        "description": "The article discusses the Vanguard Dividend Appreciation ETF (VIG) as a strategic investment option, highlighting its focus on companies with consistent dividend growth and potential long-term returns.",
+        "article_url": "https://www.fool.com/investing/2025/09/10/the-smartest-vanguard-etf-to-buy-with-1000-right-n/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Stefon Walters",
+        "tickers": [
+          "VIG",
+          "AAPL",
+          "MSFT",
+          "WMT",
+          "AMJB",
+          "JPM",
+          "JPMpC",
+          "JPMpD",
+          "JPMpJ",
+          "JPMpK",
+          "JPMpL",
+          "JPMpM",
+          "VYLD"
+        ],
+        "keywords": [
+          "ETF",
+          "dividend",
+          "investing",
+          "market strategy",
+          "long-term growth"
+        ]
+      },
+      {
+        "published_utc": "2025-09-10T12:26:36Z",
+        "title": "AI Data Center Spending By Nvidia, Microsoft And Other 'Mag 7' Titans Is Squeezing S&P 500 Share Buybacks, Goldman Sachs Warns",
+        "description": "Goldman Sachs reports that Magnificent Seven tech companies are diverting significant funds to AI data center construction, which is slowing down their share buyback activities in 2025.",
+        "article_url": "https://www.benzinga.com/markets/equities/25/09/47592176/ai-data-center-spending-by-nvidia-microsoft-and-other-mag-7-titans-is-squeezing-sp-500-share-buy",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "NVDA",
+          "MSFT",
+          "AAPL",
+          "GOOG",
+          "GOOGL",
+          "AMZN",
+          "TSLA"
+        ],
+        "keywords": [
+          "AI",
+          "data centers",
+          "share buybacks",
+          "capital expenditures",
+          "tech investments"
+        ]
+      },
+      {
+        "published_utc": "2025-09-10T13:24:00Z",
+        "title": "Resumption of Fed Easing Cycle Could Help Unlock Capital",
+        "description": "The Federal Reserve is expected to begin an easing cycle with potential rate cuts, which could unlock significant capital from money market funds and provide additional support for the equity markets, particularly if rate reductions align with market expectations.",
+        "article_url": "https://www.investing.com/analysis/resumption-of-fed-easing-cycle-could-help-unlock-capital-200666699",
+        "publisher": "Investing.com",
+        "author": "Jeff Buchbinder",
+        "tickers": [
+          "NVDA",
+          "AAPL",
+          "AMZN",
+          "TSLA"
+        ],
+        "keywords": [
+          "Federal Reserve",
+          "monetary policy",
+          "rate cuts",
+          "money market funds",
+          "equity markets",
+          "AI investment"
+        ]
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "event": {
+    "event_id": "GOOGL_20241024_132500",
+    "ticker": "GOOGL",
+    "t0_utc": "2024-10-24 13:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-10-24T10:25:00+00:00",
+      "end": "2024-10-24T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-10-24T13:00:00Z",
+        "title": "How Much Does Google Make in Ad Revenue?",
+        "description": "Alphabet, the world's biggest advertising company, has a dominant position in digital advertising, with its Google Search and YouTube platforms generating the majority of its ad revenue. The company's ad business is still delivering strong growth, and it is likely to continue to grow due to its market dominance.",
+        "article_url": "https://www.fool.com/investing/2024/10/24/how-much-does-google-make-in-ad-revenue/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "GOOG",
+          "GOOGL",
+          "MSFT",
+          "BIDU"
+        ],
+        "keywords": [
+          "Alphabet",
+          "Google",
+          "digital advertising",
+          "search engine",
+          "YouTube"
+        ]
+      },
+      {
+        "published_utc": "2024-10-24T14:00:00Z",
+        "title": "Wireless, IoT and Mobile Technology Innovators Honored in 2024 Mobile Breakthrough Awards Program",
+        "description": "The 8th annual Mobile Breakthrough Awards program recognized the top companies, technologies, and products in the global wireless and mobile market. The winners were selected based on their innovative and technologically advanced solutions, driving the future of connectivity and digital inclusion.",
+        "article_url": "https://www.globenewswire.com/news-release/2024/10/24/2968853/0/en/Wireless-IoT-and-Mobile-Technology-Innovators-Honored-in-2024-Mobile-Breakthrough-Awards-Program.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Mobile Breakthrough",
+        "tickers": [
+          "ASTS",
+          "GOOG",
+          "GOOGL",
+          "CMCSA",
+          "WATT",
+          "AMZN",
+          "MOTS",
+          "NTGR",
+          "VZ",
+          "ERIC",
+          "QCOM",
+          "T",
+          "TBB",
+          "TBC",
+          "TpA",
+          "TpC"
+        ],
+        "keywords": [
+          "mobile",
+          "wireless",
+          "technology",
+          "innovation",
+          "connectivity",
+          "IoT",
+          "cloud computing",
+          "mobile device management",
+          "broadband"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-10-24T11:11:10Z",
+          "title": "US Stocks Set To Open Higher As Tesla's Strong Profit Margins Win Over Wall Street: Wharton Economist Says 'Under-Loved' Bull Market Could See 'Significant Upside'",
+          "description": "US stocks are set to open higher as Tesla's strong profit margins impress Wall Street. A Wharton economist believes the 'under-loved' bull market could see 'significant upside' despite recent market declines.",
+          "article_url": "https://www.benzinga.com/news/earnings/24/10/41513078/us-stocks-set-to-open-higher-as-teslas-strong-profit-margins-win-over-wall-street-wharton-economist",
+          "publisher": "Benzinga",
+          "author": "Rounak Jain",
+          "tickers": [
+            "TSLA",
+            "NVDA",
+            "AAPL",
+            "BA",
+            "T",
+            "TBB",
+            "TBC",
+            "TpA",
+            "TpC",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "US stocks",
+            "Tesla",
+            "profit margins",
+            "bull market",
+            "Wharton economist"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2024-10-24T11:11:10Z",
+          "title": "US Stocks Set To Open Higher As Tesla's Strong Profit Margins Win Over Wall Street: Wharton Economist Says 'Under-Loved' Bull Market Could See 'Significant Upside'",
+          "description": "US stocks are set to open higher as Tesla's strong profit margins impress Wall Street. A Wharton economist believes the 'under-loved' bull market could see 'significant upside' despite recent market declines.",
+          "article_url": "https://www.benzinga.com/news/earnings/24/10/41513078/us-stocks-set-to-open-higher-as-teslas-strong-profit-margins-win-over-wall-street-wharton-economist",
+          "publisher": "Benzinga",
+          "author": "Rounak Jain",
+          "tickers": [
+            "TSLA",
+            "NVDA",
+            "AAPL",
+            "BA",
+            "T",
+            "TBB",
+            "TBC",
+            "TpA",
+            "TpC",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "US stocks",
+            "Tesla",
+            "profit margins",
+            "bull market",
+            "Wharton economist"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "event": {
+    "event_id": "AMD_20250813_133000",
+    "ticker": "AMD",
+    "t0_utc": "2025-08-13 13:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-08-13T10:30:00+00:00",
+      "end": "2025-08-13T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-08-13T10:30:00Z",
+        "title": "2 Top Artificial Intelligence Stocks to Buy Right Now",
+        "description": "The article highlights two AI stocks with strong potential: SoundHound AI and Nvidia. SoundHound shows promising growth in voice AI technology, while Nvidia remains a critical player in AI chip manufacturing, demonstrating impressive market performance and strategic positioning.",
+        "article_url": "https://www.fool.com/investing/2025/08/13/2-top-artificial-intelligence-stocks-to-buy-right/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jake Lerch",
+        "tickers": [
+          "SOUN",
+          "SOUNW",
+          "NVDA",
+          "PLTR",
+          "AMD"
+        ],
+        "keywords": [
+          "AI",
+          "technology stocks",
+          "voice AI",
+          "semiconductor",
+          "investment"
+        ]
+      },
+      {
+        "published_utc": "2025-08-13T12:19:00Z",
+        "title": "AMD's Earnings Miss Doesn't Matter: This Is Much More Important",
+        "description": "Advanced Micro Devices (AMD) is showing promising growth in AI chip development, with seven of the top 10 AI companies using its Instinct chips. Despite not beating quarterly earnings expectations, the company's long-term potential and upcoming MI400 chips position it as an attractive investment.",
+        "article_url": "https://www.fool.com/investing/2025/08/13/amds-earnings-miss-doesnt-matter-this-is-much-more/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "David Jagielski",
+        "tickers": [
+          "AMD",
+          "NVDA"
+        ],
+        "keywords": [
+          "AI",
+          "semiconductor",
+          "technology",
+          "investing",
+          "long-term growth"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "event": {
+    "event_id": "NVDA_20251119_212000",
+    "ticker": "NVDA",
+    "t0_utc": "2025-11-19 21:20:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-11-19T18:20:00+00:00",
+      "end": "2025-11-19T22:20:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-11-19T18:25:00Z",
+        "title": "Where Will Nvidia Stock Be in 3 Years?",
+        "description": "Nvidia has experienced massive growth in AI chip market, with strong revenue and earnings, but faces potential risks from uncertain long-term commercial viability of generative AI technology and high development costs.",
+        "article_url": "https://www.fool.com/investing/2025/11/19/where-will-nvidia-stock-be-in-3-years/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Will Ebiefung",
+        "tickers": [
+          "NVDA",
+          "GOOG",
+          "GOOGL",
+          "MSFT",
+          "AMZN"
+        ],
+        "keywords": [
+          "Nvidia",
+          "AI",
+          "generative AI",
+          "chips",
+          "technology",
+          "market growth"
+        ]
+      },
+      {
+        "published_utc": "2025-11-19T18:32:00Z",
+        "title": "Meet the Supercharged Artificial Intelligence (AI) Growth Stock That Could Join Apple, Nvidia, Alphabet, and Microsoft in the $3 Trillion Club by 2027",
+        "description": "The article highlights Taiwan Semiconductor Manufacturing (TSMC) as a critical player in the AI semiconductor industry, with potential to reach a $3 trillion market capitalization by leveraging its dominant position in chip manufacturing and growing AI infrastructure demand.",
+        "article_url": "https://www.fool.com/investing/2025/11/19/meet-the-supercharged-artificial-intelligence-ai-g/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Adam Spatacco",
+        "tickers": [
+          "TSM",
+          "NVDA",
+          "AAPL",
+          "MSFT",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "AI",
+          "semiconductor",
+          "chip manufacturing",
+          "technology investment",
+          "market capitalization"
+        ]
+      },
+      {
+        "published_utc": "2025-11-19T20:03:00Z",
+        "title": "Could This Be the Best Stock to Own for the Next Decade of AI Expansion?",
+        "description": "Nebius Group, an AI infrastructure company, is experiencing rapid growth with significant contracts from Meta Platforms and Microsoft, positioning itself as a potential high-growth AI investment with plans to expand data center capacity and deliver impressive revenue growth.",
+        "article_url": "https://www.fool.com/investing/2025/11/19/could-this-be-the-best-stock-to-own-for-the-next-d/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Manali Pradhan",
+        "tickers": [
+          "NBIS",
+          "NVDA",
+          "MSFT",
+          "META",
+          "AMZN",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "AI",
+          "infrastructure",
+          "data centers",
+          "GPU",
+          "technology investment"
+        ]
+      },
+      {
+        "published_utc": "2025-11-19T20:09:01Z",
+        "title": "Quality Stocks Trail Like It's 1999\u2014Will The Snapback Be Just As Violent?",
+        "description": "High-quality stocks are significantly underperforming the broader market, reminiscent of the dot-com era, with AI-driven tech stocks dominating market returns while traditional quality stocks lag behind.",
+        "article_url": "https://www.benzinga.com/markets/equities/25/11/48960594/stock-market-analysis-strategy-outlook-quality-lags-sp500?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Stjepan Kalinic",
+        "tickers": [
+          "AAPL",
+          "NVDA",
+          "GOOG",
+          "GOOGL",
+          "BYDDY",
+          "BRK.A",
+          "BRK.B"
+        ],
+        "keywords": [
+          "quality stocks",
+          "market performance",
+          "AI",
+          "tech stocks",
+          "market divergence"
+        ]
+      },
+      {
+        "published_utc": "2025-11-19T20:14:09Z",
+        "title": "The Fed Is Split \u2013 And A December Rate Cut Moves Further Away",
+        "description": "Federal Reserve officials are divided on future interest rate decisions, with reduced likelihood of a December rate cut. Market expectations have shifted, with a 66% chance of rates remaining steady and concerns about potential financial market instability, particularly in AI-related sectors.",
+        "article_url": "https://www.benzinga.com/markets/macro-economic-events/25/11/48960718/fed-meeting-minutes-december-interest-rate-expectations-cut-versus-hold?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Piero Cingari",
+        "tickers": [
+          "NVDA"
+        ],
+        "keywords": [
+          "Federal Reserve",
+          "interest rates",
+          "monetary policy",
+          "AI",
+          "financial markets"
+        ]
+      }
+    ],
+    "ticker_news_count": 5,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-11-19T21:46:00Z",
+          "title": "S&P 500 Faces Rising Probability of a 2026 Struggle as Signals Build",
+          "description": "Analysis suggests potential market challenges in 2026, with signals indicating a possible bearish scenario for the S&P 500. Commodities market appears to be starting a multi-year rally, potentially contrasting with equity market performance.",
+          "article_url": "https://www.investing.com/analysis/sp-500-faces-rising-probability-of-a-2026-struggle-as-signals-build-200670474",
+          "publisher": "Investing.com",
+          "author": "Tim Ord",
+          "tickers": [
+            "SPY",
+            "GDX"
+          ],
+          "keywords": [
+            "S&P 500",
+            "market forecast",
+            "commodities",
+            "2026 outlook",
+            "market signals"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

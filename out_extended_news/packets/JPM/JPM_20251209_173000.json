@@ -1,0 +1,59 @@
+{
+  "event": {
+    "event_id": "JPM_20251209_173000",
+    "ticker": "JPM",
+    "t0_utc": "2025-12-09 17:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-12-09T14:30:00+00:00",
+      "end": "2025-12-09T18:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-12-09T14:30:00Z",
+        "title": "Have $1,000? These 3 Stocks Are Great for Any Portfolio",
+        "description": "The article recommends three stocks for new investors: Ford, JPMorgan Chase, and Nvidia, highlighting their financial strengths, dividend potential, and growth prospects in their respective industries.",
+        "article_url": "https://www.fool.com/investing/2025/12/09/have-1000-these-3-stocks-are-great-for-any/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "David Butler",
+        "tickers": [
+          "F",
+          "FpB",
+          "FpC",
+          "FpD",
+          "AMJB",
+          "JPM",
+          "JPMpC",
+          "JPMpD",
+          "JPMpJ",
+          "JPMpK",
+          "JPMpL",
+          "JPMpM",
+          "VYLD",
+          "NVDA"
+        ],
+        "keywords": [
+          "investing",
+          "stocks",
+          "portfolio",
+          "dividend",
+          "AI",
+          "banking",
+          "automotive"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

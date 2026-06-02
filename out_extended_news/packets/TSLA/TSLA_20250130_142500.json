@@ -1,0 +1,46 @@
+{
+  "event": {
+    "event_id": "TSLA_20250130_142500",
+    "ticker": "TSLA",
+    "t0_utc": "2025-01-30 14:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-01-30T11:25:00+00:00",
+      "end": "2025-01-30T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-01-30T12:11:00Z",
+        "title": "Down 10% After Fantastic Earnings, This Ultra-Cheap Stock Is a Screaming Buy",
+        "description": "General Motors reported strong Q4 earnings and excellent 2025 guidance, but the stock fell 10% after the results. The company is executing well on its strategy, with impressive EV sales and a low valuation of just 4.3 times forward earnings. However, there are concerns about regulatory uncertainty surrounding tariffs and EV incentives.",
+        "article_url": "https://www.fool.com/investing/2025/01/30/down-10-after-fantastic-earnings-this-ultra-cheap/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Matt Frankel",
+        "tickers": [
+          "GM",
+          "TSLA"
+        ],
+        "keywords": [
+          "General Motors",
+          "GM",
+          "electric vehicles",
+          "EV",
+          "earnings",
+          "valuation"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

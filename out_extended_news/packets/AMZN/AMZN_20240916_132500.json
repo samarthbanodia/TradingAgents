@@ -1,0 +1,47 @@
+{
+  "event": {
+    "event_id": "AMZN_20240916_132500",
+    "ticker": "AMZN",
+    "t0_utc": "2024-09-16 13:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-09-16T10:25:00+00:00",
+      "end": "2024-09-16T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-09-16T13:59:39Z",
+        "title": "CrowdStrike, Amazon, And NVIDIA Team Up To Empower Cybersecurity Startups",
+        "description": "CrowdStrike, Amazon, and NVIDIA have launched a cybersecurity startup accelerator program to support emerging AI and cloud security startups with funding, mentorship, and technical expertise.",
+        "article_url": "https://www.benzinga.com/markets/equities/24/09/40879208/crowdstrike-amazon-and-nvidia-team-up-to-empower-cybersecurity-startups",
+        "publisher": "Benzinga",
+        "author": "Lekha Gupta",
+        "tickers": [
+          "CRWD",
+          "AMZN",
+          "NVDA",
+          "LRNZ",
+          "AIPI"
+        ],
+        "keywords": [
+          "cybersecurity",
+          "startups",
+          "AI",
+          "cloud security"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

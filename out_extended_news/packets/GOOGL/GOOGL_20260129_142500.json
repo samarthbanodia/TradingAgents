@@ -1,0 +1,151 @@
+{
+  "event": {
+    "event_id": "GOOGL_20260129_142500",
+    "ticker": "GOOGL",
+    "t0_utc": "2026-01-29 14:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-01-29T11:25:00+00:00",
+      "end": "2026-01-29T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-01-29T11:30:00Z",
+        "title": "Prediction: These 2 AI Stocks Will Be the Biggest Winners From $1.4 Trillion Infrastructure Spending",
+        "description": "With AI infrastructure spending projected to reach $1.4 trillion in 2026, Taiwan Semiconductor Manufacturing (TSMC) and Alphabet are positioned as major beneficiaries. TSMC, as the primary chip manufacturer for AI data centers, is expected to achieve 30% revenue growth and potentially higher earnings growth due to chip price increases. Alphabet is gaining traction with its custom TPUs, securing major deals with Anthropic and potentially Meta, which could significantly boost its revenue and earnings.",
+        "article_url": "https://www.fool.com/investing/2026/01/29/predict-ai-stocks-big-winner-infrastructure/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Harsh Chauhan",
+        "tickers": [
+          "TSM",
+          "GOOG",
+          "GOOGL",
+          "NVDA",
+          "META"
+        ],
+        "keywords": [
+          "AI infrastructure spending",
+          "semiconductor manufacturing",
+          "data centers",
+          "AI chips",
+          "TPU (Tensor Processing Units)",
+          "revenue growth",
+          "earnings growth"
+        ]
+      },
+      {
+        "published_utc": "2026-01-29T13:21:00Z",
+        "title": "1 Beaten-Down AI Stock to Buy and Hold Forever",
+        "description": "Meta Platforms is presented as an undervalued AI stock opportunity despite recent market underperformance. The company's strong social media ecosystem with 3.5 billion daily active users, combined with AI-powered advertising improvements, positions it well for growth. While concerns exist about massive AI spending and potential margin pressure, Meta's ability to pivot strategy and its lowest forward P/E ratio among Magnificent Seven peers make it attractive for long-term investors.",
+        "article_url": "https://www.fool.com/investing/2026/01/29/1-beaten-down-ai-stock-to-buy-and-hold-forever/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Prosper Junior Bakiny",
+        "tickers": [
+          "META",
+          "NVDA",
+          "GOOG",
+          "GOOGL",
+          "AMZN",
+          "MSFT",
+          "AAPL",
+          "TSLA"
+        ],
+        "keywords": [
+          "AI stocks",
+          "Meta Platforms",
+          "undervalued",
+          "social media",
+          "advertising",
+          "AI spending",
+          "valuation",
+          "buy and hold"
+        ]
+      },
+      {
+        "published_utc": "2026-01-29T14:00:00Z",
+        "title": "AI Assistants Head into 2026 on a High Note: Comscore Reports Triple-Digit Growth on Mobile",
+        "description": "Comscore reports that mobile visitation to AI assistant destinations reached 54.3M unique visitors in December 2025, up 107% YoY, with desktop reaching 83.0M (+18% YoY). ChatGPT leads on both platforms, while Microsoft Copilot and Perplexity show triple-digit growth rates on mobile. The data highlights mobile as the accelerating access point for AI assistants.",
+        "article_url": "https://www.globenewswire.com/news-release/2026/01/29/3228626/0/en/AI-Assistants-Head-into-2026-on-a-High-Note-Comscore-Reports-Triple-Digit-Growth-on-Mobile.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Comscore",
+        "tickers": [
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "META"
+        ],
+        "keywords": [
+          "AI assistants",
+          "mobile growth",
+          "ChatGPT",
+          "unique visitors",
+          "year-over-year growth",
+          "consumer behavior",
+          "digital measurement"
+        ]
+      },
+      {
+        "published_utc": "2026-01-29T14:18:00Z",
+        "title": "Should You Forget BigBear.ai and Buy These 2 Artificial Intelligence (AI) Stocks Instead?",
+        "description": "The article advises investors to avoid BigBear.ai due to declining revenue, lack of profitability, and high valuation, recommending Micron Technology and Alphabet as superior AI stock alternatives. Micron benefits from surging demand for memory chips in AI data centers with strong revenue and earnings growth, while Alphabet's Gemini chatbot is gaining adoption with 650 million monthly active users and a lucrative partnership with Apple.",
+        "article_url": "https://www.fool.com/investing/2026/01/29/should-you-forget-bigbearai-and-buy-2-artificial-i/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Chris Neiger",
+        "tickers": [
+          "BBAI",
+          "BBAI.WS",
+          "MU",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "artificial intelligence stocks",
+          "AI data centers",
+          "memory chips",
+          "Gemini chatbot",
+          "investment analysis",
+          "tech stocks"
+        ]
+      },
+      {
+        "published_utc": "2026-01-29T15:00:00Z",
+        "title": "Streaming Media Device Market to Reach $182.12 Billion by 2030 Amid AI Integration",
+        "description": "The streaming media device market is projected to grow from $80.59 billion in 2025 to $94.25 billion in 2026 (16.9% CAGR), reaching $182.12 billion by 2030 (17.9% CAGR). Growth drivers include 5G connectivity expansion, subscription-based streaming adoption, AI integration, and increased smart TV penetration. Tariff-driven localization of production is supporting market resilience.",
+        "article_url": "https://www.globenewswire.com/news-release/2026/01/29/3228785/28124/en/Streaming-Media-Device-Market-to-Reach-182-12-Billion-by-2030-Amid-AI-Integration.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Researchandmarkets.Com",
+        "tickers": [
+          "AMZN",
+          "AAPL",
+          "GOOG",
+          "GOOGL",
+          "MSFT",
+          "XIACF",
+          "ROKU"
+        ],
+        "keywords": [
+          "streaming media devices",
+          "5G connectivity",
+          "subscription streaming",
+          "AI integration",
+          "smart TVs",
+          "market growth",
+          "OTT solutions",
+          "cloud gaming"
+        ]
+      }
+    ],
+    "ticker_news_count": 5,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

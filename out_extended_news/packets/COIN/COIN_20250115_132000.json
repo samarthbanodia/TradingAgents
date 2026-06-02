@@ -1,0 +1,134 @@
+{
+  "event": {
+    "event_id": "COIN_20250115_132000",
+    "ticker": "COIN",
+    "t0_utc": "2025-01-15 13:20:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-01-15T10:20:00+00:00",
+      "end": "2025-01-15T14:20:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-01-15T11:03:41Z",
+          "title": "US Stocks To Open Higher Ahead Of December Inflation Data: All Eyes On Banking Stocks As JPMorgan, Goldman, Citi, Wells Fargo Report Quarterly Earnings",
+          "description": "US stock futures are trading higher ahead of the release of December inflation data. Investors are closely watching the banking sector as major banks like JPMorgan, Goldman Sachs, Citigroup, and Wells Fargo report their quarterly earnings.",
+          "article_url": "https://www.benzinga.com/25/01/42996752/us-stocks-to-open-higher-ahead-of-december-inflation-data-all-eyes-on-baking-earnings-by-jpm-goldman-citi-wells-f",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AMJB",
+            "JPM",
+            "JPMpC",
+            "JPMpD",
+            "JPMpJ",
+            "JPMpK",
+            "JPMpL",
+            "JPMpM",
+            "WFC",
+            "WFCpA",
+            "WFCpC",
+            "WFCpD",
+            "WFCpL",
+            "WFCpY",
+            "WFCpZ",
+            "GS",
+            "GSpA",
+            "GSpC",
+            "GSpD",
+            "C",
+            "CpN",
+            "APLD",
+            "SGBX",
+            "VMAR",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "US stocks",
+            "inflation data",
+            "banking stocks",
+            "earnings"
+          ]
+        },
+        {
+          "published_utc": "2025-01-15T12:15:00Z",
+          "title": "5 Monster Stocks to Hold for the Next 5 Years (and Ideally Beyond) -- Including Nvidia",
+          "description": "The article highlights five stocks that have shown exceptional growth over the past decade, including Nvidia, Taiwan Semiconductor Manufacturing, Arista Networks, and Axon Enterprise. It also recommends the SPDR S&P 500 ETF as a less volatile approach to building wealth.",
+          "article_url": "https://www.fool.com/investing/2025/01/15/5-monster-stocks-to-hold-for-the-next-5-years-and/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "The Motley Fool",
+          "tickers": [
+            "NVDA",
+            "TSM",
+            "ANET",
+            "AAXN",
+            "AXON",
+            "SPY"
+          ],
+          "keywords": [
+            "Nvidia",
+            "Taiwan Semiconductor Manufacturing",
+            "Arista Networks",
+            "Axon Enterprise",
+            "SPDR S&P 500 ETF"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-01-15T11:03:41Z",
+          "title": "US Stocks To Open Higher Ahead Of December Inflation Data: All Eyes On Banking Stocks As JPMorgan, Goldman, Citi, Wells Fargo Report Quarterly Earnings",
+          "description": "US stock futures are trading higher ahead of the release of December inflation data. Investors are closely watching the banking sector as major banks like JPMorgan, Goldman Sachs, Citigroup, and Wells Fargo report their quarterly earnings.",
+          "article_url": "https://www.benzinga.com/25/01/42996752/us-stocks-to-open-higher-ahead-of-december-inflation-data-all-eyes-on-baking-earnings-by-jpm-goldman-citi-wells-f",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AMJB",
+            "JPM",
+            "JPMpC",
+            "JPMpD",
+            "JPMpJ",
+            "JPMpK",
+            "JPMpL",
+            "JPMpM",
+            "WFC",
+            "WFCpA",
+            "WFCpC",
+            "WFCpD",
+            "WFCpL",
+            "WFCpY",
+            "WFCpZ",
+            "GS",
+            "GSpA",
+            "GSpC",
+            "GSpD",
+            "C",
+            "CpN",
+            "APLD",
+            "SGBX",
+            "VMAR",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "US stocks",
+            "inflation data",
+            "banking stocks",
+            "earnings"
+          ]
+        }
+      ]
+    }
+  }
+}

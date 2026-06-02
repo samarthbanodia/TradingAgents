@@ -1,0 +1,45 @@
+{
+  "event": {
+    "event_id": "NVDA_20250702_132500",
+    "ticker": "NVDA",
+    "t0_utc": "2025-07-02 13:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-07-02T10:25:00+00:00",
+      "end": "2025-07-02T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-07-02T13:37:00Z",
+          "title": "Global Portfolio Returns May Be Entering a Lower-Growth Phase",
+          "description": "The Global Market Index (GMI) forecasts a moderate decline in long-term investment returns, with an expected annualized return of 7.3%, which is below its 10-year performance of 8.2%. US equities are expected to be the primary underperforming asset class.",
+          "article_url": "https://www.investing.com/analysis/global-portfolio-returns-may-be-entering-a-lowergrowth-phase-200663095",
+          "publisher": "Investing.com",
+          "author": "James Picerno",
+          "tickers": [
+            "AAPL",
+            "TSLA",
+            "SPY"
+          ],
+          "keywords": [
+            "portfolio returns",
+            "investment forecast",
+            "Global Market Index",
+            "asset allocation"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "event": {
+    "event_id": "NVDA_20240905_130500",
+    "ticker": "NVDA",
+    "t0_utc": "2024-09-05 13:05:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-09-05T10:05:00+00:00",
+      "end": "2024-09-05T14:05:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-09-05T10:45:00Z",
+        "title": "One Red Flag for Nvidia Stock That Could Send It Tumbling",
+        "description": "The article discusses Nvidia's declining gross profit margin, which could be a warning sign for investors. The author analyzes the potential impact on Nvidia's stock price if the margins continue to fall, and suggests that investors should closely monitor the company's margin trends.",
+        "article_url": "https://www.fool.com/investing/2024/09/05/one-red-flag-for-nvidia-stock-that-could-send-shar/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Keithen Drury",
+        "tickers": [
+          "NVDA"
+        ],
+        "keywords": [
+          "Nvidia",
+          "gross profit margin",
+          "AI",
+          "stock price"
+        ]
+      },
+      {
+        "published_utc": "2024-09-05T11:44:00Z",
+        "title": "The Best Stocks to Invest $50,000 in Right Now",
+        "description": "The article discusses the performance of the Nasdaq Composite index and highlights two stocks, Nvidia and Amazon, as top investment opportunities. It suggests that despite recent market volatility, these companies are well-positioned to capitalize on growth in areas like artificial intelligence and cloud computing.",
+        "article_url": "https://www.fool.com/investing/2024/09/05/the-best-stocks-to-invest-50000-in-right-now/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "NVDA",
+          "AMZN"
+        ],
+        "keywords": [
+          "Nasdaq Composite",
+          "Nvidia",
+          "Amazon",
+          "Artificial Intelligence",
+          "Cloud Computing"
+        ]
+      },
+      {
+        "published_utc": "2024-09-05T12:08:00Z",
+        "title": "Super Micro Stock: Market's Overreaction May Present a Hidden Buying Opportunity",
+        "description": "Super Micro Computer's stock has plunged over 65% from its record high earlier this year, but the market's reaction may be an overreaction. The company's strong growth prospects, attractive valuation, and upcoming stock split suggest the current downturn could present a buying opportunity.",
+        "article_url": "https://www.investing.com/analysis/super-micro-stock-markets-overreaction-may-present-a-hidden-buying-opportunity-200651629",
+        "publisher": "Investing.com",
+        "author": "Investing.Com",
+        "tickers": [
+          "SMCI",
+          "NVDA"
+        ],
+        "keywords": [
+          "Super Micro Computer",
+          "stock market",
+          "valuation",
+          "stock split"
+        ]
+      },
+      {
+        "published_utc": "2024-09-05T12:16:34Z",
+        "title": "Nvidia CEO Jensen Huang Says, \"Demand for Blackwell Is Incredible\"",
+        "description": "The article discusses how Nvidia's recent comments could impact its stock price for investors. The Motley Fool, a financial services company, provides analysis and guidance on investing in Nvidia.",
+        "article_url": "https://www.fool.com/investing/2024/09/05/nvidia-ceo-jensen-huang-says-demand-for-blackwell/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Parkev Tatevosian",
+        "tickers": [
+          "NVDA"
+        ],
+        "keywords": [
+          "Nvidia",
+          "stock price",
+          "investing"
+        ]
+      },
+      {
+        "published_utc": "2024-09-05T12:22:32Z",
+        "title": "Massive News for Nvidia Stock Investors!",
+        "description": "The article discusses the potential impact of recent news on Nvidia stock. The author, Parkev Tatevosian, provides analysis and insights for Nvidia investors.",
+        "article_url": "https://www.fool.com/investing/2024/09/05/massive-news-for-nvidia-stock-investors/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Parkev Tatevosian",
+        "tickers": [
+          "NVDA"
+        ],
+        "keywords": [
+          "Nvidia",
+          "stock",
+          "investing"
+        ]
+      },
+      {
+        "published_utc": "2024-09-05T13:05:00Z",
+        "title": "Better Stock-Split Buy: Nvidia vs. Super Micro Computer",
+        "description": "Nvidia and Supermicro are two leading AI companies that have recently announced stock splits. Nvidia is the global leader in AI chips, while Supermicro is an equipment maker that integrates the latest chip innovations. Despite recent challenges, Supermicro's valuation makes it the better buy currently.",
+        "article_url": "https://www.fool.com/investing/2024/09/05/better-stock-split-buy-nvidia-vs-super-micro/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Adria Cimino",
+        "tickers": [
+          "NVDA",
+          "SMCI"
+        ],
+        "keywords": [
+          "Nvidia",
+          "Supermicro",
+          "AI",
+          "stock split",
+          "valuation"
+        ]
+      },
+      {
+        "published_utc": "2024-09-05T13:15:00Z",
+        "title": "Forget Nvidia: Buy This Magnificent Artificial Intelligence (AI) Stock Instead",
+        "description": "Meta Platforms is a premier company with an attractive valuation, despite being near all-time highs. It is a fantastic AI investment, with its generative AI model Llama and potential for integrating AI into its advertising and virtual/augmented reality products. While Reality Labs is burning cash, Meta's advertising platform generates enough revenue to make the combined business a great investment.",
+        "article_url": "https://www.fool.com/investing/2024/09/05/forget-nvidia-buy-this-magnificent-ai-stock/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Keithen Drury",
+        "tickers": [
+          "META",
+          "NVDA"
+        ],
+        "keywords": [
+          "Meta Platforms",
+          "AI",
+          "Nvidia",
+          "Advertising",
+          "Virtual Reality",
+          "Augmented Reality"
+        ]
+      }
+    ],
+    "ticker_news_count": 7,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "event": {
+    "event_id": "JPM_20240715_132000",
+    "ticker": "JPM",
+    "t0_utc": "2024-07-15 13:20:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-07-15T10:20:00+00:00",
+      "end": "2024-07-15T14:20:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-07-15T10:32:18Z",
+        "title": "Beam Therapeutics Announces Transition of Chief Financial Officer - GlobeNewswire",
+        "description": "Beam Therapeutics announced that its Chief Financial Officer, Terry-Ann Burrell, will be leaving the company to pursue a new opportunity at JPMorgan Chase. The company has initiated a search for a successor.",
+        "article_url": "https://www.globenewswire.com/news-release/2024/07/15/2912895/0/en/Beam-Therapeutics-Announces-Transition-of-Chief-Financial-Officer.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "N/A",
+        "tickers": [
+          "BEAM",
+          "AMJB",
+          "JPM",
+          "JPMpC",
+          "JPMpD",
+          "JPMpJ",
+          "JPMpK",
+          "JPMpL",
+          "JPMpM"
+        ],
+        "keywords": [
+          "Beam Therapeutics",
+          "Chief Financial Officer",
+          "JPMorgan Chase"
+        ]
+      },
+      {
+        "published_utc": "2024-07-15T12:22:23Z",
+        "title": "Dow Jones, Nasdaq, S&P 500 weekly preview: Focus shifts to Q2 earnings - Investing.com",
+        "description": "The focus this week will shift to the Q2 earnings season, with several major companies set to report their latest financial results. The market will be closely watching the earnings reports for insights into the broader economic conditions and the Federal Reserve's future policy decisions.",
+        "article_url": "https://www.investing.com/news/stock-market-news/dow-jones-nasdaq-sp-500-weekly-preview--focus-shifts-to-q2-earnings-3518949",
+        "publisher": "Investing.com",
+        "author": "Vahid Karaahmetovic",
+        "tickers": [
+          "HD",
+          "CAT",
+          "AMJB",
+          "JPM",
+          "JPMpC",
+          "JPMpD",
+          "JPMpJ",
+          "JPMpK",
+          "JPMpL",
+          "JPMpM",
+          "C",
+          "CpN",
+          "JNJ",
+          "NFLX",
+          "MS",
+          "MSpA",
+          "MSpE",
+          "MSpF",
+          "MSpI",
+          "MSpK",
+          "MSpL",
+          "MSpO",
+          "MSpP",
+          "BAC",
+          "BACpB",
+          "BACpE",
+          "BACpK",
+          "BACpL",
+          "BACpM",
+          "BACpN",
+          "BACpO",
+          "BACpP",
+          "BACpQ",
+          "BACpS",
+          "BMLpG",
+          "BMLpH",
+          "BMLpJ",
+          "BMLpL",
+          "MERpK",
+          "ASML",
+          "AXP"
+        ],
+        "keywords": [
+          "Dow Jones",
+          "Nasdaq",
+          "S&P 500",
+          "earnings season",
+          "Federal Reserve"
+        ]
+      },
+      {
+        "published_utc": "2024-07-15T12:41:03Z",
+        "title": "JPMorgan shares target raised by Oppenheimer on strong Q2 results - Investing.com",
+        "description": "Oppenheimer raised its price target for JPMorgan Chase & Co. shares to $221 from $215, citing the bank's strong second-quarter earnings that surpassed analyst expectations.",
+        "article_url": "https://www.investing.com/news/company-news/jpmorgan-shares-target-raised-by-oppenheimer-on-strong-q2-results-93CH-3518974",
+        "publisher": "Investing.com",
+        "author": "Emilio Ghigini",
+        "tickers": [
+          "AMJB",
+          "JPM",
+          "JPMpC",
+          "JPMpD",
+          "JPMpJ",
+          "JPMpK",
+          "JPMpL",
+          "JPMpM",
+          "V"
+        ],
+        "keywords": [
+          "JPMorgan Chase",
+          "Oppenheimer",
+          "Q2 earnings"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "event": {
+    "event_id": "TSLA_20240626_133000",
+    "ticker": "TSLA",
+    "t0_utc": "2024-06-26 13:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-06-26T10:30:00+00:00",
+      "end": "2024-06-26T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-06-26T11:59:20Z",
+        "title": "Elon Musk's EV Giant Will See Revenue From Its Auto Business Slumping This Year, But Tesla 'May Hold Some Important Cards In The Evolution Of The US Grid,' Says Analyst",
+        "description": "Morgan Stanley\u00a0analyst and\u00a0Tesla Inc (NASDAQ:TSLA) bull\u00a0Adam Jonas\u00a0forecasts Tesla\u2019s revenue from its energy segment to rise this year as its core EV business witnesses a revenue fall. \nWhat Happened: Jonas values Tesla Energy at $36 per share of his $310 price target for the company. The bull is optimistic for the segment and expects it to add over $1 in earnings per share by 2030 excluding incentives.\nThe analyst said in a note on Tuesday that the acceleration in the field of generative AI will create an increase in demand for energy which Tesla is well positioned to benefit from.\n\u201cWe believe that Tesla\u2019s capability in distributed energy generation (solar) and storage (powerwall/ megapack) may hold some important cards in the evolution of the US grid as energy usage of compute/ data grows,\u201d Jonas wrote while adding ...Full story available on Benzinga.com",
+        "article_url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/06/39499253/elon-musks-ev-giant-will-see-revenue-from-its-auto-business-slumping-this-year-but-",
+        "publisher": "Benzinga",
+        "author": "Anan Ashraf",
+        "tickers": [
+          "TSLA"
+        ],
+        "keywords": [
+          "News",
+          "Analyst Color",
+          "Tech"
+        ]
+      },
+      {
+        "published_utc": "2024-06-26T12:40:00Z",
+        "title": "Is Tesla Stock a Buy?",
+        "description": "This \"Magnificent Seven\" constituent continues to lag the market.",
+        "article_url": "https://www.fool.com/investing/2024/06/26/is-tesla-stock-a-buy/",
+        "publisher": "The Motley Fool",
+        "author": "newsfeedback@fool.com (Neil Patel)",
+        "tickers": [
+          "TSLA"
+        ],
+        "keywords": [
+          "investing"
+        ]
+      },
+      {
+        "published_utc": "2024-06-26T13:45:32Z",
+        "title": "Elon Musk Could Sell At Least 100,000 New Lower-Cost Models Next Year: 'Tesla Has Over 50% Share Of The US EV Market'",
+        "description": "Tesla Inc. (NASDAQ:TSLA) is set to announce a new lineup of vehicles in the coming weeks, and initial analyst estimates once again support Elon Musk\u2018s vision of targeting new consumer segments and expanding the growth potential of the EV maker.\nAt its annual shareholder meeting on June 13, Tesla revealed a slide showcasing current and future products, including three vehicles under covers that hinted at their body shapes.\nAccording to Goldman Sachs analyst Mark Delaney, Tesla suggested that one of these could be a smaller version of the Model 3, another might be a van or a larger version of the Model Y, and the last could be a robotaxi.\n\u201cAs new models and variants fully ramp we\u2019d expect them to add at least 100,000 to Tesla\u2019s annual volumes,\u201d Delaney stated. \nLower Cost Models Set To Hit New Markets\nTesla is set to introduce new vehicles utilizing elements from both its next-generation vehicle platform and existing platforms, integrating ...Full story available on Benzinga.com",
+        "article_url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/06/39502910/elon-musk-could-sell-at-least-100-000-new-lower-cost-models-next-year-tesla-has-ove",
+        "publisher": "Benzinga",
+        "author": "Piero Cingari",
+        "tickers": [
+          "TSLA"
+        ],
+        "keywords": [
+          "Analyst Color",
+          "Large Cap",
+          "Top Stories",
+          "Tech"
+        ]
+      },
+      {
+        "published_utc": "2024-06-26T13:50:00Z",
+        "title": "Tesla (TSLA) Recalls Nearly 12K Cybertrucks in Latest Setback",
+        "description": "Tesla (TSLA) recalls nearly 12,000 Cybertrucks to fix trim pieces and faulty motor controllers in the front windshield wipers.",
+        "article_url": "https://www.zacks.com/stock/news/2293737/tesla-tsla-recalls-nearly-12k-cybertrucks-in-latest-setback",
+        "publisher": "Zacks Investment Research",
+        "author": "Zacks Equity Research",
+        "tickers": [
+          "AXL",
+          "TSLA",
+          "OSK",
+          "BLBD"
+        ],
+        "keywords": []
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-06-26T11:36:44Z",
+          "title": "Nasdaq, S&P 500 Set To Open Higher On Nvidia Prop, FedEx Earnings, But Traders Could Move To Sidelines Ahead Of Key Data: Analyst Says Underweighting Techs 'Contrarian Bet'",
+          "description": "Futures trading reflects the same trend seen on Tuesday, with the Nasdaq and S&P 500 futures firming up in early trading, while the Dow futures slipped. Notwithstanding the tech strength, the underlying sentiment is likely to be one of caution ahead of some key market-moving economic catalysts scheduled for the next two sessions. The Nvidia Corp. (NASDAQ:NVDA) rally continues, with the stock firmer in premarket trading. It remains to be seen if the concentrated tech strength could be strong enough to lift the broader market.\nThe market could also receive a shot in the arm from FedEx Corp.\u2019s (NYSE:FDX) positive earnings and M&A rumors.\nThe Federal Reserve\u2019s favorite inflation gauge, more Fed speeches, consumer sentiment data and durables goods order are among the key reports due on Thursday and Friday. More importantly, traders may also focus on the presidential debate that is scheduled for late Thursday.\n\n\n\n\nFutures\nPerformance (+/-)\n\n\nNasdaq 100\n+0.21%\n\n\nS&P 500\n+0.05%\n\n\nDow\n-0.14%\n\n\nR2K\n-0.30%\n\n\n\nIn premarket trading on Wednesday,\u00a0the SPDR S&P 500 ETF Trust (NYSE:SPY) edged up 0.01% at $544.90 and the\u00a0Invesco QQQ ETF (NASDAQ:QQQ) rose 0.16% to $480.15, according to\u00a0Benzinga Pro data.Cues From Last Session:\nThe tech rally, spearheaded by Nvidia Corp. (NASDAQ:NVDA), imparted strength to the broader market on Tuesday, although weakness elsewhere dragged the Dow Jones Industrial Average lower. IT and communication services stocks launched into a strong rally and energy stocks saw modest strength ...Full story available on Benzinga.com",
+          "article_url": "https://www.benzinga.com/news/earnings/24/06/39498621/nasdaq-s-p-500-set-to-open-higher-on-nvidia-prop-fedex-earnings-but-traders-could-move-to-sidelines",
+          "publisher": "Benzinga",
+          "author": "Shanthi Rexaline",
+          "tickers": [
+            "RIVN",
+            "SPY",
+            "NVDA",
+            "PAYX",
+            "FDX",
+            "FUL",
+            "GIS",
+            "MU",
+            "WOR",
+            "QQQ",
+            "WS",
+            "VWAGY",
+            "LEVI",
+            "LCID"
+          ],
+          "keywords": [
+            "News",
+            "Earnings",
+            "Equities",
+            "Futures",
+            "Previews",
+            "Top Stories",
+            "Economics",
+            "Federal Reserve",
+            "Pre-Market Outlook",
+            "Markets",
+            "Movers",
+            "Trading Ideas"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2024-06-26T11:36:44Z",
+          "title": "Nasdaq, S&P 500 Set To Open Higher On Nvidia Prop, FedEx Earnings, But Traders Could Move To Sidelines Ahead Of Key Data: Analyst Says Underweighting Techs 'Contrarian Bet'",
+          "description": "Futures trading reflects the same trend seen on Tuesday, with the Nasdaq and S&P 500 futures firming up in early trading, while the Dow futures slipped. Notwithstanding the tech strength, the underlying sentiment is likely to be one of caution ahead of some key market-moving economic catalysts scheduled for the next two sessions. The Nvidia Corp. (NASDAQ:NVDA) rally continues, with the stock firmer in premarket trading. It remains to be seen if the concentrated tech strength could be strong enough to lift the broader market.\nThe market could also receive a shot in the arm from FedEx Corp.\u2019s (NYSE:FDX) positive earnings and M&A rumors.\nThe Federal Reserve\u2019s favorite inflation gauge, more Fed speeches, consumer sentiment data and durables goods order are among the key reports due on Thursday and Friday. More importantly, traders may also focus on the presidential debate that is scheduled for late Thursday.\n\n\n\n\nFutures\nPerformance (+/-)\n\n\nNasdaq 100\n+0.21%\n\n\nS&P 500\n+0.05%\n\n\nDow\n-0.14%\n\n\nR2K\n-0.30%\n\n\n\nIn premarket trading on Wednesday,\u00a0the SPDR S&P 500 ETF Trust (NYSE:SPY) edged up 0.01% at $544.90 and the\u00a0Invesco QQQ ETF (NASDAQ:QQQ) rose 0.16% to $480.15, according to\u00a0Benzinga Pro data.Cues From Last Session:\nThe tech rally, spearheaded by Nvidia Corp. (NASDAQ:NVDA), imparted strength to the broader market on Tuesday, although weakness elsewhere dragged the Dow Jones Industrial Average lower. IT and communication services stocks launched into a strong rally and energy stocks saw modest strength ...Full story available on Benzinga.com",
+          "article_url": "https://www.benzinga.com/news/earnings/24/06/39498621/nasdaq-s-p-500-set-to-open-higher-on-nvidia-prop-fedex-earnings-but-traders-could-move-to-sidelines",
+          "publisher": "Benzinga",
+          "author": "Shanthi Rexaline",
+          "tickers": [
+            "RIVN",
+            "SPY",
+            "NVDA",
+            "PAYX",
+            "FDX",
+            "FUL",
+            "GIS",
+            "MU",
+            "WOR",
+            "QQQ",
+            "WS",
+            "VWAGY",
+            "LEVI",
+            "LCID"
+          ],
+          "keywords": [
+            "News",
+            "Earnings",
+            "Equities",
+            "Futures",
+            "Previews",
+            "Top Stories",
+            "Economics",
+            "Federal Reserve",
+            "Pre-Market Outlook",
+            "Markets",
+            "Movers",
+            "Trading Ideas"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "event": {
+    "event_id": "PLTR_20240722_133000",
+    "ticker": "PLTR",
+    "t0_utc": "2024-07-22 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-07-22T10:30:00+00:00",
+      "end": "2024-07-22T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-07-22T14:01:42Z",
+        "title": "Oracle (ORCL) Rises 31.4% YTD: Can AI Push Drive It Higher? - Zacks Investment Research",
+        "description": "Oracle's stock has surged 31.4% year-to-date, outpacing the tech sector, driven by its strategic pivot towards artificial intelligence (AI) technologies. The company's cloud infrastructure and database solutions are being marketed as AI-ready, appealing to enterprises looking to leverage machine learning and data analytics. As Oracle prepares to report earnings, investors will watch for evidence of AI-driven growth in cloud revenues and customer acquisitions.",
+        "article_url": "https://www.zacks.com/stock/news/2306140/oracle-orcl-rises-314-ytd-can-ai-push-drive-it-higher",
+        "publisher": "Zacks Investment Research",
+        "author": "Zacks Investment Research",
+        "tickers": [
+          "ORCL",
+          "MSFT",
+          "AMZN",
+          "PLTR"
+        ],
+        "keywords": [
+          "Oracle",
+          "AI",
+          "cloud",
+          "database",
+          "machine learning",
+          "data analytics"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

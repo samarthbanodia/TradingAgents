@@ -1,0 +1,87 @@
+{
+  "event": {
+    "event_id": "AMZN_20260327_133000",
+    "ticker": "AMZN",
+    "t0_utc": "2026-03-27 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-03-27T10:30:00+00:00",
+      "end": "2026-03-27T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-03-27T12:45:22Z",
+          "title": "Stock Market Today: S&P 500, Nasdaq, Dow Futures Drop As Trump Pushes Iran Deal Deadline\u2014Unity Software, Oracle, SoFi Technologies In Focus (UPDATED)",
+          "description": "U.S. stock futures fell on Friday following Thursday's sharp sell-off, with major indices declining amid geopolitical tensions over Iran negotiations. Unity Software surged 15% on strong Q1 results, while Southland Holdings plummeted 34% due to poor financial performance. Oil prices rose 1.45% amid ongoing tensions, and the Fed is expected to hold rates steady in April.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/03/51502139/stock-market-today-sp-500-nasdaq-futures-drop-as-trump-pushes-iran-deal-deadline-unity-software-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "U",
+            "ORCL",
+            "ORCLpD",
+            "SOFI",
+            "DTCX",
+            "SLND",
+            "SLND.WS",
+            "VERI",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "S&P 500",
+            "Nasdaq futures",
+            "Iran deal",
+            "geopolitical tensions",
+            "interest rates",
+            "oil prices",
+            "sector rotation"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-03-27T12:45:22Z",
+          "title": "Stock Market Today: S&P 500, Nasdaq, Dow Futures Drop As Trump Pushes Iran Deal Deadline\u2014Unity Software, Oracle, SoFi Technologies In Focus (UPDATED)",
+          "description": "U.S. stock futures fell on Friday following Thursday's sharp sell-off, with major indices declining amid geopolitical tensions over Iran negotiations. Unity Software surged 15% on strong Q1 results, while Southland Holdings plummeted 34% due to poor financial performance. Oil prices rose 1.45% amid ongoing tensions, and the Fed is expected to hold rates steady in April.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/03/51502139/stock-market-today-sp-500-nasdaq-futures-drop-as-trump-pushes-iran-deal-deadline-unity-software-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "U",
+            "ORCL",
+            "ORCLpD",
+            "SOFI",
+            "DTCX",
+            "SLND",
+            "SLND.WS",
+            "VERI",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "S&P 500",
+            "Nasdaq futures",
+            "Iran deal",
+            "geopolitical tensions",
+            "interest rates",
+            "oil prices",
+            "sector rotation"
+          ]
+        }
+      ]
+    }
+  }
+}

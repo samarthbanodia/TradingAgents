@@ -1,0 +1,77 @@
+{
+  "event": {
+    "event_id": "PLTR_20250107_140000",
+    "ticker": "PLTR",
+    "t0_utc": "2025-01-07 14:00:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-01-07T11:00:00+00:00",
+      "end": "2025-01-07T15:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-01-07T13:00:12Z",
+          "title": "US Stocks Could Open On A Tentative Note; Nvidia, AMD And Toyota On Investors' Radar: Experts Flag Over Reliance On AI, Tech Stocks",
+          "description": "U.S. stocks could open on a tentative note as investors remain cautious about the market's reliance on AI and tech stocks. Experts warn that this overreliance could lead to a market correction or a bear market in the Nasdaq if a market rotation to other sectors does not occur soon.",
+          "article_url": "https://www.benzinga.com/markets/futures/25/01/42841776/us-stocks-could-open-on-a-tentative-note-nvidia-amd-and-toyota-on-investors-radar-experts-flag-ov",
+          "publisher": "Benzinga",
+          "author": "Benzinga Senior Editor",
+          "tickers": [
+            "NVDA",
+            "AMD",
+            "MU",
+            "TM",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "US stocks",
+            "AI",
+            "tech stocks",
+            "market rotation",
+            "Nvidia",
+            "AMD",
+            "Toyota"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-01-07T13:00:12Z",
+          "title": "US Stocks Could Open On A Tentative Note; Nvidia, AMD And Toyota On Investors' Radar: Experts Flag Over Reliance On AI, Tech Stocks",
+          "description": "U.S. stocks could open on a tentative note as investors remain cautious about the market's reliance on AI and tech stocks. Experts warn that this overreliance could lead to a market correction or a bear market in the Nasdaq if a market rotation to other sectors does not occur soon.",
+          "article_url": "https://www.benzinga.com/markets/futures/25/01/42841776/us-stocks-could-open-on-a-tentative-note-nvidia-amd-and-toyota-on-investors-radar-experts-flag-ov",
+          "publisher": "Benzinga",
+          "author": "Benzinga Senior Editor",
+          "tickers": [
+            "NVDA",
+            "AMD",
+            "MU",
+            "TM",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "US stocks",
+            "AI",
+            "tech stocks",
+            "market rotation",
+            "Nvidia",
+            "AMD",
+            "Toyota"
+          ]
+        }
+      ]
+    }
+  }
+}

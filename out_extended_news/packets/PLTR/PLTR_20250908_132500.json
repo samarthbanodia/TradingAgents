@@ -1,0 +1,46 @@
+{
+  "event": {
+    "event_id": "PLTR_20250908_132500",
+    "ticker": "PLTR",
+    "t0_utc": "2025-09-08 13:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-09-08T10:25:00+00:00",
+      "end": "2025-09-08T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-09-08T13:08:22Z",
+        "title": "Why BigBear.ai Stock Plummeted 20.2% Last Month and Has Kept Falling in September",
+        "description": "BigBear.ai reported weak Q2 financial results, with sales and earnings falling below Wall Street expectations. The company significantly lowered its full-year revenue guidance, citing delayed government contracts, which raised concerns about its growth potential in the defense AI sector.",
+        "article_url": "https://www.fool.com/investing/2025/09/08/why-bigbearai-stock-plummeted-202-last-month-and-h/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Keith Noonan",
+        "tickers": [
+          "BBAI",
+          "BBAI.WS",
+          "PLTR"
+        ],
+        "keywords": [
+          "BigBear.ai",
+          "AI",
+          "defense technology",
+          "stock performance",
+          "government contracts"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

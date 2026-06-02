@@ -1,0 +1,78 @@
+{
+  "event": {
+    "event_id": "MSFT_20240531_195000",
+    "ticker": "MSFT",
+    "t0_utc": "2024-05-31 19:50:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-05-31T16:50:00+00:00",
+      "end": "2024-05-31T20:50:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-05-31T17:44:41Z",
+          "title": "Tech Stocks Crumble As Wall Street's 5-Week Rally Ends; Bonds Offer Safe Haven As Growth Worries Reemerge: What's Driving Markets Friday?",
+          "description": "Bears knocked on Wall Street\u2019s door again Friday, sending large-cap tech stocks lower despite the Fed\u2019s favorite inflation measure meeting expectations.\nBoth the S&P 500 and the Nasdaq 100 index are set to end a 5-week winning streak as investors grow more cautious about the latest economic developments.\nIn April 2024, the Personal Consumption Expenditure (PCE) price index held steady at 2.7% year-on-year, matching the previous month and forecasts. The annual core inflation rate also remained unchanged at 2.8%, in line with expectations.\nHowever, concerns arose from a deceleration in personal spending and income, raising fears that strong consumer momentum is waning. Additionally, the Chicago PMI dropped to its lowest level since May 2020, increasing worries about an ongoing economic slowdown.\nThe tech-heavy Nasdaq 100 fell 1.5%, marking its third straight session of losses and its worst performance in a month. The S&P 500 was down ...Full story available on Benzinga.com",
+          "article_url": "https://www.benzinga.com/markets/cryptocurrency/24/05/39117494/tech-stocks-crumble-as-wall-streets-5-week-rally-ends-bonds-offer-safe-haven-as-growth-wor",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "HCP",
+            "S",
+            "CZR",
+            "DIA",
+            "VEEV",
+            "GLD",
+            "XLRE",
+            "SPY",
+            "TAN",
+            "MDB",
+            "TLT",
+            "ZS",
+            "XLK",
+            "XOP",
+            "COST",
+            "DELL",
+            "MRVL",
+            "NTAP",
+            "ULTA",
+            "COO",
+            "GPS"
+          ],
+          "keywords": [
+            "Large Cap",
+            "Mid Cap",
+            "Macro Economic Events",
+            "Market Summary",
+            "Macro Notification",
+            "Sector ETFs",
+            "Earnings",
+            "Equities",
+            "Cryptocurrency",
+            "Broad U.S. Equity ETFs",
+            "Bonds",
+            "Commodities",
+            "Small Cap",
+            "Treasuries",
+            "Top Stories",
+            "Economics",
+            "Federal Reserve",
+            "Tech",
+            "ETFs"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

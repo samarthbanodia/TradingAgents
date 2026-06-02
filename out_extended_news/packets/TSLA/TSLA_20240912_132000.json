@@ -1,0 +1,77 @@
+{
+  "event": {
+    "event_id": "TSLA_20240912_132000",
+    "ticker": "TSLA",
+    "t0_utc": "2024-09-12 13:20:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2024-09-12T10:20:00+00:00",
+      "end": "2024-09-12T14:20:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-09-12T10:47:43Z",
+          "title": "Nasdaq, S&P 500 Set For Modest Gains As Investors Eye August Inflation Data And ECB Rate Decision",
+          "description": "U.S. stocks are set to open modestly higher as investors focus on the August producer price inflation report and the European Central Bank's interest rate decision. The market is weighing the stickiness of service price inflation against the softening job market, which could lead to a 25-basis-point rate cut by the Federal Reserve next week.",
+          "article_url": "https://www.benzinga.com/news/earnings/24/09/40828733/nasdaq-s-p-500-set-for-modest-gains-as-investors-eye-august-inflation-data-and-ecb-rate-decision",
+          "publisher": "Benzinga",
+          "author": "Benzinga Editor",
+          "tickers": [
+            "QQQ",
+            "SPY",
+            "OXM",
+            "KR",
+            "SIG",
+            "ADBE"
+          ],
+          "keywords": [
+            "Nasdaq",
+            "S&P 500",
+            "PPI",
+            "ECB",
+            "Federal Reserve",
+            "inflation",
+            "job market"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2024-09-12T10:47:43Z",
+          "title": "Nasdaq, S&P 500 Set For Modest Gains As Investors Eye August Inflation Data And ECB Rate Decision",
+          "description": "U.S. stocks are set to open modestly higher as investors focus on the August producer price inflation report and the European Central Bank's interest rate decision. The market is weighing the stickiness of service price inflation against the softening job market, which could lead to a 25-basis-point rate cut by the Federal Reserve next week.",
+          "article_url": "https://www.benzinga.com/news/earnings/24/09/40828733/nasdaq-s-p-500-set-for-modest-gains-as-investors-eye-august-inflation-data-and-ecb-rate-decision",
+          "publisher": "Benzinga",
+          "author": "Benzinga Editor",
+          "tickers": [
+            "QQQ",
+            "SPY",
+            "OXM",
+            "KR",
+            "SIG",
+            "ADBE"
+          ],
+          "keywords": [
+            "Nasdaq",
+            "S&P 500",
+            "PPI",
+            "ECB",
+            "Federal Reserve",
+            "inflation",
+            "job market"
+          ]
+        }
+      ]
+    }
+  }
+}

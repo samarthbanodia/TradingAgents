@@ -1,0 +1,110 @@
+{
+  "event": {
+    "event_id": "PLTR_20250318_123500",
+    "ticker": "PLTR",
+    "t0_utc": "2025-03-18 12:35:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-03-18T09:35:00+00:00",
+      "end": "2025-03-18T13:35:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-03-18T11:30:00Z",
+        "title": "Does Archer Aviation's Deal With Palantir Change the Game?",
+        "description": "Archer Aviation is using Palantir's AI software to disrupt the aviation industry, with Palantir having the opportunity to leverage this partnership into more opportunities in the sector. The deal between the two companies is seen as potentially changing the game for both, though investors are advised to approach cautiously given the recent stock run-ups.",
+        "article_url": "https://www.fool.com/investing/2025/03/18/does-archer-aviations-deal-with-palantir-change/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Adam Spatacco",
+        "tickers": [
+          "ACHR",
+          "ACHR.WS",
+          "PLTR"
+        ],
+        "keywords": [
+          "Archer Aviation",
+          "Palantir Technologies",
+          "aviation industry",
+          "AI",
+          "electric vertical takeoff and landing (eVTOL) aircraft"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-03-18T10:16:53Z",
+          "title": "US Futures Show Caution Among Investors Ahead Of FOMC Meeting: Analysts Say Only Certainty Is That 'Things Will Remain Uncertain For The Time Being'",
+          "description": "U.S. stock futures were flat on Tuesday as investors remained cautious ahead of the FOMC meeting. Analysts say the only certainty is that 'things will remain uncertain for the time being'.",
+          "article_url": "https://www.benzinga.com/25/03/44372544/us-stocks-swing-as-futures-turn-flat-ahead-of-fomc-meeting-analysts-say-only-certainty-is-that-things-will-remain",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "BIDU",
+            "BKKT",
+            "BKKT.WS",
+            "BON",
+            "GES",
+            "GETY",
+            "HQY",
+            "HROW",
+            "HROWL",
+            "HROWM",
+            "IHS",
+            "SGMO",
+            "SPY",
+            "QQQ",
+            "STN"
+          ],
+          "keywords": [
+            "FOMC meeting",
+            "US economy",
+            "stock market",
+            "investor sentiment"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-03-18T10:16:53Z",
+          "title": "US Futures Show Caution Among Investors Ahead Of FOMC Meeting: Analysts Say Only Certainty Is That 'Things Will Remain Uncertain For The Time Being'",
+          "description": "U.S. stock futures were flat on Tuesday as investors remained cautious ahead of the FOMC meeting. Analysts say the only certainty is that 'things will remain uncertain for the time being'.",
+          "article_url": "https://www.benzinga.com/25/03/44372544/us-stocks-swing-as-futures-turn-flat-ahead-of-fomc-meeting-analysts-say-only-certainty-is-that-things-will-remain",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "BIDU",
+            "BKKT",
+            "BKKT.WS",
+            "BON",
+            "GES",
+            "GETY",
+            "HQY",
+            "HROW",
+            "HROWL",
+            "HROWM",
+            "IHS",
+            "SGMO",
+            "SPY",
+            "QQQ",
+            "STN"
+          ],
+          "keywords": [
+            "FOMC meeting",
+            "US economy",
+            "stock market",
+            "investor sentiment"
+          ]
+        }
+      ]
+    }
+  }
+}

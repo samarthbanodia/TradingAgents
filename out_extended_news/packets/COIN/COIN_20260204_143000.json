@@ -1,0 +1,131 @@
+{
+  "event": {
+    "event_id": "COIN_20260204_143000",
+    "ticker": "COIN",
+    "t0_utc": "2026-02-04 14:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-02-04T11:30:00+00:00",
+      "end": "2026-02-04T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-02-04T12:52:53Z",
+        "title": "OSL Secures Capital Top-Up From Fidelity; Shares Fall But Still Trade At Steep Valuations",
+        "description": "OSL Group Ltd. raised $200 million from Fidelity for stablecoin and payment services expansion, marking its second major fundraising in six months totaling $500 million. While the company shows strong revenue growth (58% YoY) and strategic positioning in Hong Kong's regulated crypto market, shares fell post-announcement due to dilution. However, the stock still trades at a steep 24x P/S ratio. Key concerns include mounting operating losses, execution risks across global markets, and the need to achieve profitability to sustain investor interest.",
+        "article_url": "https://www.benzinga.com/Opinion/26/02/50370097/osl-secures-capital-top-up-from-fidelity-shares-fall-but-still-trade-at-steep-valuations?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Bamboo Works",
+        "tickers": [
+          "COIN"
+        ],
+        "keywords": [
+          "stablecoins",
+          "fundraising",
+          "digital assets",
+          "Hong Kong",
+          "regulated crypto",
+          "cross-border payments",
+          "capital raise",
+          "equity dilution"
+        ]
+      },
+      {
+        "published_utc": "2026-02-04T13:45:00Z",
+        "title": "Institutional-Grade Token Architecture Positions Companies at the Center of Digital Finance",
+        "description": "The digital finance sector is experiencing rapid growth with institutional-grade token architecture becoming central to modern financial systems. The global tokenization market is projected to grow from $6-8 billion today to $18-25 billion by 2026, with potential for $10-16 trillion in tokenized assets by the early 2030s. Several companies are positioning themselves in this space through strategic partnerships and product launches, including token ecosystem development, prediction markets, and digital asset infrastructure initiatives.",
+        "article_url": "https://www.benzinga.com/pressreleases/26/02/n50372232/institutional-grade-token-architecture-positions-companies-at-the-center-of-digital-finance?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Prnewswire",
+        "tickers": [
+          "COIN",
+          "MMA",
+          "MSTR",
+          "STRC",
+          "STRD",
+          "STRF",
+          "STRK",
+          "DJT",
+          "DJTWW",
+          "GNLN"
+        ],
+        "keywords": [
+          "institutional-grade tokens",
+          "digital finance",
+          "tokenization",
+          "regulated digital assets",
+          "blockchain infrastructure",
+          "Web3 strategy",
+          "stablecoin",
+          "prediction markets"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-02-04T13:53:10Z",
+          "title": "Stock Market Today: Dow Futures Gain, Nasdaq Drops As Trump Signs Bill To End Partial Shutdown\u2014 AMD, SMCI, LLY In Focus (UPDATED)",
+          "description": "U.S. stock futures were mixed on Wednesday following Tuesday's negative close. President Trump signed a funding deal to end a four-day partial government shutdown. The Fed is expected to hold rates steady in March with 91.1% probability. Key movers included AMD declining 7.63% despite beating earnings, Super Micro Computer surging 12.27% on strong results, and Enphase Energy jumping 23.39% after beating estimates. Eli Lilly and Alphabet were awaiting earnings releases.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50364308/stock-market-today-dow-futures-gain-nasdaq-drops-as-trump-signs-bill-to-end-partial-shutdown-amd?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AMD",
+            "SMCI",
+            "ENPH",
+            "LLY",
+            "GOOG",
+            "GOOGL",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "government shutdown",
+            "earnings",
+            "Fed policy",
+            "technology stocks",
+            "premarket trading"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-02-04T13:53:10Z",
+          "title": "Stock Market Today: Dow Futures Gain, Nasdaq Drops As Trump Signs Bill To End Partial Shutdown\u2014 AMD, SMCI, LLY In Focus (UPDATED)",
+          "description": "U.S. stock futures were mixed on Wednesday following Tuesday's negative close. President Trump signed a funding deal to end a four-day partial government shutdown. The Fed is expected to hold rates steady in March with 91.1% probability. Key movers included AMD declining 7.63% despite beating earnings, Super Micro Computer surging 12.27% on strong results, and Enphase Energy jumping 23.39% after beating estimates. Eli Lilly and Alphabet were awaiting earnings releases.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50364308/stock-market-today-dow-futures-gain-nasdaq-drops-as-trump-signs-bill-to-end-partial-shutdown-amd?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AMD",
+            "SMCI",
+            "ENPH",
+            "LLY",
+            "GOOG",
+            "GOOGL",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "government shutdown",
+            "earnings",
+            "Fed policy",
+            "technology stocks",
+            "premarket trading"
+          ]
+        }
+      ]
+    }
+  }
+}

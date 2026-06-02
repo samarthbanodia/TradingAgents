@@ -1,0 +1,105 @@
+{
+  "event": {
+    "event_id": "JPM_20260306_132500",
+    "ticker": "JPM",
+    "t0_utc": "2026-03-06 13:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-03-06T10:25:00+00:00",
+      "end": "2026-03-06T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-03-06T10:30:00Z",
+          "title": "Billionaires Are Loading Up on Index Funds While Retail Investors Chase Crypto. Here's Which Side I'd Bet on for 2035.\u200b",
+          "description": "Billionaires are investing in broad market index funds for steady long-term growth, while retail investors chase speculative cryptocurrencies and meme coins. The article argues that index funds offer better risk-adjusted returns, though Bitcoin and Ethereum may outperform the broader market by 2035. A diversified portfolio should prioritize index funds with a smaller allocation to established cryptocurrencies.",
+          "article_url": "https://www.fool.com/investing/2026/03/06/billionaires-are-loading-up-on-index-funds-while-r/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Alex Carchidi",
+          "tickers": [
+            "SPY"
+          ],
+          "keywords": [
+            "index funds",
+            "cryptocurrency",
+            "billionaire investing",
+            "retail investors",
+            "meme coins",
+            "portfolio diversification",
+            "long-term investing"
+          ]
+        },
+        {
+          "published_utc": "2026-03-06T13:42:44Z",
+          "title": "Stock Market Today: Dow Jones, S&P 500 Futures Tumble As Payrolls Edge Down 92K\u2014 Marvell Technology, Gap, Oracle In Focus (UPDATED)",
+          "description": "U.S. stock futures fell on Friday amid ongoing Iran-US conflict and ahead of February employment data. Markets expect 55,000 payroll additions and a steady 4.3% jobless rate. The Fed is expected to hold rates unchanged in March with 97.3% probability. Key movers include Marvell Technology surging 11.92% on strong earnings, Gap tumbling 7.06% on disappointing results, and Oracle rising on AI-driven job cut plans.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/03/51090647/stock-market-today-dow-jones-sp-500-futures-tumble-ahead-of-february-employment-data-marvell-tec?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "MRVL",
+            "GAP",
+            "ORCL",
+            "ORCLpD",
+            "COST",
+            "F",
+            "FpB",
+            "FpC",
+            "FpD",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures decline",
+            "employment data",
+            "Federal Reserve",
+            "earnings",
+            "geopolitical tensions"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-03-06T13:42:44Z",
+          "title": "Stock Market Today: Dow Jones, S&P 500 Futures Tumble As Payrolls Edge Down 92K\u2014 Marvell Technology, Gap, Oracle In Focus (UPDATED)",
+          "description": "U.S. stock futures fell on Friday amid ongoing Iran-US conflict and ahead of February employment data. Markets expect 55,000 payroll additions and a steady 4.3% jobless rate. The Fed is expected to hold rates unchanged in March with 97.3% probability. Key movers include Marvell Technology surging 11.92% on strong earnings, Gap tumbling 7.06% on disappointing results, and Oracle rising on AI-driven job cut plans.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/03/51090647/stock-market-today-dow-jones-sp-500-futures-tumble-ahead-of-february-employment-data-marvell-tec?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "MRVL",
+            "GAP",
+            "ORCL",
+            "ORCLpD",
+            "COST",
+            "F",
+            "FpB",
+            "FpC",
+            "FpD",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures decline",
+            "employment data",
+            "Federal Reserve",
+            "earnings",
+            "geopolitical tensions"
+          ]
+        }
+      ]
+    }
+  }
+}

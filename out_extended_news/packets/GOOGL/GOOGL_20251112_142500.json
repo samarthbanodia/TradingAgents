@@ -1,0 +1,110 @@
+{
+  "event": {
+    "event_id": "GOOGL_20251112_142500",
+    "ticker": "GOOGL",
+    "t0_utc": "2025-11-12 14:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-11-12T11:25:00+00:00",
+      "end": "2025-11-12T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-11-12T12:30:00Z",
+        "title": "Everyone Thinks Adobe Will Suffer from AI. Here's Why It Could Thrive Instead",
+        "description": "Despite analyst concerns about AI disruption, Adobe is experiencing record revenue and earnings growth, successfully integrating AI into its products and maintaining strong market performance.",
+        "article_url": "https://www.fool.com/investing/2025/11/12/everyone-thinks-ai-will-hurt-adobes-business-heres/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "William Dahl",
+        "tickers": [
+          "ADBE",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "AI",
+          "creative software",
+          "technology",
+          "earnings",
+          "digital transformation"
+        ]
+      },
+      {
+        "published_utc": "2025-11-12T13:00:00Z",
+        "title": "65% of Developers Expect Their Roles To Be Redefined by AI in 2026",
+        "description": "A survey of 501 developers reveals AI is transforming software development, with 7 in 10 developers improving technical skills, half reporting better work-life balance, and senior developers expecting significant role redefinition in 2026.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/11/12/3186147/0/en/65-of-Developers-Expect-Their-Roles-To-Be-Redefined-by-AI-in-2026.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Nacho De Marco",
+        "tickers": [
+          "ADBE",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "AI",
+          "software development",
+          "developer roles",
+          "technology transformation",
+          "workforce evolution"
+        ]
+      },
+      {
+        "published_utc": "2025-11-12T13:24:00Z",
+        "title": "Up by About 2,000% in the Past Year, Is Rigetti Computing Stock a Buy?",
+        "description": "Rigetti Computing, a quantum computing startup, has seen massive stock gains of 2,000% in the past year, but faces significant challenges in developing commercially viable quantum computing technology, with potential market readiness not expected until 2040.",
+        "article_url": "https://www.fool.com/investing/2025/11/12/up-by-about-2000-in-the-past-year-is-rigetti-compu/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Will Ebiefung",
+        "tickers": [
+          "RGTI",
+          "RGTIW",
+          "GOOG",
+          "GOOGL",
+          "NVDA"
+        ],
+        "keywords": [
+          "quantum computing",
+          "technology",
+          "stock speculation",
+          "investment",
+          "SPAC"
+        ]
+      },
+      {
+        "published_utc": "2025-11-12T14:15:00Z",
+        "title": "Is Quantum Computing Stock IonQ Headed to $60? History Offers a Clear Warning About What Could Happen Next",
+        "description": "IonQ, a quantum computing company, has seen its stock surge 300% in the past year, but the article warns of potential overvaluation and unsustainable growth driven by equity issuances and acquisitions rather than organic revenue.",
+        "article_url": "https://www.fool.com/investing/2025/11/12/is-quantum-computing-stock-ionq-headed-to-60/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Adam Spatacco",
+        "tickers": [
+          "IONQ",
+          "IONQ.WS",
+          "AMZN",
+          "MSFT",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "quantum computing",
+          "AI",
+          "stock valuation",
+          "technology investment"
+        ]
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

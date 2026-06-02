@@ -1,0 +1,231 @@
+{
+  "event": {
+    "event_id": "MSFT_20260427_130000",
+    "ticker": "MSFT",
+    "t0_utc": "2026-04-27 13:00:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2026-04-27T10:00:00+00:00",
+      "end": "2026-04-27T14:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-04-27T11:09:00Z",
+        "title": "This \u2019Safe\u2019 Retirement Strategy Is Costly and This 10% Dividend Crushes It",
+        "description": "The article argues that overly conservative retirement strategies like savings accounts and Treasury bonds deliver poor long-term returns, potentially extending working years by decades. It advocates for higher-return stock investments, particularly highlighting closed-end funds with high dividend yields like Liberty All-Star Equity Fund (USA) as a better alternative that provides regular cash income without forcing investors to sell during market downturns.",
+        "article_url": "https://www.investing.com/analysis/this-safe-retirement-strategy-is-costly-and-this-10-dividend-crushes-it-200679188",
+        "publisher": "Investing.com",
+        "author": "Michael Foster",
+        "tickers": [
+          "TLT",
+          "SPY",
+          "NVDA",
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "V",
+          "COF",
+          "COFpI",
+          "COFpJ",
+          "COFpK",
+          "COFpL",
+          "COFpN"
+        ],
+        "keywords": [
+          "retirement strategy",
+          "dividend yield",
+          "Treasury bonds",
+          "stock market returns",
+          "closed-end funds",
+          "financial independence",
+          "risk-averse investing"
+        ]
+      },
+      {
+        "published_utc": "2026-04-27T11:30:00Z",
+        "title": "Is Marvell Stock a Buy After Alphabet and Nvidia Deals?",
+        "description": "Marvell Technology's stock has more than doubled in less than two months following new deals with Alphabet and Nvidia. While these partnerships strengthen Marvell's position in custom AI chips and optical interconnects, the analyst cautions that the valuation has become expensive with a forward P/E over 43x, and questions remain about the long-term viability of its Amazon custom chip business.",
+        "article_url": "https://www.fool.com/investing/2026/04/27/marvell-stock-buy-after-alphabet-nvidia-deal/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Geoffrey Seiler",
+        "tickers": [
+          "MRVL",
+          "GOOG",
+          "GOOGL",
+          "NVDA",
+          "AVGO",
+          "AMZN",
+          "MSFT"
+        ],
+        "keywords": [
+          "custom AI chips",
+          "ASIC technology",
+          "optical interconnects",
+          "data center",
+          "TPU",
+          "NVLink",
+          "silicon photonics",
+          "valuation concerns"
+        ]
+      },
+      {
+        "published_utc": "2026-04-27T13:22:01Z",
+        "title": "Earnings Volatility Watch: What To Expect From Sandisk and 5 Mag Seven Stocks This Week",
+        "description": "Ten mega-cap companies representing $18.59 trillion in combined market capitalization report earnings this week. SanDisk leads with the largest implied volatility at 16.57%, up 317% YTD on AI-driven NAND demand. Five Magnificent Seven stocks report with modest 2.7% average implied moves, reflecting gains already priced in. Storage and semiconductor names dominate the top volatility list, while Qualcomm faces negative growth estimates.",
+        "article_url": "https://www.benzinga.com/markets/earnings/26/04/52061245/earnings-volatility-watch-sandisk-magnificent-seven-april-2026?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Piero Cingari",
+        "tickers": [
+          "SNDK",
+          "WDC",
+          "STX",
+          "GLW",
+          "KLAC",
+          "QCOM",
+          "AAPL",
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "AMZN",
+          "META",
+          "APH",
+          "MAGS"
+        ],
+        "keywords": [
+          "earnings season",
+          "implied volatility",
+          "Magnificent Seven",
+          "semiconductor",
+          "storage",
+          "NAND",
+          "AI infrastructure",
+          "mega-cap stocks"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-04-27T11:08:28Z",
+          "title": "The S&P 500's Next Shock May Come From Another Country \u2014 And It's Not Iran",
+          "description": "The Bank of Japan's upcoming policy decision poses a significant risk to global markets, particularly the S&P 500. A potential rate hike or hawkish messaging could strengthen the yen, forcing investors to unwind the massive yen carry trade that has leveraged global equities and bonds. Additionally, Japan's large holdings of U.S. Treasuries could be repatriated if domestic yields rise, putting upward pressure on U.S. yields and tightening financial conditions.",
+          "article_url": "https://www.benzinga.com/markets/asia/26/04/52057381/the-sp-500s-next-shock-may-come-from-another-country-and-its-not-iran?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Stjepan Kalinic",
+          "tickers": [
+            "SPY"
+          ],
+          "keywords": [
+            "Bank of Japan",
+            "yen carry trade",
+            "monetary policy",
+            "rate hike",
+            "S&P 500",
+            "leverage",
+            "U.S. Treasuries",
+            "financial stability",
+            "deleveraging"
+          ]
+        },
+        {
+          "published_utc": "2026-04-27T11:09:00Z",
+          "title": "This \u2019Safe\u2019 Retirement Strategy Is Costly and This 10% Dividend Crushes It",
+          "description": "The article argues that overly conservative retirement strategies like savings accounts and Treasury bonds deliver poor long-term returns, potentially extending working years by decades. It advocates for higher-return stock investments, particularly highlighting closed-end funds with high dividend yields like Liberty All-Star Equity Fund (USA) as a better alternative that provides regular cash income without forcing investors to sell during market downturns.",
+          "article_url": "https://www.investing.com/analysis/this-safe-retirement-strategy-is-costly-and-this-10-dividend-crushes-it-200679188",
+          "publisher": "Investing.com",
+          "author": "Michael Foster",
+          "tickers": [
+            "TLT",
+            "SPY",
+            "NVDA",
+            "MSFT",
+            "GOOG",
+            "GOOGL",
+            "V",
+            "COF",
+            "COFpI",
+            "COFpJ",
+            "COFpK",
+            "COFpL",
+            "COFpN"
+          ],
+          "keywords": [
+            "retirement strategy",
+            "dividend yield",
+            "Treasury bonds",
+            "stock market returns",
+            "closed-end funds",
+            "financial independence",
+            "risk-averse investing"
+          ]
+        },
+        {
+          "published_utc": "2026-04-27T12:33:51Z",
+          "title": "Stock Market Today: Dow Futures Fall, S&P 500 Gains As Trump Halts Iran Talks\u2014 Organon, SAP, Cheetah Net Supply Chain Service In Focus (UPDATED)",
+          "description": "U.S. stock futures fell on Monday as President Trump canceled Iran talks, citing divisions within Tehran. The market awaits the Federal Reserve's Wednesday meeting with 100% likelihood of unchanged rates. Key movers include Organon jumping 15% on a $11.75B acquisition deal, SAP rising 6.14% on cloud adoption acceleration, and Cheetah Net plummeting 22.12% following a reverse stock split announcement.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/04/52055312/stock-market-today-dow-jones-sp-500-futures-fall-as-trump-halts-iran-talks-organon-sap-cheetah-n?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "OGN",
+            "SAP",
+            "CTNT",
+            "CLS",
+            "NUE",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "Iran talks",
+            "Federal Reserve",
+            "interest rates",
+            "geopolitical tensions",
+            "energy markets",
+            "acquisitions",
+            "reverse stock split"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-04-27T12:33:51Z",
+          "title": "Stock Market Today: Dow Futures Fall, S&P 500 Gains As Trump Halts Iran Talks\u2014 Organon, SAP, Cheetah Net Supply Chain Service In Focus (UPDATED)",
+          "description": "U.S. stock futures fell on Monday as President Trump canceled Iran talks, citing divisions within Tehran. The market awaits the Federal Reserve's Wednesday meeting with 100% likelihood of unchanged rates. Key movers include Organon jumping 15% on a $11.75B acquisition deal, SAP rising 6.14% on cloud adoption acceleration, and Cheetah Net plummeting 22.12% following a reverse stock split announcement.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/04/52055312/stock-market-today-dow-jones-sp-500-futures-fall-as-trump-halts-iran-talks-organon-sap-cheetah-n?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "OGN",
+            "SAP",
+            "CTNT",
+            "CLS",
+            "NUE",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "Iran talks",
+            "Federal Reserve",
+            "interest rates",
+            "geopolitical tensions",
+            "energy markets",
+            "acquisitions",
+            "reverse stock split"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "event": {
+    "event_id": "META_20250604_133000",
+    "ticker": "META",
+    "t0_utc": "2025-06-04 13:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-06-04T10:30:00+00:00",
+      "end": "2025-06-04T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-06-04T11:39:00Z",
+        "title": "Constellation Energy and Meta Strike Nuclear Deal, Shares Whipsaw",
+        "description": "Constellation Energy and Meta Platforms have signed a 20-year power purchase agreement for over 1.1 gigawatts of nuclear energy. The deal will allow Constellation's Clinton Clean Energy Center to continue operating, and could lead to further expansion opportunities.",
+        "article_url": "https://www.investing.com/analysis/constellation-energy-and-meta-strike-nuclear-deal-shares-whipsaw-200661725",
+        "publisher": "Investing.com",
+        "author": "Marketbeat.Com",
+        "tickers": [
+          "CEG",
+          "META"
+        ],
+        "keywords": [
+          "Constellation Energy",
+          "Meta Platforms",
+          "nuclear energy",
+          "power purchase agreement"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

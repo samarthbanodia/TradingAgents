@@ -1,0 +1,66 @@
+{
+  "event": {
+    "event_id": "AAPL_20241031_195500",
+    "ticker": "AAPL",
+    "t0_utc": "2024-10-31 19:55:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-10-31T16:55:00+00:00",
+      "end": "2024-10-31T20:55:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-10-31T17:19:49Z",
+        "title": "Stocks Tumble, Nasdaq 100 Selloffs As Tech Giants Disappoint, Crypto Companies Plummet: What's Driving Markets Thursday?",
+        "description": "Major tech companies like Microsoft and Meta disappointed investors, leading to a steep market selloff. Crypto-related stocks also plummeted, reflecting broader risk aversion in the markets.",
+        "article_url": "https://www.benzinga.com/markets/equities/24/10/41660459/stocks-tumble-nasdaq-100-selloffs-as-tech-giants-disappoint-crypto-companies-plummet-whats-drivi",
+        "publisher": "Benzinga",
+        "author": "Piero Cingari, Benzinga Staff Writer",
+        "tickers": [
+          "MSFT",
+          "META",
+          "AAPL",
+          "AMZN",
+          "COIN",
+          "XLU",
+          "XLK"
+        ],
+        "keywords": [
+          "tech earnings",
+          "market selloff",
+          "crypto stocks"
+        ]
+      },
+      {
+        "published_utc": "2024-10-31T19:45:00Z",
+        "title": "Pixalate Releases Q3 2024 Malformed & Fraudulent CTV Bundle IDs Risk Report: $174 Million in Estimated Connected TV (CTV) Open Programmatic Ad Spend Went to Malformed, Unidentified, and/or Fraudulent Bundle IDs",
+        "description": "Pixalate's analysis of over 2.2 billion open programmatic advertising impressions across CTV platforms found that a significant portion of Bundle IDs were malformed, unidentified, and/or fraudulent, disrupting ad targeting and campaign measurement.",
+        "article_url": "https://www.globenewswire.com/news-release/2024/10/31/2972989/0/en/Pixalate-Releases-Q3-2024-Malformed-Fraudulent-CTV-Bundle-IDs-Risk-Report-174-Million-in-Estimated-Connected-TV-CTV-Open-Programmatic-Ad-Spend-Went-to-Malformed-Unidentified-and-or.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Pixalate",
+        "tickers": [
+          "ROKU",
+          "AAPL"
+        ],
+        "keywords": [
+          "CTV",
+          "ad fraud",
+          "programmatic advertising",
+          "Bundle IDs"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

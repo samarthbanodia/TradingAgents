@@ -1,0 +1,91 @@
+{
+  "event": {
+    "event_id": "META_20250205_143000",
+    "ticker": "META",
+    "t0_utc": "2025-02-05 14:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-02-05T11:30:00+00:00",
+      "end": "2025-02-05T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-02-05T11:45:00Z",
+        "title": "3 Reasons to Buy This Artificial Intelligence (AI) Stock on the Dip",
+        "description": "Despite the DeepSeek bombshell that sank Nvidia's stock, the company is far from finished powering the world of artificial intelligence. Nvidia's impressive financial results, strong demand for its GPUs, and reasonable valuation make it a compelling investment opportunity.",
+        "article_url": "https://www.fool.com/investing/2025/02/05/3-reasons-to-buy-this-artificial-intelligence-ai-s/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "NVDA",
+          "META",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "Nvidia",
+          "AI",
+          "GPUs",
+          "DeepSeek",
+          "valuation"
+        ]
+      },
+      {
+        "published_utc": "2025-02-05T12:43:00Z",
+        "title": "Prediction: Nvidia Stock Is Going to Soar After Feb. 26",
+        "description": "Nvidia could see a boost in demand for its AI chips due to Stargate's $100 billion investment in AI infrastructure. The company's strong position in the AI chip market and continued investments in AI by tech giants suggest Nvidia's earnings and stock price could see upside.",
+        "article_url": "https://www.fool.com/investing/2025/02/05/prediction-nvidia-stock-will-soar-after-feb-26/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Harsh Chauhan",
+        "tickers": [
+          "NVDA",
+          "SFTBY",
+          "ORCL",
+          "META",
+          "MSFT"
+        ],
+        "keywords": [
+          "Nvidia",
+          "AI",
+          "Stargate",
+          "AI infrastructure",
+          "AI chips"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-02-05T13:48:05Z",
+          "title": "Private Employment Rises By 183,000, Beats Estimates In January: 'Consumer-Facing Industries Drove Hiring'",
+          "description": "Private employers added 183,000 jobs in January, surpassing expectations and December's upwardly revised 176,000. Service-providing industries gained 190,000 jobs, while goods-producing sectors lost 6,000, with manufacturing shedding 13,000.",
+          "article_url": "https://www.benzinga.com/25/02/43494246/private-employment-rises-by-183000-beats-estimates-in-january-consumer-facing-industries-drove-hiring",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "AAPL",
+            "GOOG",
+            "GOOGL",
+            "SPY"
+          ],
+          "keywords": [
+            "employment",
+            "private sector",
+            "job growth",
+            "service industry",
+            "manufacturing"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

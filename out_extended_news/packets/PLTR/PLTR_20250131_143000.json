@@ -1,0 +1,63 @@
+{
+  "event": {
+    "event_id": "PLTR_20250131_143000",
+    "ticker": "PLTR",
+    "t0_utc": "2025-01-31 14:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-01-31T11:30:00+00:00",
+      "end": "2025-01-31T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-01-31T14:03:21Z",
+          "title": "Fed's Favorite Inflation Gauge Rises As Predicted, Consumer Spending Jumps At Fastest Pace In 9 Months (UPDATED)",
+          "description": "The Federal Reserve's preferred inflation measure, the Personal Consumption Expenditures (PCE) price index, rose 2.6% in December 2024, in line with forecasts. Personal spending also jumped 0.7%, the strongest gain since March 2024, indicating the health of U.S. consumers.",
+          "article_url": "https://www.benzinga.com/economics/macro-economic-events/25/01/43390001/feds-favorite-inflation-gauge-rises-as-predicted-consumer-spending-jumps-at-faste",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "inflation",
+            "consumer spending",
+            "Federal Reserve",
+            "PCE"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-01-31T14:03:21Z",
+          "title": "Fed's Favorite Inflation Gauge Rises As Predicted, Consumer Spending Jumps At Fastest Pace In 9 Months (UPDATED)",
+          "description": "The Federal Reserve's preferred inflation measure, the Personal Consumption Expenditures (PCE) price index, rose 2.6% in December 2024, in line with forecasts. Personal spending also jumped 0.7%, the strongest gain since March 2024, indicating the health of U.S. consumers.",
+          "article_url": "https://www.benzinga.com/economics/macro-economic-events/25/01/43390001/feds-favorite-inflation-gauge-rises-as-predicted-consumer-spending-jumps-at-faste",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "inflation",
+            "consumer spending",
+            "Federal Reserve",
+            "PCE"
+          ]
+        }
+      ]
+    }
+  }
+}

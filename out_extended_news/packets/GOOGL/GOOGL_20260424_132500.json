@@ -1,0 +1,101 @@
+{
+  "event": {
+    "event_id": "GOOGL_20260424_132500",
+    "ticker": "GOOGL",
+    "t0_utc": "2026-04-24 13:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "unclear",
+    "window": {
+      "start": "2026-04-24T10:25:00+00:00",
+      "end": "2026-04-24T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-04-24T12:21:00Z",
+        "title": "Is the Memory Supercycle Already Priced In? What the Data Says About Micron Stock.",
+        "description": "Micron Technology is positioned to benefit significantly from the AI-driven memory supercycle, with the company experiencing explosive growth (196% YoY revenue increase in Q2 FY2026) and projecting 260% YoY growth for Q3. Despite a 585% stock surge over the past year, the article argues the memory supercycle is not fully priced in, citing Micron's low PEG ratio of 0.46 and strong fundamentals. The memory shortage is expected to persist until 2030, with only three companies (Samsung, SK Hynix, and Micron) dominating the market.",
+        "article_url": "https://www.fool.com/investing/2026/04/24/is-the-memory-supercycle-already-priced-in-what-th/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "James Hires",
+        "tickers": [
+          "MU",
+          "NVDA",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "memory supercycle",
+          "AI data centers",
+          "semiconductor shortage",
+          "HBM4 chips",
+          "PEG ratio",
+          "revenue growth",
+          "Nvidia partnership"
+        ]
+      },
+      {
+        "published_utc": "2026-04-24T13:03:00Z",
+        "title": "Nvidia Reports Earnings Next Month. Here's Why I'm Not Buying the Stock Before the Report.",
+        "description": "Nvidia is set to report earnings on May 20 with expected impressive results, but analyst Daniel Sparks is hesitant to buy before the report due to intensifying competition from custom AI chips by rivals like Broadcom, Amazon, and Alphabet. While Nvidia maintains dominant market position with 75% gross margins and strong guidance, growing competition could eventually pressure growth rates and profit margins.",
+        "article_url": "https://www.fool.com/investing/2026/04/24/nvidia-reports-earnings-next-month-heres-why-im-no/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Daniel Sparks",
+        "tickers": [
+          "NVDA",
+          "AVGO",
+          "AMZN",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "Nvidia earnings",
+          "AI chips",
+          "competition",
+          "custom semiconductors",
+          "data center revenue",
+          "gross margins"
+        ]
+      },
+      {
+        "published_utc": "2026-04-24T13:51:52Z",
+        "title": "AI Did What Trump's Tariffs Didn't: Revive US Manufacturing",
+        "description": "U.S. manufacturing is experiencing its hottest pace in nearly four years, driven primarily by AI demand rather than Trump's tariff policies. The S&P Global US Manufacturing PMI jumped to 54.0 in April, with production growth at its fastest pace in four years. AI-driven demand from hyperscalers is fueling capital investment in data centers and infrastructure, benefiting industrial equipment and services companies. Tariffs have instead created input-cost inflation headwinds.",
+        "article_url": "https://www.benzinga.com/markets/equities/26/04/52029854/ai-manufacturing-pmi-47-month-high-trump-tariffs?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Piero Cingari",
+        "tickers": [
+          "CAT",
+          "VRT",
+          "PWR",
+          "ETN",
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "AMZN",
+          "META",
+          "NVDA"
+        ],
+        "keywords": [
+          "AI manufacturing",
+          "US manufacturing PMI",
+          "data center demand",
+          "industrial stocks",
+          "tariffs",
+          "capital investment",
+          "hyperscalers"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

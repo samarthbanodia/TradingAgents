@@ -1,0 +1,132 @@
+{
+  "event": {
+    "event_id": "NVDA_20251114_141000",
+    "ticker": "NVDA",
+    "t0_utc": "2025-11-14 14:10:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-11-14T11:10:00+00:00",
+      "end": "2025-11-14T15:10:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-11-14T12:15:00Z",
+        "title": "Cisco's AI Infrastructure Is Finally Winning Over Hyperscalers",
+        "description": "Cisco is gaining momentum in AI infrastructure, booking $1.3 billion in AI orders from hyperscalers in Q1 and expecting over $3 billion in AI revenue this fiscal year, signaling a strong turnaround in its AI business strategy.",
+        "article_url": "https://www.fool.com/investing/2025/11/14/ciscos-ai-infrastructure-is-finally-winning-over-h/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Timothy Green",
+        "tickers": [
+          "CSCO",
+          "NVDA",
+          "ANET"
+        ],
+        "keywords": [
+          "AI",
+          "infrastructure",
+          "hyperscalers",
+          "networking",
+          "data centers"
+        ]
+      },
+      {
+        "published_utc": "2025-11-14T13:09:00Z",
+        "title": "Monolithic Power Surges in 2025\u2014Time to Buy or Hold?",
+        "description": "Monolithic Power Systems experienced a strong recovery in 2025, delivering a 62% total return despite early-year challenges. The company demonstrated resilience across multiple market segments and shows promising long-term growth potential, particularly in enterprise data and NVIDIA infrastructure.",
+        "article_url": "https://www.investing.com/analysis/monolithic-power-surges-in-2025time-to-buy-or-hold-200670198",
+        "publisher": "Investing.com",
+        "author": "Leo Miller",
+        "tickers": [
+          "MPWR",
+          "NVDA"
+        ],
+        "keywords": [
+          "semiconductor",
+          "power chips",
+          "NVIDIA",
+          "enterprise data",
+          "market recovery"
+        ]
+      },
+      {
+        "published_utc": "2025-11-14T13:30:00Z",
+        "title": "3 Things Tech Investors Should Know About the World's Largest Chipmaker",
+        "description": "Taiwan Semiconductor (TSMC) dominates the global chip manufacturing market with a 70% market share, producing advanced chips for major tech companies like Apple and Nvidia. The company is expanding internationally, investing $165 billion in U.S. production facilities and experiencing significant revenue growth driven by cutting-edge 3nm and 5nm chip technologies.",
+        "article_url": "https://www.fool.com/investing/2025/11/14/things-tech-investors-should-know-about-chipmaker/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Lyle Daly",
+        "tickers": [
+          "TSM",
+          "AAPL",
+          "NVDA",
+          "AVGO"
+        ],
+        "keywords": [
+          "semiconductor",
+          "chip manufacturing",
+          "TSMC",
+          "AI",
+          "technology",
+          "global expansion"
+        ]
+      },
+      {
+        "published_utc": "2025-11-14T14:17:00Z",
+        "title": "Meet the Best \"Magnificent Seven\" and \"Ten Titans\" Growth Stock for Value Investors to Buy in 2026",
+        "description": "The article highlights Microsoft as the best value stock among the 'Magnificent Seven' and 'Ten Titans', praising its diversified business model, strong balance sheet, and ability to invest in AI without compromising financial health.",
+        "article_url": "https://www.fool.com/investing/2025/11/14/buy-magnificent-seven-ten-titans-stock-microsoft/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Daniel Foelber",
+        "tickers": [
+          "MSFT",
+          "NVDA",
+          "AAPL",
+          "GOOG",
+          "GOOGL",
+          "AMZN",
+          "META",
+          "TSLA"
+        ],
+        "keywords": [
+          "Magnificent Seven",
+          "Ten Titans",
+          "AI investment",
+          "value investing",
+          "tech stocks"
+        ]
+      },
+      {
+        "published_utc": "2025-11-14T15:03:39Z",
+        "title": "Kranot Hishtalmut Loads Up on CheckPoint Software Technologies Stock With Nearly 87,000 Shares",
+        "description": "Israeli investment firm Kranot Hishtalmut acquired 86,599 shares of CheckPoint Software Technologies, valued at approximately $17.87 million, representing 1.2% of its portfolio assets in a new strategic investment in the cybersecurity sector.",
+        "article_url": "https://www.fool.com/coverage/filings/2025/11/14/kranot-hishtalmut-loads-up-on-checkpoint-software-technologies-stock-with-87-000-shares/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Will Healy",
+        "tickers": [
+          "CHKP",
+          "AMZN",
+          "NVDA",
+          "V"
+        ],
+        "keywords": [
+          "cybersecurity",
+          "investment",
+          "stock acquisition",
+          "technology"
+        ]
+      }
+    ],
+    "ticker_news_count": 5,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

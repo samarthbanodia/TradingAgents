@@ -1,0 +1,100 @@
+{
+  "event": {
+    "event_id": "GOOGL_20241216_142000",
+    "ticker": "GOOGL",
+    "t0_utc": "2024-12-16 14:20:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-12-16T11:20:00+00:00",
+      "end": "2024-12-16T15:20:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-12-16T13:05:00Z",
+        "title": "S&P 500: After a Memorable 2024, Could the Index Keep Rallying Into 2025?",
+        "description": "The S&P 500 index has surged 29% in 2024, and the rally could continue into 2025 due to factors like better-than-expected corporate earnings, the rise of AI, and favorable tax and regulatory policies.",
+        "article_url": "https://www.investing.com/analysis/sp-500-after-a-memorable-2024-could-the-index-keep-rallying-into-2025-200655298",
+        "publisher": "Investing.com",
+        "author": "Investing.Com",
+        "tickers": [
+          "GOOG",
+          "GOOGL",
+          "AMZN",
+          "AAPL",
+          "META",
+          "MSFT",
+          "NVDA",
+          "TSLA"
+        ],
+        "keywords": [
+          "S&P 500",
+          "stock market",
+          "corporate earnings",
+          "artificial intelligence",
+          "tax policy",
+          "financial regulations"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-12-16T11:24:52Z",
+          "title": "US Stocks To Open Higher Ahead Of Fed's Decision This Week: Analyst Says 'Santa Comes Later In December'",
+          "description": "U.S. stock futures are trading higher ahead of the Federal Reserve's decision this week, with the Nasdaq 100 index setting new record highs. Analysts expect a 25 basis point rate cut, and the market is anticipating a potential 'Santa Rally' in the latter half of December.",
+          "article_url": "https://www.benzinga.com/24/12/42504194/us-stocks-to-open-higher-ahead-of-feds-decision-this-week-analyst-says-santa-comes-later-in-december",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY",
+            "AVGO",
+            "TSLA",
+            "AMPG",
+            "AMPGW",
+            "CKPT"
+          ],
+          "keywords": [
+            "US stocks",
+            "Federal Reserve",
+            "Nasdaq 100",
+            "Santa Rally"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2024-12-16T11:24:52Z",
+          "title": "US Stocks To Open Higher Ahead Of Fed's Decision This Week: Analyst Says 'Santa Comes Later In December'",
+          "description": "U.S. stock futures are trading higher ahead of the Federal Reserve's decision this week, with the Nasdaq 100 index setting new record highs. Analysts expect a 25 basis point rate cut, and the market is anticipating a potential 'Santa Rally' in the latter half of December.",
+          "article_url": "https://www.benzinga.com/24/12/42504194/us-stocks-to-open-higher-ahead-of-feds-decision-this-week-analyst-says-santa-comes-later-in-december",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY",
+            "AVGO",
+            "TSLA",
+            "AMPG",
+            "AMPGW",
+            "CKPT"
+          ],
+          "keywords": [
+            "US stocks",
+            "Federal Reserve",
+            "Nasdaq 100",
+            "Santa Rally"
+          ]
+        }
+      ]
+    }
+  }
+}

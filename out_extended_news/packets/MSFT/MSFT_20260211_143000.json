@@ -1,0 +1,132 @@
+{
+  "event": {
+    "event_id": "MSFT_20260211_143000",
+    "ticker": "MSFT",
+    "t0_utc": "2026-02-11 14:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-02-11T11:30:00+00:00",
+      "end": "2026-02-11T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-02-11T12:05:26Z",
+        "title": "Oxbow Advisors Dumps 342,000 VBIL Shares Worth $25.8 Million",
+        "description": "Oxbow Advisors sold 342,176 shares of the Vanguard 0-3 Month Treasury Bill ETF (VBIL) for approximately $25.83 million on February 3, 2026. Despite the sale, VBIL remains a significant holding at 11.53% of the firm's assets under management, suggesting the move was likely a portfolio rebalancing to lock in gains rather than a loss of confidence in the investment.",
+        "article_url": "https://www.fool.com/coverage/filings/2026/02/11/oxbow-advisors-dumps-342-000-vbil-shares-worth-usd25-8-million/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Sarah Sidlow",
+        "tickers": [
+          "VBIL",
+          "GOOG",
+          "GOOGL",
+          "MSFT",
+          "EPD"
+        ],
+        "keywords": [
+          "VBIL",
+          "Treasury Bill ETF",
+          "portfolio rebalancing",
+          "Oxbow Advisors",
+          "institutional investor",
+          "short-term Treasury securities"
+        ]
+      },
+      {
+        "published_utc": "2026-02-11T12:49:09Z",
+        "title": "Europe's OpenAI Rival Mistral Bets $1.4 Billion On Swedish AI Infrastructure Buildout",
+        "description": "French AI startup Mistral AI announced a \u20ac1.2 billion ($1.43 billion) investment with Swedish company EcoDataCenter to build an AI-focused data center in Borl\u00e4nge, Sweden. This marks Mistral's first major AI infrastructure investment outside France and is set to begin operations in 2027. The facility will support development of next-generation AI models using Nvidia's latest GPUs, as Europe seeks to strengthen its AI capabilities to compete with U.S. tech giants.",
+        "article_url": "https://www.benzinga.com/markets/tech/26/02/50537862/europes-openai-rival-mistral-bets-1-4-billion-on-swedish-ai-infrastructure-buildout?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "NVDA",
+          "MSFT",
+          "ASML",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "AI infrastructure",
+          "data center",
+          "Mistral AI",
+          "Sweden",
+          "EcoDataCenter",
+          "renewable energy",
+          "GPU computing",
+          "European AI competition"
+        ]
+      },
+      {
+        "published_utc": "2026-02-11T13:07:00Z",
+        "title": "Nvidia CEO Jensen Huang Says the Thinking Behind This Stock Sell-Off Is \"Illogical\"",
+        "description": "Nvidia CEO Jensen Huang dismisses fears that AI will replace software companies, calling the 'SaaSpocalypse' narrative illogical. He argues AI will improve and work alongside software products rather than replace them. Recent market sell-offs in SaaS stocks like Microsoft, Adobe, and Salesforce may be overblown, as AI companies are more likely to partner with software firms than disrupt them.",
+        "article_url": "https://www.fool.com/investing/2026/02/11/nvidia-ceo-jensen-huang-stock-selloff-illogical/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Ben Gran",
+        "tickers": [
+          "NVDA",
+          "MSFT",
+          "ADBE",
+          "CRM",
+          "IGV"
+        ],
+        "keywords": [
+          "AI disruption",
+          "SaaS stocks",
+          "software replacement fears",
+          "AI integration",
+          "market sell-off",
+          "enterprise software"
+        ]
+      },
+      {
+        "published_utc": "2026-02-11T13:15:00Z",
+        "title": "Did Anthropic Just Give Investors Another DeepSeek Moment?",
+        "description": "Anthropic's launch of Claude Cowork, an AI tool designed to replace multiple software tools, triggered a significant sell-off in SaaS stocks. Software companies like Shopify, Monday.com, and Fastly dropped 15-23%, similar to the market's reaction to DeepSeek last year. However, analysts suggest the impact varies by company type\u2014mission-critical, deeply integrated software providers are better positioned to weather AI disruption than single-function tools. Meanwhile, January job data showed the lowest openings since 2020 and highest layoffs since 2009, though unemployment remains historically average.",
+        "article_url": "https://www.fool.com/investing/2026/02/11/did-anthropic-just-give-investors-another-deepseek/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Motley Fool Staff",
+        "tickers": [
+          "SHOP",
+          "MNDY",
+          "FSLY",
+          "BILL",
+          "HUBS",
+          "TEAM",
+          "CRWD",
+          "TOST",
+          "ZS",
+          "GDDY",
+          "POWL",
+          "MSFT",
+          "META",
+          "GOOG",
+          "GOOGL",
+          "AMZN"
+        ],
+        "keywords": [
+          "AI disruption",
+          "SaaS sell-off",
+          "Claude Cowork",
+          "software companies",
+          "job market",
+          "cybersecurity",
+          "mission-critical software"
+        ]
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

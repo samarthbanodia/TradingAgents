@@ -1,0 +1,134 @@
+{
+  "event": {
+    "event_id": "META_20260306_142500",
+    "ticker": "META",
+    "t0_utc": "2026-03-06 14:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-03-06T11:25:00+00:00",
+      "end": "2026-03-06T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-03-06T13:20:59Z",
+        "title": "Why Advanced Micro Devices Stock Plummeted 15.4% Last Month and Has Inched Lower in March",
+        "description": "AMD stock fell 15.4% in February despite posting strong Q4 earnings and revenue beats, as investors expected even stronger forward guidance amid AI demand. The company announced a significant partnership expansion with Meta for AI GPUs and CPUs. AMD's decline was part of a broader tech sector pullback driven by AI valuation concerns and macroeconomic headwinds, though the company's fundamentals remain solid.",
+        "article_url": "https://www.fool.com/investing/2026/03/06/why-advanced-micro-devices-stock-plummeted-154-las/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Keith Noonan",
+        "tickers": [
+          "AMD",
+          "META",
+          "NVDA"
+        ],
+        "keywords": [
+          "AMD stock decline",
+          "Q4 earnings beat",
+          "AI data center market",
+          "Meta partnership",
+          "GPU market",
+          "tech sector pullback",
+          "valuation concerns"
+        ]
+      },
+      {
+        "published_utc": "2026-03-06T13:33:00Z",
+        "title": "Marvell Gets a Fresh Bid as AI Infrastructure Spending Lifts Revenue Visibility",
+        "description": "Marvell Technology reported strong Q4 FY2026 earnings with $2.22B revenue (22% YoY growth) and issued bullish forward guidance, raising FY2027 revenue outlook to over 30% growth nearing $11B and FY2028 to nearly 40% growth approaching $15B. The semiconductor company is benefiting from massive AI infrastructure spending by Big Tech giants, with record design wins and bookings driving confidence in future growth.",
+        "article_url": "https://www.investing.com/analysis/marvell-gets-a-fresh-bid-as-ai-infrastructure-spending-lifts-revenue-visibility-200676209",
+        "publisher": "Investing.com",
+        "author": "Timothy Fries",
+        "tickers": [
+          "MRVL",
+          "GOOG",
+          "GOOGL",
+          "MSFT",
+          "AMZN",
+          "META"
+        ],
+        "keywords": [
+          "AI infrastructure spending",
+          "semiconductor",
+          "data center",
+          "earnings beat",
+          "forward guidance",
+          "hyperscaler capital spending",
+          "custom ASICs",
+          "photonic fabrics"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-03-06T13:42:44Z",
+          "title": "Stock Market Today: Dow Jones, S&P 500 Futures Tumble As Payrolls Edge Down 92K\u2014 Marvell Technology, Gap, Oracle In Focus (UPDATED)",
+          "description": "U.S. stock futures fell on Friday amid ongoing Iran-US conflict and ahead of February employment data. Markets expect 55,000 payroll additions and a steady 4.3% jobless rate. The Fed is expected to hold rates unchanged in March with 97.3% probability. Key movers include Marvell Technology surging 11.92% on strong earnings, Gap tumbling 7.06% on disappointing results, and Oracle rising on AI-driven job cut plans.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/03/51090647/stock-market-today-dow-jones-sp-500-futures-tumble-ahead-of-february-employment-data-marvell-tec?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "MRVL",
+            "GAP",
+            "ORCL",
+            "ORCLpD",
+            "COST",
+            "F",
+            "FpB",
+            "FpC",
+            "FpD",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures decline",
+            "employment data",
+            "Federal Reserve",
+            "earnings",
+            "geopolitical tensions"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-03-06T13:42:44Z",
+          "title": "Stock Market Today: Dow Jones, S&P 500 Futures Tumble As Payrolls Edge Down 92K\u2014 Marvell Technology, Gap, Oracle In Focus (UPDATED)",
+          "description": "U.S. stock futures fell on Friday amid ongoing Iran-US conflict and ahead of February employment data. Markets expect 55,000 payroll additions and a steady 4.3% jobless rate. The Fed is expected to hold rates unchanged in March with 97.3% probability. Key movers include Marvell Technology surging 11.92% on strong earnings, Gap tumbling 7.06% on disappointing results, and Oracle rising on AI-driven job cut plans.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/03/51090647/stock-market-today-dow-jones-sp-500-futures-tumble-ahead-of-february-employment-data-marvell-tec?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "MRVL",
+            "GAP",
+            "ORCL",
+            "ORCLpD",
+            "COST",
+            "F",
+            "FpB",
+            "FpC",
+            "FpD",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures decline",
+            "employment data",
+            "Federal Reserve",
+            "earnings",
+            "geopolitical tensions"
+          ]
+        }
+      ]
+    }
+  }
+}

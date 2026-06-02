@@ -1,0 +1,99 @@
+{
+  "event": {
+    "event_id": "NFLX_20260120_205500",
+    "ticker": "NFLX",
+    "t0_utc": "2026-01-20 20:55:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-01-20T17:55:00+00:00",
+      "end": "2026-01-20T21:55:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-01-20T18:04:00Z",
+        "title": "Netflix Earnings Open the Door to a Rebound With the Warner Deal in Sharp Focus",
+        "description": "Netflix is set to report Q4 earnings after Tuesday's close amid scrutiny over its planned $83 billion all-cash acquisition of Warner Bros. Discovery. The streaming giant hit revenue targets last quarter with $11.51 billion in sales and 317.2 million users, though EBITDA fell short. Investors will focus on advertising business growth, margin sustainability, and free cash flow generation. Netflix shares have fallen 15% since the deal announcement on December 5, though technical analysis suggests potential recovery toward $103-105 resistance levels.",
+        "article_url": "https://www.investing.com/analysis/netflix-earnings-open-the-door-to-a-rebound-with-the-warner-deal-in-sharp-focus-200673538",
+        "publisher": "Investing.com",
+        "author": "Ali Merchant",
+        "tickers": [
+          "NFLX",
+          "WBD"
+        ],
+        "keywords": [
+          "Netflix earnings",
+          "Warner Bros. Discovery acquisition",
+          "streaming",
+          "advertising business",
+          "free cash flow",
+          "margins",
+          "stock performance"
+        ]
+      },
+      {
+        "published_utc": "2026-01-20T19:12:00Z",
+        "title": "2 Undervalued, High-Quality Companies to Buy in 2026 and Hold Forever",
+        "description": "Meta Platforms and Walt Disney are presented as undervalued stocks offering compelling value for long-term investors. Meta's highly profitable Family of Apps generates 49.9% operating margins despite investor concerns over AI spending and Reality Labs losses. Disney has recovered from its post-2019 box office slump with recent hits like Zootopia 2 and is trading at just 16.8x forward earnings with multiple growth catalysts including new theme parks and profitable streaming.",
+        "article_url": "https://www.fool.com/investing/2026/01/20/buy-undervalued-stock-meta-platforms-disney-2026/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Daniel Foelber",
+        "tickers": [
+          "META",
+          "DIS",
+          "GOOG",
+          "GOOGL",
+          "NFLX"
+        ],
+        "keywords": [
+          "undervalued stocks",
+          "value investing",
+          "Meta Platforms",
+          "Walt Disney",
+          "AI spending",
+          "operating margins",
+          "box office recovery",
+          "streaming profitability",
+          "long-term holding"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-01-20T20:51:35Z",
+          "title": "Trump's 1-Year Mark: Two Country ETFs Crush S&P 500 By Nearly 90%",
+          "description": "One year into Trump's presidency, Peru and South Korea's country ETFs have dramatically outperformed the S&P 500 by nearly 90 percentage points. Peru's rally was driven by surging commodity and precious metals prices (gold +75%, silver +210%, copper +33%), benefiting materials-heavy companies. South Korea's outperformance was fueled by AI-related semiconductor demand, with Samsung and SK Hynix accounting for 70% of gains. While the S&P 500 delivered solid but unspectacular returns, these emerging markets captured outsized gains through different macro themes.",
+          "article_url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/01/50020492/trump-1-year-anniversary-country-etf-performance-south-korea-peru-ewy-epu-spy-sp500?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "BAP",
+            "BVN",
+            "EPU",
+            "EWY",
+            "SPY"
+          ],
+          "keywords": [
+            "Peru ETF",
+            "South Korea ETF",
+            "S&P 500",
+            "commodities",
+            "semiconductors",
+            "AI demand",
+            "precious metals",
+            "emerging markets"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

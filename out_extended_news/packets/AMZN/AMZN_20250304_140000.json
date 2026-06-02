@@ -1,0 +1,90 @@
+{
+  "event": {
+    "event_id": "AMZN_20250304_140000",
+    "ticker": "AMZN",
+    "t0_utc": "2025-03-04 14:00:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-03-04T11:00:00+00:00",
+      "end": "2025-03-04T15:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-03-04T11:10:00Z",
+        "title": "Billionaire Stanley Druckenmiller -- Who Sold His Nvidia Stock Last Year -- May Be Betting on Nvidia in Another Way",
+        "description": "Billionaire Stanley Druckenmiller sold his Nvidia shares last year, but may be betting on the company indirectly through investments in its customers Amazon and Alphabet, which offer Nvidia's products and services.",
+        "article_url": "https://www.fool.com/investing/2025/03/04/billionaire-druckenmiller-bets-on-nvidia-customers/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "NVDA",
+          "AMZN",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "Nvidia",
+          "Stanley Druckenmiller",
+          "Amazon",
+          "Alphabet",
+          "AI"
+        ]
+      },
+      {
+        "published_utc": "2025-03-04T12:49:00Z",
+        "title": "J Sainsbury Digital Transformation Strategy Analysis Report 2024: Accelerators, Incubators, and Innovation Programs",
+        "description": "J Sainsbury, a multi-channel retailer in the UK and Ireland, is undergoing a digital transformation strategy that includes accelerators, incubators, and innovation programs. The report provides insights into the company's technology initiatives, partnerships, and ICT budgets.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/03/04/3036408/28124/en/J-Sainsbury-Digital-Transformation-Strategy-Analysis-Report-2024-Accelerators-Incubators-and-Innovation-Programs.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Researchandmarkets.Com",
+        "tickers": [
+          "ACN",
+          "MSFT",
+          "AMZN",
+          "SAP",
+          "UBER",
+          "CFLT"
+        ],
+        "keywords": [
+          "digital transformation",
+          "innovation",
+          "technology",
+          "retail",
+          "J Sainsbury"
+        ]
+      },
+      {
+        "published_utc": "2025-03-04T14:25:09Z",
+        "title": "CoreWeave's IPO: 3 Major Red Flags Investors Can't Ignore",
+        "description": "CoreWeave's upcoming IPO raises concerns over its heavy reliance on Nvidia, aggressive valuation, and competition from tech giants like AWS and Azure. Insider selling ahead of the IPO also signals potential doubts about the company's long-term growth and sustainability.",
+        "article_url": "https://www.benzinga.com/news/ipos/25/03/44108760/coreweaves-ipo-3-major-red-flags-investors-cant-ignore",
+        "publisher": "Benzinga",
+        "author": "Surbhi Jain",
+        "tickers": [
+          "AMZN"
+        ],
+        "keywords": [
+          "CoreWeave",
+          "IPO",
+          "Nvidia",
+          "Amazon",
+          "Microsoft",
+          "Alphabet",
+          "AI"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

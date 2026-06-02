@@ -1,0 +1,178 @@
+{
+  "event": {
+    "event_id": "MSFT_20251103_140000",
+    "ticker": "MSFT",
+    "t0_utc": "2025-11-03 14:00:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-11-03T11:00:00+00:00",
+      "end": "2025-11-03T15:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-11-03T11:15:00Z",
+        "title": "The S&P 500 Is Sounding a Familiar Alarm. Here's Why You Should Buy and Hold Stocks Anyway.",
+        "description": "The S&P 500 has seen significant gains in recent years, potentially signaling a future market correction. Despite high valuations, investors are advised to focus on quality companies with strong fundamentals and diversify across sectors.",
+        "article_url": "https://www.fool.com/investing/2025/11/03/sp-500-is-sounding-familiar-alarm-heres-why/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Daniel Foelber",
+        "tickers": [
+          "MSFT",
+          "PG",
+          "NVDA",
+          "AAPL"
+        ],
+        "keywords": [
+          "stock market",
+          "market correction",
+          "long-term investing",
+          "AI stocks",
+          "growth stocks"
+        ]
+      },
+      {
+        "published_utc": "2025-11-03T12:20:00Z",
+        "title": "AI's Power Problem",
+        "description": "The article discusses the massive power infrastructure challenges facing AI development, highlighting the need for significant new power generation capacity, with a particular focus on nuclear small modular reactors (SMRs) as a potential solution to meet growing energy demands from AI and data centers.",
+        "article_url": "https://www.fool.com/investing/2025/11/03/ais-power-problem/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Motley Fool Staff",
+        "tickers": [
+          "SMR",
+          "OKLO",
+          "AMZN",
+          "MSFT"
+        ],
+        "keywords": [
+          "AI",
+          "power infrastructure",
+          "nuclear energy",
+          "small modular reactors",
+          "data centers",
+          "energy demand"
+        ]
+      },
+      {
+        "published_utc": "2025-11-03T12:36:34Z",
+        "title": "Dollar Returns, Central Banks Signal Caution, Capital Seeks Safety",
+        "description": "Central banks like BOJ and Federal Reserve showed cautious monetary policy, causing market uncertainty. Corporate earnings remained strong, with tech companies delivering solid results, but institutional investors are moderating risk exposure.",
+        "article_url": "https://www.benzinga.com/Opinion/25/11/48587152/dollar-returns-central-banks-signal-caution-capital-seeks-safety?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Finit Benzinga Contributor",
+        "tickers": [
+          "AMZN",
+          "AAPL",
+          "MSFT",
+          "NVDA",
+          "META",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "monetary policy",
+          "central banks",
+          "dollar",
+          "earnings",
+          "market uncertainty"
+        ]
+      },
+      {
+        "published_utc": "2025-11-03T13:31:25Z",
+        "title": "Elevation Capital Advisory Loads Up Principal U.S. Mega-Cap ETF Shares in Q3",
+        "description": "Elevation Capital Advisory initiated a new $8.7 million position in the Principal U.S. Mega-Cap ETF during Q3, representing 3.5% of its reported equity assets. The ETF focuses on tracking large U.S. mega-cap companies with concentrated holdings across technology, financial, and communication sectors.",
+        "article_url": "https://www.fool.com/coverage/filings/2025/11/03/elevation-capital-loads-up-usmc-with-128k-shares-in-q3/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Lawrence Rothman",
+        "tickers": [
+          "USMC",
+          "NVDA",
+          "AAPL",
+          "TSLA",
+          "MSFT",
+          "COST"
+        ],
+        "keywords": [
+          "ETF",
+          "mega-cap",
+          "investment",
+          "equity",
+          "technology stocks"
+        ]
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-11-03T13:27:40Z",
+          "title": "US Stocks Face Two Short-Term Threats Amid Fed's Cautious Approach, Warn Analysts",
+          "description": "Morgan Stanley analysts warn of two key risks for US stocks: the Federal Reserve's cautious interest rate policy and potential tariff impacts. Despite strong corporate earnings, market uncertainty remains about future monetary stance.",
+          "article_url": "https://www.benzinga.com/markets/equities/25/11/48588301/us-stocks-face-two-short-term-threats-amid-feds-cautious-approach-warn-analysts?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Namrata Sen",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "interest rates",
+            "stock market",
+            "corporate earnings",
+            "tariffs"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-11-03T13:08:00Z",
+          "title": "These 2 AI ETFs Are Ready to Crush the S&P 500 Over the Next 10 Years",
+          "description": "The article discusses two AI-focused ETFs that offer different investment strategies: the Invesco QQQ ETF, which provides broad AI exposure through large-cap tech stocks, and the Ark Autonomous Technology & Robotics ETF, which focuses on unique AI and robotics opportunities with an actively managed approach.",
+          "article_url": "https://www.fool.com/investing/2025/11/03/these-2-ai-etfs-are-ready-to-crush-the-sp-500-over/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Matt Frankel",
+          "tickers": [
+            "QQQ",
+            "ARKQ",
+            "TSLA",
+            "TER",
+            "KTOS"
+          ],
+          "keywords": [
+            "AI",
+            "ETF",
+            "technology",
+            "investing",
+            "robotics"
+          ]
+        },
+        {
+          "published_utc": "2025-11-03T13:27:40Z",
+          "title": "US Stocks Face Two Short-Term Threats Amid Fed's Cautious Approach, Warn Analysts",
+          "description": "Morgan Stanley analysts warn of two key risks for US stocks: the Federal Reserve's cautious interest rate policy and potential tariff impacts. Despite strong corporate earnings, market uncertainty remains about future monetary stance.",
+          "article_url": "https://www.benzinga.com/markets/equities/25/11/48588301/us-stocks-face-two-short-term-threats-amid-feds-cautious-approach-warn-analysts?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Namrata Sen",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "interest rates",
+            "stock market",
+            "corporate earnings",
+            "tariffs"
+          ]
+        }
+      ]
+    }
+  }
+}

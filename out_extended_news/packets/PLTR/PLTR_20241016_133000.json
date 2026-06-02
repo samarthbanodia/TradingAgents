@@ -1,0 +1,112 @@
+{
+  "event": {
+    "event_id": "PLTR_20241016_133000",
+    "ticker": "PLTR",
+    "t0_utc": "2024-10-16 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-10-16T10:30:00+00:00",
+      "end": "2024-10-16T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-10-16T13:45:00Z",
+        "title": "Why I Keep Buying These 14 Incredible Growth Stocks",
+        "description": "This article discusses a diverse set of growth stocks in various industries, including AI, space, biotech, and emerging technologies. The author highlights the potential rewards and risks of investing in individual growth stocks, and provides an overview of 14 stocks in his tax-advantaged portfolios.",
+        "article_url": "https://www.fool.com/investing/2024/10/16/why-i-keep-buying-these-14-incredible-growth-stock/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "George Budwell",
+        "tickers": [
+          "ACHR",
+          "ACHR.WS",
+          "ASPN",
+          "CRSP",
+          "GE",
+          "HWM",
+          "HWMp",
+          "LUNR",
+          "LUNRW",
+          "JOBY",
+          "JOBY.WS",
+          "KTOS",
+          "NVTS",
+          "NVDA",
+          "PLTR",
+          "PRME",
+          "RKLB",
+          "TSM"
+        ],
+        "keywords": [
+          "growth stocks",
+          "AI",
+          "space",
+          "biotech",
+          "emerging industries",
+          "investment portfolio"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-10-16T11:29:17Z",
+          "title": "US Stocks Could Open Narrowly Mixed After Tuesday's Chip Sell-Off, Bitcoin Heads To $68K, Oil Slips",
+          "description": "U.S. stock futures point to a flattish start on Wednesday after the major indices retreated from record highs on Tuesday. The tech sell-off, driven by a weak revenue forecast from ASML Holdings, weighed on the artificial intelligence hardware space and energy stocks.",
+          "article_url": "https://www.benzinga.com/news/earnings/24/10/41353878/us-stocks-could-open-narrowly-mixed-after-tuesdays-chip-sell-off-bitcoin-heads-to-68k-oil-slips",
+          "publisher": "Benzinga",
+          "author": "Benzinga Editor",
+          "tickers": [
+            "QQQ",
+            "SPY",
+            "ASML",
+            "INTC",
+            "JBHT"
+          ],
+          "keywords": [
+            "Nasdaq",
+            "S&P 500",
+            "chip sell-off",
+            "tech stocks",
+            "ASML Holdings",
+            "AI hardware",
+            "energy stocks"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2024-10-16T11:29:17Z",
+          "title": "US Stocks Could Open Narrowly Mixed After Tuesday's Chip Sell-Off, Bitcoin Heads To $68K, Oil Slips",
+          "description": "U.S. stock futures point to a flattish start on Wednesday after the major indices retreated from record highs on Tuesday. The tech sell-off, driven by a weak revenue forecast from ASML Holdings, weighed on the artificial intelligence hardware space and energy stocks.",
+          "article_url": "https://www.benzinga.com/news/earnings/24/10/41353878/us-stocks-could-open-narrowly-mixed-after-tuesdays-chip-sell-off-bitcoin-heads-to-68k-oil-slips",
+          "publisher": "Benzinga",
+          "author": "Benzinga Editor",
+          "tickers": [
+            "QQQ",
+            "SPY",
+            "ASML",
+            "INTC",
+            "JBHT"
+          ],
+          "keywords": [
+            "Nasdaq",
+            "S&P 500",
+            "chip sell-off",
+            "tech stocks",
+            "ASML Holdings",
+            "AI hardware",
+            "energy stocks"
+          ]
+        }
+      ]
+    }
+  }
+}

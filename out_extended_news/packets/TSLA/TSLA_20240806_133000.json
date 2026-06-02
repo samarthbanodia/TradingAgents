@@ -1,0 +1,85 @@
+{
+  "event": {
+    "event_id": "TSLA_20240806_133000",
+    "ticker": "TSLA",
+    "t0_utc": "2024-08-06 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-08-06T10:30:00+00:00",
+      "end": "2024-08-06T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-08-06T13:45:00Z",
+        "title": "3 Things You Need to Know if You Buy Tesla Today",
+        "description": "Tesla, a leading electric vehicle company, has disappointed investors in recent years despite being a winning stock over the past decade. The company's financial performance has been impacted by macroeconomic factors and increased competition, leading to price cuts and reduced profitability. Tesla's ambitious plans for self-driving technology and robotaxis have also faced delays, and the company's valuation remains high compared to its current business performance.",
+        "article_url": "https://www.fool.com/investing/2024/08/06/3-things-you-need-to-know-if-you-buy-tesla-today/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Neil Patel",
+        "tickers": [
+          "TSLA",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "Tesla",
+          "electric vehicles",
+          "self-driving technology",
+          "robotaxis",
+          "valuation"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-08-06T12:23:00Z",
+          "title": "Got $1,000 to Invest In Stocks? Put It In This Index Fund.",
+          "description": "The article recommends investing $1,000 in a broad market-tracking index fund, such as the Vanguard S&P 500 ETF, as a simple and diversified way for new investors to get started in the stock market.",
+          "article_url": "https://www.fool.com/investing/2024/08/06/got-1000-to-invest-in-stocks-put-it-in-this-index/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Anders Bylund",
+          "tickers": [
+            "VOO",
+            "SPY",
+            "IVV",
+            "VTI"
+          ],
+          "keywords": [
+            "investing",
+            "index funds",
+            "ETFs",
+            "Vanguard"
+          ]
+        },
+        {
+          "published_utc": "2024-08-06T14:21:00Z",
+          "title": "Build a Portfolio With These 4 ETFs",
+          "description": "The article discusses how to build a solid portfolio around four key ETFs, including the SPDR S&P 500 ETF (SPY), to protect against major losses during weak periods in the stock market.",
+          "article_url": "https://www.fool.com/investing/2024/08/06/build-a-portfolio-with-these-4-etfs/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Mark Roussin, Cpa",
+          "tickers": [
+            "SPY",
+            "VTI",
+            "SCHD"
+          ],
+          "keywords": [
+            "portfolio",
+            "ETFs",
+            "SPDR S&P 500 ETF"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

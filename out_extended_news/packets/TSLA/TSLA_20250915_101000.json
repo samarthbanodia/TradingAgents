@@ -1,0 +1,111 @@
+{
+  "event": {
+    "event_id": "TSLA_20250915_101000",
+    "ticker": "TSLA",
+    "t0_utc": "2025-09-15 10:10:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-09-15T07:10:00+00:00",
+      "end": "2025-09-15T11:10:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-09-15T09:22:39Z",
+        "title": "Nvidia Stock Falls Nearly 3% In Monday Pre-Market: What's Going On?",
+        "description": "Nvidia's stock dropped in pre-market trading after China extended an anti-monopoly probe into the company's Mellanox acquisition, potentially impacting U.S.-China trade discussions and Nvidia's market presence in China.",
+        "article_url": "https://www.benzinga.com/markets/equities/25/09/47662010/nvidia-stock-falls-nearly-3-in-monday-pre-market-whats-going-on",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "NVDA",
+          "AAPL",
+          "TSLA"
+        ],
+        "keywords": [
+          "Nvidia",
+          "China",
+          "anti-monopoly",
+          "AI",
+          "semiconductor",
+          "trade"
+        ]
+      },
+      {
+        "published_utc": "2025-09-15T09:27:00Z",
+        "title": "Is Ford Stock a Millionaire Maker?",
+        "description": "Ford's stock is unlikely to generate substantial long-term growth due to the mature automotive industry, low operating margins, and limited expansion potential, despite recent positive stock performance.",
+        "article_url": "https://www.fool.com/investing/2025/09/15/is-ford-stock-a-millionaire-maker/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Neil Patel",
+        "tickers": [
+          "F",
+          "FpB",
+          "FpC",
+          "FpD",
+          "TSLA"
+        ],
+        "keywords": [
+          "automotive",
+          "electric vehicles",
+          "stock analysis",
+          "dividend",
+          "market performance"
+        ]
+      },
+      {
+        "published_utc": "2025-09-15T10:07:00Z",
+        "title": "Billionaire Dan Loeb Just Changed His Mind on This Incredible Artificial Intelligence (AI) Stock",
+        "description": "Billionaire investor Dan Loeb of Third Point hedge fund sold off 'Magnificent Seven' stocks in Q1 but repurchased Meta shares in Q2, driven by strong AI investments and impressive quarterly earnings performance.",
+        "article_url": "https://www.fool.com/investing/2025/09/15/billionaire-dan-loeb-just-changed-his-mind-on-this/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Adam Levy",
+        "tickers": [
+          "META",
+          "MSFT",
+          "AMZN",
+          "TSLA",
+          "AAPL"
+        ],
+        "keywords": [
+          "AI",
+          "Meta",
+          "hedge fund",
+          "investment",
+          "technology stocks"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": [
+        {
+          "published_utc": "2025-09-15T10:17:43Z",
+          "title": "Institutional Positioning Cautious And Opportunistic Ahead Of FOMC",
+          "description": "Institutional investors are taking a cautious yet opportunistic approach ahead of the Federal Reserve meeting, with a strategy focusing on defensive stocks and selective growth amid changing yield curve dynamics and anticipated policy easing.",
+          "article_url": "https://www.benzinga.com/government/25/09/47662619/institutional-positioning-cautious-and-opportunistic-ahead-of-fomc",
+          "publisher": "Benzinga",
+          "author": "Finit Benzinga Contributor",
+          "tickers": [
+            "UNH",
+            "QQQ"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "yield curve",
+            "monetary policy",
+            "institutional investing",
+            "market rotation"
+          ]
+        }
+      ]
+    }
+  }
+}

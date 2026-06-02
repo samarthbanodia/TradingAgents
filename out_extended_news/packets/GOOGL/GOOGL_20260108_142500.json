@@ -1,0 +1,221 @@
+{
+  "event": {
+    "event_id": "GOOGL_20260108_142500",
+    "ticker": "GOOGL",
+    "t0_utc": "2026-01-08 14:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2026-01-08T11:25:00+00:00",
+      "end": "2026-01-08T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-01-08T13:42:10Z",
+        "title": "Qatar Is Quietly Becoming The Middle East's AI Superpower",
+        "description": "While Saudi Arabia and the UAE pursue flashy, large-scale AI projects, Qatar is taking a more strategic approach by investing in foundational AI infrastructure and confidential computing. A $20 billion partnership between Qatar Investment Authority and Brookfield focuses on data centers and compute capacity, while Qatar hosts the Gulf's first confidential AI computing facility. This patient, infrastructure-focused strategy positions Qatar to become the region's AI leader by prioritizing trust, compliance, and data security over headline-grabbing announcements.",
+        "article_url": "https://www.benzinga.com/Opinion/26/01/49781715/qatar-is-quietly-becoming-middle-east-ai-superpower?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Ahmad Shadid",
+        "tickers": [
+          "BN",
+          "BNH",
+          "BNJ",
+          "GOOG",
+          "GOOGL",
+          "NVDA",
+          "ORCL",
+          "SFTBY"
+        ],
+        "keywords": [
+          "AI infrastructure",
+          "confidential computing",
+          "data centers",
+          "Middle East AI",
+          "enterprise AI",
+          "data security",
+          "regulatory compliance"
+        ]
+      },
+      {
+        "published_utc": "2026-01-08T14:08:00Z",
+        "title": "While Retail Investors Are Bullish on AI Stocks, Famed Investor Warren Buffett Retired Being Bearish. Will the Stock Market Crash or Rally in 2026?",
+        "description": "Retail investors are overwhelmingly bullish on AI stocks in 2026, with 90% planning to buy or hold them. However, Warren Buffett's recent actions\u2014trimming positions, stockpiling cash, and avoiding stock buybacks\u2014suggest he believes the market is significantly overvalued. While traditional valuation metrics support Buffett's bearish stance, the article argues that AI represents a secular growth trend in its early innings, and the market's composition has shifted heavily toward tech companies with strong fundamentals, making historical comparisons less relevant.",
+        "article_url": "https://www.fool.com/investing/2026/01/08/investor-bull-ai-stocks-warren-buffett-bear/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Geoffrey Seiler",
+        "tickers": [
+          "BRK.A",
+          "BRK.B",
+          "GOOG",
+          "GOOGL",
+          "AMZN",
+          "AAPL",
+          "TSLA"
+        ],
+        "keywords": [
+          "AI stocks",
+          "market valuation",
+          "Warren Buffett",
+          "Berkshire Hathaway",
+          "stock market outlook 2026",
+          "Buffett Indicator",
+          "tech stocks",
+          "secular vs cyclical growth"
+        ]
+      },
+      {
+        "published_utc": "2026-01-08T14:27:00Z",
+        "title": "Where Will Palantir Stock Be in 5 Years?",
+        "description": "Palantir Technologies has been one of the best-performing AI stocks, gaining 135% in 2025 with strong demand for its AI Platform across defense and commercial sectors. However, the article warns that its valuation is historically unsustainable, with a P/S ratio of 115 far exceeding even dot-com bubble peaks for Cisco, Microsoft, and Amazon. The analyst predicts Palantir faces a significant valuation correction over the next five years, making it a potentially risky investment despite solid business fundamentals.",
+        "article_url": "https://www.fool.com/investing/2026/01/08/where-will-palantir-stock-be-in-5-years/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Adam Spatacco",
+        "tickers": [
+          "PLTR",
+          "NVDA",
+          "MSFT",
+          "AMZN",
+          "GOOG",
+          "GOOGL",
+          "META",
+          "AAPL",
+          "TSLA",
+          "CSCO"
+        ],
+        "keywords": [
+          "artificial intelligence",
+          "valuation bubble",
+          "data analytics",
+          "AI Platform",
+          "defense contracts",
+          "enterprise software",
+          "dot-com comparison",
+          "price-to-sales ratio"
+        ]
+      },
+      {
+        "published_utc": "2026-01-08T15:22:00Z",
+        "title": "The Best Technology ETF to Invest $1,000 in Right Now",
+        "description": "The article recommends the Vanguard Growth ETF (VUG) as the best technology ETF for a $1,000 investment, citing its broad exposure to major tech and growth companies, low 0.04% expense ratio, and inclusion of megacap AI stocks like Apple, Microsoft, Nvidia, Google, and Amazon. While acknowledging its top-heavy concentration risk, the author argues it's superior to the narrower Vanguard Information Technology ETF (VGT) for capturing overall technology trends.",
+        "article_url": "https://www.fool.com/investing/2026/01/08/the-best-technology-etf-to-invest-1000-in-right-no/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Matt Frankel, Cfp",
+        "tickers": [
+          "VUG",
+          "VGT",
+          "AAPL",
+          "MSFT",
+          "NVDA",
+          "GOOG",
+          "GOOGL",
+          "AMZN",
+          "TSLA",
+          "LLY"
+        ],
+        "keywords": [
+          "technology ETF",
+          "artificial intelligence",
+          "growth stocks",
+          "index funds",
+          "megacap stocks",
+          "expense ratio",
+          "portfolio diversification"
+        ]
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-01-08T13:41:16Z",
+          "title": "Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Drop\u2014 AZZ, Northrop Grumman, Immuneering In Focus (UPDATED)",
+          "description": "U.S. stock futures declined on Thursday with investors awaiting Supreme Court ruling on tariffs and December jobs reports. AZZ surged on strong earnings, Northrop Grumman jumped on defense spending proposals, while Immuneering tumbled on disappointing trial data and Phathom dropped following stock offering announcement. Constellation Brands rose on better-than-expected earnings.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/49776170/stock-market-today-sp-500-dow-jones-futures-decline-azz-northrop-grumman-immuneering-in-focus?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AZZ",
+            "NOC",
+            "IMRX",
+            "PHAT",
+            "STZ",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market futures",
+            "S&P 500",
+            "Dow Jones",
+            "tariffs",
+            "jobs report",
+            "defense spending",
+            "earnings",
+            "biotech",
+            "pharmaceuticals"
+          ]
+        },
+        {
+          "published_utc": "2026-01-08T14:09:00Z",
+          "title": "How the AI Boom Connects to a 7.9% Dividend Story That Started in 1854",
+          "description": "The article argues that the AI market is not in a bubble, citing moderating NVIDIA stock gains and valuations comparable to Costco. It recommends the Adams Diversified Equity Fund (ADX), a closed-end fund with a 7.9% yield and roots dating to 1854, as a dividend-focused way to benefit from continued AI growth while beating the S&P 500.",
+          "article_url": "https://www.investing.com/analysis/how-the-ai-boom-connects-to-a-79-dividend-story-that-started-in-1854-200672906",
+          "publisher": "Investing.com",
+          "author": "Michael Foster",
+          "tickers": [
+            "NVDA",
+            "COST",
+            "TSLA",
+            "SPY"
+          ],
+          "keywords": [
+            "AI boom",
+            "NVIDIA",
+            "valuation",
+            "bubble concerns",
+            "dividend investing",
+            "closed-end fund",
+            "data center spending",
+            "S&P 500"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-01-08T13:41:16Z",
+          "title": "Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Drop\u2014 AZZ, Northrop Grumman, Immuneering In Focus (UPDATED)",
+          "description": "U.S. stock futures declined on Thursday with investors awaiting Supreme Court ruling on tariffs and December jobs reports. AZZ surged on strong earnings, Northrop Grumman jumped on defense spending proposals, while Immuneering tumbled on disappointing trial data and Phathom dropped following stock offering announcement. Constellation Brands rose on better-than-expected earnings.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/49776170/stock-market-today-sp-500-dow-jones-futures-decline-azz-northrop-grumman-immuneering-in-focus?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AZZ",
+            "NOC",
+            "IMRX",
+            "PHAT",
+            "STZ",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market futures",
+            "S&P 500",
+            "Dow Jones",
+            "tariffs",
+            "jobs report",
+            "defense spending",
+            "earnings",
+            "biotech",
+            "pharmaceuticals"
+          ]
+        }
+      ]
+    }
+  }
+}

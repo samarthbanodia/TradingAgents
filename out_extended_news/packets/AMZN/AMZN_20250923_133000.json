@@ -1,0 +1,44 @@
+{
+  "event": {
+    "event_id": "AMZN_20250923_133000",
+    "ticker": "AMZN",
+    "t0_utc": "2025-09-23 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-09-23T10:30:00+00:00",
+      "end": "2025-09-23T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-09-23T13:04:46Z",
+        "title": "Amazon Sues New York State Over New Labor Law, Citing 'Unconstitutional Power Grab'",
+        "description": "Amazon filed a lawsuit against New York State's Public Employment Relations Board, challenging a new labor law that allows state oversight of union organizing and workplace disputes, which Amazon claims infringes on federal labor authority.",
+        "article_url": "https://www.benzinga.com/news/legal/25/09/47816650/amazon-sues-new-york-state-over-new-labor-law-citing-unconstitutional-power-grab",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "AMZN"
+        ],
+        "keywords": [
+          "labor law",
+          "union",
+          "lawsuit",
+          "workforce",
+          "legal dispute"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

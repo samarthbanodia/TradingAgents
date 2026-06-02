@@ -1,0 +1,86 @@
+{
+  "event": {
+    "event_id": "NVDA_20251208_143000",
+    "ticker": "NVDA",
+    "t0_utc": "2025-12-08 14:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-12-08T11:30:00+00:00",
+      "end": "2025-12-08T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-12-08T11:55:00Z",
+        "title": "YieldMax\u00ae ETFs Announces Distributions on MSST, NVIT, and TEST",
+        "description": "YieldMax\u00ae announced weekly distributions for three ETFs tracking MSTR, NVDA, and TSLA, with distribution rates ranging from 57.15% to 98.32%, targeting a 25% annual income level.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/12/08/3201384/0/en/YieldMax-ETFs-Announces-Distributions-on-MSST-NVIT-and-TEST.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Yieldmax\u00ae Etfs",
+        "tickers": [
+          "NVDA",
+          "TSLA"
+        ],
+        "keywords": [
+          "ETF",
+          "distribution",
+          "income",
+          "options",
+          "weekly distributions"
+        ]
+      },
+      {
+        "published_utc": "2025-12-08T13:45:00Z",
+        "title": "Global AI-Powered Humanoid Robots Market Size Expected to Reach $7.73 Billion as Engineering Drastically Improves",
+        "description": "The global AI-powered humanoid robots market is projected to grow from $352.3 Million in 2024 to $7.73 Billion by 2034, driven by automation needs, technological advancements, and increasing adoption across healthcare, manufacturing, and retail sectors.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/12/08/3201568/0/en/Global-AI-Powered-Humanoid-Robots-Market-Size-Expected-to-Reach-7-73-Billion-as-Engineering-Drastically-Improves.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Market.Us",
+        "tickers": [
+          "NVDA",
+          "TSLA",
+          "GOOG",
+          "GOOGL",
+          "QCOM"
+        ],
+        "keywords": [
+          "AI",
+          "humanoid robots",
+          "automation",
+          "robotics",
+          "market growth"
+        ]
+      },
+      {
+        "published_utc": "2025-12-08T14:30:00Z",
+        "title": "CIMG Inc. Announces Execution of Computing Power Product Sales Contracts Totaling Approximately USD 1.779 Million via Subsidiaries",
+        "description": "CIMG Inc. has signed two sales contracts in the computing power sector totaling approximately USD 1.779 million, selling high-performance computing servers and NVIDIA graphics cards through its subsidiaries as part of a strategic expansion in Q4 2025.",
+        "article_url": "https://www.benzinga.com/pressreleases/25/12/n49256570/cimg-inc-announces-execution-of-computing-power-product-sales-contracts-totaling-approximately-usd?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Prnewswire",
+        "tickers": [
+          "IMG",
+          "NVDA"
+        ],
+        "keywords": [
+          "computing power",
+          "sales contracts",
+          "technology",
+          "servers",
+          "graphics cards"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

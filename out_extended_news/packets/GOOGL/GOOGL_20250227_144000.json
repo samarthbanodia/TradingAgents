@@ -1,0 +1,115 @@
+{
+  "event": {
+    "event_id": "GOOGL_20250227_144000",
+    "ticker": "GOOGL",
+    "t0_utc": "2025-02-27 14:40:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-02-27T11:40:00+00:00",
+      "end": "2025-02-27T15:40:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-02-27T13:00:00Z",
+        "title": "Latin American Remote Tech Talent Expands: BairesDev Sees 285% Surge in Remote Applicants in 2024",
+        "description": "The article highlights four key trends shaping the tech industry in 2025: the rise of Latin America as a global tech player, the emergence of 'Silicon Pueblos', the growing demand for AI talent, and the importance of infrastructure and tech education in the region.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/02/27/3033776/0/en/Latin-American-Remote-Tech-Talent-Expands-BairesDev-Sees-285-Surge-in-Remote-Applicants-in-2024.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Bairesdev",
+        "tickers": [
+          "GOOG",
+          "GOOGL",
+          "PINS",
+          "ADBE",
+          "JNJ"
+        ],
+        "keywords": [
+          "LATAM tech talent",
+          "remote work",
+          "Silicon Pueblos",
+          "AI",
+          "nearshoring"
+        ]
+      },
+      {
+        "published_utc": "2025-02-27T13:12:00Z",
+        "title": "3 Reasons Why Microsoft Is the New King of Quantum Computing With Majorana 1",
+        "description": "Microsoft has announced its Majorana 1 quantum chip, a transformative leap in quantum computing. The chip leverages topological superconductors to create smaller, faster, and more stable qubits, addressing key challenges in scaling quantum systems. This positions Microsoft to potentially overtake competitors and offer a full-stack quantum-computing-as-a-service ecosystem.",
+        "article_url": "https://www.fool.com/investing/2025/02/27/3-reasons-why-microsoft-is-the-new-king-of-quantum/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Dan Victor",
+        "tickers": [
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "IBM",
+          "IONQ",
+          "IONQ.WS",
+          "RGTI",
+          "RGTIW",
+          "QBTS",
+          "QBTS.WS",
+          "QUBT"
+        ],
+        "keywords": [
+          "quantum computing",
+          "Microsoft",
+          "Majorana 1",
+          "topological superconductors",
+          "qubits"
+        ]
+      },
+      {
+        "published_utc": "2025-02-27T15:38:58Z",
+        "title": "Why Alphabet Management Is Convinced It Needs to Be a Leader in Artificial Intelligence",
+        "description": "Alphabet's management team is optimistic about the company's prospects in artificial intelligence, as they believe it is crucial for the company to be a leader in this technology.",
+        "article_url": "https://www.fool.com/investing/2025/02/27/why-alphabet-management-is-convinced-they-need-to/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "Alphabet",
+          "artificial intelligence"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-02-27T15:14:55Z",
+          "title": "Trump's Plan For Canada, Mexico, China Tariffs To Start March 4 Could Shake Stock Market",
+          "description": "President Trump plans to impose tariffs on Canada, Mexico, and China starting March 4, which could impact various sectors and worry consumers due to higher costs and potential retaliatory measures.",
+          "article_url": "https://www.benzinga.com/news/global/25/02/44010093/trumps-plan-for-canada-mexico-china-tariffs-to-start-march-4-could-shake-stock-market",
+          "publisher": "Benzinga",
+          "author": "Chris Katje",
+          "tickers": [
+            "DIA",
+            "EWC",
+            "EWW",
+            "MCHI",
+            "SPY"
+          ],
+          "keywords": [
+            "tariffs",
+            "Canada",
+            "Mexico",
+            "China",
+            "stock market"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "event": {
+    "event_id": "TSLA_20241023_200000",
+    "ticker": "TSLA",
+    "t0_utc": "2024-10-23 20:00:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-10-23T17:00:00+00:00",
+      "end": "2024-10-23T21:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-10-23T18:30:00Z",
+        "title": "Tesla: Can Q3 Earnings Spark a Rebound After Recent Setbacks?",
+        "description": "Tesla's Q3 2024 earnings report is eagerly awaited, as the company has failed to exceed earnings per share estimates in previous quarters. Analysts expect the same EPS forecast of $0.46 for Q3, which would require a 26% positive surprise to exceed the year-ago's performance. The company's efforts to bring down costs and stay competitive in the robotaxi market have cut into its profitability, and the upcoming report will be crucial in determining if Tesla can rebound from recent setbacks.",
+        "article_url": "https://www.investing.com/analysis/tesla-can-q3-earnings-spark-a-rebound-after-recent-setbacks-200653347",
+        "publisher": "Investing.com",
+        "author": "The Tokenist",
+        "tickers": [
+          "TSLA",
+          "BIDU",
+          "BYDDY"
+        ],
+        "keywords": [
+          "Tesla",
+          "earnings",
+          "robotaxi",
+          "cost-cutting",
+          "profitability"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

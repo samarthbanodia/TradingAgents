@@ -1,0 +1,45 @@
+{
+  "event": {
+    "event_id": "PLTR_20240716_093000",
+    "ticker": "PLTR",
+    "t0_utc": "2024-07-16 09:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-07-16T06:30:00+00:00",
+      "end": "2024-07-16T10:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-07-16T09:27:45Z",
+        "title": "Peter Thiel's Ties With JD Vance May Influence Palantir Co-Founder's Position On Trump Post VP Selection, Says Tech Investor - Benzinga",
+        "description": "The selection of J.D. Vance as Donald Trump's running mate for the 2024 presidential election could potentially influence the stance of Palantir co-founder Peter Thiel towards Trump, given their close ties. This move could lead Thiel to reconsider his previous decision not to donate to Trump's campaign.",
+        "article_url": "https://www.benzinga.com/news/24/07/39787707/peter-thiels-ties-with-jd-vance-may-influence-palantir-co-founders-position-on-trump-post-vp-selecti",
+        "publisher": "Benzinga",
+        "author": "Benzinga Neuro, Benzinga Staff Writer",
+        "tickers": [
+          "PLTR",
+          "PYPL",
+          "RUM"
+        ],
+        "keywords": [
+          "Peter Thiel",
+          "J.D. Vance",
+          "Palantir",
+          "Donald Trump"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

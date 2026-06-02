@@ -1,0 +1,42 @@
+{
+  "event": {
+    "event_id": "AAPL_20241111_142500",
+    "ticker": "AAPL",
+    "t0_utc": "2024-11-11 14:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-11-11T11:25:00+00:00",
+      "end": "2024-11-11T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-11-11T14:45:00Z",
+        "title": "Apple Stock Investors Are Excited About Its Prospects Following New Product Releases",
+        "description": "Apple's new line of iPhones will receive enhancements via software updates that incorporate more artificial intelligence, which has investors excited about the company's prospects.",
+        "article_url": "https://www.fool.com/investing/2024/11/11/apple-stock-investors-are-excited-about-its-prospe/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "AAPL"
+        ],
+        "keywords": [
+          "Apple",
+          "iPhone",
+          "artificial intelligence"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

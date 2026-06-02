@@ -1,0 +1,69 @@
+{
+  "event": {
+    "event_id": "MSFT_20250402_195500",
+    "ticker": "MSFT",
+    "t0_utc": "2025-04-02 19:55:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-04-02T16:55:00+00:00",
+      "end": "2025-04-02T20:55:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-04-02T19:24:00Z",
+        "title": "Liberation Day Tariffs: Potential Impact on the US Stock Market",
+        "description": "The article discusses the potential impact of the Trump administration's tariff plans, known as 'Liberation Day Tariffs', on the US stock market. It highlights the uncertainty and volatility in the markets as investors try to gauge the effects of these tariffs on corporate profits, global growth, inflation, and Federal Reserve interest rate decisions.",
+        "article_url": "https://www.investing.com/analysis/liberation-day-tariffs-potential-impact-on-the-us-stock-market-200659005",
+        "publisher": "Investing.com",
+        "author": "Zain Vawda",
+        "tickers": [
+          "AAPL",
+          "MSFT",
+          "NVDA"
+        ],
+        "keywords": [
+          "tariffs",
+          "trade war",
+          "stock market",
+          "S&P 500",
+          "Dow Jones",
+          "technology stocks"
+        ]
+      },
+      {
+        "published_utc": "2025-04-02T19:38:00Z",
+        "title": "Amazon: Potential TikTok Acquisition Could Take the Stock to $306",
+        "description": "Amazon has made a bid to acquire TikTok's U.S. operations, which could complement its e-commerce activities. The move comes amid national security concerns over TikTok's Chinese ownership, with the U.S. government pressing for changes. Analysts maintain a strong buy recommendation for Amazon, with a high target price of $306.",
+        "article_url": "https://www.investing.com/analysis/amazon-potential-tiktok-acquisition-could-take-the-stock-to-306-200659006",
+        "publisher": "Investing.com",
+        "author": "The Tokenist",
+        "tickers": [
+          "AMZN",
+          "ORCL",
+          "BX",
+          "MSFT",
+          "WMT"
+        ],
+        "keywords": [
+          "Amazon",
+          "TikTok",
+          "acquisition",
+          "e-commerce",
+          "national security"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

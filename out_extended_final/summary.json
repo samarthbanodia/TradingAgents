@@ -1,0 +1,143 @@
+{
+  "total_candidates": 3372,
+  "eligible_after_hard_gates": 3371,
+  "selected_count": 800,
+  "per_ticker": {
+    "AAPL": 73,
+    "MSFT": 52,
+    "NVDA": 77,
+    "TSLA": 74,
+    "META": 58,
+    "AMD": 64,
+    "NFLX": 47,
+    "PLTR": 71,
+    "AMZN": 56,
+    "GOOGL": 66,
+    "JPM": 46,
+    "COIN": 63,
+    "SPY": 17,
+    "QQQ": 21,
+    "XLK": 15
+  },
+  "per_label": {
+    "continuation": 490,
+    "reversal": 230,
+    "unclear": 80
+  },
+  "unclear_kept": 80,
+  "keep_reason_counts": {
+    "min_quota": 525,
+    "top_global": 195,
+    "high_strength_unclear": 80
+  },
+  "strength_score_quantiles": {
+    "p10": 0.7463,
+    "p25": 0.7666,
+    "p50": 0.8062,
+    "p75": 0.8446,
+    "p90": 0.889
+  },
+  "top_10_by_magnitude": [
+    {
+      "event_id": "AMD_20251006_105000",
+      "ticker": "AMD",
+      "t0_utc": "2025-10-06 10:50:00+00:00",
+      "peak_abs_ret_3_bp": 2365.8,
+      "peak_z_ret_3": 6.28,
+      "strength_score": 1.0,
+      "label_proxy": "continuation",
+      "direction": 1
+    },
+    {
+      "event_id": "PLTR_20240805_200000",
+      "ticker": "PLTR",
+      "t0_utc": "2024-08-05 20:00:00+00:00",
+      "peak_abs_ret_3_bp": 1713.6,
+      "peak_z_ret_3": 5.96,
+      "strength_score": 0.7625,
+      "label_proxy": "continuation",
+      "direction": 1
+    },
+    {
+      "event_id": "PLTR_20250203_210500",
+      "ticker": "PLTR",
+      "t0_utc": "2025-02-03 21:05:00+00:00",
+      "peak_abs_ret_3_bp": 1499.7,
+      "peak_z_ret_3": 6.45,
+      "strength_score": 0.7982,
+      "label_proxy": "continuation",
+      "direction": 1
+    },
+    {
+      "event_id": "NFLX_20260226_211500",
+      "ticker": "NFLX",
+      "t0_utc": "2026-02-26 21:15:00+00:00",
+      "peak_abs_ret_3_bp": 1157.7,
+      "peak_z_ret_3": 4.81,
+      "strength_score": 0.7511,
+      "label_proxy": "reversal",
+      "direction": 1
+    },
+    {
+      "event_id": "NFLX_20250121_205500",
+      "ticker": "NFLX",
+      "t0_utc": "2025-01-21 20:55:00+00:00",
+      "peak_abs_ret_3_bp": 1061.5,
+      "peak_z_ret_3": 5.18,
+      "strength_score": 0.7926,
+      "label_proxy": "continuation",
+      "direction": 1
+    },
+    {
+      "event_id": "NFLX_20260416_200000",
+      "ticker": "NFLX",
+      "t0_utc": "2026-04-16 20:00:00+00:00",
+      "peak_abs_ret_3_bp": 1015.1,
+      "peak_z_ret_3": 5.66,
+      "strength_score": 0.8408,
+      "label_proxy": "unclear",
+      "direction": -1
+    },
+    {
+      "event_id": "META_20250730_200000",
+      "ticker": "META",
+      "t0_utc": "2025-07-30 20:00:00+00:00",
+      "peak_abs_ret_3_bp": 982.9,
+      "peak_z_ret_3": 5.94,
+      "strength_score": 0.7974,
+      "label_proxy": "continuation",
+      "direction": 1
+    },
+    {
+      "event_id": "COIN_20250731_195500",
+      "ticker": "COIN",
+      "t0_utc": "2025-07-31 19:55:00+00:00",
+      "peak_abs_ret_3_bp": 974.4,
+      "peak_z_ret_3": 5.31,
+      "strength_score": 0.7403,
+      "label_proxy": "continuation",
+      "direction": -1
+    },
+    {
+      "event_id": "MSFT_20240730_194500",
+      "ticker": "MSFT",
+      "t0_utc": "2024-07-30 19:45:00+00:00",
+      "peak_abs_ret_3_bp": 870.4,
+      "peak_z_ret_3": 5.29,
+      "strength_score": 0.7717,
+      "label_proxy": "reversal",
+      "direction": 1
+    },
+    {
+      "event_id": "COIN_20250512_211500",
+      "ticker": "COIN",
+      "t0_utc": "2025-05-12 21:15:00+00:00",
+      "peak_abs_ret_3_bp": 866.4,
+      "peak_z_ret_3": 5.92,
+      "strength_score": 0.7434,
+      "label_proxy": "continuation",
+      "direction": 1
+    }
+  ],
+  "rationale": "label_proxy is outcome-based (what happened 60 min after the spike), not a prediction. We prioritise clear outcomes (continuation/reversal) for early evaluation of the agentic debate system, while keeping a small high-strength unclear slice (~10-15%) to represent genuine uncertainty / sideways consolidation. Per-ticker quotas and temporal de-duplication prevent concentration in volatile names or single macro-shock days. Strength scoring uses per-ticker robust scaling (median/IQR) so volatile stocks like TSLA and NVDA do not dominate the selection."
+}

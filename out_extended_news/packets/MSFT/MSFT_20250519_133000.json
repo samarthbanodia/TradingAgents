@@ -1,0 +1,61 @@
+{
+  "event": {
+    "event_id": "MSFT_20250519_133000",
+    "ticker": "MSFT",
+    "t0_utc": "2025-05-19 13:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "unclear",
+    "window": {
+      "start": "2025-05-19T10:30:00+00:00",
+      "end": "2025-05-19T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-05-19T14:00:00Z",
+        "title": "Adaptive AI Market to Reach USD 33.6 Billion by 2032, Driven by Demand Across Healthcare, Finance, and Manufacturing | SNS Insider",
+        "description": "The Adaptive AI market is rapidly expanding, driven by growing demand for sophisticated AI solutions in industries like healthcare, finance, and manufacturing. The market is expected to reach USD 33.6 billion by 2032, reflecting a robust CAGR of 44.80% from 2024 to 2032.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/05/19/3084133/0/en/Adaptive-AI-Market-to-Reach-USD-33-6-Billion-by-2032-Driven-by-Demand-Across-Healthcare-Finance-and-Manufacturing-SNS-Insider.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Sns Insider",
+        "tickers": [
+          "IBM",
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "AMZN",
+          "NVDA",
+          "INTC",
+          "SAP",
+          "ORCL",
+          "SIEGY",
+          "CSCO",
+          "CRM",
+          "META",
+          "HPE",
+          "HPEpC",
+          "ACN",
+          "AI"
+        ],
+        "keywords": [
+          "Adaptive AI",
+          "Healthcare",
+          "Finance",
+          "Manufacturing",
+          "Automation",
+          "Decision-making"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

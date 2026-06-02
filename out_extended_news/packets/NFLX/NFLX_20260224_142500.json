@@ -1,0 +1,125 @@
+{
+  "event": {
+    "event_id": "NFLX_20260224_142500",
+    "ticker": "NFLX",
+    "t0_utc": "2026-02-24 14:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2026-02-24T11:25:00+00:00",
+      "end": "2026-02-24T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-02-24T11:51:11Z",
+        "title": "Paramount Skydance Elevates Bid For Warner Bros Discovery: Report",
+        "description": "Paramount Skydance has increased its bid for Warner Bros Discovery beyond its initial $108.4 billion ($30 per share) offer to $31 per share, intensifying competition with Netflix. Director James Cameron warned that Netflix's acquisition could damage the theatrical film business. Warner Bros is expected to consider Paramount's offer while still recommending the Netflix deal to shareholders, with Netflix able to match any offer under merger agreement terms.",
+        "article_url": "https://www.benzinga.com/m-a/26/02/50808446/paramount-skydance-elevates-bid-for-warner-bros-discovery-report?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "PSKY",
+          "WBD",
+          "NFLX"
+        ],
+        "keywords": [
+          "acquisition",
+          "bid",
+          "Warner Bros Discovery",
+          "streaming",
+          "M&A",
+          "Hollywood",
+          "theatrical films"
+        ]
+      },
+      {
+        "published_utc": "2026-02-24T13:35:28Z",
+        "title": "UK To Regulate Streaming Services Like Netflix, Amazon Prime, Disney+ Like Traditional Broadcasters",
+        "description": "The UK government has brought streaming platforms under Ofcom's broadcasting code jurisdiction. Major streaming services must now provide subtitles for 80% of content, audio descriptions for 10%, and signed content for 5%. Services with over 500,000 UK users must also ensure accurate and impartial news coverage, aligning streaming regulation with traditional broadcasters.",
+        "article_url": "https://www.benzinga.com/news/entertainment/26/02/50812320/uk-to-regulate-streaming-services-like-netflix-amazon-prime-disney-like-traditional-broadcaste?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "NFLX",
+          "AMZN",
+          "DIS"
+        ],
+        "keywords": [
+          "streaming regulation",
+          "Ofcom",
+          "accessibility requirements",
+          "broadcasting code",
+          "UK government",
+          "content standards"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-02-24T13:31:53Z",
+          "title": "Stock Market Today: S&P 500 Futures Slip As Dow, Nasdaq 100 Gain Following Trump's Tariff Threat \u2014 Whirlpool, Uber, HP In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Tuesday following Monday's sell-off triggered by AI-related economic concerns and a viral 'Global Intelligence Crisis' report. Market sentiment remains cautious amid Trump's tariff threats and geopolitical tensions. Key movers include Keysight Technologies surging 16% on strong earnings, Vir Biotechnology jumping 63% on revenue beat, and Whirlpool plunging 7.46% after announcing an $800 million capital raise.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50806573/stock-market-today-dow-jones-nasdaq-100-futures-gain-amid-ai-led-sell-off-trumps-threat-to-tradi?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "KEYS",
+            "VIR",
+            "WHR",
+            "HPQ",
+            "UBER",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "AI sell-off",
+            "tariffs",
+            "earnings",
+            "Federal Reserve",
+            "Treasury yields",
+            "market sentiment"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-02-24T13:31:53Z",
+          "title": "Stock Market Today: S&P 500 Futures Slip As Dow, Nasdaq 100 Gain Following Trump's Tariff Threat \u2014 Whirlpool, Uber, HP In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Tuesday following Monday's sell-off triggered by AI-related economic concerns and a viral 'Global Intelligence Crisis' report. Market sentiment remains cautious amid Trump's tariff threats and geopolitical tensions. Key movers include Keysight Technologies surging 16% on strong earnings, Vir Biotechnology jumping 63% on revenue beat, and Whirlpool plunging 7.46% after announcing an $800 million capital raise.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50806573/stock-market-today-dow-jones-nasdaq-100-futures-gain-amid-ai-led-sell-off-trumps-threat-to-tradi?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "KEYS",
+            "VIR",
+            "WHR",
+            "HPQ",
+            "UBER",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "AI sell-off",
+            "tariffs",
+            "earnings",
+            "Federal Reserve",
+            "Treasury yields",
+            "market sentiment"
+          ]
+        }
+      ]
+    }
+  }
+}

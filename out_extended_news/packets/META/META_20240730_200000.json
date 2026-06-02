@@ -1,0 +1,97 @@
+{
+  "event": {
+    "event_id": "META_20240730_200000",
+    "ticker": "META",
+    "t0_utc": "2024-07-30 20:00:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-07-30T17:00:00+00:00",
+      "end": "2024-07-30T21:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-07-30T18:05:00Z",
+        "title": "Will Higher Ad Revenues Aid Meta Platforms' (META) Q2 Earnings?",
+        "description": "Meta Platforms' (META) second-quarter 2024 results are expected to benefit from strong advertising revenue growth, driven by AI-powered improvements in ad ranking and measurement. The company's focus on user safety and well-being initiatives is also expected to drive user base growth.",
+        "article_url": "https://www.zacks.com/stock/news/2312308/will-higher-ad-revenues-aid-meta-platforms-meta-q2-earnings?cid=CS-ZC-FT-analyst_blog|earnings_preview-2312308",
+        "publisher": "Zacks Investment Research",
+        "author": "N/A",
+        "tickers": [
+          "META",
+          "GOOG",
+          "GOOGL",
+          "DOCN",
+          "MGNI"
+        ],
+        "keywords": [
+          "Meta Platforms",
+          "advertising revenues",
+          "AI",
+          "user growth"
+        ]
+      },
+      {
+        "published_utc": "2024-07-30T18:51:00Z",
+        "title": "Top Research Reports for Microsoft, Meta & JPMorgan Chase",
+        "description": "The article discusses the latest research reports on 16 major stocks, including Microsoft, Meta Platforms, JPMorgan Chase, and Applied Energetics. It highlights the key factors driving the performance of these companies and the challenges they face.",
+        "article_url": "https://www.zacks.com/commentary/2311674/top-research-reports-for-microsoft-meta-jpmorgan-chase?cid=CS-ZC-FT-research_daily-2311674",
+        "publisher": "Zacks Investment Research",
+        "author": "Sheraz Mian",
+        "tickers": [
+          "MSFT",
+          "META",
+          "AMJB",
+          "JPM",
+          "JPMpC",
+          "JPMpD",
+          "JPMpJ",
+          "JPMpK",
+          "JPMpL",
+          "JPMpM",
+          "AERG"
+        ],
+        "keywords": [
+          "Microsoft",
+          "Meta Platforms",
+          "JPMorgan Chase",
+          "Applied Energetics",
+          "Intuitive Surgical",
+          "Sony",
+          "Carrier"
+        ]
+      },
+      {
+        "published_utc": "2024-07-30T20:31:00Z",
+        "title": "Arm Holdings: Is the AI Stock a Buy Heading into Earnings?",
+        "description": "Arm Holdings, a key player in the AI theme, is set to report earnings on July 31. The company has consistently exceeded expectations, with strong royalty and licensing revenue. However, the recent broader weakness in AI stocks could weigh on Arm's post-earnings performance if the results don't impress the market. Meta Platforms, a partner of Arm, is also reporting earnings, with investors focused on the company's AI-related capital expenditures.",
+        "article_url": "https://www.zacks.com/commentary/2312328/arm-holdings-is-the-ai-stock-a-buy-heading-into-earnings?cid=CS-ZC-FT-investment_ideas-2312328",
+        "publisher": "Zacks Investment Research",
+        "author": "Zacks Investment Research",
+        "tickers": [
+          "ARM",
+          "META",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "Arm Holdings",
+          "AI",
+          "Meta Platforms",
+          "Alphabet"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

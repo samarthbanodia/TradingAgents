@@ -1,0 +1,162 @@
+{
+  "event": {
+    "event_id": "TSLA_20250212_120000",
+    "ticker": "TSLA",
+    "t0_utc": "2025-02-12 12:00:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-02-12T09:00:00+00:00",
+      "end": "2025-02-12T13:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-02-12T11:13:34Z",
+        "title": "US Stocks Set For A Cautious Start Ahead Of Inflation Data: Expert Says 'Strong Bull Markets Tend To Roar Back To Life After Corrections'",
+        "description": "U.S. stock futures fell ahead of the release of inflation data, with traders expecting a modest report that could signal easing price pressures and potential interest rate cuts by the Federal Reserve. Experts noted a 'weak recovery' in the market, but sentiment remains constructive.",
+        "article_url": "https://www.benzinga.com/government/regulations/25/02/43651497/us-stocks-set-for-a-cautious-start-ahead-of-inflation-data-expert-says-strong-bull-markets",
+        "publisher": "Benzinga",
+        "author": "Rishabh Mishra",
+        "tickers": [
+          "BIIB",
+          "CME",
+          "CSCO",
+          "CVS",
+          "DASH",
+          "HOOD",
+          "KHC",
+          "KO",
+          "PBI",
+          "PBIpB",
+          "QQQ",
+          "RDDT",
+          "SPY",
+          "TSLA",
+          "Z",
+          "ZG"
+        ],
+        "keywords": [
+          "US stocks",
+          "inflation data",
+          "Federal Reserve",
+          "market sentiment"
+        ]
+      },
+      {
+        "published_utc": "2025-02-12T11:23:00Z",
+        "title": "Could Dogecoin Make You a Millionaire in 2025?",
+        "description": "The article discusses the pros and cons of investing in Dogecoin, a meme cryptocurrency. While Dogecoin has name recognition and high-profile backers like Elon Musk, its inflationary design and lack of fundamental advantages may make it a risky long-term investment.",
+        "article_url": "https://www.fool.com/investing/2025/02/12/could-dogecoin-make-you-a-millionaire-in-2025/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Will Ebiefung",
+        "tickers": [
+          "TSLA",
+          "GSOL",
+          "ETHV"
+        ],
+        "keywords": [
+          "Dogecoin",
+          "cryptocurrency",
+          "meme coin",
+          "inflation",
+          "Elon Musk"
+        ]
+      },
+      {
+        "published_utc": "2025-02-12T12:54:00Z",
+        "title": "Could Uber Be Your Ticket to Becoming a Millionaire by 2035?",
+        "description": "Uber Technologies reported mixed financial results for Q4 2024, with revenue beating expectations but adjusted earnings per share falling short. However, the company's shares have surged 125% in the past 24 months. Uber sees significant growth potential, particularly with its Uber One membership program, and is investing in autonomous vehicle technology to stay ahead of the competition.",
+        "article_url": "https://www.fool.com/investing/2025/02/12/uber-be-your-ticket-becoming-millionaire-2035/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Neil Patel",
+        "tickers": [
+          "UBER",
+          "TSLA"
+        ],
+        "keywords": [
+          "Uber Technologies",
+          "earnings",
+          "autonomous vehicles",
+          "Uber One"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-02-12T11:13:34Z",
+          "title": "US Stocks Set For A Cautious Start Ahead Of Inflation Data: Expert Says 'Strong Bull Markets Tend To Roar Back To Life After Corrections'",
+          "description": "U.S. stock futures fell ahead of the release of inflation data, with traders expecting a modest report that could signal easing price pressures and potential interest rate cuts by the Federal Reserve. Experts noted a 'weak recovery' in the market, but sentiment remains constructive.",
+          "article_url": "https://www.benzinga.com/government/regulations/25/02/43651497/us-stocks-set-for-a-cautious-start-ahead-of-inflation-data-expert-says-strong-bull-markets",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "BIIB",
+            "CME",
+            "CSCO",
+            "CVS",
+            "DASH",
+            "HOOD",
+            "KHC",
+            "KO",
+            "PBI",
+            "PBIpB",
+            "QQQ",
+            "RDDT",
+            "SPY",
+            "TSLA",
+            "Z",
+            "ZG"
+          ],
+          "keywords": [
+            "US stocks",
+            "inflation data",
+            "Federal Reserve",
+            "market sentiment"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-02-12T11:13:34Z",
+          "title": "US Stocks Set For A Cautious Start Ahead Of Inflation Data: Expert Says 'Strong Bull Markets Tend To Roar Back To Life After Corrections'",
+          "description": "U.S. stock futures fell ahead of the release of inflation data, with traders expecting a modest report that could signal easing price pressures and potential interest rate cuts by the Federal Reserve. Experts noted a 'weak recovery' in the market, but sentiment remains constructive.",
+          "article_url": "https://www.benzinga.com/government/regulations/25/02/43651497/us-stocks-set-for-a-cautious-start-ahead-of-inflation-data-expert-says-strong-bull-markets",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "BIIB",
+            "CME",
+            "CSCO",
+            "CVS",
+            "DASH",
+            "HOOD",
+            "KHC",
+            "KO",
+            "PBI",
+            "PBIpB",
+            "QQQ",
+            "RDDT",
+            "SPY",
+            "TSLA",
+            "Z",
+            "ZG"
+          ],
+          "keywords": [
+            "US stocks",
+            "inflation data",
+            "Federal Reserve",
+            "market sentiment"
+          ]
+        }
+      ]
+    }
+  }
+}

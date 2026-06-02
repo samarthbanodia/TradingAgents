@@ -1,0 +1,49 @@
+{
+  "event": {
+    "event_id": "MSFT_20260324_133000",
+    "ticker": "MSFT",
+    "t0_utc": "2026-03-24 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-03-24T10:30:00+00:00",
+      "end": "2026-03-24T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-03-24T13:15:00Z",
+        "title": "Meta Just Signed a $27 Billion Artificial Intelligence (AI) Deal. Here's the Under-the-Radar Stock That Won.",
+        "description": "Meta announced a $27 billion capacity deal with neocloud provider Nebius Group to secure access to Nvidia's Vera Rubin GPU architecture across multiple data centers. The deal, which includes $12 billion in committed capacity and $15 billion in optional capacity, allows Meta to diversify its AI infrastructure supply chain while avoiding full capital burdens of building data centers internally. Nebius, which also has partnerships with Microsoft ($19.4B) and Nvidia ($2B investment), is positioned as a critical supplier in the undersupplied AI compute market.",
+        "article_url": "https://www.fool.com/investing/2026/03/24/meta-just-signed-a-27-billion-artificial-intellige/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Adam Spatacco",
+        "tickers": [
+          "META",
+          "NBIS",
+          "MSFT",
+          "NVDA"
+        ],
+        "keywords": [
+          "AI infrastructure",
+          "GPU capacity",
+          "data centers",
+          "neocloud provider",
+          "capital expenditure",
+          "AI hyperscalers",
+          "vertically integrated infrastructure"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

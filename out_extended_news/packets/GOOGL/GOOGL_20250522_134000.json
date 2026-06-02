@@ -1,0 +1,128 @@
+{
+  "event": {
+    "event_id": "GOOGL_20250522_134000",
+    "ticker": "GOOGL",
+    "t0_utc": "2025-05-22 13:40:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-05-22T10:40:00+00:00",
+      "end": "2025-05-22T14:40:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-05-22T11:15:00Z",
+        "title": "3 No-Brainer Artificial Intelligence (AI) Stocks to Buy Right Now",
+        "description": "The article discusses three AI stocks that still look like solid long-term buys despite recent market volatility: Nvidia, Taiwan Semiconductor, and Alphabet. The author provides a bullish outlook for each company based on their strong positioning in the AI market and growth prospects.",
+        "article_url": "https://www.fool.com/investing/2025/05/22/3-no-brainer-artificial-intelligence-ai-stocks-to/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Keithen Drury",
+        "tickers": [
+          "NVDA",
+          "TSM",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "AI stocks",
+          "Nvidia",
+          "Taiwan Semiconductor",
+          "Alphabet"
+        ]
+      },
+      {
+        "published_utc": "2025-05-22T12:15:00Z",
+        "title": "Is Arm Holdings Stock a Buy Now?",
+        "description": "Arm Holdings, a British technology company, has seen its stock price rise significantly since its IPO in 2023. However, the stock has recently experienced some volatility due to broader market conditions and concerns about the impact of tariffs on its business. Despite the expensive valuation, the company's growth in the AI server market and the potential for its Armv9 architecture to drive higher royalties make it an attractive long-term investment.",
+        "article_url": "https://www.fool.com/investing/2025/05/22/is-arm-holdings-stock-a-buy-now/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Harsh Chauhan",
+        "tickers": [
+          "ARM",
+          "NVDA",
+          "GOOG",
+          "GOOGL",
+          "MSFT"
+        ],
+        "keywords": [
+          "Arm Holdings",
+          "semiconductor industry",
+          "AI",
+          "Armv9 architecture",
+          "tariffs"
+        ]
+      },
+      {
+        "published_utc": "2025-05-22T14:00:00Z",
+        "title": "The Rise of Multimodal AI Market: A $4.5 billion Industry Dominated by Tech Giants - Google (US), Microsoft (US), OpenAI (US) | MarketsandMarkets\u2122",
+        "description": "The global Multimodal AI Market is projected to grow from USD 1.0 billion in 2023 to USD 4.5 billion in 2028, at a CAGR of 35.0% during the forecast period. The need to analyze unstructured data, the ability of multimodal AI to handle complex tasks, and the availability of large-scale machine learning models are driving the market growth.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/05/22/3086785/0/en/The-Rise-of-Multimodal-AI-Market-A-4-5-billion-Industry-Dominated-by-Tech-Giants-Google-US-Microsoft-US-OpenAI-US-MarketsandMarkets.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Marketsandmarkets\u2122",
+        "tickers": [
+          "GOOG",
+          "GOOGL",
+          "MSFT",
+          "IBM"
+        ],
+        "keywords": [
+          "Multimodal AI",
+          "AI market",
+          "data analysis",
+          "machine learning"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-05-22T11:18:43Z",
+          "title": "Jamie Dimon Says US Is Not In A 'Sweet Spot,' Flags Stagflation Risk And Deficit Problems Amid Trump-China Tensions",
+          "description": "JPMorgan Chase CEO Jamie Dimon warned that the US economy is likely to face stagflation due to geopolitical risks, high deficits, and inflationary pressures. He urged the government to address the deficit problems, which could lead to a reduction in US dollar assets.",
+          "article_url": "https://www.benzinga.com/government/regulations/25/05/45561399/jamie-dimon-says-us-is-not-in-a-sweet-spot-flags-stagflation-risk-and-deficit-problems-ami",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "stagflation",
+            "deficit",
+            "geopolitics",
+            "inflation",
+            "trade tensions"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-05-22T11:18:43Z",
+          "title": "Jamie Dimon Says US Is Not In A 'Sweet Spot,' Flags Stagflation Risk And Deficit Problems Amid Trump-China Tensions",
+          "description": "JPMorgan Chase CEO Jamie Dimon warned that the US economy is likely to face stagflation due to geopolitical risks, high deficits, and inflationary pressures. He urged the government to address the deficit problems, which could lead to a reduction in US dollar assets.",
+          "article_url": "https://www.benzinga.com/government/regulations/25/05/45561399/jamie-dimon-says-us-is-not-in-a-sweet-spot-flags-stagflation-risk-and-deficit-problems-ami",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "stagflation",
+            "deficit",
+            "geopolitics",
+            "inflation",
+            "trade tensions"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "event": {
+    "event_id": "COIN_20250925_131500",
+    "ticker": "COIN",
+    "t0_utc": "2025-09-25 13:15:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-09-25T10:15:00+00:00",
+      "end": "2025-09-25T14:15:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-09-25T13:36:00Z",
+          "title": "Global Dividend Growth Accelerates as the Bull Market Turns 3",
+          "description": "Global dividend increases are tracking above previous years, with 71.9% of dividend changes being positive in 2025. The trend is supported by a weaker US dollar, resilient consumer spending, and strong corporate earnings, despite cautious CEO sentiment.",
+          "article_url": "https://www.investing.com/analysis/global-dividend-growth-accelerates-as-the-bull-market-turns-3-200667500",
+          "publisher": "Investing.com",
+          "author": "Christine Short",
+          "tickers": [
+            "AMJB",
+            "JPM",
+            "JPMpC",
+            "JPMpD",
+            "JPMpJ",
+            "JPMpK",
+            "JPMpL",
+            "JPMpM",
+            "VYLD",
+            "ACWX",
+            "SPY",
+            "BRK.A",
+            "BRK.B"
+          ],
+          "keywords": [
+            "dividends",
+            "bull market",
+            "corporate earnings",
+            "US dollar",
+            "consumer spending"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

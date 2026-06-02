@@ -1,0 +1,297 @@
+{
+  "total_events": 800,
+  "label_distribution": {
+    "reversal": 230,
+    "continuation": 490,
+    "unclear": 80
+  },
+  "strategy_comparison": {
+    "micro_v3": {
+      "name": "Micro V3 alone",
+      "n": 800,
+      "accuracy_3way": 0.3638,
+      "accuracy_clear_subset": 0.4042,
+      "clear_subset_n": 720,
+      "confusion_matrix": {
+        "continuation": {
+          "continuation": 132,
+          "reversal": 358,
+          "unclear": 0
+        },
+        "reversal": {
+          "continuation": 71,
+          "reversal": 159,
+          "unclear": 0
+        },
+        "unclear": {
+          "continuation": 32,
+          "reversal": 48,
+          "unclear": 0
+        }
+      },
+      "prediction_distribution": {
+        "reversal": 565,
+        "continuation": 235
+      }
+    },
+    "news_v3": {
+      "name": "News V3 alone",
+      "n": 800,
+      "accuracy_3way": 0.3375,
+      "accuracy_clear_subset": 0.375,
+      "clear_subset_n": 720,
+      "confusion_matrix": {
+        "continuation": {
+          "continuation": 66,
+          "reversal": 424,
+          "unclear": 0
+        },
+        "reversal": {
+          "continuation": 26,
+          "reversal": 204,
+          "unclear": 0
+        },
+        "unclear": {
+          "continuation": 13,
+          "reversal": 67,
+          "unclear": 0
+        }
+      },
+      "prediction_distribution": {
+        "reversal": 695,
+        "continuation": 105
+      }
+    },
+    "macro_v3": {
+      "name": "Macro V3 alone",
+      "n": 800,
+      "accuracy_3way": 0.4412,
+      "accuracy_clear_subset": 0.4903,
+      "clear_subset_n": 720,
+      "confusion_matrix": {
+        "continuation": {
+          "continuation": 207,
+          "reversal": 283,
+          "unclear": 0
+        },
+        "reversal": {
+          "continuation": 84,
+          "reversal": 146,
+          "unclear": 0
+        },
+        "unclear": {
+          "continuation": 37,
+          "reversal": 43,
+          "unclear": 0
+        }
+      },
+      "prediction_distribution": {
+        "reversal": 472,
+        "continuation": 328
+      }
+    },
+    "v3_majority": {
+      "name": "V3 majority vote (3 agents)",
+      "n": 800,
+      "accuracy_3way": 0.3525,
+      "accuracy_clear_subset": 0.3917,
+      "clear_subset_n": 720,
+      "confusion_matrix": {
+        "continuation": {
+          "continuation": 100,
+          "reversal": 390,
+          "unclear": 0
+        },
+        "reversal": {
+          "continuation": 48,
+          "reversal": 182,
+          "unclear": 0
+        },
+        "unclear": {
+          "continuation": 27,
+          "reversal": 53,
+          "unclear": 0
+        }
+      },
+      "prediction_distribution": {
+        "reversal": 625,
+        "continuation": 175
+      }
+    },
+    "v3_ensemble": {
+      "name": "V3 ensemble (agents + direction heuristic)",
+      "n": 800,
+      "accuracy_3way": 0.3387,
+      "accuracy_clear_subset": 0.375,
+      "clear_subset_n": 720,
+      "confusion_matrix": {
+        "continuation": {
+          "continuation": 107,
+          "reversal": 362,
+          "unclear": 21
+        },
+        "reversal": {
+          "continuation": 60,
+          "reversal": 163,
+          "unclear": 7
+        },
+        "unclear": {
+          "continuation": 29,
+          "reversal": 50,
+          "unclear": 1
+        }
+      },
+      "prediction_distribution": {
+        "reversal": 575,
+        "continuation": 196,
+        "unclear": 29
+      }
+    },
+    "direction_heuristic": {
+      "name": "Heuristic: up=reversal down=cont",
+      "n": 800,
+      "accuracy_3way": 0.5125,
+      "accuracy_clear_subset": 0.5694,
+      "clear_subset_n": 720,
+      "confusion_matrix": {
+        "continuation": {
+          "continuation": 282,
+          "reversal": 208,
+          "unclear": 0
+        },
+        "reversal": {
+          "continuation": 102,
+          "reversal": 128,
+          "unclear": 0
+        },
+        "unclear": {
+          "continuation": 33,
+          "reversal": 47,
+          "unclear": 0
+        }
+      },
+      "prediction_distribution": {
+        "reversal": 383,
+        "continuation": 417
+      }
+    },
+    "always_reversal": {
+      "name": "Heuristic: always reversal",
+      "n": 800,
+      "accuracy_3way": 0.2875,
+      "accuracy_clear_subset": 0.3194,
+      "clear_subset_n": 720,
+      "confusion_matrix": {
+        "continuation": {
+          "continuation": 0,
+          "reversal": 490,
+          "unclear": 0
+        },
+        "reversal": {
+          "continuation": 0,
+          "reversal": 230,
+          "unclear": 0
+        },
+        "unclear": {
+          "continuation": 0,
+          "reversal": 80,
+          "unclear": 0
+        }
+      },
+      "prediction_distribution": {
+        "reversal": 800
+      }
+    },
+    "always_continuation": {
+      "name": "Heuristic: always continuation",
+      "n": 800,
+      "accuracy_3way": 0.6125,
+      "accuracy_clear_subset": 0.6806,
+      "clear_subset_n": 720,
+      "confusion_matrix": {
+        "continuation": {
+          "continuation": 490,
+          "reversal": 0,
+          "unclear": 0
+        },
+        "reversal": {
+          "continuation": 230,
+          "reversal": 0,
+          "unclear": 0
+        },
+        "unclear": {
+          "continuation": 80,
+          "reversal": 0,
+          "unclear": 0
+        }
+      },
+      "prediction_distribution": {
+        "continuation": 800
+      }
+    }
+  },
+  "brier_score": 0.2631,
+  "brier_n": 720,
+  "accuracy_by_is_macro_driven": {
+    "False": {
+      "accuracy": 0.3079,
+      "n": 458
+    },
+    "True": {
+      "accuracy": 0.3801,
+      "n": 342
+    }
+  },
+  "accuracy_by_is_opening_bell": {
+    "True": {
+      "accuracy": 0.3282,
+      "n": 585
+    },
+    "False": {
+      "accuracy": 0.3674,
+      "n": 215
+    }
+  },
+  "accuracy_by_has_pre_event_news": {
+    "True": {
+      "accuracy": 0.3149,
+      "n": 435
+    },
+    "False": {
+      "accuracy": 0.3671,
+      "n": 365
+    }
+  },
+  "accuracy_by_direction": {
+    "up": {
+      "accuracy": 0.3864,
+      "n": 383
+    },
+    "down": {
+      "accuracy": 0.295,
+      "n": 417
+    }
+  },
+  "accuracy_by_agent_agreement": {
+    "full": {
+      "accuracy": 0.3202,
+      "n": 331
+    },
+    "partial": {
+      "accuracy": 0.3518,
+      "n": 469
+    }
+  },
+  "summary_table": [
+    "Strategy                                     N   3-way   Clear",
+    "--------------------------------------------------------------",
+    "Micro V3 alone                             800   0.364   0.404",
+    "News V3 alone                              800   0.338   0.375",
+    "Macro V3 alone                             800   0.441   0.490",
+    "V3 majority vote (3 agents)                800   0.352   0.392",
+    "V3 ensemble (agents + direction heurist    800   0.339   0.375",
+    "Heuristic: up=reversal down=cont           800   0.512   0.569",
+    "Heuristic: always reversal                 800   0.287   0.319",
+    "Heuristic: always continuation             800   0.613   0.681"
+  ]
+}

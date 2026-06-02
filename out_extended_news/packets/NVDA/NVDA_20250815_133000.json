@@ -1,0 +1,48 @@
+{
+  "event": {
+    "event_id": "NVDA_20250815_133000",
+    "ticker": "NVDA",
+    "t0_utc": "2025-08-15 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-08-15T10:30:00+00:00",
+      "end": "2025-08-15T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-08-15T11:30:00Z",
+        "title": "Poised for Explosive Growth: Is Your Portfolio Ready for This ETF?",
+        "description": "The article explores the Vanguard Information Technology ETF (VGT), analyzing its composition, performance, and potential risks for investors interested in the technology sector, with a focus on top holdings like Nvidia, Microsoft, Apple, and Broadcom.",
+        "article_url": "https://www.fool.com/investing/2025/08/15/poised-for-explosive-growth-is-your-portfolio/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Daniel Foelber",
+        "tickers": [
+          "NVDA",
+          "MSFT",
+          "AAPL",
+          "AVGO",
+          "VGT"
+        ],
+        "keywords": [
+          "technology",
+          "ETF",
+          "investing",
+          "AI",
+          "market capitalization"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

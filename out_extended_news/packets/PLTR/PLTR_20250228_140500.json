@@ -1,0 +1,60 @@
+{
+  "event": {
+    "event_id": "PLTR_20250228_140500",
+    "ticker": "PLTR",
+    "t0_utc": "2025-02-28 14:05:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-02-28T11:05:00+00:00",
+      "end": "2025-02-28T15:05:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-02-28T13:50:59Z",
+          "title": "Federal Reserve's Preferred Inflation Gauge Marks First Slowdown In 4 Months",
+          "description": "The Federal Reserve's key inflation measure, the Personal Consumption Expenditures price index, grew by 2.5% in January 2025, marking its first slowdown in four months. Core PCE, excluding food and energy, increased 2.6% from the same period last year.",
+          "article_url": "https://www.benzinga.com/25/02/44041803/federal-reserves-preferred-inflation-gauge-marks-first-slowdown-in-4-months",
+          "publisher": "Benzinga",
+          "author": "Erica Kollmann",
+          "tickers": [
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "inflation",
+            "PCE",
+            "core PCE"
+          ]
+        },
+        {
+          "published_utc": "2025-02-28T14:20:02Z",
+          "title": "Federal Reserve's Preferred Inflation Gauge Marks First Slowdown In 4 Months (UPDATED)",
+          "description": "The Federal Reserve's key inflation measure, the Personal Consumption Expenditures price index, grew by 2.5% in January 2025, marking its first slowdown in four months. Core PCE, excluding food and energy, increased 2.6% from the same period last year.",
+          "article_url": "https://www.benzinga.com/news/econ-s/25/02/44041803/federal-reserves-preferred-inflation-gauge-marks-first-slowdown-in-4-months",
+          "publisher": "Benzinga",
+          "author": "Erica Kollmann",
+          "tickers": [
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "inflation",
+            "PCE",
+            "personal income"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

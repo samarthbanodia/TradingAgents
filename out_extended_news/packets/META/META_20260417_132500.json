@@ -1,0 +1,262 @@
+{
+  "event": {
+    "event_id": "META_20260417_132500",
+    "ticker": "META",
+    "t0_utc": "2026-04-17 13:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2026-04-17T10:25:00+00:00",
+      "end": "2026-04-17T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-04-17T11:15:00Z",
+        "title": "Why April Could Be the Most Important Earnings Season for AI Stocks Since the Boom Began",
+        "description": "April 2026 earnings season marks a critical turning point for AI stocks as investors shift from rewarding ambition to demanding proof of returns. With hyperscalers projected to spend $700 billion on AI infrastructure in 2026, companies must demonstrate real revenue generation and return on investment. The market's tolerance for promises without results has ended, and companies failing to show clear AI-driven returns face potential severe repricing.",
+        "article_url": "https://www.fool.com/investing/2026/04/17/why-april-important-earnings-season-ai-stocks/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Micah Zimmerman",
+        "tickers": [
+          "NVDA",
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "AMZN",
+          "META",
+          "NBIS"
+        ],
+        "keywords": [
+          "AI earnings season",
+          "hyperscaler spending",
+          "return on investment",
+          "AI infrastructure",
+          "market sentiment shift",
+          "revenue conversion",
+          "capital expenditure"
+        ]
+      },
+      {
+        "published_utc": "2026-04-17T12:55:13Z",
+        "title": "These 10 Stocks Rose Over 40% Since Trump's Ceasefire Claims: One Hasn't Done This Since 2005",
+        "description": "Following US-brokered ceasefire talks, 10 large-cap technology and infrastructure stocks surged over 40% in 12 trading sessions (March 30 - April 16, 2026). The rally reflects a structural repricing of AI infrastructure, memory storage, and semiconductor assets that had been depressed by geopolitical risk and concerns about slowing AI capital expenditure. Key drivers include strong memory chip demand, AI data center expansion, and major partnerships with hyperscalers.",
+        "article_url": "https://www.benzinga.com/markets/equities/26/04/51881191/10-stocks-iran-ceasefire-12-sessions-amd-intel-bloom-sandisk?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Piero Cingari",
+        "tickers": [
+          "AMD",
+          "MU",
+          "WDC",
+          "STX",
+          "COHR",
+          "MRVL",
+          "SNDK",
+          "INTC",
+          "CRWV",
+          "BE",
+          "META",
+          "GOOG",
+          "GOOGL",
+          "ORCL",
+          "ORCLpD",
+          "NVDA"
+        ],
+        "keywords": [
+          "ceasefire",
+          "AI infrastructure",
+          "semiconductor stocks",
+          "memory chips",
+          "data centers",
+          "technology rally",
+          "hyperscalers",
+          "supply shortage"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-04-17T12:36:16Z",
+          "title": "Stock Market Today: Wall Street Set To Extend Rally As Trump Says Iran War May End 'Pretty Soon'\u2014 Netflix, State Street, Truist In Focus (UPDATED)",
+          "description": "U.S. stock futures moved higher on Friday as investors grew optimistic about easing Middle East tensions following Trump's comments that the Iran war should end 'pretty soon' and a temporary ceasefire between Israel and Lebanon. All three major indexes are on track for weekly gains, with the Dow up 1.4%, S&P 500 up 3.3%, and Nasdaq up 5.2%. Key earnings from financial firms including State Street, Truist Financial, and Fifth Third Bancorp are expected Friday.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/04/51877674/stock-market-today-wall-street-set-to-extend-rally-as-trump-says-iran-war-should-end-pretty-soon?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Eva Mathew",
+          "tickers": [
+            "NFLX",
+            "STT",
+            "STTpG",
+            "XLF",
+            "TFC",
+            "TFCpI",
+            "TFCpO",
+            "TFCpR",
+            "MSFT",
+            "PEP",
+            "ABT",
+            "SCHW",
+            "SCHWpD",
+            "SCHWpJ",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market rally",
+            "Middle East tensions",
+            "Iran war ceasefire",
+            "earnings season",
+            "financial stocks",
+            "tech stocks",
+            "Treasury yields",
+            "cryptocurrency"
+          ]
+        },
+        {
+          "published_utc": "2026-04-17T13:56:28Z",
+          "title": "Iran Declares Strait Of Hormuz Open To All Vessels: Crude Plunges 14%, Airlines And Cruise Stocks Soar",
+          "description": "Iran's Foreign Minister announced the Strait of Hormuz is fully open to all commercial vessels during the ceasefire, causing crude oil to plunge 14% to $81/barrel. Airlines and cruise lines surged as fuel costs declined, while energy and chemical companies fell sharply. The S&P 500 reached record highs with the Nasdaq 100 on its 13th consecutive gaining session.",
+          "article_url": "https://www.benzinga.com/markets/large-cap/26/04/51883816/iran-strait-hormuz-open-araghchi-crude-oil-crash?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "UAL",
+            "AAL",
+            "ALK",
+            "LUV",
+            "DAL",
+            "RCL",
+            "CCL",
+            "NCLH",
+            "FTAI",
+            "FTAIM",
+            "FTAIN",
+            "XOM",
+            "COP",
+            "OXY",
+            "OXY.WS",
+            "DVN",
+            "EOG",
+            "FANG",
+            "MTDR",
+            "CHRD",
+            "HAL",
+            "MPC",
+            "VLO",
+            "CF",
+            "LYB",
+            "DOW",
+            "APA",
+            "SPY",
+            "QQQ",
+            "DIA"
+          ],
+          "keywords": [
+            "Strait of Hormuz",
+            "ceasefire",
+            "crude oil",
+            "airlines",
+            "cruise lines",
+            "fuel prices",
+            "energy stocks",
+            "peace trade"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-04-17T12:36:16Z",
+          "title": "Stock Market Today: Wall Street Set To Extend Rally As Trump Says Iran War May End 'Pretty Soon'\u2014 Netflix, State Street, Truist In Focus (UPDATED)",
+          "description": "U.S. stock futures moved higher on Friday as investors grew optimistic about easing Middle East tensions following Trump's comments that the Iran war should end 'pretty soon' and a temporary ceasefire between Israel and Lebanon. All three major indexes are on track for weekly gains, with the Dow up 1.4%, S&P 500 up 3.3%, and Nasdaq up 5.2%. Key earnings from financial firms including State Street, Truist Financial, and Fifth Third Bancorp are expected Friday.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/04/51877674/stock-market-today-wall-street-set-to-extend-rally-as-trump-says-iran-war-should-end-pretty-soon?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Eva Mathew",
+          "tickers": [
+            "NFLX",
+            "STT",
+            "STTpG",
+            "XLF",
+            "TFC",
+            "TFCpI",
+            "TFCpO",
+            "TFCpR",
+            "MSFT",
+            "PEP",
+            "ABT",
+            "SCHW",
+            "SCHWpD",
+            "SCHWpJ",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market rally",
+            "Middle East tensions",
+            "Iran war ceasefire",
+            "earnings season",
+            "financial stocks",
+            "tech stocks",
+            "Treasury yields",
+            "cryptocurrency"
+          ]
+        },
+        {
+          "published_utc": "2026-04-17T13:56:28Z",
+          "title": "Iran Declares Strait Of Hormuz Open To All Vessels: Crude Plunges 14%, Airlines And Cruise Stocks Soar",
+          "description": "Iran's Foreign Minister announced the Strait of Hormuz is fully open to all commercial vessels during the ceasefire, causing crude oil to plunge 14% to $81/barrel. Airlines and cruise lines surged as fuel costs declined, while energy and chemical companies fell sharply. The S&P 500 reached record highs with the Nasdaq 100 on its 13th consecutive gaining session.",
+          "article_url": "https://www.benzinga.com/markets/large-cap/26/04/51883816/iran-strait-hormuz-open-araghchi-crude-oil-crash?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "UAL",
+            "AAL",
+            "ALK",
+            "LUV",
+            "DAL",
+            "RCL",
+            "CCL",
+            "NCLH",
+            "FTAI",
+            "FTAIM",
+            "FTAIN",
+            "XOM",
+            "COP",
+            "OXY",
+            "OXY.WS",
+            "DVN",
+            "EOG",
+            "FANG",
+            "MTDR",
+            "CHRD",
+            "HAL",
+            "MPC",
+            "VLO",
+            "CF",
+            "LYB",
+            "DOW",
+            "APA",
+            "SPY",
+            "QQQ",
+            "DIA"
+          ],
+          "keywords": [
+            "Strait of Hormuz",
+            "ceasefire",
+            "crude oil",
+            "airlines",
+            "cruise lines",
+            "fuel prices",
+            "energy stocks",
+            "peace trade"
+          ]
+        }
+      ]
+    }
+  }
+}

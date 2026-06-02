@@ -1,0 +1,65 @@
+{
+  "event": {
+    "event_id": "AMZN_20241209_142500",
+    "ticker": "AMZN",
+    "t0_utc": "2024-12-09 14:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "unclear",
+    "window": {
+      "start": "2024-12-09T11:25:00+00:00",
+      "end": "2024-12-09T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-12-09T14:00:00Z",
+        "title": "Battery Tender Introduces Line of Chargers for Golf Carts",
+        "description": "Battery Tender, a leading brand in battery chargers, has launched two new golf cart chargers designed for quick recharging and long-lasting use. The chargers are compatible with various battery types and golf cart models, and are built to withstand the elements.",
+        "article_url": "https://www.globenewswire.com/news-release/2024/12/09/2993784/0/en/Battery-Tender-Introduces-Line-of-Chargers-for-Golf-Carts.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Uproar Pr For Battery Tender",
+        "tickers": [
+          "AMZN",
+          "WMT",
+          "GWW"
+        ],
+        "keywords": [
+          "golf cart",
+          "battery charger",
+          "battery maintenance",
+          "power management"
+        ]
+      },
+      {
+        "published_utc": "2024-12-09T15:19:27Z",
+        "title": "Will Nvidia Outshine Apple in Cash Flow Generation by 2025?",
+        "description": "The article discusses recent updates affecting Nvidia and other semiconductor artificial intelligence (AI) stocks. It also mentions Nvidia and Amazon as the newest Dow growth stocks that outperformed the S&P 500 in 2024, and questions which one is the best buy for 2025.",
+        "article_url": "https://www.fool.com/investing/2024/12/09/will-nvidia-outshine-apple-in-cash-flow-by-2025/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jose Najarro",
+        "tickers": [
+          "NVDA",
+          "AMZN"
+        ],
+        "keywords": [
+          "Nvidia",
+          "Amazon",
+          "semiconductor",
+          "artificial intelligence",
+          "Dow",
+          "S&P 500"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

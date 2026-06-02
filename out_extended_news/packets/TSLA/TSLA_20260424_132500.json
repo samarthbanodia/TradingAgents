@@ -1,0 +1,50 @@
+{
+  "event": {
+    "event_id": "TSLA_20260424_132500",
+    "ticker": "TSLA",
+    "t0_utc": "2026-04-24 13:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "unclear",
+    "window": {
+      "start": "2026-04-24T10:25:00+00:00",
+      "end": "2026-04-24T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-04-24T11:31:33Z",
+        "title": "TACO Trade Joke No More? Trump's Art Of The Deal' Powers S&P 500's Steepest Highs And Lows",
+        "description": "President Trump's policy decisions and social media posts have become the primary driver of S&P 500 performance during his second term, according to Fundstrat analysis. The five best market days were tied to Trump's tariff pauses and Iran war signals, while the five worst days followed tariff escalations and geopolitical tensions. Without these five best days, the S&P 500 would be down 2.7% instead of up 19% since Trump took office in 2025. The 'TACO trade' (Trump Always Chickens Out) has reshaped market behavior as investors react to Trump's rapidly shifting policy landscape.",
+        "article_url": "https://www.benzinga.com/markets/equities/26/04/52025461/taco-trade-joke-no-more-trumps-art-of-the-deal-powers-sp-500s-steepest-highs-and-lows?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "TSLA",
+          "BA",
+          "BApA",
+          "AEO",
+          "PFE"
+        ],
+        "keywords": [
+          "Trump tariffs",
+          "S&P 500 volatility",
+          "TACO trade",
+          "Iran war",
+          "market manipulation",
+          "Truth Social",
+          "policy uncertainty"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

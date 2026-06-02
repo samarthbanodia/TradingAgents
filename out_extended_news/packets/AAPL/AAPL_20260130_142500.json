@@ -1,0 +1,169 @@
+{
+  "event": {
+    "event_id": "AAPL_20260130_142500",
+    "ticker": "AAPL",
+    "t0_utc": "2026-01-30 14:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-01-30T11:25:00+00:00",
+      "end": "2026-01-30T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-01-30T11:32:17Z",
+        "title": "Why One Fund Has a $12 Million Bet on Chesapeake Utilities Stock",
+        "description": "Tufton Capital Management increased its position in Chesapeake Utilities by 23,304 shares ($3.07 million) in a January 28 SEC filing. The stake now represents 2.06% of the fund's assets under management. The investment reflects confidence in the company's capital-heavy growth phase, regulated returns, infrastructure expansion, and modest but durable cash flows, despite the stock underperforming the S&P 500 by 11 percentage points over the past year.",
+        "article_url": "https://www.fool.com/coverage/filings/2026/01/30/why-one-fund-has-a-usd12-million-bet-on-chesapeake-utilities-stock/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jonathan Ponciano",
+        "tickers": [
+          "CPK",
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "AAPL"
+        ],
+        "keywords": [
+          "Chesapeake Utilities",
+          "Tufton Capital Management",
+          "SEC filing",
+          "regulated utility",
+          "infrastructure investment",
+          "energy delivery",
+          "capital spending"
+        ]
+      },
+      {
+        "published_utc": "2026-01-30T11:40:59Z",
+        "title": "Apple To Focus On Premium iPhone Launches In 2026 Amid Memory Chips Constraint: Report",
+        "description": "Apple is shifting its 2026 strategy to prioritize premium iPhone models, including its first foldable iPhone and advanced camera variants, while delaying the standard iPhone 18 to 2027. The move aims to streamline resources amid rising memory chip costs and supply chain constraints driven by AI data center demand.",
+        "article_url": "https://www.benzinga.com/markets/tech/26/01/50259693/apple-to-focus-on-premium-iphone-launches-in-2026-amid-memory-chips-constraint-report?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "AAPL",
+          "MU"
+        ],
+        "keywords": [
+          "Apple",
+          "iPhone 2026",
+          "foldable iPhone",
+          "memory chip shortage",
+          "premium models",
+          "supply chain",
+          "AI demand",
+          "Micron Technology"
+        ]
+      },
+      {
+        "published_utc": "2026-01-30T13:41:27Z",
+        "title": "Stock Market Today: Dow Jones, Nasdaq, S&P 500 Futures Slip As Trump Names Kevin Warsh As New Fed Chair Pick\u2014 SanDisk, Robinhood In Focus (UPDATED)",
+        "description": "U.S. stock futures declined on Friday as investors awaited President Trump's announcement of his Federal Reserve Chair pick. Major indices fell, with the Nasdaq 100 down 1.13% and Russell 2000 down 1.51%. Notable movers included SanDisk surging 20.53% on strong earnings, Deckers jumping 12.85% on record results, while Apple and Rocket Lab declined despite positive developments. Analyst Scott Wren from Wells Fargo maintains an optimistic outlook for 2026, expecting 2.4% GDP growth and record corporate earnings.",
+        "article_url": "https://www.benzinga.com/markets/equities/26/01/50257945/stock-market-today-nasdaq-sp-500-futures-decline-as-investors-await-trumps-new-fed-chair-pick-sa?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Rishabh Mishra",
+        "tickers": [
+          "AAPL",
+          "SNDK",
+          "RKLB",
+          "DECK",
+          "HOOD",
+          "SPY",
+          "QQQ"
+        ],
+        "keywords": [
+          "Fed Chair nomination",
+          "stock futures decline",
+          "earnings results",
+          "market sentiment",
+          "economic outlook 2026"
+        ]
+      },
+      {
+        "published_utc": "2026-01-30T14:00:00Z",
+        "title": "Robust Growth Expected in Consumer AR Glasses as Shipments Near 30 Million by 2030, Driven by No-Display Designs",
+        "description": "The consumer AR smart glasses market is projected to experience explosive growth, with shipments expected to reach approximately 32 million units by 2030 from 850,000 units in 2024, representing an 82.9% CAGR. No-display smart glasses are driving this growth, expected to grow from 680,000 to 28 million shipments by 2030. Leading manufacturers including Meta Ray-Ban, Xiaomi, Apple, and Google are investing in hardware improvements to enhance comfort and usability.",
+        "article_url": "https://www.globenewswire.com/news-release/2026/01/30/3229562/0/en/Robust-Growth-Expected-in-Consumer-AR-Glasses-as-Shipments-Near-30-Million-by-2030-Driven-by-No-Display-Designs.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Abi Research",
+        "tickers": [
+          "META",
+          "AAPL",
+          "GOOG",
+          "GOOGL",
+          "XIACF"
+        ],
+        "keywords": [
+          "AR smart glasses",
+          "no-display smart glasses",
+          "consumer electronics",
+          "hardware innovation",
+          "market growth",
+          "extended reality"
+        ]
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-01-30T13:41:27Z",
+          "title": "Stock Market Today: Dow Jones, Nasdaq, S&P 500 Futures Slip As Trump Names Kevin Warsh As New Fed Chair Pick\u2014 SanDisk, Robinhood In Focus (UPDATED)",
+          "description": "U.S. stock futures declined on Friday as investors awaited President Trump's announcement of his Federal Reserve Chair pick. Major indices fell, with the Nasdaq 100 down 1.13% and Russell 2000 down 1.51%. Notable movers included SanDisk surging 20.53% on strong earnings, Deckers jumping 12.85% on record results, while Apple and Rocket Lab declined despite positive developments. Analyst Scott Wren from Wells Fargo maintains an optimistic outlook for 2026, expecting 2.4% GDP growth and record corporate earnings.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/50257945/stock-market-today-nasdaq-sp-500-futures-decline-as-investors-await-trumps-new-fed-chair-pick-sa?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AAPL",
+            "SNDK",
+            "RKLB",
+            "DECK",
+            "HOOD",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "Fed Chair nomination",
+            "stock futures decline",
+            "earnings results",
+            "market sentiment",
+            "economic outlook 2026"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-01-30T13:41:27Z",
+          "title": "Stock Market Today: Dow Jones, Nasdaq, S&P 500 Futures Slip As Trump Names Kevin Warsh As New Fed Chair Pick\u2014 SanDisk, Robinhood In Focus (UPDATED)",
+          "description": "U.S. stock futures declined on Friday as investors awaited President Trump's announcement of his Federal Reserve Chair pick. Major indices fell, with the Nasdaq 100 down 1.13% and Russell 2000 down 1.51%. Notable movers included SanDisk surging 20.53% on strong earnings, Deckers jumping 12.85% on record results, while Apple and Rocket Lab declined despite positive developments. Analyst Scott Wren from Wells Fargo maintains an optimistic outlook for 2026, expecting 2.4% GDP growth and record corporate earnings.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/50257945/stock-market-today-nasdaq-sp-500-futures-decline-as-investors-await-trumps-new-fed-chair-pick-sa?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AAPL",
+            "SNDK",
+            "RKLB",
+            "DECK",
+            "HOOD",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "Fed Chair nomination",
+            "stock futures decline",
+            "earnings results",
+            "market sentiment",
+            "economic outlook 2026"
+          ]
+        }
+      ]
+    }
+  }
+}

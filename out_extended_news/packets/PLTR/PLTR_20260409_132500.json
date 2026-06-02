@@ -1,0 +1,87 @@
+{
+  "event": {
+    "event_id": "PLTR_20260409_132500",
+    "ticker": "PLTR",
+    "t0_utc": "2026-04-09 13:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-04-09T10:25:00+00:00",
+      "end": "2026-04-09T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-04-09T13:00:30Z",
+          "title": "Stock Market Today: Dow Futures Drop As Iran Flags Ceasefire Violation, Trump Says Arms 'Will Remain In Place'\u2014Arrive AI, Costco In Focus (UPDATED)",
+          "description": "U.S. stock futures declined on Thursday following geopolitical tensions as Iran accused Washington of ceasefire violations. The S&P 500, Dow Jones, and Nasdaq 100 futures all fell slightly. Major economic data releases are expected, and the Fed is expected to hold rates steady at its April meeting. Several stocks moved significantly on earnings and strategic announcements.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/04/51723956/stock-market-today-sp-500-futures-drop-as-iran-flags-ceasefire-violation-trump-says-arms-will-re?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "ARAI",
+            "COST",
+            "DLR",
+            "DLRpJ",
+            "DLRpK",
+            "DLRpL",
+            "GAME",
+            "STZ",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "S&P 500 futures",
+            "Iran ceasefire",
+            "geopolitical tensions",
+            "Federal Reserve",
+            "interest rates",
+            "earnings",
+            "AI infrastructure"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-04-09T13:00:30Z",
+          "title": "Stock Market Today: Dow Futures Drop As Iran Flags Ceasefire Violation, Trump Says Arms 'Will Remain In Place'\u2014Arrive AI, Costco In Focus (UPDATED)",
+          "description": "U.S. stock futures declined on Thursday following geopolitical tensions as Iran accused Washington of ceasefire violations. The S&P 500, Dow Jones, and Nasdaq 100 futures all fell slightly. Major economic data releases are expected, and the Fed is expected to hold rates steady at its April meeting. Several stocks moved significantly on earnings and strategic announcements.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/04/51723956/stock-market-today-sp-500-futures-drop-as-iran-flags-ceasefire-violation-trump-says-arms-will-re?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "ARAI",
+            "COST",
+            "DLR",
+            "DLRpJ",
+            "DLRpK",
+            "DLRpL",
+            "GAME",
+            "STZ",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "S&P 500 futures",
+            "Iran ceasefire",
+            "geopolitical tensions",
+            "Federal Reserve",
+            "interest rates",
+            "earnings",
+            "AI infrastructure"
+          ]
+        }
+      ]
+    }
+  }
+}

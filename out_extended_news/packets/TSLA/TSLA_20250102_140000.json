@@ -1,0 +1,132 @@
+{
+  "event": {
+    "event_id": "TSLA_20250102_140000",
+    "ticker": "TSLA",
+    "t0_utc": "2025-01-02 14:00:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-01-02T11:00:00+00:00",
+      "end": "2025-01-02T15:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-01-02T11:39:22Z",
+        "title": "US Stocks To Open Higher In The First Trading Session Of 2025: Analyst Says History Favors Rebound After Year-End Dip",
+        "description": "U.S. stock futures are expected to open higher on the first trading session of 2025, despite a year-end dip. Analysts believe historical data suggests a rebound is likely after the recent decline.",
+        "article_url": "https://www.benzinga.com/25/01/42761107/us-stocks-to-open-higher-in-the-first-trading-session-of-2025-analyst-says-history-favors-rebound-after-year-end-",
+        "publisher": "Benzinga",
+        "author": "Rishabh Mishra",
+        "tickers": [
+          "HOLO",
+          "HOLOW",
+          "FFIE",
+          "FFIEW",
+          "LAES",
+          "SOFI",
+          "QSI",
+          "SPY",
+          "QQQ",
+          "NVDA",
+          "TSLA"
+        ],
+        "keywords": [
+          "US stocks",
+          "market outlook",
+          "year-end performance",
+          "rebound",
+          "historical data"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-01-02T11:39:00Z",
+          "title": "3 Reasons Vanguard S&P 500 ETF Is a Must-Buy for Long-Term Investors",
+          "description": "The article discusses the long-term benefits of investing in the Vanguard S&P 500 ETF, a diversified index fund that tracks the S&P 500 market index. It highlights the fund's low-cost structure, consistent performance, and ability to weather market downturns, making it a recommended choice for long-term investors.",
+          "article_url": "https://www.fool.com/investing/2025/01/02/3-reasons-vanguard-sp-500-etf-is-a-must-buy/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Anders Bylund",
+          "tickers": [
+            "VOO",
+            "SPY",
+            "IVV"
+          ],
+          "keywords": [
+            "Vanguard S&P 500 ETF",
+            "S&P 500 index",
+            "long-term investing",
+            "market performance",
+            "diversification"
+          ]
+        },
+        {
+          "published_utc": "2025-01-02T11:39:22Z",
+          "title": "US Stocks To Open Higher In The First Trading Session Of 2025: Analyst Says History Favors Rebound After Year-End Dip",
+          "description": "U.S. stock futures are expected to open higher on the first trading session of 2025, despite a year-end dip. Analysts believe historical data suggests a rebound is likely after the recent decline.",
+          "article_url": "https://www.benzinga.com/25/01/42761107/us-stocks-to-open-higher-in-the-first-trading-session-of-2025-analyst-says-history-favors-rebound-after-year-end-",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "HOLO",
+            "HOLOW",
+            "FFIE",
+            "FFIEW",
+            "LAES",
+            "SOFI",
+            "QSI",
+            "SPY",
+            "QQQ",
+            "NVDA",
+            "TSLA"
+          ],
+          "keywords": [
+            "US stocks",
+            "market outlook",
+            "year-end performance",
+            "rebound",
+            "historical data"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-01-02T11:39:22Z",
+          "title": "US Stocks To Open Higher In The First Trading Session Of 2025: Analyst Says History Favors Rebound After Year-End Dip",
+          "description": "U.S. stock futures are expected to open higher on the first trading session of 2025, despite a year-end dip. Analysts believe historical data suggests a rebound is likely after the recent decline.",
+          "article_url": "https://www.benzinga.com/25/01/42761107/us-stocks-to-open-higher-in-the-first-trading-session-of-2025-analyst-says-history-favors-rebound-after-year-end-",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "HOLO",
+            "HOLOW",
+            "FFIE",
+            "FFIEW",
+            "LAES",
+            "SOFI",
+            "QSI",
+            "SPY",
+            "QQQ",
+            "NVDA",
+            "TSLA"
+          ],
+          "keywords": [
+            "US stocks",
+            "market outlook",
+            "year-end performance",
+            "rebound",
+            "historical data"
+          ]
+        }
+      ]
+    }
+  }
+}

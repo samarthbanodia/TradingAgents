@@ -1,0 +1,45 @@
+{
+  "event": {
+    "event_id": "COIN_20241203_131000",
+    "ticker": "COIN",
+    "t0_utc": "2024-12-03 13:10:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-12-03T10:10:00+00:00",
+      "end": "2024-12-03T14:10:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-12-03T13:00:00Z",
+        "title": "Michael Saylor's MicroStrategy Has Quintupled This Year. Now, a Formerly Bullish Analyst Thinks Its Time to Short the Stock.",
+        "description": "MicroStrategy's stock has surged over 500% this year, but a formerly bullish analyst now believes it's time to short the stock as Bitcoin investing has become easier with the advent of spot-Bitcoin ETFs and trading platforms.",
+        "article_url": "https://www.fool.com/investing/2024/12/03/michael-saylors-microstrategy-has-quintupled-this/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "COIN"
+        ],
+        "keywords": [
+          "MicroStrategy",
+          "Bitcoin",
+          "short selling",
+          "analyst",
+          "Citron Research",
+          "Kerrisdale Capital"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

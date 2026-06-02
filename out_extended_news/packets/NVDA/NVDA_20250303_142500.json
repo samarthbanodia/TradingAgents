@@ -1,0 +1,87 @@
+{
+  "event": {
+    "event_id": "NVDA_20250303_142500",
+    "ticker": "NVDA",
+    "t0_utc": "2025-03-03 14:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-03-03T11:25:00+00:00",
+      "end": "2025-03-03T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-03-03T11:45:00Z",
+        "title": "Prediction: 3 Stocks That'll Be Worth More Than Apple 5 Years From Now",
+        "description": "Apple's slow growth over the past few years has opened the door for Microsoft, Alphabet, and Nvidia to potentially surpass it in market capitalization within the next five years. These companies are projected to outperform Apple in terms of revenue and profit growth.",
+        "article_url": "https://www.fool.com/investing/2025/03/03/prediction-3-stocks-thatll-be-worth-more-than-appl/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Keithen Drury",
+        "tickers": [
+          "AAPL",
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "NVDA"
+        ],
+        "keywords": [
+          "Apple",
+          "Microsoft",
+          "Alphabet",
+          "Nvidia",
+          "market capitalization",
+          "revenue growth",
+          "profit growth"
+        ]
+      },
+      {
+        "published_utc": "2025-03-03T12:35:00Z",
+        "title": "Nvidia Passes Its Latest Test. Here's What It Means for Investors.",
+        "description": "Nvidia's Q4 earnings report showed continued strong growth, but with less room for surprises as investor expectations have aligned with the company's trajectory. The stock traded down despite beating estimates, as the 'surprise factor' in Nvidia's earnings has diminished. While Nvidia remains well-positioned to lead the AI computing infrastructure, its growth rate is expected to slow, and it may need new catalysts to drive the stock higher in the near term.",
+        "article_url": "https://www.fool.com/investing/2025/03/03/nvidia-passes-its-latest-test-heres-what-it-means/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jeremy Bowman",
+        "tickers": [
+          "NVDA",
+          "INTC",
+          "AMD"
+        ],
+        "keywords": [
+          "Nvidia",
+          "AI",
+          "data center",
+          "earnings",
+          "growth",
+          "expectations"
+        ]
+      },
+      {
+        "published_utc": "2025-03-03T13:47:00Z",
+        "title": "Three AI stocks to play if you want to look past the Nvidia hardware build-out",
+        "description": "The article discusses three AI stocks that could be attractive for long-term investors, as they focus on the actual implementation and use of AI technology by corporate clients, rather than just the hardware build-out.",
+        "article_url": "https://www.marketwatch.com/story/three-ai-stocks-to-play-if-you-want-to-look-past-the-nvidia-hardware-build-out-d13d4a22?mod=mw_rss_topstories",
+        "publisher": "MarketWatch",
+        "author": "Philip Van Doorn",
+        "tickers": [
+          "NVDA"
+        ],
+        "keywords": [
+          "AI stocks",
+          "Nvidia",
+          "corporate AI implementation"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "event": {
+    "event_id": "TSLA_20240624_132000",
+    "ticker": "TSLA",
+    "t0_utc": "2024-06-24 13:20:00+00:00",
+    "direction": 1,
+    "label_proxy": "unclear",
+    "window": {
+      "start": "2024-06-24T10:20:00+00:00",
+      "end": "2024-06-24T14:20:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-06-24T10:20:07Z",
+        "title": "Should You Invest in the Vanguard Consumer Discretionary ETF (VCR)?",
+        "description": "Sector ETF report for VCR",
+        "article_url": "https://www.zacks.com/stock/news/2291917/should-you-invest-in-the-vanguard-consumer-discretionary-etf-vcr",
+        "publisher": "Zacks Investment Research",
+        "author": "Zacks Equity Research",
+        "tickers": [
+          "VCR",
+          "AMZN",
+          "HD",
+          "TSLA",
+          "ITB",
+          "XLY"
+        ],
+        "keywords": []
+      },
+      {
+        "published_utc": "2024-06-24T13:15:00Z",
+        "title": "Is Tesla the Best EV Stock for You?",
+        "description": "Tesla stands out as the premier EV maker, but it might not be right for every investor.",
+        "article_url": "https://www.fool.com/investing/2024/06/24/is-tesla-the-best-ev-stock-for-you/",
+        "publisher": "The Motley Fool",
+        "author": "newsfeedback@fool.com (RJ Fulton)",
+        "tickers": [
+          "TSLA"
+        ],
+        "keywords": [
+          "investing"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-06-24T10:20:07Z",
+          "title": "Should SPDR S&P 500 ETF (SPY) Be on Your Investing Radar?",
+          "description": "Style Box ETF report for SPY",
+          "article_url": "https://www.zacks.com/stock/news/2291916/should-spdr-sp-500-etf-spy-be-on-your-investing-radar",
+          "publisher": "Zacks Investment Research",
+          "author": "Zacks Equity Research",
+          "tickers": [
+            "SPY",
+            "AAPL",
+            "MSFT",
+            "NVDA",
+            "VOO",
+            "IVV"
+          ],
+          "keywords": []
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2024-06-24T10:20:07Z",
+          "title": "Is First Trust NASDAQ-100 Equal Weighted ETF (QQEW) a Strong ETF Right Now?",
+          "description": "Smart Beta ETF report for QQEW",
+          "article_url": "https://www.zacks.com/stock/news/2291919/is-first-trust-nasdaq-100-equal-weighted-etf-qqew-a-strong-etf-right-now",
+          "publisher": "Zacks Investment Research",
+          "author": "Zacks Equity Research",
+          "tickers": [
+            "QQEW",
+            "ADP",
+            "MRNA",
+            "QQQ",
+            "CSGP",
+            "VUG"
+          ],
+          "keywords": []
+        }
+      ]
+    }
+  }
+}

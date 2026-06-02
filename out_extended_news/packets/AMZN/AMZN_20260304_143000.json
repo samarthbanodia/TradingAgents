@@ -1,0 +1,176 @@
+{
+  "event": {
+    "event_id": "AMZN_20260304_143000",
+    "ticker": "AMZN",
+    "t0_utc": "2026-03-04 14:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-03-04T11:30:00+00:00",
+      "end": "2026-03-04T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-03-04T12:29:00Z",
+        "title": "How Berkshire Hathaway Performed During Buffett\u2019s Final Quarter",
+        "description": "Warren Buffett stepped down as Berkshire Hathaway CEO on December 31, 2025, after 60+ years. Q4 2025 results showed mixed performance with lower earnings due to $4.5B in impairments, but the company maintained a near-record $373.3B cash reserve. Buffett's final quarter moves included increasing positions in Chubb, Chevron, and The New York Times, while reducing stakes in Amazon, Bank of America, and DaVita. Over his tenure, Berkshire achieved 19.7% average annual gains versus the S&P 500's 10.2%.",
+        "article_url": "https://www.investing.com/analysis/how-berkshire-hathaway-performed-during-buffetts-final-quarter-200676042",
+        "publisher": "Investing.com",
+        "author": "Jordan Chussler",
+        "tickers": [
+          "BRK.A",
+          "BRK.B",
+          "AAPL",
+          "CB",
+          "CVX",
+          "NYT",
+          "AMZN",
+          "BAC",
+          "BACpB",
+          "BACpE",
+          "BACpK",
+          "BACpL",
+          "BACpM",
+          "BACpN",
+          "BACpO",
+          "BACpP",
+          "BACpQ",
+          "BACpS",
+          "BMLpG",
+          "BMLpH",
+          "BMLpJ",
+          "BMLpL",
+          "MERpK",
+          "DVA"
+        ],
+        "keywords": [
+          "Berkshire Hathaway",
+          "Warren Buffett",
+          "Q4 2025 earnings",
+          "Greg Abel",
+          "portfolio management",
+          "cash reserves",
+          "stock positions"
+        ]
+      },
+      {
+        "published_utc": "2026-03-04T13:30:00Z",
+        "title": "What Are 3 Great Tech Stocks to Buy Right Now?",
+        "description": "The article recommends three undervalued tech stocks: The Trade Desk (down 80% since December 2024 but with strong customer retention and low P/E ratio), Sea Limited (Southeast Asian tech conglomerate with robust revenue growth despite a 45% decline), and Lyft (ride-sharing platform with improving free cash flow and aggressive share buybacks). All three stocks are trading at attractive valuations despite recent market declines.",
+        "article_url": "https://www.fool.com/investing/2026/03/04/what-are-3-great-tech-stocks-to-buy-right-now/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Will Healy",
+        "tickers": [
+          "TTD",
+          "SE",
+          "LYFT",
+          "GOOG",
+          "GOOGL",
+          "AMZN",
+          "UBER"
+        ],
+        "keywords": [
+          "tech stocks",
+          "undervalued stocks",
+          "digital advertising",
+          "Southeast Asia",
+          "ride-sharing",
+          "valuation",
+          "share buybacks",
+          "revenue growth"
+        ]
+      },
+      {
+        "published_utc": "2026-03-04T14:00:00Z",
+        "title": "Forklift Market to Reach $141.32 Billion by 2032 as Automation and Electric Warehousing Reshape Global Logistics | MarketsandMarkets\u2122",
+        "description": "The global forklift market is projected to grow from USD 91.19 billion in 2025 to USD 141.32 billion by 2032 at a 6.5% CAGR, driven by e-commerce expansion, warehouse automation, and the shift toward electric and autonomous forklifts. Asia Pacific leads the market, while autonomous forklifts represent the fastest-growing segment with a 9.3% CAGR.",
+        "article_url": "https://www.globenewswire.com/news-release/2026/03/04/3249387/0/en/Forklift-Market-to-Reach-141-32-Billion-by-2032-as-Automation-and-Electric-Warehousing-Reshape-Global-Logistics-MarketsandMarkets.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Marketsandmarkets\u2122",
+        "tickers": [
+          "KIGRY",
+          "JGHHY",
+          "AMZN"
+        ],
+        "keywords": [
+          "forklift market",
+          "warehouse automation",
+          "electric forklifts",
+          "autonomous forklifts",
+          "e-commerce logistics",
+          "Asia Pacific",
+          "material handling",
+          "SLAM technology",
+          "LiDAR sensing"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-03-04T13:55:49Z",
+          "title": "Stock Market Today: S&P 500, Dow Futures Up As Oil Prices Fall For First Time Since Iran War Began\u2014 Broadcom, Abercrombie & Fitch In Focus (UPDATED)",
+          "description": "U.S. stock futures rose modestly on Wednesday as oil price gains slowed following Trump's announcement of Navy escort services through the Strait of Hormuz. Markets await the ADP employment report and earnings from Broadcom, Abercrombie & Fitch, and Okta. Asian markets suffered steep losses, with South Korea's Kospi plunging 12%. The VIX jumped to 23.96, reflecting elevated market volatility amid inflation concerns.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/03/51028040/stock-market-today-sp-500-dow-futures-gain-as-oil-hike-pace-slows-after-trumps-order-adp-report-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Eva Mathew",
+          "tickers": [
+            "AVGO",
+            "ANF",
+            "OKTA",
+            "BOX",
+            "ROST",
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "stock futures",
+            "oil prices",
+            "ADP report",
+            "earnings",
+            "market volatility",
+            "inflation",
+            "Asian markets",
+            "Federal Reserve"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-03-04T13:55:49Z",
+          "title": "Stock Market Today: S&P 500, Dow Futures Up As Oil Prices Fall For First Time Since Iran War Began\u2014 Broadcom, Abercrombie & Fitch In Focus (UPDATED)",
+          "description": "U.S. stock futures rose modestly on Wednesday as oil price gains slowed following Trump's announcement of Navy escort services through the Strait of Hormuz. Markets await the ADP employment report and earnings from Broadcom, Abercrombie & Fitch, and Okta. Asian markets suffered steep losses, with South Korea's Kospi plunging 12%. The VIX jumped to 23.96, reflecting elevated market volatility amid inflation concerns.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/03/51028040/stock-market-today-sp-500-dow-futures-gain-as-oil-hike-pace-slows-after-trumps-order-adp-report-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Eva Mathew",
+          "tickers": [
+            "AVGO",
+            "ANF",
+            "OKTA",
+            "BOX",
+            "ROST",
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "stock futures",
+            "oil prices",
+            "ADP report",
+            "earnings",
+            "market volatility",
+            "inflation",
+            "Asian markets",
+            "Federal Reserve"
+          ]
+        }
+      ]
+    }
+  }
+}

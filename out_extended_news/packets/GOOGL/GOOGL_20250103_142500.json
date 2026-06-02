@@ -1,0 +1,90 @@
+{
+  "event": {
+    "event_id": "GOOGL_20250103_142500",
+    "ticker": "GOOGL",
+    "t0_utc": "2025-01-03 14:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-01-03T11:25:00+00:00",
+      "end": "2025-01-03T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-01-03T12:45:00Z",
+        "title": "Should You Buy the Dip in Micron Stock Right Now?",
+        "description": "Micron Technology's latest earnings report failed to meet Wall Street's expectations, leading to an 18% drop in the stock price. However, the author argues that Micron's long-term potential remains strong, with its position in the growing AI chip market and attractive valuation compared to peers.",
+        "article_url": "https://www.fool.com/investing/2025/01/03/should-you-buy-the-dip-in-micron-stock-right-now/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Adam Spatacco",
+        "tickers": [
+          "MU",
+          "NVDA",
+          "AMD",
+          "AMZN",
+          "GOOG",
+          "GOOGL",
+          "MSFT",
+          "META"
+        ],
+        "keywords": [
+          "Micron Technology",
+          "semiconductor",
+          "AI",
+          "earnings",
+          "valuation"
+        ]
+      },
+      {
+        "published_utc": "2025-01-03T13:05:00Z",
+        "title": "3 Tech Giants Gaining Analyst Support With Upgraded Price Targets",
+        "description": "Three major tech companies - Meta Platforms, Amazon, and Alphabet - have recently received price target upgrades from analysts, indicating growing confidence in their potential to deliver strong returns in the coming year.",
+        "article_url": "https://www.investing.com/analysis/analysts-are-bullish-3-tech-giants-with-upgraded-price-targets-200655830",
+        "publisher": "Investing.com",
+        "author": "Marketbeat.Com",
+        "tickers": [
+          "META",
+          "AMZN",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "Meta Platforms",
+          "Amazon",
+          "Alphabet",
+          "tech stocks",
+          "price targets"
+        ]
+      },
+      {
+        "published_utc": "2025-01-03T13:37:00Z",
+        "title": "Could Bitcoin Be Your Ticket to Becoming a Millionaire by 2040?",
+        "description": "The article discusses the potential of Bitcoin as an investment, highlighting its long-term performance and anti-inflationary characteristics, while also acknowledging the risks and uncertainties surrounding its future, particularly in the face of advancements in quantum computing.",
+        "article_url": "https://www.fool.com/investing/2025/01/03/can-bitcoin-make-you-a-2040-millionaire/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Justin Pope",
+        "tickers": [
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "Bitcoin",
+          "cryptocurrency",
+          "investment",
+          "quantum computing"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "event": {
+    "event_id": "PLTR_20260410_132000",
+    "ticker": "PLTR",
+    "t0_utc": "2026-04-10 13:20:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2026-04-10T10:20:00+00:00",
+      "end": "2026-04-10T14:20:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-04-10T11:02:00Z",
+        "title": "Is It Too Late to Buy Palantir Stock?",
+        "description": "Palantir Technologies stock has surged 555% over five years, significantly outperforming the S&P 500 and Nasdaq. Despite trading at extremely high valuation multiples (108x forward earnings, 47x sales), the company's strong margins (82% gross margin, 43% net income margin) and accelerating 70% year-over-year sales growth in AI and analytics services suggest it could still deliver strong returns for long-term investors, though it remains vulnerable to disappointing earnings or macroeconomic headwinds.",
+        "article_url": "https://www.fool.com/investing/2026/04/10/is-it-too-late-to-buy-palantir-stock/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Keith Noonan",
+        "tickers": [
+          "PLTR"
+        ],
+        "keywords": [
+          "Palantir Technologies",
+          "artificial intelligence",
+          "stock valuation",
+          "earnings growth",
+          "AI analytics",
+          "tech stocks",
+          "investment analysis"
+        ]
+      },
+      {
+        "published_utc": "2026-04-10T14:20:00Z",
+        "title": "Prediction: These 2 Artificial Intelligence (AI) Stocks Will Finish 2026 Higher Than Where They Started. Here's Why.",
+        "description": "Despite recent AI stock weakness, strong enterprise demand for AI hardware and software suggests recovery by end of 2026. Intel benefits from surging data center CPU demand with potential 11-15% price increases and growing custom AI processor business. Palantir gains traction with its AI platform, achieving record $4.3B in new contracts and 139% net dollar retention, though valuation remains elevated.",
+        "article_url": "https://www.fool.com/investing/2026/04/10/prediction-these-2-artificial-intelligence-ai-stoc/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Harsh Chauhan",
+        "tickers": [
+          "INTC",
+          "PLTR",
+          "IT"
+        ],
+        "keywords": [
+          "artificial intelligence",
+          "AI stocks",
+          "data center infrastructure",
+          "enterprise AI adoption",
+          "semiconductor demand",
+          "AI software",
+          "server CPUs",
+          "custom processors"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-04-10T11:39:19Z",
+          "title": "Record Household Equity Exposure Raises Passive-Investing Risks",
+          "description": "American households have reached record equity exposure at 25.63%, surpassing Dot-Com bubble levels, creating structural market fragility. With over 60% of households invested through index-linked products, passive investing may force investors to absorb risk regardless of timing or valuation, potentially redistributing wealth from insiders to passive investors as massive private companies like SpaceX enter public markets.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/04/51750693/record-household-equity-exposure-raises-passive-investing-risks?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Stjepan Kalinic",
+          "tickers": [
+            "SPY",
+            "VAW",
+            "VGT",
+            "XLE"
+          ],
+          "keywords": [
+            "household equity exposure",
+            "passive investing",
+            "index funds",
+            "market risk",
+            "structural fragility",
+            "Fed policy uncertainty",
+            "mega-cap concentration",
+            "IPO valuations"
+          ]
+        },
+        {
+          "published_utc": "2026-04-10T12:46:04Z",
+          "title": "Stock Market Today: S&P 500 Futures Pare Losses As March CPI Rises In-Line With Expectations\u2014Taiwan Semiconductor, Rocket Lab In Focus (UPDATED)",
+          "description": "U.S. stock futures fell on Friday amid Middle East tensions over Iran-Israel ceasefire violations and ahead of March CPI data release. Major indices traded lower with the Dow, S&P 500, and Nasdaq 100 all declining slightly. Crude oil surged 2.31% to $100.13/barrel due to geopolitical concerns. Key gainers included Taiwan Semiconductor (up 1.81% on strong Q1 revenue), Simulations Plus (up 13.24% on better-than-expected results), and Urban-gro (up 12.31% on new strategy). Analysts remain cautiously optimistic about 2026 earnings growth despite headwinds from energy shocks and inflation.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/04/51749019/stock-market-today-sp-500-futures-fall-ahead-of-march-cpi-as-trump-says-iran-isnt-upholding-ceas?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "TSM",
+            "RKLB",
+            "SLP",
+            "UGRO",
+            "PONY",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "S&P 500 futures",
+            "March CPI",
+            "Iran ceasefire",
+            "geopolitical tensions",
+            "crude oil",
+            "AI applications",
+            "semiconductor stocks",
+            "Federal Reserve",
+            "interest rates"
+          ]
+        },
+        {
+          "published_utc": "2026-04-10T12:57:25Z",
+          "title": "Iran War Sends March Inflation To 4-Year High \u2014 The Fed Has No Room To Cut (UPDATED)",
+          "description": "U.S. inflation surged to a 4-year high in March 2026, driven by an Iran war-related energy shock. The CPI rose 0.9% month-over-month with energy prices jumping 10.9%, while core inflation remained contained at 0.2%. The soft core print provided some relief to markets, but the Fed faces limited room to cut rates in 2026, with rate cut probabilities significantly reduced.",
+          "article_url": "https://www.benzinga.com/news/politics/26/04/51751880/march-cpi-iran-war-inflation-4-year-high?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "DIA"
+          ],
+          "keywords": [
+            "inflation",
+            "Iran war",
+            "energy prices",
+            "Federal Reserve",
+            "CPI",
+            "rate cuts",
+            "Strait of Hormuz",
+            "gasoline prices",
+            "core inflation"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-04-10T12:46:04Z",
+          "title": "Stock Market Today: S&P 500 Futures Pare Losses As March CPI Rises In-Line With Expectations\u2014Taiwan Semiconductor, Rocket Lab In Focus (UPDATED)",
+          "description": "U.S. stock futures fell on Friday amid Middle East tensions over Iran-Israel ceasefire violations and ahead of March CPI data release. Major indices traded lower with the Dow, S&P 500, and Nasdaq 100 all declining slightly. Crude oil surged 2.31% to $100.13/barrel due to geopolitical concerns. Key gainers included Taiwan Semiconductor (up 1.81% on strong Q1 revenue), Simulations Plus (up 13.24% on better-than-expected results), and Urban-gro (up 12.31% on new strategy). Analysts remain cautiously optimistic about 2026 earnings growth despite headwinds from energy shocks and inflation.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/04/51749019/stock-market-today-sp-500-futures-fall-ahead-of-march-cpi-as-trump-says-iran-isnt-upholding-ceas?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "TSM",
+            "RKLB",
+            "SLP",
+            "UGRO",
+            "PONY",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "S&P 500 futures",
+            "March CPI",
+            "Iran ceasefire",
+            "geopolitical tensions",
+            "crude oil",
+            "AI applications",
+            "semiconductor stocks",
+            "Federal Reserve",
+            "interest rates"
+          ]
+        },
+        {
+          "published_utc": "2026-04-10T12:57:25Z",
+          "title": "Iran War Sends March Inflation To 4-Year High \u2014 The Fed Has No Room To Cut (UPDATED)",
+          "description": "U.S. inflation surged to a 4-year high in March 2026, driven by an Iran war-related energy shock. The CPI rose 0.9% month-over-month with energy prices jumping 10.9%, while core inflation remained contained at 0.2%. The soft core print provided some relief to markets, but the Fed faces limited room to cut rates in 2026, with rate cut probabilities significantly reduced.",
+          "article_url": "https://www.benzinga.com/news/politics/26/04/51751880/march-cpi-iran-war-inflation-4-year-high?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "DIA"
+          ],
+          "keywords": [
+            "inflation",
+            "Iran war",
+            "energy prices",
+            "Federal Reserve",
+            "CPI",
+            "rate cuts",
+            "Strait of Hormuz",
+            "gasoline prices",
+            "core inflation"
+          ]
+        }
+      ]
+    }
+  }
+}

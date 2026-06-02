@@ -1,0 +1,105 @@
+{
+  "event": {
+    "event_id": "GOOGL_20250106_143000",
+    "ticker": "GOOGL",
+    "t0_utc": "2025-01-06 14:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-01-06T11:30:00+00:00",
+      "end": "2025-01-06T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-01-06T12:15:00Z",
+        "title": "Is Amazon Poised to Beat the Market in 2025?",
+        "description": "The article discusses Amazon's performance in 2024 and its prospects for 2025. It highlights Amazon's strong growth in advertising and cloud computing services, which have boosted the company's revenue and profits. The article suggests that while Amazon's stock price may be expensive, the company's growth potential makes it a good investment for the long term.",
+        "article_url": "https://www.fool.com/investing/2025/01/06/is-amazon-poised-to-beat-the-market-in-2025/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Keithen Drury",
+        "tickers": [
+          "AMZN",
+          "GOOG",
+          "GOOGL",
+          "META"
+        ],
+        "keywords": [
+          "Amazon",
+          "Advertising",
+          "AWS",
+          "Valuation"
+        ]
+      },
+      {
+        "published_utc": "2025-01-06T13:30:37Z",
+        "title": "What Smart Investors Should Know About Quantum Computing Stocks",
+        "description": "The article discusses the potential of quantum computing in the AI industry, highlighting the headwinds and tailwinds affecting the overall industry. It also provides a recommendation to consider investing in the sector.",
+        "article_url": "https://www.fool.com/investing/2025/01/06/what-smart-investors-should-know-about-quantum-com/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jose Najarro",
+        "tickers": [
+          "GOOG",
+          "GOOGL",
+          "NVDA"
+        ],
+        "keywords": [
+          "quantum computing",
+          "artificial intelligence",
+          "investing"
+        ]
+      },
+      {
+        "published_utc": "2025-01-06T13:45:00Z",
+        "title": "The Best Stocks to Invest $1,000 In Right Now",
+        "description": "The article discusses three tech stocks - Nvidia, Alphabet, and Microsoft - that are good investment options for those looking to start investing. It highlights the growth potential and competitive advantages of each company.",
+        "article_url": "https://www.fool.com/investing/2025/01/06/the-best-stocks-to-invest-1000-in-right-now/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "NVDA",
+          "GOOG",
+          "GOOGL",
+          "MSFT"
+        ],
+        "keywords": [
+          "Nvidia",
+          "Alphabet",
+          "Microsoft",
+          "AI",
+          "cloud computing",
+          "tech stocks"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-01-06T13:06:00Z",
+          "title": "Risk-On Sentiment Prevails for 2025\u2019s Debut, Fueled by US Stocks",
+          "description": "The risk-on sentiment prevails at the start of 2025, driven by the strength of US stocks, while stocks outside the US and US bonds are faltering.",
+          "article_url": "https://www.investing.com/analysis/riskon-sentiment-prevails-for-2025s-debut-fueled-by-us-stocks-200655901",
+          "publisher": "Investing.com",
+          "author": "James Picerno",
+          "tickers": [
+            "SPY",
+            "VEA",
+            "BND"
+          ],
+          "keywords": [
+            "US stocks",
+            "global assets",
+            "US bonds"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

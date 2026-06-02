@@ -1,0 +1,61 @@
+{
+  "event": {
+    "event_id": "AMD_20241029_195500",
+    "ticker": "AMD",
+    "t0_utc": "2024-10-29 19:55:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-10-29T16:55:00+00:00",
+      "end": "2024-10-29T20:55:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-10-29T20:17:43Z",
+          "title": "Trump Vs. Harris: How Their Fiscal Plans Could Add Trillions To The US National Debt",
+          "description": "The fiscal plans proposed by former President Donald Trump and Vice President Kamala Harris would both significantly increase the U.S. national debt, with Trump's plan adding an estimated $7.75 trillion and Harris's plan adding $3.95 trillion by 2035. The rising debt levels could put pressure on the Federal Reserve to raise interest rates, further escalating the government's interest expenses.",
+          "article_url": "https://www.benzinga.com/government/24/10/41611073/trump-vs-harris-how-their-fiscal-plans-could-add-trillions-to-the-us-national-debt",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "SPY"
+          ],
+          "keywords": [
+            "national debt",
+            "fiscal policy",
+            "Donald Trump",
+            "Kamala Harris",
+            "Federal Reserve",
+            "interest rates"
+          ]
+        },
+        {
+          "published_utc": "2024-10-29T20:46:25Z",
+          "title": "US Consumer Confidence Rises Strongly In October: Stock Market Sentiment Hits New Highs",
+          "description": "US consumer confidence surged in October, with the Consumer Confidence Index jumping to 108.7 from 99.2 in September. Consumers were more optimistic about current business and labor market conditions, and a record-high 51.4% expected stock prices to rise over the next year.",
+          "article_url": "https://www.benzinga.com/economics/macro-economic-events/24/10/41612271/us-consumer-confidence-rises-strongly-in-october-stock-market-sentiment-hits-new-",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "SPY"
+          ],
+          "keywords": [
+            "consumer confidence",
+            "stock market sentiment",
+            "economic outlook"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

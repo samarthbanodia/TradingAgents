@@ -1,0 +1,129 @@
+{
+  "event": {
+    "event_id": "NVDA_20240822_134500",
+    "ticker": "NVDA",
+    "t0_utc": "2024-08-22 13:45:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-08-22T10:45:00+00:00",
+      "end": "2024-08-22T14:45:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-08-22T10:50:00Z",
+        "title": "Prediction: Nvidia's Big Stock Pullback Will Lead to Even Bigger Gains by Year's End",
+        "description": "Nvidia's stock has seen a pullback recently, but the article predicts that the company's strong revenue growth driven by demand for its AI chips will lead to even bigger gains by the end of the year.",
+        "article_url": "https://www.fool.com/investing/2024/08/22/prediction-nvidias-big-stock-pullback-will-lead-to/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "NVDA",
+          "GOOG",
+          "GOOGL",
+          "META",
+          "MSFT"
+        ],
+        "keywords": [
+          "Nvidia",
+          "AI",
+          "tech stocks",
+          "revenue growth"
+        ]
+      },
+      {
+        "published_utc": "2024-08-22T11:15:00Z",
+        "title": "Where Will Nvidia Stock Be in 3 Years?",
+        "description": "Nvidia's rapid growth in the AI market has been impressive, but its future is uncertain as major tech companies develop their own chips to replace GPUs. While Nvidia's GPUs are still crucial for AI workloads, its high profit margins may come under pressure, potentially limiting the stock's upside.",
+        "article_url": "https://www.fool.com/investing/2024/08/22/where-will-nvidia-stock-be-in-3-years/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "NVDA",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "Nvidia",
+          "AI",
+          "GPUs",
+          "Profit Margins",
+          "Competitors"
+        ]
+      },
+      {
+        "published_utc": "2024-08-22T11:24:00Z",
+        "title": "Magnificent 7 Dominance Endangered? Here\u2019s Where Smart Money Could Be Moving Next",
+        "description": "The once-dominant 'Magnificent 7' tech giants are losing their grip, leading to a broader market rotation. Other stocks have stepped in to fill the void, preventing a more severe downturn. Investors need to update their strategies and consider a wider range of stocks, including yield stocks, cyclicals, and small caps.",
+        "article_url": "https://www.investing.com/analysis/magnificent-7-dominance-endangered-heres-where-smart-money-could-be-moving-next-200651203",
+        "publisher": "Investing.com",
+        "author": "David Wagner",
+        "tickers": [
+          "NVDA",
+          "IMKTF",
+          "MAGQ"
+        ],
+        "keywords": [
+          "stock market",
+          "tech giants",
+          "market rotation",
+          "diversification",
+          "investment strategies"
+        ]
+      },
+      {
+        "published_utc": "2024-08-22T12:45:00Z",
+        "title": "When You Look Back in 10 Years, You'll Wish You'd Bought This Unstoppable Artificial Intelligence (AI) Stock",
+        "description": "Arm Holdings, a semiconductor company that develops and licenses central processing units (CPUs), is seen as a compelling investment opportunity in the artificial intelligence (AI) space due to its growing market share, profitability, and strong backlog.",
+        "article_url": "https://www.fool.com/investing/2024/08/22/in-10-years-youll-wish-youd-bought-this-ai-stock/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Adam Spatacco",
+        "tickers": [
+          "ARM",
+          "NVDA",
+          "AMD"
+        ],
+        "keywords": [
+          "Arm Holdings",
+          "semiconductor",
+          "artificial intelligence",
+          "CPU"
+        ]
+      },
+      {
+        "published_utc": "2024-08-22T12:45:00Z",
+        "title": "Artificial Intelligence Influence on Global E-Commerce Market Expected to Skyrocket to\u00a0$25 Billion By 2032",
+        "description": "The global AI in e-commerce market is expected to grow significantly, reaching $25.1 billion by 2032 at a CAGR of 15.1%. AI is playing a crucial role in e-commerce marketing, enabling businesses to gain insights into customer behavior and create personalized experiences.",
+        "article_url": "https://www.globenewswire.com/news-release/2024/08/22/2934218/0/en/Artificial-Intelligence-Influence-on-Global-E-Commerce-Market-Expected-to-Skyrocket-to-25-Billion-By-2032.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Fn Media Group",
+        "tickers": [
+          "RZLV",
+          "RZLVW",
+          "MSFT",
+          "AMZN",
+          "MDB",
+          "NVDA"
+        ],
+        "keywords": [
+          "artificial intelligence",
+          "e-commerce",
+          "market growth",
+          "personalization",
+          "customer behavior"
+        ]
+      }
+    ],
+    "ticker_news_count": 5,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

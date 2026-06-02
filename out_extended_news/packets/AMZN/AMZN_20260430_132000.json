@@ -1,0 +1,239 @@
+{
+  "event": {
+    "event_id": "AMZN_20260430_132000",
+    "ticker": "AMZN",
+    "t0_utc": "2026-04-30 13:20:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2026-04-30T10:20:00+00:00",
+      "end": "2026-04-30T14:20:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-04-30T11:40:00Z",
+        "title": "S&P 500 Resilience Persists Even as Underlying Momentum Fades",
+        "description": "The S&P 500 is consolidating after recent tech earnings, showing resilience despite headwinds including rising oil prices, higher bond yields, and a hawkish Fed stance that has eliminated rate cut expectations. While the index is holding support levels, momentum has stalled and the rally appears increasingly dependent on AI-driven institutional flows into mega-cap tech stocks. Technical consolidation between 7000-7043 suggests a pause rather than a reversal.",
+        "article_url": "https://www.investing.com/analysis/sp-500-resilience-persists-even-as-underlying-momentum-fades-200679444",
+        "publisher": "Investing.com",
+        "author": "Fawad Razaqzada",
+        "tickers": [
+          "META",
+          "GOOG",
+          "GOOGL",
+          "QCOM",
+          "MSFT",
+          "NVDA",
+          "AAPL",
+          "TSLA",
+          "AMZN"
+        ],
+        "keywords": [
+          "S&P 500",
+          "consolidation",
+          "tech earnings",
+          "oil prices",
+          "Federal Reserve",
+          "interest rates",
+          "AI rally",
+          "momentum fade",
+          "geopolitical risk",
+          "Strait of Hormuz"
+        ]
+      },
+      {
+        "published_utc": "2026-04-30T12:02:19Z",
+        "title": "Amazon's AWS Bets Big On Agentic AI To Reinvent Software\u2014 CEO Matt Garman Says 'Everything Is Going To Be Remade'",
+        "description": "AWS CEO Matt Garman announced major AI initiatives including Amazon Quick, a desktop assistant for productivity tasks, and new Connect applications for healthcare, hiring, and supply chain. AWS partnered with OpenAI to offer GPT and Codex models, and launched Connect Talent for AI-driven hiring automation. Garman stated that agentic AI is driving a massive reinvention of software, with AWS expanding AI infrastructure investments despite higher capital spending.",
+        "article_url": "https://www.benzinga.com/markets/tech/26/04/52166880/amazons-aws-bets-big-on-agentic-ai-to-reinvent-software-ceo-matt-garman-says-everything-is-going-to-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Snigdha Gairola",
+        "tickers": [
+          "AMZN",
+          "META"
+        ],
+        "keywords": [
+          "agentic AI",
+          "AWS",
+          "Amazon Quick",
+          "AI productivity tools",
+          "OpenAI partnership",
+          "AI hiring automation",
+          "cloud infrastructure",
+          "capital spending"
+        ]
+      },
+      {
+        "published_utc": "2026-04-30T12:58:29Z",
+        "title": "Stock Market Today: Dow Jones, S&P 500 Futures Gain As Trump Weighs 'Short And Powerful' Iran Strikes\u2014 Alphabet, Meta, Amazon In Focus (UPDATED)",
+        "description": "U.S. stock futures showed mixed performance on Thursday as the Fed maintained interest rates at 3.50%-3.75%. Tech stocks led gains with Amazon, Alphabet, and Apple posting strong earnings results, while Microsoft and Meta raised capital expenditure guidance despite stock declines. Geopolitical tensions over potential Iran strikes and persistent inflation concerns tempered broader market sentiment.",
+        "article_url": "https://www.benzinga.com/markets/equities/26/04/52160887/stock-market-today-dow-jones-futures-drop-nasdaq-gains-as-trump-weighs-short-and-powerful-iran-s?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Rishabh Mishra",
+        "tickers": [
+          "AMZN",
+          "GOOG",
+          "GOOGL",
+          "AAPL",
+          "MSFT",
+          "META",
+          "SPY",
+          "QQQ"
+        ],
+        "keywords": [
+          "stock market",
+          "Fed interest rates",
+          "tech earnings",
+          "capital expenditure",
+          "geopolitical tensions",
+          "inflation",
+          "AI infrastructure"
+        ]
+      },
+      {
+        "published_utc": "2026-04-30T13:05:09Z",
+        "title": "The 'Prove It' Quarter: How Meta, Microsoft, Amazon, And Alphabet Backed AI Capex With Real Run Rates",
+        "description": "Major tech hyperscalers Meta, Microsoft, Amazon, and Alphabet demonstrated in their latest earnings that massive AI capital expenditures are generating substantial real revenue, not speculation. The companies reported combined AI revenue run rates exceeding $100 billion annually, backed by signed customer commitments totaling hundreds of billions. The next phase will focus on autonomous 'agentic' AI systems that execute complex tasks.",
+        "article_url": "https://www.benzinga.com/markets/equities/26/04/52169569/the-prove-it-quarter-how-meta-microsoft-amazon-and-alphabet-backed-ai-capex-with-real-run-rates?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Daniel Newman / Rishabh Mishra",
+        "tickers": [
+          "MSFT",
+          "AMZN",
+          "META",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "AI capex",
+          "hyperscalers",
+          "earnings",
+          "revenue run rates",
+          "cloud infrastructure",
+          "agentic AI",
+          "customer commitments",
+          "data center expansion"
+        ]
+      },
+      {
+        "published_utc": "2026-04-30T14:00:00Z",
+        "title": "Bay Area Students Raise the Roof with Engineering Solutions at The Tech Interactive's 39th Annual Tech Challenge",
+        "description": "More than 1,100 students from Northern California participated in The Tech Interactive's 39th annual Tech Challenge, designing and building innovative lifting devices to address affordable housing construction. The event showcased student engineering skills, creativity, and problem-solving abilities, with special recognition given to teams demonstrating exceptional collaboration, documentation, and real-world application of engineering principles.",
+        "article_url": "https://www.globenewswire.com/news-release/2026/04/30/3285046/0/en/Bay-Area-Students-Raise-the-Roof-with-Engineering-Solutions-at-The-Tech-Interactive-s-39th-Annual-Tech-Challenge.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "The Tech Interactive",
+        "tickers": [
+          "ADBE",
+          "INTC",
+          "AMZN",
+          "ARM",
+          "ASML",
+          "MRVL"
+        ],
+        "keywords": [
+          "engineering education",
+          "STEM",
+          "affordable housing",
+          "student innovation",
+          "problem-solving",
+          "hands-on learning",
+          "Bay Area",
+          "tech challenge"
+        ]
+      },
+      {
+        "published_utc": "2026-04-30T14:07:00Z",
+        "title": "Meta CEO Mark Zuckerberg Just Delivered Great News for Nvidia and Micron Investors",
+        "description": "Meta raised its capital expenditure forecast to $125-145 billion (from $115-135 billion), citing higher component costs, particularly memory pricing. This signals continued strong AI spending across hyperscalers, with Google Cloud growing 63%, Azure up 39%, and AWS at 28%. Nvidia and Micron are positioned to benefit from increased capex and higher chip prices, which improve margins. The commentary suggests the AI investment boom is still in early stages with several more years of growth expected.",
+        "article_url": "https://www.fool.com/investing/2026/04/30/meta-platforms-just-delivered-great-news-for-nvidi/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jeremy Bowman",
+        "tickers": [
+          "META",
+          "NVDA",
+          "MU",
+          "GOOG",
+          "GOOGL",
+          "MSFT",
+          "AMZN"
+        ],
+        "keywords": [
+          "AI spending",
+          "capital expenditure",
+          "semiconductor chips",
+          "cloud computing growth",
+          "memory pricing",
+          "hyperscalers",
+          "data center GPUs"
+        ]
+      }
+    ],
+    "ticker_news_count": 6,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-04-30T12:58:29Z",
+          "title": "Stock Market Today: Dow Jones, S&P 500 Futures Gain As Trump Weighs 'Short And Powerful' Iran Strikes\u2014 Alphabet, Meta, Amazon In Focus (UPDATED)",
+          "description": "U.S. stock futures showed mixed performance on Thursday as the Fed maintained interest rates at 3.50%-3.75%. Tech stocks led gains with Amazon, Alphabet, and Apple posting strong earnings results, while Microsoft and Meta raised capital expenditure guidance despite stock declines. Geopolitical tensions over potential Iran strikes and persistent inflation concerns tempered broader market sentiment.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/04/52160887/stock-market-today-dow-jones-futures-drop-nasdaq-gains-as-trump-weighs-short-and-powerful-iran-s?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AMZN",
+            "GOOG",
+            "GOOGL",
+            "AAPL",
+            "MSFT",
+            "META",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "Fed interest rates",
+            "tech earnings",
+            "capital expenditure",
+            "geopolitical tensions",
+            "inflation",
+            "AI infrastructure"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-04-30T12:58:29Z",
+          "title": "Stock Market Today: Dow Jones, S&P 500 Futures Gain As Trump Weighs 'Short And Powerful' Iran Strikes\u2014 Alphabet, Meta, Amazon In Focus (UPDATED)",
+          "description": "U.S. stock futures showed mixed performance on Thursday as the Fed maintained interest rates at 3.50%-3.75%. Tech stocks led gains with Amazon, Alphabet, and Apple posting strong earnings results, while Microsoft and Meta raised capital expenditure guidance despite stock declines. Geopolitical tensions over potential Iran strikes and persistent inflation concerns tempered broader market sentiment.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/04/52160887/stock-market-today-dow-jones-futures-drop-nasdaq-gains-as-trump-weighs-short-and-powerful-iran-s?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AMZN",
+            "GOOG",
+            "GOOGL",
+            "AAPL",
+            "MSFT",
+            "META",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "Fed interest rates",
+            "tech earnings",
+            "capital expenditure",
+            "geopolitical tensions",
+            "inflation",
+            "AI infrastructure"
+          ]
+        }
+      ]
+    }
+  }
+}

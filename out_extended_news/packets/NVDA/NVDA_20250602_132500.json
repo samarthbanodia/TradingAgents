@@ -1,0 +1,71 @@
+{
+  "event": {
+    "event_id": "NVDA_20250602_132500",
+    "ticker": "NVDA",
+    "t0_utc": "2025-06-02 13:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-06-02T10:25:00+00:00",
+      "end": "2025-06-02T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-06-02T13:24:00Z",
+        "title": "Nvidia's Big Number",
+        "description": "Nvidia reported impressive $24 billion in free cash flow, but the company's small dividend payment continues to irk analyst Tim Beyers. The court ruling against Trump's tariffs also provided a 'relief rally' for the market, though the long-term impact remains uncertain.",
+        "article_url": "https://www.fool.com/investing/2025/06/02/nvidias-big-number/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Mary Long",
+        "tickers": [
+          "NVDA"
+        ],
+        "keywords": [
+          "Nvidia",
+          "free cash flow",
+          "dividend",
+          "tariffs",
+          "trade war"
+        ]
+      },
+      {
+        "published_utc": "2025-06-02T14:13:09Z",
+        "title": "4 Semiconductor Stocks That Investors Should Not Ignore",
+        "description": "The article discusses recent updates affecting Nvidia and other semiconductor stocks, including Advanced Micro Devices, Lam Research, Marvell Technology, ASML, Qualcomm, and Taiwan Semiconductor Manufacturing.",
+        "article_url": "https://www.fool.com/investing/2025/06/02/4-semiconductor-stocks-that-investors-should-not-i/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jose Najarro",
+        "tickers": [
+          "NVDA",
+          "AMD",
+          "LRCX",
+          "MRVL",
+          "ASML",
+          "QCOM",
+          "TSM"
+        ],
+        "keywords": [
+          "Nvidia",
+          "semiconductor stocks",
+          "Advanced Micro Devices",
+          "Lam Research",
+          "Marvell Technology",
+          "ASML",
+          "Qualcomm",
+          "Taiwan Semiconductor Manufacturing"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

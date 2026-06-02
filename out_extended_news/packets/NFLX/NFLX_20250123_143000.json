@@ -1,0 +1,68 @@
+{
+  "event": {
+    "event_id": "NFLX_20250123_143000",
+    "ticker": "NFLX",
+    "t0_utc": "2025-01-23 14:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-01-23T11:30:00+00:00",
+      "end": "2025-01-23T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-01-23T12:15:00Z",
+        "title": "5 Tech Stocks You Can Buy and Hold for the Next Decade",
+        "description": "The article recommends five technology stocks to buy and hold for the next decade: Nvidia, Alphabet, Netflix, Amazon, and Microsoft. These companies are well-positioned to benefit from growth trends in artificial intelligence, cloud computing, and other emerging technologies.",
+        "article_url": "https://www.fool.com/investing/2025/01/23/5-tech-stocks-you-can-hold-for-the-next-decade/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "NVDA",
+          "GOOG",
+          "GOOGL",
+          "NFLX",
+          "AMZN",
+          "MSFT"
+        ],
+        "keywords": [
+          "technology stocks",
+          "long-term investing",
+          "artificial intelligence",
+          "cloud computing",
+          "innovation"
+        ]
+      },
+      {
+        "published_utc": "2025-01-23T12:41:00Z",
+        "title": "Netflix: Why Stock Could Keep Hitting All-Time Highs",
+        "description": "Netflix's subscriber growth and price hike plans have sent its stock soaring, and the company's expansion into live events and ad-based tiers suggest further upside potential.",
+        "article_url": "https://www.investing.com/analysis/netflix-why-stock-could-keep-hitting-alltime-highs-200656530",
+        "publisher": "Investing.com",
+        "author": "Marketbeat.Com",
+        "tickers": [
+          "NFLX"
+        ],
+        "keywords": [
+          "Netflix",
+          "streaming",
+          "subscriber growth",
+          "price hikes",
+          "live events",
+          "ad-based tiers"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

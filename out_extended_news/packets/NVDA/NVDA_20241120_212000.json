@@ -1,0 +1,87 @@
+{
+  "event": {
+    "event_id": "NVDA_20241120_212000",
+    "ticker": "NVDA",
+    "t0_utc": "2024-11-20 21:20:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-11-20T18:20:00+00:00",
+      "end": "2024-11-20T22:20:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-11-20T18:25:25Z",
+        "title": "Stocks Fall Ahead Of Nvidia Earnings, Dollar Resumes Gains, Bitcoin Reaches New Record Highs: What's Driving Markets Wednesday?",
+        "description": "Stocks fell ahead of Nvidia's earnings report, with the tech-heavy Nasdaq leading losses. The dollar and gold rose amid heightened risk aversion, while natural gas surged. Bitcoin reached a new record high, defying the risk-off sentiment.",
+        "article_url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/11/42096315/stocks-fall-ahead-of-nvidia-earnings-dollar-resumes-gains-bitcoin-reaches-new-recor",
+        "publisher": "Benzinga",
+        "author": "Piero Cingari",
+        "tickers": [
+          "DIA",
+          "NVDA",
+          "XLV",
+          "XLP",
+          "KEYS",
+          "XP",
+          "DLB",
+          "TJX",
+          "WSM"
+        ],
+        "keywords": [
+          "stocks",
+          "Nvidia",
+          "dollar",
+          "Bitcoin",
+          "commodities",
+          "geopolitical tensions"
+        ]
+      },
+      {
+        "published_utc": "2024-11-20T20:13:00Z",
+        "title": "Nvidia Stock Must Break 149.77 to Pave Way for Further Rise",
+        "description": "Nvidia stock needs to break the recent high of $149.77 to pave the way for further rise. Analysts expect the chipmaker to deliver revenue growth driven by demand for artificial intelligence infrastructure, with record data center sales. Fundamental and technical parameters are supporting additional rallies.",
+        "article_url": "https://www.investing.com/analysis/nvidia-stock-must-break-14977-to-pave-way-for-further-rise-200654382",
+        "publisher": "Investing.com",
+        "author": "Ali Merchant",
+        "tickers": [
+          "NVDA"
+        ],
+        "keywords": [
+          "Nvidia",
+          "AI",
+          "data center",
+          "earnings"
+        ]
+      },
+      {
+        "published_utc": "2024-11-20T20:31:00Z",
+        "title": "Nasdaq 100: Can Nvidia Earnings Crash the Stock Market?",
+        "description": "The article discusses the potential impact of Nvidia's earnings on the Nasdaq 100 index. It suggests that while Nvidia's earnings could temporarily swing the market lower, the overall trend is still expected to be higher, based on the Elliott Wave Principle analysis.",
+        "article_url": "https://www.investing.com/analysis/nasdaq-100-can-nvidia-earnings-crash-the-stock-market-200654383",
+        "publisher": "Investing.com",
+        "author": "Dr. Arnout Ter Schure",
+        "tickers": [
+          "NVDA"
+        ],
+        "keywords": [
+          "Nasdaq 100",
+          "Nvidia",
+          "stock market",
+          "Elliott Wave Principle"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

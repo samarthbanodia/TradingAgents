@@ -1,0 +1,88 @@
+{
+  "event": {
+    "event_id": "GOOGL_20250731_132500",
+    "ticker": "GOOGL",
+    "t0_utc": "2025-07-31 13:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-07-31T10:25:00+00:00",
+      "end": "2025-07-31T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-07-31T10:30:00Z",
+        "title": "2 Cheap AI Stocks You Can Buy Now and Hold Long-Term",
+        "description": "The Motley Fool discusses the current landscape of artificial intelligence stocks, noting their recent surge and the challenges in finding undervalued opportunities in the sector.",
+        "article_url": "https://www.fool.com/investing/2025/07/31/2-cheap-ai-stocks-you-can-buy-now-and-hold-long-te/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Parkev Tatevosian, Cfa",
+        "tickers": [
+          "GOOG",
+          "GOOGL",
+          "IBM"
+        ],
+        "keywords": [
+          "artificial intelligence",
+          "stocks",
+          "investing",
+          "technology"
+        ]
+      },
+      {
+        "published_utc": "2025-07-31T13:37:22Z",
+        "title": "Alphabet's Recent Numbers Were Strong, but This Metric Could be a Red Flag",
+        "description": "Alphabet reported strong Q2 earnings with 14% revenue growth, but faces potential market share challenges from AI search alternatives like ChatGPT and potential disruption from Apple's potential search engine changes.",
+        "article_url": "https://www.fool.com/investing/2025/07/31/companys-recent-numbers-were-strong-but-this-metri/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jeremy Bowman",
+        "tickers": [
+          "GOOG",
+          "GOOGL",
+          "AAPL",
+          "MSFT",
+          "META",
+          "AMZN"
+        ],
+        "keywords": [
+          "AI",
+          "search",
+          "Google",
+          "market share",
+          "earnings",
+          "technology"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": [
+        {
+          "published_utc": "2025-07-31T12:35:00Z",
+          "title": "4 Reasons to Buy Invesco QQQ Trust Like There's No Tomorrow",
+          "description": "The Invesco QQQ Trust (QQQ) is an attractive ETF tracking the Nasdaq-100 index, offering significant technology sector exposure with strong historical performance, low fees, and potential for future growth.",
+          "article_url": "https://www.fool.com/investing/2025/07/31/reasons-buy-invesco-qqq-trust-like-no-tomorrow/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Neil Patel",
+          "tickers": [
+            "QQQ"
+          ],
+          "keywords": [
+            "ETF",
+            "Nasdaq-100",
+            "technology",
+            "investing",
+            "stock market"
+          ]
+        }
+      ]
+    }
+  }
+}

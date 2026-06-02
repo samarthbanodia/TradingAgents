@@ -1,0 +1,133 @@
+{
+  "event": {
+    "event_id": "PLTR_20241224_142500",
+    "ticker": "PLTR",
+    "t0_utc": "2024-12-24 14:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-12-24T11:25:00+00:00",
+      "end": "2024-12-24T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-12-24T12:10:00Z",
+        "title": "Palantir Stock vs. Oracle Stock: Wall Street Says Only 1 Will Head Higher in 2025",
+        "description": "Palantir and Oracle are both benefiting from the growth in artificial intelligence spending, but Wall Street analysts are more bullish on Oracle's prospects compared to Palantir's high valuation.",
+        "article_url": "https://www.fool.com/investing/2024/12/24/palantir-stock-vs-oracle-stock-wall-street-says-on/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "PLTR",
+          "ORCL"
+        ],
+        "keywords": [
+          "Palantir",
+          "Oracle",
+          "Artificial Intelligence",
+          "Cloud Computing"
+        ]
+      },
+      {
+        "published_utc": "2024-12-24T14:00:00Z",
+        "title": "Nvidia Rules AI, but Is Quantum Computing the Next Gold Mine?",
+        "description": "The article discusses Nvidia's quantum computing solutions and its potential impact on the company's future. It also mentions that billionaire Stanley Druckenmiller is selling Nvidia and Palantir while investing in a hot drug stock ahead of 2025.",
+        "article_url": "https://www.fool.com/investing/2024/12/24/nvidia-rules-ai-but-is-quantum-computing-the-next/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jose Najarro",
+        "tickers": [
+          "NVDA",
+          "PLTR"
+        ],
+        "keywords": [
+          "Nvidia",
+          "quantum computing",
+          "Palantir",
+          "drug stock"
+        ]
+      },
+      {
+        "published_utc": "2024-12-24T15:15:00Z",
+        "title": "Will These 2 Artificial Intelligence (AI) Stocks Continue Their Meteoric Rise in 2025?",
+        "description": "The article discusses the potential of two AI stocks, SoundHound AI and Palantir Technologies, to continue their impressive performance in 2025. It highlights the growth opportunities in the AI market and the companies' recent successes, but also cautions about the high valuations and risks involved.",
+        "article_url": "https://www.fool.com/investing/2024/12/24/will-these-2-artificial-intelligence-ai-stocks/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "SOUN",
+          "SOUNW",
+          "PLTR"
+        ],
+        "keywords": [
+          "artificial intelligence",
+          "AI stocks",
+          "SoundHound AI",
+          "Palantir Technologies",
+          "market growth",
+          "valuation"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-12-24T11:26:09Z",
+          "title": "US Stocks To Open Higher On Shortened Trading Day: Santa Claus Rally Period Officially Begins, Says Analyst",
+          "description": "US stock futures are trading higher ahead of a shortened trading session on Christmas Eve. Analysts expect a 'Santa Rally' during this period, which has historically seen positive returns. However, they also caution about potential market corrections in 2025 due to stretched valuations.",
+          "article_url": "https://www.benzinga.com/24/12/42667439/us-stocks-to-open-higher-on-shortened-trading-day-as-santa-clause-rally-period-begins-says-analyst",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AVGR",
+            "CREV",
+            "CREVW",
+            "NEUE",
+            "TIVC",
+            "TOVX",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "US stocks",
+            "Santa Claus Rally",
+            "market outlook",
+            "market correction"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2024-12-24T11:26:09Z",
+          "title": "US Stocks To Open Higher On Shortened Trading Day: Santa Claus Rally Period Officially Begins, Says Analyst",
+          "description": "US stock futures are trading higher ahead of a shortened trading session on Christmas Eve. Analysts expect a 'Santa Rally' during this period, which has historically seen positive returns. However, they also caution about potential market corrections in 2025 due to stretched valuations.",
+          "article_url": "https://www.benzinga.com/24/12/42667439/us-stocks-to-open-higher-on-shortened-trading-day-as-santa-clause-rally-period-begins-says-analyst",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AVGR",
+            "CREV",
+            "CREVW",
+            "NEUE",
+            "TIVC",
+            "TOVX",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "US stocks",
+            "Santa Claus Rally",
+            "market outlook",
+            "market correction"
+          ]
+        }
+      ]
+    }
+  }
+}

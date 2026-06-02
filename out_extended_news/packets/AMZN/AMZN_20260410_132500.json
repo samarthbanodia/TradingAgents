@@ -1,0 +1,248 @@
+{
+  "event": {
+    "event_id": "AMZN_20260410_132500",
+    "ticker": "AMZN",
+    "t0_utc": "2026-04-10 13:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-04-10T10:25:00+00:00",
+      "end": "2026-04-10T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-04-10T11:25:00Z",
+        "title": "New to Investing? Here's Why Amazon Stock Is a Great First Buy.",
+        "description": "The article recommends Amazon stock as an ideal first investment for beginner investors due to its simple, understandable business model, multiple growth drivers including cloud computing and AI, and long-term sustainability. With as little as $500, new investors can build a meaningful position while learning investment fundamentals through tracking earnings reports and business segment performance.",
+        "article_url": "https://www.fool.com/investing/2026/04/10/new-to-investing-heres-why-amazon-stock-is-a-great/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Lawrence Nga",
+        "tickers": [
+          "AMZN"
+        ],
+        "keywords": [
+          "beginner investing",
+          "Amazon stock",
+          "cloud computing",
+          "artificial intelligence",
+          "e-commerce",
+          "AWS",
+          "first investment",
+          "long-term growth"
+        ]
+      },
+      {
+        "published_utc": "2026-04-10T11:30:00Z",
+        "title": "2 Red Flags Waving Over UPS Cash Flow",
+        "description": "UPS's 2025 free cash flow of $5.5 billion was artificially boosted by $700 million in property sales and $253 million in fuel surcharge benefits that may not repeat. With dividend coverage at 91.5% of earnings and no planned increases, combined with uncertain 2026 guidance and geopolitical risks, investors should exercise caution before buying the stock.",
+        "article_url": "https://www.fool.com/investing/2026/04/10/2-red-flags-waving-over-ups-cash-flow/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Lee Samaha",
+        "tickers": [
+          "UPS",
+          "AMZN"
+        ],
+        "keywords": [
+          "free cash flow",
+          "dividend coverage",
+          "property sales",
+          "fuel surcharges",
+          "restructuring",
+          "Amazon deliveries",
+          "cash flow quality"
+        ]
+      },
+      {
+        "published_utc": "2026-04-10T13:30:00Z",
+        "title": "2 Stocks That Are Better Buys Than the \"Magnificent Seven\"",
+        "description": "The article argues that Taiwan Semiconductor Manufacturing (TSM) and Broadcom (AVGO) offer better investment opportunities than most Magnificent Seven stocks. TSM, the world's largest chip foundry, is expected to grow AI chip revenue at a 50%+ CAGR through 2029, while Broadcom's custom AI chip division is projected to grow from $34 billion annual run rate to over $100 billion by end of 2027, outpacing most Magnificent Seven members.",
+        "article_url": "https://www.fool.com/investing/2026/04/10/2-stocks-that-are-better-buys-than-the-magnificent/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Keithen Drury",
+        "tickers": [
+          "TSM",
+          "AVGO",
+          "NVDA",
+          "AAPL",
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "AMZN",
+          "META",
+          "TSLA"
+        ],
+        "keywords": [
+          "AI chips",
+          "semiconductor manufacturing",
+          "custom AI chips",
+          "chip foundry",
+          "growth stocks",
+          "Magnificent Seven",
+          "investment opportunity"
+        ]
+      },
+      {
+        "published_utc": "2026-04-10T14:15:00Z",
+        "title": "Amazon Will Impose a Temporary Fuel Surcharge on Some Customers. Should Investors Worry?",
+        "description": "Amazon announced a 3.5% temporary fuel surcharge on third-party seller services starting April 17, 2026, in response to rising oil prices. However, analysts suggest investors should not be concerned as the surcharge primarily affects the third-party seller business (24% of revenue), while AWS\u2014which generates the majority of operating income and grew 24% year-over-year\u2014is unaffected by fuel costs. The company's diversified business model and strong growth in advertising and cloud services should offset any potential slowdown from the fuel surcharge.",
+        "article_url": "https://www.fool.com/investing/2026/04/10/amazon-will-impose-a-temporary-fuel-surcharge-on-s/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Will Healy",
+        "tickers": [
+          "AMZN"
+        ],
+        "keywords": [
+          "fuel surcharge",
+          "third-party sellers",
+          "AWS",
+          "operating income",
+          "e-commerce",
+          "digital advertising",
+          "logistics costs",
+          "oil prices"
+        ]
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-04-10T11:39:19Z",
+          "title": "Record Household Equity Exposure Raises Passive-Investing Risks",
+          "description": "American households have reached record equity exposure at 25.63%, surpassing Dot-Com bubble levels, creating structural market fragility. With over 60% of households invested through index-linked products, passive investing may force investors to absorb risk regardless of timing or valuation, potentially redistributing wealth from insiders to passive investors as massive private companies like SpaceX enter public markets.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/04/51750693/record-household-equity-exposure-raises-passive-investing-risks?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Stjepan Kalinic",
+          "tickers": [
+            "SPY",
+            "VAW",
+            "VGT",
+            "XLE"
+          ],
+          "keywords": [
+            "household equity exposure",
+            "passive investing",
+            "index funds",
+            "market risk",
+            "structural fragility",
+            "Fed policy uncertainty",
+            "mega-cap concentration",
+            "IPO valuations"
+          ]
+        },
+        {
+          "published_utc": "2026-04-10T12:46:04Z",
+          "title": "Stock Market Today: S&P 500 Futures Pare Losses As March CPI Rises In-Line With Expectations\u2014Taiwan Semiconductor, Rocket Lab In Focus (UPDATED)",
+          "description": "U.S. stock futures fell on Friday amid Middle East tensions over Iran-Israel ceasefire violations and ahead of March CPI data release. Major indices traded lower with the Dow, S&P 500, and Nasdaq 100 all declining slightly. Crude oil surged 2.31% to $100.13/barrel due to geopolitical concerns. Key gainers included Taiwan Semiconductor (up 1.81% on strong Q1 revenue), Simulations Plus (up 13.24% on better-than-expected results), and Urban-gro (up 12.31% on new strategy). Analysts remain cautiously optimistic about 2026 earnings growth despite headwinds from energy shocks and inflation.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/04/51749019/stock-market-today-sp-500-futures-fall-ahead-of-march-cpi-as-trump-says-iran-isnt-upholding-ceas?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "TSM",
+            "RKLB",
+            "SLP",
+            "UGRO",
+            "PONY",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "S&P 500 futures",
+            "March CPI",
+            "Iran ceasefire",
+            "geopolitical tensions",
+            "crude oil",
+            "AI applications",
+            "semiconductor stocks",
+            "Federal Reserve",
+            "interest rates"
+          ]
+        },
+        {
+          "published_utc": "2026-04-10T12:57:25Z",
+          "title": "Iran War Sends March Inflation To 4-Year High \u2014 The Fed Has No Room To Cut (UPDATED)",
+          "description": "U.S. inflation surged to a 4-year high in March 2026, driven by an Iran war-related energy shock. The CPI rose 0.9% month-over-month with energy prices jumping 10.9%, while core inflation remained contained at 0.2%. The soft core print provided some relief to markets, but the Fed faces limited room to cut rates in 2026, with rate cut probabilities significantly reduced.",
+          "article_url": "https://www.benzinga.com/news/politics/26/04/51751880/march-cpi-iran-war-inflation-4-year-high?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "DIA"
+          ],
+          "keywords": [
+            "inflation",
+            "Iran war",
+            "energy prices",
+            "Federal Reserve",
+            "CPI",
+            "rate cuts",
+            "Strait of Hormuz",
+            "gasoline prices",
+            "core inflation"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-04-10T12:46:04Z",
+          "title": "Stock Market Today: S&P 500 Futures Pare Losses As March CPI Rises In-Line With Expectations\u2014Taiwan Semiconductor, Rocket Lab In Focus (UPDATED)",
+          "description": "U.S. stock futures fell on Friday amid Middle East tensions over Iran-Israel ceasefire violations and ahead of March CPI data release. Major indices traded lower with the Dow, S&P 500, and Nasdaq 100 all declining slightly. Crude oil surged 2.31% to $100.13/barrel due to geopolitical concerns. Key gainers included Taiwan Semiconductor (up 1.81% on strong Q1 revenue), Simulations Plus (up 13.24% on better-than-expected results), and Urban-gro (up 12.31% on new strategy). Analysts remain cautiously optimistic about 2026 earnings growth despite headwinds from energy shocks and inflation.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/04/51749019/stock-market-today-sp-500-futures-fall-ahead-of-march-cpi-as-trump-says-iran-isnt-upholding-ceas?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "TSM",
+            "RKLB",
+            "SLP",
+            "UGRO",
+            "PONY",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "S&P 500 futures",
+            "March CPI",
+            "Iran ceasefire",
+            "geopolitical tensions",
+            "crude oil",
+            "AI applications",
+            "semiconductor stocks",
+            "Federal Reserve",
+            "interest rates"
+          ]
+        },
+        {
+          "published_utc": "2026-04-10T12:57:25Z",
+          "title": "Iran War Sends March Inflation To 4-Year High \u2014 The Fed Has No Room To Cut (UPDATED)",
+          "description": "U.S. inflation surged to a 4-year high in March 2026, driven by an Iran war-related energy shock. The CPI rose 0.9% month-over-month with energy prices jumping 10.9%, while core inflation remained contained at 0.2%. The soft core print provided some relief to markets, but the Fed faces limited room to cut rates in 2026, with rate cut probabilities significantly reduced.",
+          "article_url": "https://www.benzinga.com/news/politics/26/04/51751880/march-cpi-iran-war-inflation-4-year-high?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "DIA"
+          ],
+          "keywords": [
+            "inflation",
+            "Iran war",
+            "energy prices",
+            "Federal Reserve",
+            "CPI",
+            "rate cuts",
+            "Strait of Hormuz",
+            "gasoline prices",
+            "core inflation"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "event": {
+    "event_id": "AMD_20240903_133000",
+    "ticker": "AMD",
+    "t0_utc": "2024-09-03 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-09-03T10:30:00+00:00",
+      "end": "2024-09-03T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-09-03T10:45:00Z",
+        "title": "2 AI Stocks That Could Create Lasting Generational Wealth",
+        "description": "The article discusses two stocks, Advanced Micro Devices (AMD) and Palantir Technologies (PLTR), that are poised to benefit from the growing artificial intelligence (AI) market. AMD is seeing strong demand for its processors in AI-powered PCs and data centers, while Palantir's AI software platforms are helping companies gain a competitive edge.",
+        "article_url": "https://www.fool.com/investing/2024/09/03/2-ai-stocks-generational-wealth/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "John Ballard",
+        "tickers": [
+          "AMD",
+          "PLTR"
+        ],
+        "keywords": [
+          "AI",
+          "data centers",
+          "PCs",
+          "Palantir",
+          "AMD"
+        ]
+      },
+      {
+        "published_utc": "2024-09-03T14:06:10Z",
+        "title": "Nvidia vs. AMD: Recent Benchmark Shows a Drastic Gap in AI Performance",
+        "description": "The article discusses recent updates affecting Nvidia, Advanced Micro Devices, and other companies providing artificial intelligence accelerators. It suggests that Wall Street had predicted Nvidia's stock to decline before the company's Q2 update, and now analysts are reevaluating their views.",
+        "article_url": "https://www.fool.com/investing/2024/09/03/nvidia-vs-amd-recent-benchmark-shows-a-drastic-gap/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jose Najarro",
+        "tickers": [
+          "NVDA",
+          "AMD"
+        ],
+        "keywords": [
+          "Nvidia",
+          "Advanced Micro Devices",
+          "artificial intelligence accelerators"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-09-03T10:50:21Z",
+          "title": "Wall Street Poised For Sharply Lower Start In New Week As Risk-Off Sentiment Dominates, VIX Spikes: Analysts Fret Over Sluggish September Seasonality",
+          "description": "The Nasdaq and S&P 500 futures are down sharply at the start of the trading week, as risk appetite has waned amid concerns over sluggish September seasonality and the upcoming jobs data, which could influence the Federal Reserve's rate decision.",
+          "article_url": "https://www.benzinga.com/news/earnings/24/09/40682836/wall-street-poised-for-sharply-lower-start-in-new-week-as-risk-off-sentiment-dominates-vix-spikes-a",
+          "publisher": "Benzinga",
+          "author": "Shanthi Rexaline",
+          "tickers": [
+            "QQQ",
+            "SPY",
+            "NVDA",
+            "X",
+            "GTLB",
+            "PD",
+            "ZS"
+          ],
+          "keywords": [
+            "Nasdaq",
+            "S&P 500",
+            "futures",
+            "risk appetite",
+            "September seasonality",
+            "jobs data",
+            "Federal Reserve"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2024-09-03T10:50:21Z",
+          "title": "Wall Street Poised For Sharply Lower Start In New Week As Risk-Off Sentiment Dominates, VIX Spikes: Analysts Fret Over Sluggish September Seasonality",
+          "description": "The Nasdaq and S&P 500 futures are down sharply at the start of the trading week, as risk appetite has waned amid concerns over sluggish September seasonality and the upcoming jobs data, which could influence the Federal Reserve's rate decision.",
+          "article_url": "https://www.benzinga.com/news/earnings/24/09/40682836/wall-street-poised-for-sharply-lower-start-in-new-week-as-risk-off-sentiment-dominates-vix-spikes-a",
+          "publisher": "Benzinga",
+          "author": "Shanthi Rexaline",
+          "tickers": [
+            "QQQ",
+            "SPY",
+            "NVDA",
+            "X",
+            "GTLB",
+            "PD",
+            "ZS"
+          ],
+          "keywords": [
+            "Nasdaq",
+            "S&P 500",
+            "futures",
+            "risk appetite",
+            "September seasonality",
+            "jobs data",
+            "Federal Reserve"
+          ]
+        }
+      ]
+    }
+  }
+}

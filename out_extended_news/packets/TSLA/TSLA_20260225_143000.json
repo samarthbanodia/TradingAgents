@@ -1,0 +1,77 @@
+{
+  "event": {
+    "event_id": "TSLA_20260225_143000",
+    "ticker": "TSLA",
+    "t0_utc": "2026-02-25 14:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2026-02-25T11:30:00+00:00",
+      "end": "2026-02-25T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-02-25T13:37:26Z",
+          "title": "Stock Market Today: S&P 500, Dow, Nasdaq Futures Rise After Trump's State Of The Union Address\u2014 Nvidia, HSBC, Workday In Focus  (UPDATED)",
+          "description": "U.S. stock futures rose on Wednesday following Trump's State of the Union address, where he touted 53 all-time stock market highs and proposed replacing income tax with foreign tariffs. Key movers included Workday plunging 9.51% despite strong earnings due to weak forward guidance, HSBC rising 4.43% on increased net interest income, and Nvidia holding steady ahead of earnings. Treasury yields remained stable at 4.05% for 10-year bonds, with markets pricing a 98% likelihood of unchanged Fed rates in March.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50842124/stock-market-today-dow-jones-nasdaq-100-futures-rise-after-trumps-state-of-the-union-address-nvi?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "WDAY",
+            "HSBC",
+            "NVDA",
+            "SHEL",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market futures",
+            "Trump State of the Union",
+            "tariffs",
+            "earnings",
+            "Federal Reserve",
+            "Treasury yields",
+            "market sentiment"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-02-25T13:37:26Z",
+          "title": "Stock Market Today: S&P 500, Dow, Nasdaq Futures Rise After Trump's State Of The Union Address\u2014 Nvidia, HSBC, Workday In Focus  (UPDATED)",
+          "description": "U.S. stock futures rose on Wednesday following Trump's State of the Union address, where he touted 53 all-time stock market highs and proposed replacing income tax with foreign tariffs. Key movers included Workday plunging 9.51% despite strong earnings due to weak forward guidance, HSBC rising 4.43% on increased net interest income, and Nvidia holding steady ahead of earnings. Treasury yields remained stable at 4.05% for 10-year bonds, with markets pricing a 98% likelihood of unchanged Fed rates in March.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50842124/stock-market-today-dow-jones-nasdaq-100-futures-rise-after-trumps-state-of-the-union-address-nvi?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "WDAY",
+            "HSBC",
+            "NVDA",
+            "SHEL",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market futures",
+            "Trump State of the Union",
+            "tariffs",
+            "earnings",
+            "Federal Reserve",
+            "Treasury yields",
+            "market sentiment"
+          ]
+        }
+      ]
+    }
+  }
+}

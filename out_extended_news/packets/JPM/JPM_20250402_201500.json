@@ -1,0 +1,72 @@
+{
+  "event": {
+    "event_id": "JPM_20250402_201500",
+    "ticker": "JPM",
+    "t0_utc": "2025-04-02 20:15:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-04-02T17:15:00+00:00",
+      "end": "2025-04-02T21:15:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-04-02T19:18:54Z",
+        "title": "JPMorgan, Wells Fargo, Morgan Stanley, BNY Mellon Will 'Strike A Cautious Tone': Analysts",
+        "description": "Major U.S. banks, including JPMorgan, Wells Fargo, Morgan Stanley, and BNY Mellon, are expected to strike a cautious tone in their upcoming earnings calls due to growing economic concerns. Banks may increase reserves, while trading revenue could provide earnings upside.",
+        "article_url": "https://www.benzinga.com/analyst-ratings/analyst-color/25/04/44614042/jpmorgan-wells-fargo-morgan-stanley-bny-mellon-will-strike-a-cautious-tone-analysts",
+        "publisher": "Benzinga",
+        "author": "Vandana Singh",
+        "tickers": [
+          "AMJB",
+          "JPM",
+          "JPMpC",
+          "JPMpD",
+          "JPMpJ",
+          "JPMpK",
+          "JPMpL",
+          "JPMpM",
+          "VYLD",
+          "WFC",
+          "WFCpA",
+          "WFCpC",
+          "WFCpD",
+          "WFCpL",
+          "WFCpY",
+          "WFCpZ",
+          "MS",
+          "MSpA",
+          "MSpE",
+          "MSpF",
+          "MSpI",
+          "MSpK",
+          "MSpL",
+          "MSpO",
+          "MSpP",
+          "MSpQ",
+          "BK",
+          "BKpK",
+          "C",
+          "CpN"
+        ],
+        "keywords": [
+          "banks",
+          "earnings",
+          "economic concerns",
+          "trading revenue"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

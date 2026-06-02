@@ -1,0 +1,45 @@
+{
+  "event": {
+    "event_id": "META_20250910_133000",
+    "ticker": "META",
+    "t0_utc": "2025-09-10 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-09-10T10:30:00+00:00",
+      "end": "2025-09-10T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-09-10T10:34:00Z",
+        "title": "3 Reasons Meta Platforms Is a Great Dividend Stock",
+        "description": "Meta Platforms has initiated a modest dividend with strong potential for growth, supported by robust financial performance, efficient operations, and significant free cash flow. The company continues to invest heavily in AI infrastructure while maintaining a conservative dividend policy.",
+        "article_url": "https://www.fool.com/investing/2025/09/10/3-reasons-meta-platforms-is-a-great-dividend-stock/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Daniel Sparks",
+        "tickers": [
+          "META"
+        ],
+        "keywords": [
+          "Meta",
+          "dividend",
+          "AI",
+          "technology",
+          "stock market",
+          "financial performance"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

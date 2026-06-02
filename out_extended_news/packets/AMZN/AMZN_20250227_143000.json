@@ -1,0 +1,48 @@
+{
+  "event": {
+    "event_id": "AMZN_20250227_143000",
+    "ticker": "AMZN",
+    "t0_utc": "2025-02-27 14:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-02-27T11:30:00+00:00",
+      "end": "2025-02-27T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-02-27T15:14:55Z",
+          "title": "Trump's Plan For Canada, Mexico, China Tariffs To Start March 4 Could Shake Stock Market",
+          "description": "President Trump plans to impose tariffs on Canada, Mexico, and China starting March 4, which could impact various sectors and worry consumers due to higher costs and potential retaliatory measures.",
+          "article_url": "https://www.benzinga.com/news/global/25/02/44010093/trumps-plan-for-canada-mexico-china-tariffs-to-start-march-4-could-shake-stock-market",
+          "publisher": "Benzinga",
+          "author": "Chris Katje",
+          "tickers": [
+            "DIA",
+            "EWC",
+            "EWW",
+            "MCHI",
+            "SPY"
+          ],
+          "keywords": [
+            "tariffs",
+            "Canada",
+            "Mexico",
+            "China",
+            "stock market"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "event": {
+    "event_id": "AMD_20240806_132500",
+    "ticker": "AMD",
+    "t0_utc": "2024-08-06 13:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-08-06T10:25:00+00:00",
+      "end": "2024-08-06T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-08-06T12:23:00Z",
+          "title": "Got $1,000 to Invest In Stocks? Put It In This Index Fund.",
+          "description": "The article recommends investing $1,000 in a broad market-tracking index fund, such as the Vanguard S&P 500 ETF, as a simple and diversified way for new investors to get started in the stock market.",
+          "article_url": "https://www.fool.com/investing/2024/08/06/got-1000-to-invest-in-stocks-put-it-in-this-index/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Anders Bylund",
+          "tickers": [
+            "VOO",
+            "SPY",
+            "IVV",
+            "VTI"
+          ],
+          "keywords": [
+            "investing",
+            "index funds",
+            "ETFs",
+            "Vanguard"
+          ]
+        },
+        {
+          "published_utc": "2024-08-06T14:21:00Z",
+          "title": "Build a Portfolio With These 4 ETFs",
+          "description": "The article discusses how to build a solid portfolio around four key ETFs, including the SPDR S&P 500 ETF (SPY), to protect against major losses during weak periods in the stock market.",
+          "article_url": "https://www.fool.com/investing/2024/08/06/build-a-portfolio-with-these-4-etfs/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Mark Roussin, Cpa",
+          "tickers": [
+            "SPY",
+            "VTI",
+            "SCHD"
+          ],
+          "keywords": [
+            "portfolio",
+            "ETFs",
+            "SPDR S&P 500 ETF"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "event": {
+    "event_id": "AAPL_20241217_143500",
+    "ticker": "AAPL",
+    "t0_utc": "2024-12-17 14:35:00+00:00",
+    "direction": 1,
+    "label_proxy": "unclear",
+    "window": {
+      "start": "2024-12-17T11:35:00+00:00",
+      "end": "2024-12-17T15:35:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-12-17T14:15:00Z",
+        "title": "Broadcom Shares Surge as It Adds More Custom AI Chip Customers. Can the Momentum in the Stock Continue?",
+        "description": "Broadcom's shares surged after the company reported record revenue and said it was developing custom AI chips for major customers. The company's addressable market for these chips could reach $60-$90 billion by 2027, but there are some concerns about potential customer losses and the impact of TikTok's uncertain future.",
+        "article_url": "https://www.fool.com/investing/2024/12/17/broadcom-shares-surge-as-it-adds-more-custom-ai/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "AVGO",
+          "NVDA",
+          "AAPL"
+        ],
+        "keywords": [
+          "Broadcom",
+          "AI chips",
+          "custom chips",
+          "addressable market",
+          "customer losses",
+          "TikTok"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

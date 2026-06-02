@@ -1,0 +1,64 @@
+{
+  "event": {
+    "event_id": "TSLA_20241224_143000",
+    "ticker": "TSLA",
+    "t0_utc": "2024-12-24 14:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-12-24T11:30:00+00:00",
+      "end": "2024-12-24T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-12-24T12:30:00Z",
+        "title": "Better Electric Vehicle (EV) Stock: Lucid vs. Tesla",
+        "description": "The article compares the performance of Tesla and Lucid, two electric vehicle companies. It suggests that Tesla is a better investment option due to its continued production and profitability, while Lucid is facing challenges with increasing losses and lower production rates.",
+        "article_url": "https://www.fool.com/investing/2024/12/24/better-electric-vehicle-ev-stock-lucid-vs-tesla/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Chris Neiger",
+        "tickers": [
+          "TSLA",
+          "LCID"
+        ],
+        "keywords": [
+          "electric vehicles",
+          "Tesla",
+          "Lucid",
+          "EV stocks"
+        ]
+      },
+      {
+        "published_utc": "2024-12-24T13:45:00Z",
+        "title": "1 Spectacular Growth Stock That Could Join Nvidia, Tesla, Apple, and Others in the $1 Trillion Club",
+        "description": "This article discusses a growth stock that is expected to experience a surge in revenue, profit, and cash flow in the upcoming years, potentially joining the ranks of companies like Nvidia, Tesla, and Apple in the $1 trillion club.",
+        "article_url": "https://www.fool.com/investing/2024/12/24/1-spectacular-growth-stock-that-could-join-nvidia/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Parkev Tatevosian, Cfa",
+        "tickers": [
+          "NVDA",
+          "TSLA",
+          "AAPL"
+        ],
+        "keywords": [
+          "growth stock",
+          "trillion dollar club",
+          "revenue",
+          "profit",
+          "cash flow"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

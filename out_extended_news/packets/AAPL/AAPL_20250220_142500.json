@@ -1,0 +1,51 @@
+{
+  "event": {
+    "event_id": "AAPL_20250220_142500",
+    "ticker": "AAPL",
+    "t0_utc": "2025-02-20 14:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "unclear",
+    "window": {
+      "start": "2025-02-20T11:25:00+00:00",
+      "end": "2025-02-20T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-02-20T15:00:00Z",
+        "title": "Progressive Web Apps Market to Reach USD 13.3 Billion by 2032 | SNS Insider",
+        "description": "The Progressive Web Apps market is growing rapidly, driven by mobile-first adoption, digital expansion, and rising demand for seamless access. The market is expected to grow from $1.4 billion in 2023 to $13.3 billion by 2032, at a CAGR of 28.6%.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/02/20/3029809/0/en/Progressive-Web-Apps-Market-to-Reach-USD-13-3-Billion-by-2032-SNS-Insider.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Sns Insider",
+        "tickers": [
+          "GOOG",
+          "GOOGL",
+          "MSFT",
+          "BABA",
+          "IBM",
+          "AMZN",
+          "AAPL",
+          "SAP",
+          "ADBE"
+        ],
+        "keywords": [
+          "Progressive Web Apps",
+          "Mobile-first",
+          "Digital Expansion",
+          "Market Growth"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

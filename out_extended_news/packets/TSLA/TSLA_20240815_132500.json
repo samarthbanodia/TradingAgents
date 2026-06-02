@@ -1,0 +1,55 @@
+{
+  "event": {
+    "event_id": "TSLA_20240815_132500",
+    "ticker": "TSLA",
+    "t0_utc": "2024-08-15 13:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-08-15T10:25:00+00:00",
+      "end": "2024-08-15T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-08-15T13:15:00Z",
+        "title": "Despite Holding No \"Magnificent Seven\" Stocks, This High-Yield Fund Is the Top-Performing Vanguard ETF in 2024",
+        "description": "The Vanguard Utility ETF (VPU) has become the top-performing Vanguard ETF in 2024, despite not holding the 'Magnificent Seven' tech stocks that drove the broader market. The utility sector's consistency, stability, and reasonable valuation make it an attractive option for risk-averse investors, though it may not be the best choice for those seeking higher growth.",
+        "article_url": "https://www.fool.com/investing/2024/08/15/no-magnificent-seven-vanguard-etf-buy-2024/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "VPU",
+          "VOOG",
+          "MSFT",
+          "AAPL",
+          "NVDA",
+          "GOOG",
+          "GOOGL",
+          "AMZN",
+          "META",
+          "TSLA",
+          "KO",
+          "PG"
+        ],
+        "keywords": [
+          "Vanguard Utility ETF",
+          "utility sector",
+          "Magnificent Seven",
+          "growth stocks",
+          "value stocks"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

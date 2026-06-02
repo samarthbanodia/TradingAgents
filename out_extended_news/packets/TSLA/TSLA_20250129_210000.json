@@ -1,0 +1,203 @@
+{
+  "event": {
+    "event_id": "TSLA_20250129_210000",
+    "ticker": "TSLA",
+    "t0_utc": "2025-01-29 21:00:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-01-29T18:00:00+00:00",
+      "end": "2025-01-29T22:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-01-29T18:30:00Z",
+        "title": "Tesla Earnings Preview: Can Guidance Trigger New Rally After Trump-Fueled Run-Up?",
+        "description": "Tesla is set to release its Q4 2024 earnings, and investors are eager for a potential catalyst to reignite the stock. The results could offer insights into Tesla's growth trajectory and its path forward in an increasingly competitive market. Analysts are divided on the stock's outlook, with some seeing potential for a sharp rally on better-than-expected guidance, while others warn of a gradual sell-off on lower earnings and guidance.",
+        "article_url": "https://www.investing.com/analysis/tesla-earnings-preview-can-guidance-trigger-new-rally-after-trumpfueled-runup-200656733",
+        "publisher": "Investing.com",
+        "author": "Ali Merchant",
+        "tickers": [
+          "TSLA"
+        ],
+        "keywords": [
+          "Tesla",
+          "earnings",
+          "guidance",
+          "stock price",
+          "electric vehicles",
+          "autonomous driving",
+          "energy solutions"
+        ]
+      },
+      {
+        "published_utc": "2025-01-29T18:50:50Z",
+        "title": "AI ETFs In Focus As Alibaba Challenges DeepSeek With New Model",
+        "description": "The ongoing AI arms race, with disruptive developments from DeepSeek and Alibaba's new Qwen 2.5-Max model, has thrust AI-focused ETFs into the spotlight. This escalating competition opens opportunities for investors to capitalize on the AI trend.",
+        "article_url": "https://www.benzinga.com/news/global/25/01/43315374/ai-etfs-in-focus-as-alibaba-challenges-deepseek-with-new-model",
+        "publisher": "Benzinga",
+        "author": "Chandrima Sanyal",
+        "tickers": [
+          "AAPL",
+          "AIQ",
+          "AMZN",
+          "ARKQ",
+          "BABA",
+          "BIDU",
+          "GOOG",
+          "GOOGL",
+          "MSFT",
+          "NVDA",
+          "QQQ",
+          "TSLA"
+        ],
+        "keywords": [
+          "AI",
+          "ETFs",
+          "Alibaba",
+          "DeepSeek"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-01-29T19:44:59Z",
+          "title": "Fed Holds Interest Rates Steady, Halts Streak Of Consecutive Cuts, Says Inflation Remains 'Elevated' (UPDATED)",
+          "description": "The Federal Reserve kept interest rates unchanged at 4.25%-4.5%, ending a streak of three consecutive rate cuts. The central bank acknowledged that inflation remains elevated, but said the risks to its employment and inflation goals are balanced.",
+          "article_url": "https://www.benzinga.com/25/01/43316048/fed-holds-interest-rates-steady-halts-streak-of-consecutive-cuts-as-inflation-remains-elevated",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "SPY",
+            "XLRE",
+            "NVDA"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "interest rates",
+            "inflation",
+            "monetary policy"
+          ]
+        },
+        {
+          "published_utc": "2025-01-29T21:11:24Z",
+          "title": "First Interest Rate Cut May Not Come Until June 'If At All,' Economist Warns As Fed Holds Steady",
+          "description": "The Federal Reserve held interest rates steady, with economists noting a slightly more hawkish tone in the policy statement. Experts suggest the first potential rate cut may not come until June or later, if at all, as the Fed waits to see the impact of policy changes.",
+          "article_url": "https://www.benzinga.com/25/01/43319060/first-rate-cut-in-june-if-at-all-in-2025-economist-says-as-federal-reserve-holds-rates-steady",
+          "publisher": "Benzinga",
+          "author": "Erica Kollmann",
+          "tickers": [
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "interest rates",
+            "rate cuts",
+            "inflation",
+            "economic policy"
+          ]
+        },
+        {
+          "published_utc": "2025-01-29T21:41:34Z",
+          "title": "Bitcoin Flies Above $104,000 After Powell Remarks, Stocks Remain Stunned By AI Concerns",
+          "description": "Bitcoin jumped 3% to $104,000 after Fed Chair Powell took a surprisingly open stance on crypto assets, while Nvidia stock dropped 6% due to reports of stricter chip export curbs to China.",
+          "article_url": "https://www.benzinga.com/economics/macro-economic-events/25/01/43321077/bitcoin-flies-above-104000-after-powell-remarks-stocks-remain-stunned-by-ai-conce",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "NVDA",
+            "SPY",
+            "QQQ",
+            "XLC"
+          ],
+          "keywords": [
+            "Bitcoin",
+            "Nvidia",
+            "Federal Reserve",
+            "Cryptocurrency",
+            "Chip Exports"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-01-29T18:50:50Z",
+          "title": "AI ETFs In Focus As Alibaba Challenges DeepSeek With New Model",
+          "description": "The ongoing AI arms race, with disruptive developments from DeepSeek and Alibaba's new Qwen 2.5-Max model, has thrust AI-focused ETFs into the spotlight. This escalating competition opens opportunities for investors to capitalize on the AI trend.",
+          "article_url": "https://www.benzinga.com/news/global/25/01/43315374/ai-etfs-in-focus-as-alibaba-challenges-deepseek-with-new-model",
+          "publisher": "Benzinga",
+          "author": "Chandrima Sanyal",
+          "tickers": [
+            "AAPL",
+            "AIQ",
+            "AMZN",
+            "ARKQ",
+            "BABA",
+            "BIDU",
+            "GOOG",
+            "GOOGL",
+            "MSFT",
+            "NVDA",
+            "QQQ",
+            "TSLA"
+          ],
+          "keywords": [
+            "AI",
+            "ETFs",
+            "Alibaba",
+            "DeepSeek"
+          ]
+        },
+        {
+          "published_utc": "2025-01-29T21:11:24Z",
+          "title": "First Interest Rate Cut May Not Come Until June 'If At All,' Economist Warns As Fed Holds Steady",
+          "description": "The Federal Reserve held interest rates steady, with economists noting a slightly more hawkish tone in the policy statement. Experts suggest the first potential rate cut may not come until June or later, if at all, as the Fed waits to see the impact of policy changes.",
+          "article_url": "https://www.benzinga.com/25/01/43319060/first-rate-cut-in-june-if-at-all-in-2025-economist-says-as-federal-reserve-holds-rates-steady",
+          "publisher": "Benzinga",
+          "author": "Erica Kollmann",
+          "tickers": [
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "interest rates",
+            "rate cuts",
+            "inflation",
+            "economic policy"
+          ]
+        },
+        {
+          "published_utc": "2025-01-29T21:41:34Z",
+          "title": "Bitcoin Flies Above $104,000 After Powell Remarks, Stocks Remain Stunned By AI Concerns",
+          "description": "Bitcoin jumped 3% to $104,000 after Fed Chair Powell took a surprisingly open stance on crypto assets, while Nvidia stock dropped 6% due to reports of stricter chip export curbs to China.",
+          "article_url": "https://www.benzinga.com/economics/macro-economic-events/25/01/43321077/bitcoin-flies-above-104000-after-powell-remarks-stocks-remain-stunned-by-ai-conce",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "NVDA",
+            "SPY",
+            "QQQ",
+            "XLC"
+          ],
+          "keywords": [
+            "Bitcoin",
+            "Nvidia",
+            "Federal Reserve",
+            "Cryptocurrency",
+            "Chip Exports"
+          ]
+        }
+      ]
+    }
+  }
+}

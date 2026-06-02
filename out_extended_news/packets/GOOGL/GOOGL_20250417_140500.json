@@ -1,0 +1,92 @@
+{
+  "event": {
+    "event_id": "GOOGL_20250417_140500",
+    "ticker": "GOOGL",
+    "t0_utc": "2025-04-17 14:05:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-04-17T11:05:00+00:00",
+      "end": "2025-04-17T15:05:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-04-17T13:00:00Z",
+        "title": "Orchid Security Appoints Former Wiz Executive as Chief Revenue Officer to Fuel Next Phase of Growth",
+        "description": "Orchid Security, a company focused on simplifying identity and access management (IAM), has appointed Trish Cagliostro as its Chief Revenue Officer. Cagliostro, with experience in building successful partner ecosystems, aims to drive Orchid's growth and introduce its innovative IAM solutions to the market.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/04/17/3063461/0/en/Orchid-Security-Appoints-Former-Wiz-Executive-as-Chief-Revenue-Officer-to-Fuel-Next-Phase-of-Growth.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Globe Newswire",
+        "tickers": [
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "identity and access management",
+          "IAM",
+          "Orchid Security",
+          "Trish Cagliostro",
+          "partner ecosystem"
+        ]
+      },
+      {
+        "published_utc": "2025-04-17T14:00:00Z",
+        "title": "Immersive Training Market to Hit USD 128.0 Billion by 2032, Fueled by Surge in Virtual Learning and High-Risk Industry Simulations | SNS Insider",
+        "description": "The immersive training market is expected to grow rapidly, driven by increasing demand for realistic training environments in industries like aerospace, healthcare, and manufacturing. The market is projected to reach $128 billion by 2032, with virtual reality and software-based solutions leading the growth.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/04/17/3063527/0/en/Immersive-Training-Market-to-Hit-USD-128-0-Billion-by-2032-Fueled-by-Surge-in-Virtual-Learning-and-High-Risk-Industry-Simulations-SNS-Insider.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Sns Insider",
+        "tickers": [
+          "MSFT",
+          "META",
+          "SONY",
+          "GOOG",
+          "GOOGL",
+          "U",
+          "ZSPC"
+        ],
+        "keywords": [
+          "immersive training",
+          "virtual reality",
+          "augmented reality",
+          "mixed reality",
+          "healthcare",
+          "manufacturing",
+          "aerospace"
+        ]
+      },
+      {
+        "published_utc": "2025-04-17T15:00:00Z",
+        "title": "Better Artificial Intelligence (AI) Stock: Alphabet vs. Nvidia",
+        "description": "Nvidia and Alphabet are both leaders in the AI industry, with Nvidia providing the semiconductor hardware and Alphabet offering AI-powered software solutions. While both companies have strong financials, Nvidia's Blackwell Ultra platform and better stock valuation make it the superior AI investment at the moment.",
+        "article_url": "https://www.fool.com/investing/2025/04/17/better-artificial-intelligence-ai-stock-alphabet-v/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Robert Izquierdo",
+        "tickers": [
+          "NVDA",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "Nvidia",
+          "Alphabet",
+          "AI",
+          "semiconductor",
+          "cloud computing",
+          "quantum computing"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

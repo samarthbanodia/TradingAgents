@@ -1,0 +1,144 @@
+{
+  "event": {
+    "event_id": "JPM_20260408_132000",
+    "ticker": "JPM",
+    "t0_utc": "2026-04-08 13:20:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-04-08T10:20:00+00:00",
+      "end": "2026-04-08T14:20:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-04-08T12:51:17Z",
+        "title": "What's Next For US GDP Amid Iran Conflict",
+        "description": "The US economy faces headwinds from the Iran conflict, with crude oil prices spiking to $118 and inflation expected to reach 4.2%. JPMorgan's chief economist forecasts zero Fed rate cuts in 2026 and a potential hike in Q3 2027. While unemployment fell to 4.3% and March job additions exceeded expectations at 178,000, earlier job losses and supply chain disruptions pose challenges. US manufacturing may benefit from Trump's protectionist policies and AI-driven innovations, but the economy's direction largely depends on resolving the Middle East conflict.",
+        "article_url": "https://www.benzinga.com/Opinion/26/04/51701674/what-is-next-for-us-gdp-amid-iran-conflict?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Dmytro Spilka",
+        "tickers": [
+          "AMJB",
+          "JPM",
+          "JPMpC",
+          "JPMpD",
+          "JPMpJ",
+          "JPMpK",
+          "JPMpL",
+          "JPMpM",
+          "VYLD"
+        ],
+        "keywords": [
+          "Iran conflict",
+          "US GDP",
+          "inflation",
+          "oil prices",
+          "Federal Reserve",
+          "job market",
+          "manufacturing",
+          "artificial intelligence",
+          "Strait of Hormuz",
+          "supply chain"
+        ]
+      },
+      {
+        "published_utc": "2026-04-08T13:22:00Z",
+        "title": "Why FMC Rallied in March, Even As Markets Fell",
+        "description": "FMC Corporation rallied 16.8% in March despite a challenging 2025 due to two main factors: the Iran war creating a supply crunch in agricultural chemicals, and CEO announcements that 5-10 parties are interested in acquiring the company. However, the stock remains risky given high debt levels, industry cyclicality, and uncertain earnings impact from the supply crunch.",
+        "article_url": "https://www.fool.com/investing/2026/04/08/why-fmc-rallied-in-march-even-as-markets-fell/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Billy Duberstein",
+        "tickers": [
+          "FMC",
+          "AMJB",
+          "JPM",
+          "JPMpC",
+          "JPMpD",
+          "JPMpJ",
+          "JPMpK",
+          "JPMpL",
+          "JPMpM",
+          "VYLD"
+        ],
+        "keywords": [
+          "agricultural chemicals",
+          "supply crunch",
+          "Iran war",
+          "acquisition interest",
+          "turnaround candidate",
+          "Strait of Hormuz",
+          "herbicide approval"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-04-08T12:58:59Z",
+          "title": "Stock Market Today: S&P 500, Nasdaq Futures Surge As Trump Declares Ceasefire On Iran Strikes\u2014 SoFi, Uber, Levi Strauss In Focus  (UPDATED)",
+          "description": "U.S. stock futures surged on Wednesday following President Trump's announcement of a two-week ceasefire on Iran strikes. Major indices posted strong gains with the S&P 500 up 2.46%, Nasdaq 100 up 3.25%, and Russell 2000 up 3.59%. However, analyst Jeremy Siegel warns of near-term caution despite long-term bullish outlook, citing labor strength, inflationary pressures, and earnings risks. Several stocks gained significantly on company-specific news.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/04/51697591/stock-market-today-sp-500-dow-futures-surge-as-trump-declares-ceasefire-on-iran-strikes-sofi-tec?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SOFI",
+            "UBER",
+            "BABA",
+            "LEVI",
+            "AMZN",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "ceasefire",
+            "Iran",
+            "stock market",
+            "futures",
+            "S&P 500",
+            "geopolitical tensions",
+            "Federal Reserve",
+            "interest rates",
+            "earnings"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-04-08T12:58:59Z",
+          "title": "Stock Market Today: S&P 500, Nasdaq Futures Surge As Trump Declares Ceasefire On Iran Strikes\u2014 SoFi, Uber, Levi Strauss In Focus  (UPDATED)",
+          "description": "U.S. stock futures surged on Wednesday following President Trump's announcement of a two-week ceasefire on Iran strikes. Major indices posted strong gains with the S&P 500 up 2.46%, Nasdaq 100 up 3.25%, and Russell 2000 up 3.59%. However, analyst Jeremy Siegel warns of near-term caution despite long-term bullish outlook, citing labor strength, inflationary pressures, and earnings risks. Several stocks gained significantly on company-specific news.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/04/51697591/stock-market-today-sp-500-dow-futures-surge-as-trump-declares-ceasefire-on-iran-strikes-sofi-tec?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SOFI",
+            "UBER",
+            "BABA",
+            "LEVI",
+            "AMZN",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "ceasefire",
+            "Iran",
+            "stock market",
+            "futures",
+            "S&P 500",
+            "geopolitical tensions",
+            "Federal Reserve",
+            "interest rates",
+            "earnings"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "event": {
+    "event_id": "COIN_20251124_142500",
+    "ticker": "COIN",
+    "t0_utc": "2025-11-24 14:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-11-24T11:25:00+00:00",
+      "end": "2025-11-24T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-11-24T12:15:00Z",
+        "title": "Every Investor Needs These 3 Takeaways From the Cardano (ADA) Summit 2025",
+        "description": "Cardano's 2025 Summit highlighted potential blockchain and AI integration, launching a new crypto card with Wirex and exploring AI agent collaboration through the Masumi Network, despite current price challenges.",
+        "article_url": "https://www.fool.com/investing/2025/11/24/every-investor-needs-these-3-takeaways-from-the-ca/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Emma Newbery",
+        "tickers": [
+          "COIN"
+        ],
+        "keywords": [
+          "Cardano",
+          "cryptocurrency",
+          "blockchain",
+          "AI",
+          "DeFi",
+          "Web3"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": [
+        {
+          "published_utc": "2025-11-24T14:07:00Z",
+          "title": "A December Rate Cut Coming? Goldman Tells Investors To Buy The Dip",
+          "description": "Goldman Sachs predicts a potential December rate cut by the Federal Reserve, citing weakening labor market conditions and potential economic easing in 2026. The firm advises investors to buy market dips and remain overweight in equities.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/25/11/49029341/fed-interest-rate-cut-december-how-to-invest-buy-the-dip-stocks-goldman-sachs?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "QQQ"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "rate cut",
+            "labor market",
+            "economic forecast",
+            "investment strategy"
+          ]
+        }
+      ]
+    }
+  }
+}

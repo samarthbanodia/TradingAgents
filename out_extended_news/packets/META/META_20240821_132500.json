@@ -1,0 +1,49 @@
+{
+  "event": {
+    "event_id": "META_20240821_132500",
+    "ticker": "META",
+    "t0_utc": "2024-08-21 13:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2024-08-21T10:25:00+00:00",
+      "end": "2024-08-21T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-08-21T12:00:00Z",
+        "title": "Qualcomm Joins the AR Alliance for Augmented Reality Wearable Devices",
+        "description": "The AR Alliance announces that Qualcomm Technologies, Inc. has become the last founding member added to the board of directors. The alliance aims to advance and strengthen the augmented reality hardware development ecosystem by bringing together diverse organizations across the global AR industry.",
+        "article_url": "https://www.globenewswire.com/news-release/2024/08/21/2933447/0/en/Qualcomm-Joins-the-AR-Alliance-for-Augmented-Reality-Wearable-Devices.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "N/A",
+        "tickers": [
+          "QCOM",
+          "STM",
+          "META",
+          "ESLOY",
+          "GLW",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "AR Alliance",
+          "Qualcomm Technologies",
+          "augmented reality",
+          "hardware development"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

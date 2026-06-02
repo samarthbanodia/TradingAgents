@@ -1,0 +1,160 @@
+{
+  "event": {
+    "event_id": "MSFT_20260429_200000",
+    "ticker": "MSFT",
+    "t0_utc": "2026-04-29 20:00:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2026-04-29T17:00:00+00:00",
+      "end": "2026-04-29T21:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-04-29T18:04:54Z",
+        "title": "Higher Yield or Long-Term Dividend Growth? FDVV vs. NOBL",
+        "description": "The Fidelity High Dividend ETF (FDVV) and ProShares S&P 500 Dividend Aristocrats ETF (NOBL) offer different approaches to dividend investing. FDVV delivers higher yields (3.0% vs 2.1%), lower costs (0.15% vs 0.35% expense ratio), and stronger recent returns (29.8% vs 13.2% one-year), but carries higher concentration risk with heavy tech exposure. NOBL focuses on companies with 25+ years of consecutive dividend growth, offering more defensive positioning and stability across market cycles, though with lower current yield.",
+        "article_url": "https://www.fool.com/coverage/etfs/2026/04/29/higher-yield-or-long-term-dividend-growth-fdvv-vs-nobl/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Eric Trie",
+        "tickers": [
+          "FDVV",
+          "NOBL",
+          "NVDA",
+          "AAPL",
+          "MSFT"
+        ],
+        "keywords": [
+          "dividend ETF",
+          "dividend yield",
+          "dividend growth",
+          "expense ratio",
+          "tech exposure",
+          "portfolio concentration",
+          "defensive stocks"
+        ]
+      },
+      {
+        "published_utc": "2026-04-29T19:06:00Z",
+        "title": "The Best 2 Renewable Energy Stocks to Buy and Hold for Decades",
+        "description": "The article recommends two renewable energy stocks for long-term investors: Nextpower, a solar infrastructure company offering trackers, balance-of-systems solutions, and AI software, and Brookfield Renewable, a diversified green energy company with hydroelectric, wind, and solar projects. Both are positioned to benefit from the global renewable energy market's expected 14.7% CAGR growth through 2033, driven by decarbonization initiatives and expanding cloud/AI markets.",
+        "article_url": "https://www.fool.com/investing/2026/04/29/the-best-x-renewable-energy-stocks-to-buy-and-hold/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Leo Sun",
+        "tickers": [
+          "NXT",
+          "BEPC",
+          "MSFT",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "renewable energy",
+          "solar energy",
+          "long-term investing",
+          "decarbonization",
+          "green energy",
+          "sustainable infrastructure"
+        ]
+      },
+      {
+        "published_utc": "2026-04-29T20:04:20Z",
+        "title": "Microsoft vs. Amazon: Comparing Consistent Revenue Growth in Tech Giants",
+        "description": "Microsoft and Amazon show diverging growth patterns despite both being tech leaders. While Amazon generates nearly three times Microsoft's revenue, Microsoft is growing faster with 17% year-over-year revenue increase versus Amazon's 14% in the December quarter. In cloud computing, Microsoft Azure grew 39% year-over-year compared to Amazon Web Services' 24%, suggesting Microsoft is steadily eroding Amazon's cloud market lead.",
+        "article_url": "https://www.fool.com/coverage/charts/2026/04/29/microsoft-vs-amazoncom-comparing-consistent-revenue-growth-in-tech-giants/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "John Ballard",
+        "tickers": [
+          "MSFT",
+          "AMZN"
+        ],
+        "keywords": [
+          "revenue growth",
+          "cloud computing",
+          "Microsoft Azure",
+          "Amazon Web Services",
+          "artificial intelligence",
+          "market competition",
+          "quarterly earnings"
+        ]
+      },
+      {
+        "published_utc": "2026-04-29T20:10:00Z",
+        "title": "The Best Growth Stocks to Buy Right Now",
+        "description": "CoreWeave and Nebius are highlighted as compelling AI infrastructure growth stocks despite near-term market challenges. CoreWeave has scaled to 43 data centers with 250,000+ Nvidia GPUs, offering 35x faster and 80% cheaper AI processing than AWS and Azure, with revenue projected to reach $36.7B by 2028. Nebius, formerly Yandex, provides full-stack AI infrastructure services and saw 351% revenue growth in 2025, with projections to reach $10.1B by 2027. Both companies remain unprofitable but show strong growth trajectories.",
+        "article_url": "https://www.fool.com/investing/2026/04/29/the-best-growth-stocks-to-buy-right-now/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Leo Sun",
+        "tickers": [
+          "CRWV",
+          "NBIS",
+          "MSFT",
+          "NVDA",
+          "AMZN"
+        ],
+        "keywords": [
+          "AI infrastructure",
+          "cloud computing",
+          "growth stocks",
+          "GPU data centers",
+          "AI services"
+        ]
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-04-29T18:39:50Z",
+          "title": "Fed Holds Rates Unchanged: Traders Brace For Powell's Likely Final Presser (UPDATED)",
+          "description": "The Federal Reserve maintained the benchmark federal funds rate at 3.50-3.75% in what is expected to be Chair Jerome Powell's final policy decision before Kevin Warsh takes over on May 15. The Fed adopted a more hawkish stance, noting elevated inflation and Middle East uncertainty. Markets repriced expectations, nearly erasing rate cut probabilities for 2026 and implying a 25% chance of a hike by April 2027. The S&P 500 declined 0.3% while crude oil surged over 7% to $107 amid geopolitical tensions.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/26/04/52144038/fed-holds-rates-unchanged-traders-brace-for-powells-likely-final-presser?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "interest rates",
+            "Jerome Powell",
+            "Kevin Warsh",
+            "inflation",
+            "Middle East tensions",
+            "monetary policy",
+            "market reaction"
+          ]
+        },
+        {
+          "published_utc": "2026-04-29T20:17:23Z",
+          "title": "Powell's Last Stand Killed The Rate-Cut Trade: What's The Risk Of A Hike Now?",
+          "description": "Federal Reserve Chair Jerome Powell signaled an unexpectedly hawkish stance, announcing he will remain as a Governor after his term ends on May 15, effectively killing market expectations for rate cuts in 2026. With four dissents from the FOMC\u2014the largest split since October 1992\u2014Powell emphasized inflation is moving in the wrong direction and the Fed is moving toward a neutral policy stance. Markets now price zero probability of rate cuts by December 2026 and assign a 44.5% chance of a rate hike by April 2027.",
+          "article_url": "https://www.benzinga.com/markets/macro-economic-events/26/04/52151393/powell-last-stand-killed-rate-cut-trade-fed-hike-risk-2026?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "Jerome Powell",
+            "interest rates",
+            "monetary policy",
+            "rate cuts",
+            "inflation",
+            "FOMC dissent",
+            "Fed independence",
+            "Kevin Warsh"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

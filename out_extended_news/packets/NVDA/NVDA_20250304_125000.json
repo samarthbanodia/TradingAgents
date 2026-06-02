@@ -1,0 +1,192 @@
+{
+  "event": {
+    "event_id": "NVDA_20250304_125000",
+    "ticker": "NVDA",
+    "t0_utc": "2025-03-04 12:50:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-03-04T09:50:00+00:00",
+      "end": "2025-03-04T13:50:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-03-04T09:51:00Z",
+        "title": "Insider Activity at Nvidia and Palantir Speaks Volumes -- but Are Investors Willing to Listen?",
+        "description": "Insider selling at AI giants Nvidia and Palantir raises concerns, as executives and directors have been persistent sellers of their respective company's stock for years, despite the companies' strong performance. This lack of insider buying activity is worrisome and could signal potential overvaluation or a bubble in the AI sector.",
+        "article_url": "https://www.fool.com/investing/2025/03/04/insider-activity-at-nvidia-palantir-speaks-volumes/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Sean Williams",
+        "tickers": [
+          "NVDA",
+          "PLTR"
+        ],
+        "keywords": [
+          "Nvidia",
+          "Palantir",
+          "Artificial Intelligence",
+          "Insider Trading",
+          "Valuation"
+        ]
+      },
+      {
+        "published_utc": "2025-03-04T10:30:00Z",
+        "title": "Is Nvidia Stock an Excellent Long-Term Investment?",
+        "description": "The Motley Fool is a financial services company founded in 1993, dedicated to making the world smarter, happier, and richer. It reaches millions of people through its premium investing solutions, free guidance, market analysis, personal finance education, top-rated podcasts, and non-profit foundation.",
+        "article_url": "https://www.fool.com/investing/2025/03/04/is-nvidia-stock-an-excellent-long-term-investment/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "N/A",
+        "tickers": [
+          "META",
+          "NVDA"
+        ],
+        "keywords": [
+          "financial services",
+          "investing",
+          "personal finance",
+          "podcasts",
+          "non-profit"
+        ]
+      },
+      {
+        "published_utc": "2025-03-04T10:44:00Z",
+        "title": "Better Artificial Intelligence Stock: Oracle vs. Nvidia",
+        "description": "Oracle and Nvidia are benefiting from the rise of AI, with both companies selected to participate in the U.S. government's Stargate program. Oracle's cloud computing business is seeing explosive growth due to AI, while Nvidia's products are critical for AI systems. Both companies have reported strong financial performances, but Nvidia's new Blackwell platform and more reasonable valuation make it the better long-term AI investment.",
+        "article_url": "https://www.fool.com/investing/2025/03/04/better-artificial-intelligence-stock-orcl-vs-nvda/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Robert Izquierdo",
+        "tickers": [
+          "ORCL",
+          "NVDA"
+        ],
+        "keywords": [
+          "Oracle",
+          "Nvidia",
+          "AI",
+          "cloud computing",
+          "data centers"
+        ]
+      },
+      {
+        "published_utc": "2025-03-04T10:52:00Z",
+        "title": "Prediction: Buying Palantir Technologies Today Will Set You Up for Life",
+        "description": "Palantir Technologies is a financial services company that offers AI platform technology to help organizations extract insights from their data. The article argues that Palantir's stock has significant upside potential as the AI investment cycle is just getting started, with companies announcing over $325 billion in AI investments for 2025 alone.",
+        "article_url": "https://www.fool.com/investing/2025/03/04/prediction-buying-hot-ticker-today-will-set-you-up/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jake Lerch",
+        "tickers": [
+          "PLTR",
+          "NVDA"
+        ],
+        "keywords": [
+          "Palantir Technologies",
+          "Artificial Intelligence",
+          "AI",
+          "Data Analytics"
+        ]
+      },
+      {
+        "published_utc": "2025-03-04T11:10:00Z",
+        "title": "Billionaire Stanley Druckenmiller -- Who Sold His Nvidia Stock Last Year -- May Be Betting on Nvidia in Another Way",
+        "description": "Billionaire Stanley Druckenmiller sold his Nvidia shares last year, but may be betting on the company indirectly through investments in its customers Amazon and Alphabet, which offer Nvidia's products and services.",
+        "article_url": "https://www.fool.com/investing/2025/03/04/billionaire-druckenmiller-bets-on-nvidia-customers/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "NVDA",
+          "AMZN",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "Nvidia",
+          "Stanley Druckenmiller",
+          "Amazon",
+          "Alphabet",
+          "AI"
+        ]
+      },
+      {
+        "published_utc": "2025-03-04T11:30:00Z",
+        "title": "What's Going On With Nvidia Stock?",
+        "description": "The Motley Fool is a financial services company founded in 1993, dedicated to making the world smarter, happier, and richer. It reaches millions of people through its premium investing solutions, free guidance, market analysis, personal finance education, top-rated podcasts, and non-profit foundation.",
+        "article_url": "https://www.fool.com/investing/2025/03/04/whats-going-on-with-nvidia-stock/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "N/A",
+        "tickers": [
+          "NVDA"
+        ],
+        "keywords": [
+          "financial services",
+          "investing",
+          "personal finance",
+          "education",
+          "podcasts",
+          "non-profit"
+        ]
+      },
+      {
+        "published_utc": "2025-03-04T12:30:00Z",
+        "title": "Which Will Win the Race to $5 Trillion: Apple or Nvidia Stock?",
+        "description": "The article compares the growth and market cap of Apple and Nvidia, suggesting that Nvidia's rapid growth could allow it to surpass Apple and become the first $5 trillion company.",
+        "article_url": "https://www.fool.com/investing/2025/03/04/which-will-win-the-race-to-5-trillion-apple/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Keithen Drury",
+        "tickers": [
+          "AAPL",
+          "NVDA"
+        ],
+        "keywords": [
+          "Apple",
+          "Nvidia",
+          "market cap",
+          "growth"
+        ]
+      },
+      {
+        "published_utc": "2025-03-04T13:13:00Z",
+        "title": "Nvidia\u2019s stock is doing things not seen in nearly a decade \u2014\u00a0and that\u2019s good news",
+        "description": "Nvidia's stock has fallen 15% to start 2025, but this has made the stock increasingly attractive based on several valuation metrics that are near 10-year lows.",
+        "article_url": "https://www.marketwatch.com/story/nvidias-stock-is-doing-things-not-seen-in-nearly-a-decade-and-thats-good-news-75a5182b?mod=mw_rss_topstories",
+        "publisher": "MarketWatch",
+        "author": "Emily Bary",
+        "tickers": [
+          "NVDA"
+        ],
+        "keywords": [
+          "Nvidia",
+          "stock valuation"
+        ]
+      },
+      {
+        "published_utc": "2025-03-04T13:17:00Z",
+        "title": "Dan Ives Says These 2 Stocks Are in the \"Sweet Spot\" of the Artificial Intelligence (AI) Movement",
+        "description": "Wedbush Securities analyst Dan Ives sees two AI stocks, Palantir Technologies and Nvidia, as compelling opportunities despite the recent market sell-off. Palantir's AI platform has driven growth, while Nvidia's GPUs remain integral to the AI ecosystem.",
+        "article_url": "https://www.fool.com/investing/2025/03/04/dan-ives-says-these-2-ai-stocks-are-in-sweet-spot/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "PLTR",
+          "NVDA"
+        ],
+        "keywords": [
+          "Palantir Technologies",
+          "Nvidia",
+          "AI",
+          "market sell-off"
+        ]
+      }
+    ],
+    "ticker_news_count": 9,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "event": {
+    "event_id": "GOOGL_20240610_132500",
+    "ticker": "GOOGL",
+    "t0_utc": "2024-06-10 13:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2024-06-10T10:25:00+00:00",
+      "end": "2024-06-10T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-06-10T10:30:00Z",
+        "title": "Billionaires Are Buying These 2 Artificial Intelligence (AI) Stocks Hand Over Fist",
+        "description": "AI stocks have taken the market by storm, and Nvidia isn't the only beneficiary.",
+        "article_url": "https://www.fool.com/investing/2024/06/10/billionaires-are-buying-these-ai-stocks/",
+        "publisher": "The Motley Fool",
+        "author": "newsfeedback@fool.com (Ryan Vanzo)",
+        "tickers": [
+          "GOOG",
+          "GOOGL",
+          "AMZN",
+          "NVDA",
+          "ORCL",
+          "HYMTF",
+          "NYT",
+          "SOUN"
+        ],
+        "keywords": [
+          "investing"
+        ]
+      },
+      {
+        "published_utc": "2024-06-10T10:45:00Z",
+        "title": "Nvidia Just Completed a 10-for-1 Stock Split. Here's What to Look for Next.",
+        "description": "Big moments lie ahead for Nvidia and its shareholders...",
+        "article_url": "https://www.fool.com/investing/2024/06/10/nvidia-completed-stock-split-heres-whats-next/",
+        "publisher": "The Motley Fool",
+        "author": "newsfeedback@fool.com (Adria Cimino)",
+        "tickers": [
+          "NVDA",
+          "GOOGL",
+          "AAPL",
+          "TSLA",
+          "AMZN",
+          "GOOG"
+        ],
+        "keywords": [
+          "investing"
+        ]
+      },
+      {
+        "published_utc": "2024-06-10T13:30:00Z",
+        "title": "Dividend And Growth Stocks For An Overvalued Market With David Alton Clark",
+        "description": "David Alton Clark, The Winter Warrior Investor, on capturing alpha with diversified dividend and growth stocks.",
+        "article_url": "https://seekingalpha.com/article/4698387-dividend-and-growth-stocks-for-an-overvalued-market-with-david-alton-clark",
+        "publisher": "Seeking Alpha",
+        "author": "Investing Experts Podcast",
+        "tickers": [
+          "DUK",
+          "TROW",
+          "AMZN",
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "NU",
+          "NVDA",
+          "SPY",
+          "DELL",
+          "STWD",
+          "XOM",
+          "CVX",
+          "HES",
+          "COP",
+          "DUKB"
+        ],
+        "keywords": []
+      },
+      {
+        "published_utc": "2024-06-10T13:32:00Z",
+        "title": "Palo Alto (PANW) Expands Its Regionally-Hosted Cloud Services",
+        "description": "Palo Alto's (PANW) new local cloud establishment is set to build the trust of companies operating in Indonesia, which may further increase the market share and add to its top line.",
+        "article_url": "https://www.zacks.com/stock/news/2286091/palo-alto-panw-expands-its-regionally-hosted-cloud-services",
+        "publisher": "Zacks Investment Research",
+        "author": "Zacks Equity Research",
+        "tickers": [
+          "AMZN",
+          "MSFT",
+          "PANW",
+          "GOOGL"
+        ],
+        "keywords": []
+      },
+      {
+        "published_utc": "2024-06-10T13:48:00Z",
+        "title": "Brightcove (BCOV) Boosts Customer Base With the Addition of JCOM",
+        "description": "Japan's JCOM selects Brightcove (BCOV) to power its latest streaming service, Ikimono Watch, which is set to broadcast captivating content from zoos and aquariums across Japan.",
+        "article_url": "https://www.zacks.com/stock/news/2286022/brightcove-bcov-boosts-customer-base-with-the-addition-of-jcom",
+        "publisher": "Zacks Investment Research",
+        "author": "Zacks Equity Research",
+        "tickers": [
+          "NFLX",
+          "BCOV",
+          "GOOGL",
+          "VMEO"
+        ],
+        "keywords": []
+      },
+      {
+        "published_utc": "2024-06-10T14:07:00Z",
+        "title": "Better Artificial Intelligence Stock: Amazon vs. Alphabet",
+        "description": "These companies have powerful positions in tech and could deliver major gains from AI as the market develops.",
+        "article_url": "https://www.fool.com/investing/2024/06/10/better-artificial-intelligence-stock-amazon-vs-/",
+        "publisher": "The Motley Fool",
+        "author": "newsfeedback@fool.com (Dani Cook)",
+        "tickers": [
+          "AMZN",
+          "GOOGL",
+          "GOOG"
+        ],
+        "keywords": [
+          "investing"
+        ]
+      }
+    ],
+    "ticker_news_count": 6,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-06-10T11:28:29Z",
+          "title": "Wall Street Set To Open Week In The Red On Fed Jitters, Inflation Data Anxiety: GameStop Rebounds, Nvidia Trades After Stock Split",
+          "description": "U.S. stocks are poised to start Monday\u2019s session in the red as traders brace for the all-important decision from the Federal Reserve\u2019s monetary policy committee on Wednesday and the May inflation report ahead of the rate decision. Although the futures market has factored in a Fed pause, rate cuts announced by two G7 central banks last week have increased hopes of a dovish message from their U.S. counterpart. Given the paucity of data and the overbought levels, the market may most likely tread water before taking a meaningful move on either side.\n\n\n\n\nFutures\nPerformance (+/-)\n\n\nNasdaq 100\n-0.08%\n\n\nS&P 500\n-0.15%\n\n\nDow\n-0.21%\n\n\nR2K\n-0.80%\n\n\n\nIn premarket trading on Monday,\u00a0the SPDR S&P 500 ETF Trust (NYSE:SPY) fell 0.12% to $533.36, and the\u00a0Invesco QQQ ETF (NASDAQ:QQQ) traded down 0.06% at $462.67, according to\u00a0Benzinga Pro data.\nCues From Previous Week:\nWall Street posted weekly gain in the week ended June 7 as traders cheered data showing a loss of momentum in the jobs market, which is widely considered a precursor for Fed rate cuts. The Nasdaq Composite and the S&P 500 notched up intraday and closing highs on Wednesday before giving back some gains over the remaining two sessions. Nonetheless, the S&P 500 posted a fresh intraday high on Friday but ended off its Wednesday closing high.\n\n\n\n\nIndex\nWeek\u2019s  Performance   (+/-)\nValue\n\n\nNasdaq Composite\n+2.38%\n17,133.13\n\n\nS&P 500 Index\n+1.32%\n5,346.99\n\n\nDow Industrials\n+0.29%\n38,798.99\n\n\nRussell 2000\n-2.11%\n2,026.55\n\n\n\n\nInsights From Analysts:\nThe broader equity market rally seen this year is impressive, given last year's strength and tempered expectations concerning rate cuts, said Comerica Chief Investment Officer John Lynch in ...Full story available on Benzinga.com",
+          "article_url": "https://www.benzinga.com/news/earnings/24/06/39247558/wall-street-set-to-open-week-in-the-red-on-fed-jitters-inflation-data-anxiety-gamestop-rebounds-nvi",
+          "publisher": "Benzinga",
+          "author": "Shanthi Rexaline",
+          "tickers": [
+            "SPY",
+            "FCEL",
+            "GME",
+            "LUV",
+            "KKR",
+            "QQQ",
+            "YEXT",
+            "CRWD"
+          ],
+          "keywords": [
+            "News",
+            "Earnings",
+            "Equities",
+            "Futures",
+            "Previews",
+            "Top Stories",
+            "Economics",
+            "Federal Reserve",
+            "Pre-Market Outlook",
+            "Markets",
+            "Movers",
+            "Tech",
+            "Trading Ideas"
+          ]
+        },
+        {
+          "published_utc": "2024-06-10T12:45:00Z",
+          "title": "How the Economic Calendar Can Spark Market Volatility",
+          "description": "Volatility-inducing events, such as FOMC, earnings, and inflation numbers, can lead to market volatility. Savvy investors understand and prepare for market-moving economic events.",
+          "article_url": "https://www.zacks.com/commentary/2284292/how-the-economic-calendar-can-spark-market-volatility",
+          "publisher": "Zacks Investment Research",
+          "author": "Andrew Rocco",
+          "tickers": [
+            "QQQ",
+            "SPY",
+            "DIA",
+            "INDA",
+            "EWW"
+          ],
+          "keywords": []
+        },
+        {
+          "published_utc": "2024-06-10T13:30:00Z",
+          "title": "Dividend And Growth Stocks For An Overvalued Market With David Alton Clark",
+          "description": "David Alton Clark, The Winter Warrior Investor, on capturing alpha with diversified dividend and growth stocks.",
+          "article_url": "https://seekingalpha.com/article/4698387-dividend-and-growth-stocks-for-an-overvalued-market-with-david-alton-clark",
+          "publisher": "Seeking Alpha",
+          "author": "Investing Experts Podcast",
+          "tickers": [
+            "DUK",
+            "TROW",
+            "AMZN",
+            "MSFT",
+            "GOOG",
+            "GOOGL",
+            "NU",
+            "NVDA",
+            "SPY",
+            "DELL",
+            "STWD",
+            "XOM",
+            "CVX",
+            "HES",
+            "COP",
+            "DUKB"
+          ],
+          "keywords": []
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2024-06-10T11:28:29Z",
+          "title": "Wall Street Set To Open Week In The Red On Fed Jitters, Inflation Data Anxiety: GameStop Rebounds, Nvidia Trades After Stock Split",
+          "description": "U.S. stocks are poised to start Monday\u2019s session in the red as traders brace for the all-important decision from the Federal Reserve\u2019s monetary policy committee on Wednesday and the May inflation report ahead of the rate decision. Although the futures market has factored in a Fed pause, rate cuts announced by two G7 central banks last week have increased hopes of a dovish message from their U.S. counterpart. Given the paucity of data and the overbought levels, the market may most likely tread water before taking a meaningful move on either side.\n\n\n\n\nFutures\nPerformance (+/-)\n\n\nNasdaq 100\n-0.08%\n\n\nS&P 500\n-0.15%\n\n\nDow\n-0.21%\n\n\nR2K\n-0.80%\n\n\n\nIn premarket trading on Monday,\u00a0the SPDR S&P 500 ETF Trust (NYSE:SPY) fell 0.12% to $533.36, and the\u00a0Invesco QQQ ETF (NASDAQ:QQQ) traded down 0.06% at $462.67, according to\u00a0Benzinga Pro data.\nCues From Previous Week:\nWall Street posted weekly gain in the week ended June 7 as traders cheered data showing a loss of momentum in the jobs market, which is widely considered a precursor for Fed rate cuts. The Nasdaq Composite and the S&P 500 notched up intraday and closing highs on Wednesday before giving back some gains over the remaining two sessions. Nonetheless, the S&P 500 posted a fresh intraday high on Friday but ended off its Wednesday closing high.\n\n\n\n\nIndex\nWeek\u2019s  Performance   (+/-)\nValue\n\n\nNasdaq Composite\n+2.38%\n17,133.13\n\n\nS&P 500 Index\n+1.32%\n5,346.99\n\n\nDow Industrials\n+0.29%\n38,798.99\n\n\nRussell 2000\n-2.11%\n2,026.55\n\n\n\n\nInsights From Analysts:\nThe broader equity market rally seen this year is impressive, given last year's strength and tempered expectations concerning rate cuts, said Comerica Chief Investment Officer John Lynch in ...Full story available on Benzinga.com",
+          "article_url": "https://www.benzinga.com/news/earnings/24/06/39247558/wall-street-set-to-open-week-in-the-red-on-fed-jitters-inflation-data-anxiety-gamestop-rebounds-nvi",
+          "publisher": "Benzinga",
+          "author": "Shanthi Rexaline",
+          "tickers": [
+            "SPY",
+            "FCEL",
+            "GME",
+            "LUV",
+            "KKR",
+            "QQQ",
+            "YEXT",
+            "CRWD"
+          ],
+          "keywords": [
+            "News",
+            "Earnings",
+            "Equities",
+            "Futures",
+            "Previews",
+            "Top Stories",
+            "Economics",
+            "Federal Reserve",
+            "Pre-Market Outlook",
+            "Markets",
+            "Movers",
+            "Tech",
+            "Trading Ideas"
+          ]
+        },
+        {
+          "published_utc": "2024-06-10T12:45:00Z",
+          "title": "How the Economic Calendar Can Spark Market Volatility",
+          "description": "Volatility-inducing events, such as FOMC, earnings, and inflation numbers, can lead to market volatility. Savvy investors understand and prepare for market-moving economic events.",
+          "article_url": "https://www.zacks.com/commentary/2284292/how-the-economic-calendar-can-spark-market-volatility",
+          "publisher": "Zacks Investment Research",
+          "author": "Andrew Rocco",
+          "tickers": [
+            "QQQ",
+            "SPY",
+            "DIA",
+            "INDA",
+            "EWW"
+          ],
+          "keywords": []
+        }
+      ]
+    }
+  }
+}

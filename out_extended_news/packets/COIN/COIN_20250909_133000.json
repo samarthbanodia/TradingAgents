@@ -1,0 +1,47 @@
+{
+  "event": {
+    "event_id": "COIN_20250909_133000",
+    "ticker": "COIN",
+    "t0_utc": "2025-09-09 13:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-09-09T10:30:00+00:00",
+      "end": "2025-09-09T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-09-09T11:22:00Z",
+        "title": "Is This 89% Dividend Too Good to Be True?",
+        "description": "An analysis of the YieldMax Ultra Income Strategy ETF (ULTY) reveals that its extremely high 89% dividend yield is misleading, with significant price volatility and poor overall returns compared to standard index funds.",
+        "article_url": "https://www.investing.com/analysis/is-this-89-dividend-too-good-to-be-true-200666610",
+        "publisher": "Investing.com",
+        "author": "Brett Owens",
+        "tickers": [
+          "ULTY",
+          "AFRM",
+          "HOOD",
+          "COIN"
+        ],
+        "keywords": [
+          "dividend",
+          "ETF",
+          "options trading",
+          "income investing",
+          "market volatility"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

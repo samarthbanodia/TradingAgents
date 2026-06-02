@@ -1,0 +1,69 @@
+{
+  "event": {
+    "event_id": "COIN_20260112_142000",
+    "ticker": "COIN",
+    "t0_utc": "2026-01-12 14:20:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2026-01-12T11:20:00+00:00",
+      "end": "2026-01-12T15:20:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-01-12T14:19:11Z",
+          "title": "Jerome Powell 'Is Going to War': Top Economist Wolfers Blasts DOJ As 'Department Of Recriminations' For Targeting Fed Chair",
+          "description": "Economist Justin Wolfers has criticized the White House and Justice Department for attempting to criminalize Federal Reserve Chair Jerome Powell's independent actions, characterizing it as a constitutional crisis. Wolfers argues Powell is 'going to war' to defend the Fed's independence and warns that succumbing to political pressure would undermine monetary policy authority. He calls on Congress to prevent the President from usurping monetary policy powers.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/26/01/49844033/jerome-powell-is-going-to-war-top-economist-wolfers-blasts-doj-as-department-of-recriminati?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "Jerome Powell",
+            "monetary policy",
+            "central bank independence",
+            "Justice Department",
+            "constitutional crisis",
+            "interest rates"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-01-12T14:19:11Z",
+          "title": "Jerome Powell 'Is Going to War': Top Economist Wolfers Blasts DOJ As 'Department Of Recriminations' For Targeting Fed Chair",
+          "description": "Economist Justin Wolfers has criticized the White House and Justice Department for attempting to criminalize Federal Reserve Chair Jerome Powell's independent actions, characterizing it as a constitutional crisis. Wolfers argues Powell is 'going to war' to defend the Fed's independence and warns that succumbing to political pressure would undermine monetary policy authority. He calls on Congress to prevent the President from usurping monetary policy powers.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/26/01/49844033/jerome-powell-is-going-to-war-top-economist-wolfers-blasts-doj-as-department-of-recriminati?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "Jerome Powell",
+            "monetary policy",
+            "central bank independence",
+            "Justice Department",
+            "constitutional crisis",
+            "interest rates"
+          ]
+        }
+      ]
+    }
+  }
+}

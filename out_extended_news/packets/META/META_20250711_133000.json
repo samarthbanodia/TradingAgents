@@ -1,0 +1,47 @@
+{
+  "event": {
+    "event_id": "META_20250711_133000",
+    "ticker": "META",
+    "t0_utc": "2025-07-11 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "unclear",
+    "window": {
+      "start": "2025-07-11T10:30:00+00:00",
+      "end": "2025-07-11T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-07-11T13:29:00Z",
+        "title": "S&P 500 Reaches New Record, but Uncertainty Looms",
+        "description": "The S&P 500 reached a new record high of 6,290.22, with markets consolidating amid potential geopolitical risks like Canadian tariffs. Investor sentiment remains elevated, but uncertainty persists as markets prepare for the upcoming earnings season.",
+        "article_url": "https://www.investing.com/analysis/sp-500-reaches-new-record-but-uncertainty-looms-200663554",
+        "publisher": "Investing.com",
+        "author": "Paul Rejczak",
+        "tickers": [
+          "NVDA",
+          "TSLA",
+          "AMZN",
+          "META"
+        ],
+        "keywords": [
+          "S&P 500",
+          "tariffs",
+          "market consolidation",
+          "earnings season",
+          "volatility"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

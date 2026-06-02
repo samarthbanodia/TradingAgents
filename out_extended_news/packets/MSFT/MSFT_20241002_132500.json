@@ -1,0 +1,83 @@
+{
+  "event": {
+    "event_id": "MSFT_20241002_132500",
+    "ticker": "MSFT",
+    "t0_utc": "2024-10-02 13:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2024-10-02T10:25:00+00:00",
+      "end": "2024-10-02T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-10-02T11:30:00Z",
+        "title": "5 Best Dividend Growth Stocks to Buy in October",
+        "description": "This article analyzes five top dividend growth stocks across various sectors, including AbbVie, American Express, Bank of America, Costco, and Microsoft. The analysis focuses on the companies' dividend history, financial performance, and growth prospects to provide investors with potential options for stability and income in the current market environment.",
+        "article_url": "https://www.fool.com/investing/2024/10/02/5-best-dividend-growth-stocks-to-buy-in-october/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "George Budwell",
+        "tickers": [
+          "ABBV",
+          "AXP",
+          "BAC",
+          "BACpB",
+          "BACpE",
+          "BACpK",
+          "BACpL",
+          "BACpM",
+          "BACpN",
+          "BACpO",
+          "BACpP",
+          "BACpQ",
+          "BACpS",
+          "BMLpG",
+          "BMLpH",
+          "BMLpJ",
+          "BMLpL",
+          "MERpK",
+          "COST",
+          "MSFT"
+        ],
+        "keywords": [
+          "dividend growth stocks",
+          "investing",
+          "stock market",
+          "financial analysis"
+        ]
+      },
+      {
+        "published_utc": "2024-10-02T11:37:00Z",
+        "title": "1 Millionaire-Maker Technology Stock",
+        "description": "The article discusses SoundHound AI, a company developing voice-controlled software, as a potential millionaire-maker stock. It compares SoundHound AI's growth potential to tech giants like Apple and Microsoft, and suggests that investing in the company could generate significant returns in the long run.",
+        "article_url": "https://www.fool.com/investing/2024/10/02/1-millionaire-maker-technology-stock/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Anders Bylund",
+        "tickers": [
+          "SOUN",
+          "SOUNW",
+          "AAPL",
+          "MSFT"
+        ],
+        "keywords": [
+          "SoundHound AI",
+          "voice-controlled software",
+          "millionaire-maker stocks",
+          "Apple",
+          "Microsoft"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

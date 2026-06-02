@@ -1,0 +1,45 @@
+{
+  "event": {
+    "event_id": "META_20250124_140000",
+    "ticker": "META",
+    "t0_utc": "2025-01-24 14:00:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-01-24T11:00:00+00:00",
+      "end": "2025-01-24T15:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-01-24T13:53:00Z",
+          "title": "If You'd Invested $10,000 in Arista Networks Stock 10 Years Ago, Here's How Much You'd Have Today (Spoiler: Wow, You'd Have a Lot.)",
+          "description": "Investing $10,000 in Arista Networks stock 10 years ago would have resulted in a gain of around $293,000, a total increase of 2,800% and an average annual gain of 40%. This outperformed the S&P 500 index ETF, which gained 223% over the same period.",
+          "article_url": "https://www.fool.com/investing/2025/01/24/if-youd-invested-10000-in-arista-networks-stock-10/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "The Motley Fool",
+          "tickers": [
+            "ANET",
+            "SPY"
+          ],
+          "keywords": [
+            "Arista Networks",
+            "stock investment",
+            "S&P 500",
+            "cloud computing",
+            "networking"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "event": {
+    "event_id": "AMD_20250905_132500",
+    "ticker": "AMD",
+    "t0_utc": "2025-09-05 13:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-09-05T10:25:00+00:00",
+      "end": "2025-09-05T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": [
+        {
+          "published_utc": "2025-09-05T11:11:00Z",
+          "title": "If You'd Invested $1,000 in the Invesco QQQ Trust 10 Years Ago, Here's How Much You'd Have Today",
+          "description": "A $1,000 investment in the Invesco QQQ Trust tracking the Nasdaq-100 index would have grown to $6,280 over 10 years, representing a 20.2% annualized return and outperforming the S&P 500 by 218 percentage points.",
+          "article_url": "https://www.fool.com/investing/2025/09/05/if-youd-invested-1000-in-the-invesco-qqq-trust-10/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Matt Frankel",
+          "tickers": [
+            "QQQ",
+            "NVDA",
+            "MSFT"
+          ],
+          "keywords": [
+            "ETF",
+            "technology",
+            "investment",
+            "Nasdaq-100",
+            "AI"
+          ]
+        }
+      ]
+    }
+  }
+}

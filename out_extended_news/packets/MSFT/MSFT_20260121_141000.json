@@ -1,0 +1,81 @@
+{
+  "event": {
+    "event_id": "MSFT_20260121_141000",
+    "ticker": "MSFT",
+    "t0_utc": "2026-01-21 14:10:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2026-01-21T11:10:00+00:00",
+      "end": "2026-01-21T15:10:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-01-21T13:46:14Z",
+          "title": "Stock Market Today: Dow Jones, S&P 500 Futures Pull Back As Street Eyes Trump's Davos Address\u2014 Johnson & Johnson, Intel, GameStop In Focus (UPDATED)",
+          "description": "U.S. stock futures recovered on Wednesday following Tuesday's sharp 2% sell-off triggered by Trump's aggressive trade stance toward Europe and tariff threats. Markets are now focused on Trump's keynote address at the World Economic Forum in Davos. Key movers include GameStop rising on CEO Cohen's stock purchase, Netflix falling despite earnings beat due to weak guidance, United Airlines surging on bullish forecasts, and Intel gaining on analyst upgrades.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/50028611/stock-market-today-dow-jones-sp-500-futures-recover-as-focus-turns-to-trumps-davos-address-johns?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "JNJ",
+            "GME",
+            "GME.WS",
+            "NFLX",
+            "UAL",
+            "INTC",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures recovery",
+            "Trump tariffs",
+            "Davos",
+            "trade tensions",
+            "earnings",
+            "market volatility"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-01-21T13:46:14Z",
+          "title": "Stock Market Today: Dow Jones, S&P 500 Futures Pull Back As Street Eyes Trump's Davos Address\u2014 Johnson & Johnson, Intel, GameStop In Focus (UPDATED)",
+          "description": "U.S. stock futures recovered on Wednesday following Tuesday's sharp 2% sell-off triggered by Trump's aggressive trade stance toward Europe and tariff threats. Markets are now focused on Trump's keynote address at the World Economic Forum in Davos. Key movers include GameStop rising on CEO Cohen's stock purchase, Netflix falling despite earnings beat due to weak guidance, United Airlines surging on bullish forecasts, and Intel gaining on analyst upgrades.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/50028611/stock-market-today-dow-jones-sp-500-futures-recover-as-focus-turns-to-trumps-davos-address-johns?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "JNJ",
+            "GME",
+            "GME.WS",
+            "NFLX",
+            "UAL",
+            "INTC",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures recovery",
+            "Trump tariffs",
+            "Davos",
+            "trade tensions",
+            "earnings",
+            "market volatility"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "event": {
+    "event_id": "PLTR_20241122_140500",
+    "ticker": "PLTR",
+    "t0_utc": "2024-11-22 14:05:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-11-22T11:05:00+00:00",
+      "end": "2024-11-22T15:05:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

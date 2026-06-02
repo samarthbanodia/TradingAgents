@@ -1,0 +1,46 @@
+{
+  "event": {
+    "event_id": "AAPL_20250528_225500",
+    "ticker": "AAPL",
+    "t0_utc": "2025-05-28 22:55:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-05-28T19:55:00+00:00",
+      "end": "2025-05-28T23:55:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-05-28T22:23:00Z",
+          "title": "If You Invest $100 a Month in This Warren Buffett-Approved ETF, You Could Have $417,000 in 30 Years",
+          "description": "The article discusses how investing $100 per month in an S&P 500 index ETF, as recommended by Warren Buffett, can lead to a substantial nest egg of around $417,000 over 30 years. It highlights the long-term performance of the S&P 500 and the benefits of passive investing.",
+          "article_url": "https://www.fool.com/investing/2025/05/28/if-you-invest-100-a-month-in-this-warren-buffett-a/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Jennifer Saibil",
+          "tickers": [
+            "VOO",
+            "SPY",
+            "VOOG"
+          ],
+          "keywords": [
+            "S&P 500",
+            "index ETF",
+            "Warren Buffett",
+            "passive investing",
+            "long-term investment"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

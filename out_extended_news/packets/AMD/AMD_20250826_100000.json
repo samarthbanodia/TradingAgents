@@ -1,0 +1,108 @@
+{
+  "event": {
+    "event_id": "AMD_20250826_100000",
+    "ticker": "AMD",
+    "t0_utc": "2025-08-26 10:00:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-08-26T07:00:00+00:00",
+      "end": "2025-08-26T11:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-08-26T07:06:00Z",
+        "title": "Billionaire Philippe Laffont Sold 53% of Coatue's AMD Stake in Favor of an ETF Whose Underlying Asset Has Gained Nearly 165,000,000% in 15 Years",
+        "description": "Billionaire Philippe Laffont reduced his stake in Advanced Micro Devices (AMD) by 53% while simultaneously investing in the iShares Bitcoin Trust ETF, potentially due to concerns about AMD's AI competitiveness and Bitcoin's potential as an inflation hedge.",
+        "article_url": "https://www.fool.com/investing/2025/08/26/billionaire-philippe-laffont-sold-53-of-amd-stake/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Sean Williams",
+        "tickers": [
+          "AMD",
+          "IBIT",
+          "NVDA"
+        ],
+        "keywords": [
+          "AMD",
+          "Bitcoin",
+          "ETF",
+          "AI",
+          "Philippe Laffont",
+          "Coatue Management",
+          "investment strategy"
+        ]
+      },
+      {
+        "published_utc": "2025-08-26T09:21:28Z",
+        "title": "Mohammed bin Salman-Backed Humain Begins Building 100MW AI Data Centers With Nvidia, AMD's Latest Chips",
+        "description": "Saudi AI company Humain is constructing two 100MW data centers in Riyadh and Dammam, launching in early 2026, using advanced chips from Nvidia and AMD to support Saudi Arabia's Vision 2030 tech ambitions.",
+        "article_url": "https://www.benzinga.com/markets/tech/25/08/47326356/mohammed-bin-salman-backed-humain-begins-building-100mw-ai-data-centers-with-nvidia-amds-latest-chip",
+        "publisher": "Benzinga",
+        "author": "Ananya Gairola",
+        "tickers": [
+          "NVDA",
+          "AMD"
+        ],
+        "keywords": [
+          "AI",
+          "data centers",
+          "semiconductor",
+          "Saudi Arabia",
+          "Vision 2030"
+        ]
+      },
+      {
+        "published_utc": "2025-08-26T10:15:00Z",
+        "title": "3 Reasons to Buy Super Micro Stock Before It's Too Late",
+        "description": "Super Micro Computer offers a compelling long-term AI investment through its hardware infrastructure business, trading at a significant discount despite operational challenges and market uncertainties in the generative AI sector.",
+        "article_url": "https://www.fool.com/investing/2025/08/26/3-reasons-to-buy-super-micro-stock-before-its-too/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Will Ebiefung",
+        "tickers": [
+          "SMCI",
+          "NVDA",
+          "AMD"
+        ],
+        "keywords": [
+          "AI",
+          "generative AI",
+          "hardware",
+          "data centers",
+          "investment"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": [
+        {
+          "published_utc": "2025-08-26T08:10:00Z",
+          "title": "Is the Schwab US Dividend Equity ETF a Safer Bet in a Volatile Market?",
+          "description": "With the S&P 500 near all-time highs driven by tech stocks, the Schwab US Dividend Equity ETF offers a more conservative investment approach with a lower valuation and attractive dividend yield.",
+          "article_url": "https://www.fool.com/investing/2025/08/26/schwab-us-dividend-equity-etf-safe-bet-volatile/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Reuben Gregg Brewer",
+          "tickers": [
+            "SCHD",
+            "VOO",
+            "QQQ"
+          ],
+          "keywords": [
+            "ETF",
+            "dividend",
+            "investment",
+            "market volatility",
+            "valuation"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "event": {
+    "event_id": "PLTR_20250219_200000",
+    "ticker": "PLTR",
+    "t0_utc": "2025-02-19 20:00:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-02-19T17:00:00+00:00",
+      "end": "2025-02-19T21:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-02-19T18:25:20Z",
+          "title": "Trump Calls For More Tariffs, Federal Reserve Minutes On Deck: What's Driving Markets Wednesday?",
+          "description": "U.S. indices are down as investors weigh President Trump's proposed tariffs on auto imports, pharmaceuticals, and semiconductors. Markets are anticipating the release of the latest FOMC minutes, which could provide insight into the Federal Reserve's policy outlook.",
+          "article_url": "https://www.benzinga.com/general/market-summary/25/02/43821214/trump-calls-for-more-tariffs-federal-reserve-minutes-on-deck-whats-driving-markets-wednesd",
+          "publisher": "Benzinga",
+          "author": "Erica Kollmann",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "NKLA",
+            "MULN",
+            "TLT"
+          ],
+          "keywords": [
+            "tariffs",
+            "Federal Reserve",
+            "FOMC minutes",
+            "markets",
+            "U.S. indices"
+          ]
+        },
+        {
+          "published_utc": "2025-02-19T20:01:20Z",
+          "title": "There's a way to predict the S&P 500 with an 85% correlation!",
+          "description": "The article discusses a way to predict the S&P 500 with an 85% correlation, highlighting that tracking the decisions of global central banks is more important than just focusing on the Federal Reserve's policies.",
+          "article_url": "https://www.benzinga.com/markets/equities/25/02/43827755/theres-a-way-to-predict-the-s-p-500-with-an-85-correlation",
+          "publisher": "Benzinga",
+          "author": "Gav Blaxberg",
+          "tickers": [
+            "IVV",
+            "SPY",
+            "VOO"
+          ],
+          "keywords": [
+            "S&P 500",
+            "prediction",
+            "central banks",
+            "Federal Reserve"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-02-19T18:25:20Z",
+          "title": "Trump Calls For More Tariffs, Federal Reserve Minutes On Deck: What's Driving Markets Wednesday?",
+          "description": "U.S. indices are down as investors weigh President Trump's proposed tariffs on auto imports, pharmaceuticals, and semiconductors. Markets are anticipating the release of the latest FOMC minutes, which could provide insight into the Federal Reserve's policy outlook.",
+          "article_url": "https://www.benzinga.com/general/market-summary/25/02/43821214/trump-calls-for-more-tariffs-federal-reserve-minutes-on-deck-whats-driving-markets-wednesd",
+          "publisher": "Benzinga",
+          "author": "Erica Kollmann",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "NKLA",
+            "MULN",
+            "TLT"
+          ],
+          "keywords": [
+            "tariffs",
+            "Federal Reserve",
+            "FOMC minutes",
+            "markets",
+            "U.S. indices"
+          ]
+        }
+      ]
+    }
+  }
+}

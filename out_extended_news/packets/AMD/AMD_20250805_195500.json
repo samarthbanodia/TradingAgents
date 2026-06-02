@@ -1,0 +1,47 @@
+{
+  "event": {
+    "event_id": "AMD_20250805_195500",
+    "ticker": "AMD",
+    "t0_utc": "2025-08-05 19:55:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-08-05T16:55:00+00:00",
+      "end": "2025-08-05T20:55:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-08-05T18:01:00Z",
+        "title": "AMD Q2 Earnings Preview: Priced for Perfection or Due for a Pullback?",
+        "description": "AMD prepares for Q2 earnings amid a 50% stock rally this year, with analysts cautioning about potential overvaluation and a possible market correction. The company shows strength in market share and AI infrastructure potential, but faces challenges from competitors like NVIDIA.",
+        "article_url": "https://www.investing.com/analysis/amd-q2-earnings-preview-priced-for-perfection-or-due-for-a-pullback-200664857",
+        "publisher": "Investing.com",
+        "author": "Ali Merchant",
+        "tickers": [
+          "AMD",
+          "INTC",
+          "NVDA"
+        ],
+        "keywords": [
+          "AMD",
+          "earnings",
+          "AI",
+          "market share",
+          "stock rally",
+          "tech stocks"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "event": {
+    "event_id": "PLTR_20241212_133000",
+    "ticker": "PLTR",
+    "t0_utc": "2024-12-12 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2024-12-12T10:30:00+00:00",
+      "end": "2024-12-12T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-12-12T10:30:00Z",
+          "title": "Have $100,000? Here Are 7 Ways to Grow That Money Into $1 Million for Retirement Savings",
+          "description": "The article provides seven strategies to grow a $100,000 retirement savings into $1 million, including living below your means, boosting income, building an emergency fund, investing in stocks and dividend-paying stocks, and utilizing tax-advantaged retirement accounts.",
+          "article_url": "https://www.fool.com/retirement/2024/12/12/here-are-7-ways-to-grow-money-into-million-dollars/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "The Motley Fool",
+          "tickers": [
+            "VOO",
+            "SPY",
+            "SCHD",
+            "VIG"
+          ],
+          "keywords": [
+            "retirement savings",
+            "investment strategies",
+            "stock market",
+            "dividend stocks",
+            "tax-advantaged accounts"
+          ]
+        },
+        {
+          "published_utc": "2024-12-12T10:40:00Z",
+          "title": "Here's How Much a $25,000 Investment in the S&P 500 at the Start of 2025 Could Grow to Be Worth in 25 Years",
+          "description": "The article discusses the potential growth of a $25,000 investment in the S&P 500 index over a 25-year period, noting that while the index has hit record highs, investors should expect lower-than-normal returns in the future. However, investing in the S&P 500 through an ETF can still be a good long-term strategy.",
+          "article_url": "https://www.fool.com/investing/2024/12/12/heres-how-much-a-25000-investment-in-the-sp-500-at/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "David Jagielski",
+          "tickers": [
+            "SPY"
+          ],
+          "keywords": [
+            "S&P 500",
+            "investment",
+            "ETF",
+            "long-term",
+            "growth"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

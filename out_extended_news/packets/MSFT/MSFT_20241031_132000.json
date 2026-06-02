@@ -1,0 +1,130 @@
+{
+  "event": {
+    "event_id": "MSFT_20241031_132000",
+    "ticker": "MSFT",
+    "t0_utc": "2024-10-31 13:20:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2024-10-31T10:20:00+00:00",
+      "end": "2024-10-31T14:20:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-10-31T12:48:00Z",
+        "title": "Apple Earnings: Tech Rally Under Threat as Investors Assess AI, iPhone 16 Demand",
+        "description": "Apple's upcoming earnings report is highly anticipated as investors assess the demand for the iPhone 16 and the company's push into AI. However, analysts see limited upside potential for the stock, suggesting it may need a big surprise to see significant gains.",
+        "article_url": "https://www.investing.com/analysis/apple-earnings-tech-rally-under-threat-as-investors-assess-ai-iphone-16-demand-200653632",
+        "publisher": "Investing.com",
+        "author": "Investing.Com",
+        "tickers": [
+          "AAPL",
+          "MSFT",
+          "META",
+          "NVDA"
+        ],
+        "keywords": [
+          "Apple",
+          "iPhone 16",
+          "AI",
+          "tech earnings",
+          "stock analysis"
+        ]
+      },
+      {
+        "published_utc": "2024-10-31T13:00:00Z",
+        "title": "Minecraft Education to Bridge AI Skills for 1.4M Youth Through New 4-H and Microsoft Collaboration",
+        "description": "4-H and Microsoft are collaborating to provide free AI learning resources through Minecraft Education's AI Foundations curriculum, aiming to empower 1.4 million youth across the country with AI skills and literacy.",
+        "article_url": "https://www.globenewswire.com/news-release/2024/10/31/2972667/0/en/Minecraft-Education-to-Bridge-AI-Skills-for-1-4M-Youth-Through-New-4-H-and-Microsoft-Collaboration.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Globe Newswire",
+        "tickers": [
+          "MSFT"
+        ],
+        "keywords": [
+          "4-H",
+          "Microsoft",
+          "AI",
+          "Minecraft Education",
+          "youth development"
+        ]
+      },
+      {
+        "published_utc": "2024-10-31T13:19:00Z",
+        "title": "1 Electric Vehicle ETF to Buy With 2025 Around the Corner",
+        "description": "Tesla's EV deliveries could decline in 2024 due to tough economic conditions, but CEO Elon Musk believes sales could grow by up to 30% in 2025 as interest rates fall and autonomous driving technology improves. The Global X Autonomous and Electric Vehicles ETF provides exposure to this trend.",
+        "article_url": "https://www.fool.com/investing/2024/10/31/1-electric-vehicle-etf-buy-with-2025-around-corner/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Anthony Di Pizio",
+        "tickers": [
+          "TSLA",
+          "DRIV",
+          "NVDA",
+          "MSFT",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "Tesla",
+          "Electric Vehicles",
+          "Autonomous Driving",
+          "Global X ETF"
+        ]
+      },
+      {
+        "published_utc": "2024-10-31T13:45:00Z",
+        "title": "Up 193%, Is Nvidia Stock Still a Buy?",
+        "description": "Nvidia has benefited from a surge in demand for its AI-capable chips, with its hardware business accounting for a significant share of the AI infrastructure market. However, the company faces challenges as its cloud computing clients may face pushback from shareholders due to high infrastructure spending with little to show for it, and some are turning to less-expensive custom chips from other chipmakers.",
+        "article_url": "https://www.fool.com/investing/2024/10/31/up-193-is-nvidia-stock-still-a-buy/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "NVDA",
+          "GOOG",
+          "GOOGL",
+          "MSFT",
+          "AMZN",
+          "AMD",
+          "AVGO"
+        ],
+        "keywords": [
+          "Nvidia",
+          "AI",
+          "cloud computing",
+          "chipmakers"
+        ]
+      },
+      {
+        "published_utc": "2024-10-31T14:15:00Z",
+        "title": "Looking to Beat the S&P 500? This Vanguard ETF Could Do the Trick",
+        "description": "The Vanguard Growth ETF (VUG) is a financial services company that focuses on large-cap growth stocks, particularly in the tech sector. The ETF has a history of outperforming the S&P 500, but its heavy concentration in a few top holdings like Apple, Microsoft, and Nvidia could be a potential downside.",
+        "article_url": "https://www.fool.com/investing/2024/10/31/looking-to-beat-the-sp-500-this-vanguard-etf-could/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Motley Fool",
+        "tickers": [
+          "VUG",
+          "AAPL",
+          "MSFT",
+          "NVDA"
+        ],
+        "keywords": [
+          "Vanguard Growth ETF",
+          "large-cap growth stocks",
+          "tech sector",
+          "S&P 500"
+        ]
+      }
+    ],
+    "ticker_news_count": 5,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

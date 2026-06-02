@@ -1,0 +1,91 @@
+{
+  "event": {
+    "event_id": "PLTR_20260324_130500",
+    "ticker": "PLTR",
+    "t0_utc": "2026-03-24 13:05:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-03-24T10:05:00+00:00",
+      "end": "2026-03-24T14:05:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-03-24T13:35:59Z",
+        "title": "What's Going On With Palantir Shares On Tuesday?",
+        "description": "Palantir Technologies (PLTR) shares traded lower in Tuesday's premarket session as risk appetite softened across equities. Despite yesterday's rally following geopolitical relief and a significant Pentagon contract adoption for its Maven Smart System, the stock faced headwinds from broader market weakness in technology stocks. Technical indicators show mixed momentum with neutral RSI but bullish MACD, positioning the stock closer to 52-week highs.",
+        "article_url": "https://www.benzinga.com/markets/large-cap/26/03/51431045/whats-going-on-with-palantir-shares-on-tuesday?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Lekha Gupta",
+        "tickers": [
+          "PLTR"
+        ],
+        "keywords": [
+          "Palantir Technologies",
+          "PLTR",
+          "Pentagon contract",
+          "Maven Smart System",
+          "geopolitical relief",
+          "technology stocks",
+          "premarket trading",
+          "technical analysis"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-03-24T10:25:41Z",
+          "title": "Rand Paul Slams '$1-2 Billion-A-Day Iran War:' 'Debt Is Our National Security Crisis'",
+          "description": "Senator Rand Paul opposes additional military funding for the Iran war, citing the $1-2 billion daily cost and arguing that the national debt poses a greater security threat than foreign adversaries. Paul criticizes the Trump administration's fiscal policies, including tariffs and bailouts, all funded through borrowing. He joins lawmakers like Elizabeth Warren and Bernie Sanders in opposing the supplemental war requests estimated at $50-200 billion.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/26/03/51425773/rand-paul-slams-2-billion-a-day-iran-war?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "Iran war",
+            "military spending",
+            "national debt",
+            "fiscal policy",
+            "tariffs",
+            "government borrowing",
+            "defense budget"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-03-24T10:25:41Z",
+          "title": "Rand Paul Slams '$1-2 Billion-A-Day Iran War:' 'Debt Is Our National Security Crisis'",
+          "description": "Senator Rand Paul opposes additional military funding for the Iran war, citing the $1-2 billion daily cost and arguing that the national debt poses a greater security threat than foreign adversaries. Paul criticizes the Trump administration's fiscal policies, including tariffs and bailouts, all funded through borrowing. He joins lawmakers like Elizabeth Warren and Bernie Sanders in opposing the supplemental war requests estimated at $50-200 billion.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/26/03/51425773/rand-paul-slams-2-billion-a-day-iran-war?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "Iran war",
+            "military spending",
+            "national debt",
+            "fiscal policy",
+            "tariffs",
+            "government borrowing",
+            "defense budget"
+          ]
+        }
+      ]
+    }
+  }
+}

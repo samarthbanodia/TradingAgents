@@ -1,0 +1,44 @@
+{
+  "event": {
+    "event_id": "AMZN_20241007_090000",
+    "ticker": "AMZN",
+    "t0_utc": "2024-10-07 09:00:00+00:00",
+    "direction": -1,
+    "label_proxy": "unclear",
+    "window": {
+      "start": "2024-10-07T06:00:00+00:00",
+      "end": "2024-10-07T10:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-10-07T08:55:00Z",
+        "title": "Billionaires Are Betting Big on These FAANG Stocks, and This $700 Billion Opportunity Explains Why",
+        "description": "Prominent billionaire investors are favoring FAANG stocks, particularly Amazon and Meta Platforms, due to their strong positions in the fast-growing digital advertising market. Amazon's retail media advertising and Meta's AI-powered ad platform are seen as key growth drivers.",
+        "article_url": "https://www.fool.com/investing/2024/10/07/billionaires-faang-stocks-billion-opportunity/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "AMZN"
+        ],
+        "keywords": [
+          "FAANG stocks",
+          "digital advertising",
+          "Amazon",
+          "Meta Platforms",
+          "billionaire investors"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

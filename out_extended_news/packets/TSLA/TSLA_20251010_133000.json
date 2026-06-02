@@ -1,0 +1,65 @@
+{
+  "event": {
+    "event_id": "TSLA_20251010_133000",
+    "ticker": "TSLA",
+    "t0_utc": "2025-10-10 13:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-10-10T10:30:00+00:00",
+      "end": "2025-10-10T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-10-10T11:15:00Z",
+        "title": "Here Is Your $25,000 EV; It Will Cost You $36,990!",
+        "description": "Tesla continues to demonstrate an overly optimistic approach to product delivery and feature implementation, yet investors remain supportive as long as stock performance remains strong.",
+        "article_url": "https://www.fool.com/investing/2025/10/10/here-is-your-25000-ev-it-will-cost-you-36990/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Parkev Tatevosian, Cfa",
+        "tickers": [
+          "TSLA"
+        ],
+        "keywords": [
+          "Tesla",
+          "stock",
+          "delivery",
+          "technology",
+          "investing"
+        ]
+      },
+      {
+        "published_utc": "2025-10-10T13:22:21Z",
+        "title": "Peter Thiel Reportedly Warned Elon Musk To Rethink Donating His Wealth: 'Much Worse To Give It To Bill Gates'",
+        "description": "Peter Thiel cautioned Elon Musk about donating wealth through the Giving Pledge, expressing concerns about potential recipients like Bill Gates and warning about the risk of funding 'left-wing non-profits'.",
+        "article_url": "https://www.benzinga.com/markets/tech/25/10/48146278/peter-thiel-reportedly-warned-elon-musk-to-rethink-donating-his-wealth-much-worse-to-give-it-to-bill",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "META",
+          "MSFT",
+          "TSLA",
+          "PLTR"
+        ],
+        "keywords": [
+          "philanthropy",
+          "wealth donation",
+          "Giving Pledge",
+          "billionaires",
+          "charity"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

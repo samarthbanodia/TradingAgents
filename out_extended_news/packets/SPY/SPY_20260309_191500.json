@@ -1,0 +1,97 @@
+{
+  "event": {
+    "event_id": "SPY_20260309_191500",
+    "ticker": "SPY",
+    "t0_utc": "2026-03-09 19:15:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-03-09T16:15:00+00:00",
+      "end": "2026-03-09T20:15:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-03-09T19:17:51Z",
+        "title": "Michael Burry Targets Trump As Oil Soars: 'Falling Stock Market Is His Kryptonite'",
+        "description": "Michael Burry warns that President Trump may be caught in a dangerous geopolitical spiral as oil prices surge following U.S.-Israel strikes on Iran. With crude jumping roughly 50% since late February and energy markets spiking, a stagflation scenario is emerging that could pressure stock markets. Burry suggests a falling market could become Trump's political weakness, potentially tempting dangerous escalation.",
+        "article_url": "https://www.benzinga.com/markets/equities/26/03/51130272/michael-burry-targets-trump-as-oil-soars-falling-stock-market-is-his-kryptonite?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Erica Kollmann",
+        "tickers": [
+          "QQQ",
+          "SPY",
+          "DIA",
+          "XLE"
+        ],
+        "keywords": [
+          "Michael Burry",
+          "Trump",
+          "Iran conflict",
+          "oil prices",
+          "stagflation",
+          "stock market decline",
+          "geopolitical risk"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-03-09T19:17:51Z",
+          "title": "Michael Burry Targets Trump As Oil Soars: 'Falling Stock Market Is His Kryptonite'",
+          "description": "Michael Burry warns that President Trump may be caught in a dangerous geopolitical spiral as oil prices surge following U.S.-Israel strikes on Iran. With crude jumping roughly 50% since late February and energy markets spiking, a stagflation scenario is emerging that could pressure stock markets. Burry suggests a falling market could become Trump's political weakness, potentially tempting dangerous escalation.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/03/51130272/michael-burry-targets-trump-as-oil-soars-falling-stock-market-is-his-kryptonite?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Erica Kollmann",
+          "tickers": [
+            "QQQ",
+            "SPY",
+            "DIA",
+            "XLE"
+          ],
+          "keywords": [
+            "Michael Burry",
+            "Trump",
+            "Iran conflict",
+            "oil prices",
+            "stagflation",
+            "stock market decline",
+            "geopolitical risk"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-03-09T19:17:51Z",
+          "title": "Michael Burry Targets Trump As Oil Soars: 'Falling Stock Market Is His Kryptonite'",
+          "description": "Michael Burry warns that President Trump may be caught in a dangerous geopolitical spiral as oil prices surge following U.S.-Israel strikes on Iran. With crude jumping roughly 50% since late February and energy markets spiking, a stagflation scenario is emerging that could pressure stock markets. Burry suggests a falling market could become Trump's political weakness, potentially tempting dangerous escalation.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/03/51130272/michael-burry-targets-trump-as-oil-soars-falling-stock-market-is-his-kryptonite?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Erica Kollmann",
+          "tickers": [
+            "QQQ",
+            "SPY",
+            "DIA",
+            "XLE"
+          ],
+          "keywords": [
+            "Michael Burry",
+            "Trump",
+            "Iran conflict",
+            "oil prices",
+            "stagflation",
+            "stock market decline",
+            "geopolitical risk"
+          ]
+        }
+      ]
+    }
+  }
+}

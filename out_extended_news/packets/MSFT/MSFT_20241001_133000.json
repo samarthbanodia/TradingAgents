@@ -1,0 +1,44 @@
+{
+  "event": {
+    "event_id": "MSFT_20241001_133000",
+    "ticker": "MSFT",
+    "t0_utc": "2024-10-01 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-10-01T10:30:00+00:00",
+      "end": "2024-10-01T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-10-01T13:00:00Z",
+        "title": "Zoom Appoints Michelle Chang as Chief Financial Officer",
+        "description": "Zoom Video Communications has appointed Michelle Chang as its new Chief Financial Officer, effective October 7, 2024. Chang brings over 25 years of financial leadership experience, most recently serving as Corporate Vice President and CFO of Microsoft's Commercial Sales & Partner Organization.",
+        "article_url": "https://www.globenewswire.com/news-release/2024/10/01/2956211/0/en/Zoom-Appoints-Michelle-Chang-as-Chief-Financial-Officer.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "N/A",
+        "tickers": [
+          "ZM",
+          "MSFT"
+        ],
+        "keywords": [
+          "Zoom Video Communications",
+          "Microsoft",
+          "Chief Financial Officer",
+          "financial leadership"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

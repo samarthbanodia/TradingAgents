@@ -1,0 +1,71 @@
+{
+  "event": {
+    "event_id": "GOOGL_20241031_132500",
+    "ticker": "GOOGL",
+    "t0_utc": "2024-10-31 13:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2024-10-31T10:25:00+00:00",
+      "end": "2024-10-31T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-10-31T13:19:00Z",
+        "title": "1 Electric Vehicle ETF to Buy With 2025 Around the Corner",
+        "description": "Tesla's EV deliveries could decline in 2024 due to tough economic conditions, but CEO Elon Musk believes sales could grow by up to 30% in 2025 as interest rates fall and autonomous driving technology improves. The Global X Autonomous and Electric Vehicles ETF provides exposure to this trend.",
+        "article_url": "https://www.fool.com/investing/2024/10/31/1-electric-vehicle-etf-buy-with-2025-around-corner/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Anthony Di Pizio",
+        "tickers": [
+          "TSLA",
+          "DRIV",
+          "NVDA",
+          "MSFT",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "Tesla",
+          "Electric Vehicles",
+          "Autonomous Driving",
+          "Global X ETF"
+        ]
+      },
+      {
+        "published_utc": "2024-10-31T13:45:00Z",
+        "title": "Up 193%, Is Nvidia Stock Still a Buy?",
+        "description": "Nvidia has benefited from a surge in demand for its AI-capable chips, with its hardware business accounting for a significant share of the AI infrastructure market. However, the company faces challenges as its cloud computing clients may face pushback from shareholders due to high infrastructure spending with little to show for it, and some are turning to less-expensive custom chips from other chipmakers.",
+        "article_url": "https://www.fool.com/investing/2024/10/31/up-193-is-nvidia-stock-still-a-buy/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "NVDA",
+          "GOOG",
+          "GOOGL",
+          "MSFT",
+          "AMZN",
+          "AMD",
+          "AVGO"
+        ],
+        "keywords": [
+          "Nvidia",
+          "AI",
+          "cloud computing",
+          "chipmakers"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

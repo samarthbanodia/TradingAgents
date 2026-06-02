@@ -1,0 +1,161 @@
+{
+  "event": {
+    "event_id": "GOOGL_20260210_142500",
+    "ticker": "GOOGL",
+    "t0_utc": "2026-02-10 14:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-02-10T11:25:00+00:00",
+      "end": "2026-02-10T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-02-10T13:11:51Z",
+        "title": "Microsoft's Quality Rank Surges As AI Spend Efficiency Calms Investor Nerves",
+        "description": "Microsoft's quality score jumped to 90.08, placing it in the top 10% for operational efficiency as it demonstrates superior free cash flow resilience compared to peers in the $700 billion AI infrastructure race. While competitors like Amazon and Alphabet face mounting capital expenditure pressures, Microsoft maintains a projected FCF margin of roughly 22%. However, the stock continues to face technical headwinds with negative momentum indicators despite fundamental strength.",
+        "article_url": "https://www.benzinga.com/markets/equities/26/02/50507326/microsofts-quality-rank-surges-as-ai-spend-efficiency-calms-investor-nerves?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Rishabh Mishra",
+        "tickers": [
+          "MSFT",
+          "AMZN",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "AI infrastructure spending",
+          "free cash flow efficiency",
+          "capital expenditure",
+          "operational efficiency",
+          "quality score",
+          "technical indicators",
+          "hyperscaler competition"
+        ]
+      },
+      {
+        "published_utc": "2026-02-10T13:20:00Z",
+        "title": "How Apple Is Winning the AI Race -- by Staying Out of It",
+        "description": "Apple has outperformed major AI stocks over the past six months by taking a conservative approach to AI investment. Rather than heavily investing in data center infrastructure like competitors, Apple is partnering with Google to use Gemini AI technology for its Apple Intelligence features. With capex spending of only $12.7 billion compared to Alphabet's planned $175-185 billion for 2026, Apple appears to offer investors a safer position amid growing concerns about the profitability of massive AI infrastructure investments.",
+        "article_url": "https://www.fool.com/investing/2026/02/10/why-apple-is-winning-the-ai-race-by-staying-out/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Ben Gran",
+        "tickers": [
+          "AAPL",
+          "GOOG",
+          "GOOGL",
+          "MSFT",
+          "META",
+          "AMZN",
+          "NVDA"
+        ],
+        "keywords": [
+          "AI strategy",
+          "capital expenditure",
+          "data centers",
+          "Apple Intelligence",
+          "partnership",
+          "investor sentiment",
+          "AI bubble concerns"
+        ]
+      },
+      {
+        "published_utc": "2026-02-10T14:30:00Z",
+        "title": "The Smartest Dividend Stocks to Buy With $1,000 Right Now",
+        "description": "NextEra Energy and Prologis are positioned as top dividend stocks to capitalize on AI infrastructure growth. NextEra, the largest U.S. electric utility, is partnering with Meta and Google to supply power and develop data centers, expecting 8%+ annual earnings growth. Prologis, a major REIT, is diversifying into data center development with plans to invest $30-50 billion over the next decade, potentially creating $7.5-25 billion in investor value.",
+        "article_url": "https://www.fool.com/investing/2026/02/10/the-smartest-dividend-stocks-to-buy-with-1000-righ/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Matt Dilallo",
+        "tickers": [
+          "NEE",
+          "NEEpN",
+          "NEEpS",
+          "NEEpT",
+          "NEEpU",
+          "PLD",
+          "META",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "AI infrastructure",
+          "dividend stocks",
+          "data centers",
+          "power demand",
+          "renewable energy",
+          "REITs",
+          "earnings growth"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-02-10T13:53:23Z",
+          "title": "Stock Market Today: S&P 500, Dow Futures Pare Gains As Retail Sales Stall And Wage Growth Moderates \u2014 Oracle, Credo, Ford In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Tuesday as investors await delayed economic data including retail sales and employment costs. Major indices showed modest gains with the S&P 500 up 0.18% and Nasdaq 100 up 0.15%. Key movers included Credo Technology jumping 16.89% on strong earnings guidance, Oracle rising 1.47% after launching new AI agents, and Clear Channel Outdoor advancing 6.85% following a $6.2 billion acquisition agreement. Analysts maintain a constructive outlook on the global economy with expectations for continued AI investment and emerging market outperformance.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50502675/stock-market-today-sp-500-dow-futures-rise-as-investors-await-delayed-data-oracle-credo-technolo?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "CRDO",
+            "ORCL",
+            "CCO",
+            "F",
+            "FpB",
+            "FpC",
+            "FpD",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock futures",
+            "S&P 500",
+            "economic data",
+            "Federal Reserve",
+            "AI investment",
+            "earnings",
+            "emerging markets"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-02-10T13:53:23Z",
+          "title": "Stock Market Today: S&P 500, Dow Futures Pare Gains As Retail Sales Stall And Wage Growth Moderates \u2014 Oracle, Credo, Ford In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Tuesday as investors await delayed economic data including retail sales and employment costs. Major indices showed modest gains with the S&P 500 up 0.18% and Nasdaq 100 up 0.15%. Key movers included Credo Technology jumping 16.89% on strong earnings guidance, Oracle rising 1.47% after launching new AI agents, and Clear Channel Outdoor advancing 6.85% following a $6.2 billion acquisition agreement. Analysts maintain a constructive outlook on the global economy with expectations for continued AI investment and emerging market outperformance.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50502675/stock-market-today-sp-500-dow-futures-rise-as-investors-await-delayed-data-oracle-credo-technolo?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "CRDO",
+            "ORCL",
+            "CCO",
+            "F",
+            "FpB",
+            "FpC",
+            "FpD",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock futures",
+            "S&P 500",
+            "economic data",
+            "Federal Reserve",
+            "AI investment",
+            "earnings",
+            "emerging markets"
+          ]
+        }
+      ]
+    }
+  }
+}

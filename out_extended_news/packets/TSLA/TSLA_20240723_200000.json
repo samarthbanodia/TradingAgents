@@ -1,0 +1,100 @@
+{
+  "event": {
+    "event_id": "TSLA_20240723_200000",
+    "ticker": "TSLA",
+    "t0_utc": "2024-07-23 20:00:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-07-23T17:00:00+00:00",
+      "end": "2024-07-23T21:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-07-23T17:04:42Z",
+        "title": "Small-caps rally ignites options frenzy, but strategists urge caution By Reuters - Investing.com",
+        "description": "The small-cap Russell 2000 index has rallied strongly in recent weeks, leading to a surge in bullish options trading. However, some strategists caution that the rally may be short-lived, as similar rotations have not had much traction in the past.",
+        "article_url": "https://www.investing.com/news/economy-news/smallcaps-rally-ignites-options-frenzy-but-strategists-urge-caution-3531710",
+        "publisher": "Investing.com",
+        "author": "Reuters",
+        "tickers": [
+          "RSSL",
+          "SCHW",
+          "SCHWpD",
+          "SCHWpJ",
+          "TSLA",
+          "GOOG",
+          "GOOGL",
+          "QQQM"
+        ],
+        "keywords": [
+          "small-caps",
+          "options",
+          "rally",
+          "caution",
+          "market rotation"
+        ]
+      },
+      {
+        "published_utc": "2024-07-23T17:35:18Z",
+        "title": "10 Consumer Discretionary Stocks Whale Activity In Today's Session - Benzinga",
+        "description": "The article discusses significant options trading activity in 10 consumer discretionary stocks, including Amazon.com, Lucid Group, Tesla, and Chipotle Mexican Grill.",
+        "article_url": "https://www.benzinga.com/insights/options/24/07/39914190/10-consumer-discretionary-stocks-whale-activity-in-todays-session",
+        "publisher": "Benzinga",
+        "author": "Benzinga Insights, Benzinga Staff Writer",
+        "tickers": [
+          "AMZN",
+          "LCID",
+          "TSLA",
+          "F",
+          "FpB",
+          "FpC",
+          "FpD",
+          "JMIA",
+          "JD",
+          "PHM",
+          "MBLY",
+          "FTDR",
+          "CMG"
+        ],
+        "keywords": [
+          "consumer discretionary",
+          "options activity",
+          "whale trades"
+        ]
+      },
+      {
+        "published_utc": "2024-07-23T17:53:43Z",
+        "title": "Tesla shares could swing 10% either way after earnings, options show By Reuters - Investing.com Canada",
+        "description": "Tesla shares are expected to swing around 10% in either direction after the company reports its Q2 earnings, based on options market data. The EV maker's margins are likely to hit a 5-year low, and CEO Elon Musk is expected to discuss the company's robotaxi plans and AI products.",
+        "article_url": "https://ca.investing.com/news/stock-market-news/tesla-shares-could-swing-10-either-way-after-earnings-options-show-3511180",
+        "publisher": "Investing.com",
+        "author": "Reuters",
+        "tickers": [
+          "TSLA",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "Tesla",
+          "earnings",
+          "options",
+          "margins",
+          "robotaxi",
+          "AI"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

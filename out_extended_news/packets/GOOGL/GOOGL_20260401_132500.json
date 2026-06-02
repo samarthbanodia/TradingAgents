@@ -1,0 +1,135 @@
+{
+  "event": {
+    "event_id": "GOOGL_20260401_132500",
+    "ticker": "GOOGL",
+    "t0_utc": "2026-04-01 13:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-04-01T10:25:00+00:00",
+      "end": "2026-04-01T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-04-01T11:00:00Z",
+        "title": "Glasswing Ventures Fuels Portfolio Acceleration with Addition of 14 AI Leaders to Exclusive Advisory Councils",
+        "description": "Glasswing Ventures announced the appointment of 14 distinguished AI and enterprise leaders to its Connect and Protect Advisory Councils. The advisors, drawn from companies like Google, ServiceNow, Microsoft, and others, will provide portfolio companies with strategic guidance on AI adoption, go-to-market initiatives, and enterprise readiness. The move reflects the firm's growth as enterprises accelerate AI deployment from experimentation to production.",
+        "article_url": "https://www.globenewswire.com/news-release/2026/04/01/3266453/0/en/Glasswing-Ventures-Fuels-Portfolio-Acceleration-with-Addition-of-14-AI-Leaders-to-Exclusive-Advisory-Councils.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Glasswing Ventures",
+        "tickers": [
+          "GOOG",
+          "GOOGL",
+          "NOW",
+          "MSFT",
+          "KVYO"
+        ],
+        "keywords": [
+          "AI advisory councils",
+          "venture capital",
+          "enterprise AI",
+          "frontier technology",
+          "portfolio acceleration",
+          "AI adoption",
+          "cybersecurity"
+        ]
+      },
+      {
+        "published_utc": "2026-04-01T13:20:00Z",
+        "title": "Nasdaq 100 Climbs on Iran De-Escalation Hopes Ahead of Trump\u2019s Speech",
+        "description": "US equities rallied on hopes of a Middle East ceasefire following Trump and Secretary of State Rubio's comments suggesting the Iran conflict could end within weeks. The Nasdaq futures rose 0.9% while oil prices fell 2-3% on de-escalation expectations. However, physical supply normalization may take longer due to shipping bottlenecks and infrastructure damage. Treasury yields declined, supporting growth stocks, though Nike fell 10% on weak China guidance.",
+        "article_url": "https://www.investing.com/analysis/nasdaq-100-climbs-on-iran-deescalation-hopes-ahead-of-trumps-speech-200677688",
+        "publisher": "Investing.com",
+        "author": "Fiona Cincotta",
+        "tickers": [
+          "NKE",
+          "AAPL",
+          "GOOG",
+          "GOOGL",
+          "MSFT"
+        ],
+        "keywords": [
+          "Iran ceasefire",
+          "geopolitical de-escalation",
+          "Nasdaq rally",
+          "oil prices decline",
+          "Treasury yields",
+          "growth stocks",
+          "Strait of Hormuz",
+          "Middle East conflict"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-04-01T13:01:50Z",
+          "title": "Stock Market Today: S&P 500, Nasdaq Futures Rise As Trump Says Iran War May End 'Within Two Weeks'\u2014 Nike, RH, nCino, Beyond Meat In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Wednesday following positive geopolitical developments, with President Trump stating the Iran conflict could end within two to three weeks. Major indices showed modest gains, though several individual stocks experienced significant moves based on earnings reports. The 10-year Treasury yield stood at 4.27%, with markets pricing in a 99.5% likelihood of unchanged Fed rates in April.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/04/51591846/stock-market-today-dow-jones-sp-500-futures-rise-as-trump-says-iran-war-may-end-within-two-weeks?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "NKE",
+            "RH",
+            "NCNO",
+            "BYND",
+            "T",
+            "TBB",
+            "TpA",
+            "TpC",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "Iran war",
+            "Trump",
+            "earnings",
+            "Treasury yields",
+            "Federal Reserve"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-04-01T13:01:50Z",
+          "title": "Stock Market Today: S&P 500, Nasdaq Futures Rise As Trump Says Iran War May End 'Within Two Weeks'\u2014 Nike, RH, nCino, Beyond Meat In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Wednesday following positive geopolitical developments, with President Trump stating the Iran conflict could end within two to three weeks. Major indices showed modest gains, though several individual stocks experienced significant moves based on earnings reports. The 10-year Treasury yield stood at 4.27%, with markets pricing in a 99.5% likelihood of unchanged Fed rates in April.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/04/51591846/stock-market-today-dow-jones-sp-500-futures-rise-as-trump-says-iran-war-may-end-within-two-weeks?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "NKE",
+            "RH",
+            "NCNO",
+            "BYND",
+            "T",
+            "TBB",
+            "TpA",
+            "TpC",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "Iran war",
+            "Trump",
+            "earnings",
+            "Treasury yields",
+            "Federal Reserve"
+          ]
+        }
+      ]
+    }
+  }
+}

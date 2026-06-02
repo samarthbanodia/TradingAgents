@@ -1,0 +1,81 @@
+{
+  "event": {
+    "event_id": "JPM_20260414_103000",
+    "ticker": "JPM",
+    "t0_utc": "2026-04-14 10:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2026-04-14T07:30:00+00:00",
+      "end": "2026-04-14T11:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-04-14T09:12:03Z",
+          "title": "Stock Market Today: Dow Jones, S&P 500 Futures Rise As JD Vance Touts 'Good Deal' If Iran Meets US 'Red Lines'\u2014Sana, Chevron In Focus",
+          "description": "U.S. stock futures rose on Tuesday following Monday's rally, with major indices trading higher. Vice President JD Vance signaled potential progress in Iran nuclear talks if Tehran meets U.S. demands. Investors await March producer price index data. Key movers include Sana Biotechnology surging 20% on Mayo Clinic collaboration, ChargePoint jumping 6.63% on insider buying, and Chevron declining despite a Venezuela oil production agreement. Professor Jeremy Siegel warns of near-term market caution due to rising oil prices and money growth concerns.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/04/51797128/stock-market-today-dow-jones-sp-500-futures-rise-as-jd-vance-touts-good-deal-if-iran-meets-us-re?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SANA",
+            "CHPT",
+            "CVX",
+            "FBK",
+            "FDX",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "Iran negotiations",
+            "producer price index",
+            "oil prices",
+            "Federal Reserve",
+            "biotechnology",
+            "energy sector"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-04-14T09:12:03Z",
+          "title": "Stock Market Today: Dow Jones, S&P 500 Futures Rise As JD Vance Touts 'Good Deal' If Iran Meets US 'Red Lines'\u2014Sana, Chevron In Focus",
+          "description": "U.S. stock futures rose on Tuesday following Monday's rally, with major indices trading higher. Vice President JD Vance signaled potential progress in Iran nuclear talks if Tehran meets U.S. demands. Investors await March producer price index data. Key movers include Sana Biotechnology surging 20% on Mayo Clinic collaboration, ChargePoint jumping 6.63% on insider buying, and Chevron declining despite a Venezuela oil production agreement. Professor Jeremy Siegel warns of near-term market caution due to rising oil prices and money growth concerns.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/04/51797128/stock-market-today-dow-jones-sp-500-futures-rise-as-jd-vance-touts-good-deal-if-iran-meets-us-re?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SANA",
+            "CHPT",
+            "CVX",
+            "FBK",
+            "FDX",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "Iran negotiations",
+            "producer price index",
+            "oil prices",
+            "Federal Reserve",
+            "biotechnology",
+            "energy sector"
+          ]
+        }
+      ]
+    }
+  }
+}

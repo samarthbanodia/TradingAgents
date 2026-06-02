@@ -1,0 +1,95 @@
+{
+  "event": {
+    "event_id": "GOOGL_20250915_133000",
+    "ticker": "GOOGL",
+    "t0_utc": "2025-09-15 13:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-09-15T10:30:00+00:00",
+      "end": "2025-09-15T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-09-15T12:30:00Z",
+        "title": "The Best AI ETF to Invest $500 in Right Now",
+        "description": "The Invesco QQQ Trust (QQQ) is recommended as an excellent ETF for AI investment, tracking the Nasdaq-100 index with strong historical performance and low expense ratio. The ETF provides comprehensive exposure to AI through top tech companies and has generated a 504% return over the past decade.",
+        "article_url": "https://www.fool.com/investing/2025/09/15/best-ai-etf-to-invest-500-in-right-now/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Neil Patel",
+        "tickers": [
+          "QQQ",
+          "NVDA",
+          "MSFT",
+          "AAPL",
+          "AMZN",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "AI",
+          "ETF",
+          "technology",
+          "investing",
+          "Nasdaq-100"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": [
+        {
+          "published_utc": "2025-09-15T11:15:00Z",
+          "title": "Can the QQQ ETF Protect Your Income in a Volatile Market?",
+          "description": "The article examines the Invesco QQQ Trust ETF, highlighting its tech-heavy composition and performance during potential market volatility, suggesting it may not be the best choice for investors seeking stability and dividends.",
+          "article_url": "https://www.fool.com/investing/2025/09/15/can-the-qqq-etf-protect-your-income-in-a-volatile/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Patrick Sanders",
+          "tickers": [
+            "QQQ",
+            "SCHD",
+            "VOO"
+          ],
+          "keywords": [
+            "ETF",
+            "market volatility",
+            "technology stocks",
+            "investment strategy",
+            "Nasdaq-100 Index"
+          ]
+        },
+        {
+          "published_utc": "2025-09-15T12:30:00Z",
+          "title": "The Best AI ETF to Invest $500 in Right Now",
+          "description": "The Invesco QQQ Trust (QQQ) is recommended as an excellent ETF for AI investment, tracking the Nasdaq-100 index with strong historical performance and low expense ratio. The ETF provides comprehensive exposure to AI through top tech companies and has generated a 504% return over the past decade.",
+          "article_url": "https://www.fool.com/investing/2025/09/15/best-ai-etf-to-invest-500-in-right-now/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Neil Patel",
+          "tickers": [
+            "QQQ",
+            "NVDA",
+            "MSFT",
+            "AAPL",
+            "AMZN",
+            "GOOG",
+            "GOOGL"
+          ],
+          "keywords": [
+            "AI",
+            "ETF",
+            "technology",
+            "investing",
+            "Nasdaq-100"
+          ]
+        }
+      ]
+    }
+  }
+}

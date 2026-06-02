@@ -1,0 +1,71 @@
+{
+  "event": {
+    "event_id": "COIN_20250618_145500",
+    "ticker": "COIN",
+    "t0_utc": "2025-06-18 14:55:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-06-18T11:55:00+00:00",
+      "end": "2025-06-18T15:55:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": [
+        {
+          "published_utc": "2025-06-18T15:20:58Z",
+          "title": "Momo Buys On Fed Hopium But Prudent Investors Wait For Dot Plot, Trump Gambit Increases Risk",
+          "description": "The article discusses the contrasting approaches of the 'momo crowd' and prudent investors in the current market environment. The momo crowd is aggressively buying stocks in anticipation of a Fed rate cut, while prudent investors are waiting for the Fed's dot plot to gauge future rate decisions. The article also highlights the increased risk posed by President Trump's potential strike on Iran and its potential impact on the markets.",
+          "article_url": "https://www.benzinga.com/markets/equities/25/06/45999285/momo-buys-on-fed-hopium-but-prudent-investors-wait-for-dot-plot-trump-gambit-increases-risk",
+          "publisher": "Benzinga",
+          "author": "The Arora Report",
+          "tickers": [
+            "LEN",
+            "LEN.B",
+            "AAPL",
+            "META",
+            "NVDA",
+            "AMZN",
+            "MSFT",
+            "GOOG",
+            "GOOGL",
+            "QQQ"
+          ],
+          "keywords": [
+            "Fed",
+            "interest rates",
+            "Iran",
+            "Trump",
+            "stock market",
+            "investors"
+          ]
+        },
+        {
+          "published_utc": "2025-06-18T15:25:20Z",
+          "title": "Trump Slams Powell Again, Yet Markets Breathe As Iran Rejects President's Demands",
+          "description": "President Trump renewed his criticism of Federal Reserve Chair Jerome Powell, arguing that the U.S. should have lower interest rates. Meanwhile, markets reacted positively as Iran rejected Trump's demands for an 'unconditional surrender'.",
+          "article_url": "https://www.benzinga.com/news/politics/25/06/45999380/trump-powell-again-markets-breathe-iran-rejects-demands",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "QQQ"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "interest rates",
+            "Iran",
+            "military action"
+          ]
+        }
+      ]
+    }
+  }
+}

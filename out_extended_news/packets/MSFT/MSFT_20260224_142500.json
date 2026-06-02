@@ -1,0 +1,182 @@
+{
+  "event": {
+    "event_id": "MSFT_20260224_142500",
+    "ticker": "MSFT",
+    "t0_utc": "2026-02-24 14:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2026-02-24T11:25:00+00:00",
+      "end": "2026-02-24T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-02-24T12:10:00Z",
+        "title": "Prediction Markets Are 95% Sure Nvidia Will Beat Earnings -- Here's What That Means for Investors",
+        "description": "Prediction markets give Nvidia a 95% probability of beating earnings expectations ahead of its Wednesday earnings report. The company has a track record of surpassing estimates for four consecutive quarters, supported by strong customer demand signals from major clients like Microsoft and Amazon. However, investors should note that beating earnings doesn't guarantee immediate stock price gains, as recent examples from AMD and Amazon show stocks can fall after positive reports.",
+        "article_url": "https://www.fool.com/investing/2026/02/24/prediction-markets-are-95-sure-nvidia-will-beat/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Adria Cimino",
+        "tickers": [
+          "NVDA",
+          "MSFT",
+          "AMZN",
+          "AMD"
+        ],
+        "keywords": [
+          "Nvidia earnings",
+          "prediction markets",
+          "AI chip demand",
+          "earnings beat",
+          "tech earnings season"
+        ]
+      },
+      {
+        "published_utc": "2026-02-24T13:30:00Z",
+        "title": "5 Smart Stocks to Buy Right Now",
+        "description": "The article recommends five technology stocks as buying opportunities: Microsoft (trading at 24x forward earnings, down recently), Amazon (stock down 20% with accelerating AWS growth), Alphabet (strong AI positioning), The Trade Desk (down 80% from highs but trading at 12x forward earnings), and Broadcom (expecting 100% AI chip growth in Q1). The author believes these stocks offer excellent long-term returns despite recent market weakness.",
+        "article_url": "https://www.fool.com/investing/2026/02/24/5-smart-stocks-to-buy-right-now/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Keithen Drury",
+        "tickers": [
+          "MSFT",
+          "AMZN",
+          "GOOG",
+          "GOOGL",
+          "TTD",
+          "AVGO"
+        ],
+        "keywords": [
+          "technology stocks",
+          "AI chips",
+          "cloud computing",
+          "generative AI",
+          "stock valuations",
+          "buying opportunity"
+        ]
+      },
+      {
+        "published_utc": "2026-02-24T14:00:00Z",
+        "title": "Endpoint Protection Platform Market Surges to $29.0 billion by 2029 | CAGR 10.7%",
+        "description": "The global Endpoint Protection Platform (EPP) market is expected to grow at a CAGR of 10.7% from $17.4 billion in 2024 to $29.0 billion by 2029. Growth is driven by increasing BYOD policies, remote work adoption, and integration of AI/ML technologies for threat detection. The BFSI sector holds the largest market share, while cloud-based EPP solutions present significant growth opportunities.",
+        "article_url": "https://www.globenewswire.com/news-release/2026/02/24/3243635/0/en/Endpoint-Protection-Platform-Market-Surges-to-29-0-billion-by-2029-CAGR-10-7.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Marketsandmarkets",
+        "tickers": [
+          "MSFT",
+          "CRWD",
+          "PANW",
+          "S",
+          "AVGO",
+          "FTNT",
+          "CSCO"
+        ],
+        "keywords": [
+          "Endpoint Protection Platform",
+          "cybersecurity",
+          "market growth",
+          "AI and machine learning",
+          "EDR",
+          "cloud-based security",
+          "BFSI",
+          "threat detection",
+          "ransomware"
+        ]
+      },
+      {
+        "published_utc": "2026-02-24T14:09:00Z",
+        "title": "AirJoule Has Big Partners\u2014So What\u2019s Still Holding the Stock Back?",
+        "description": "AirJoule Technologies, a pre-revenue company focused on efficient cooling and water harvesting using chemical processes, is positioned as a speculative buy despite execution risks. With major partnerships including GE Vernova, Carrier Global, and BASF, plus work with Google and Microsoft, the company expects to begin sales in 2026. Four of five analysts rate it as Buy, with consensus price targets suggesting nearly 200% upside. Strong insider ownership (40%+) and institutional buying support the stock, though it faces technical hurdles and depends on validating its product in the data center market.",
+        "article_url": "https://www.investing.com/analysis/airjoule-has-big-partnersso-whats-still-holding-the-stock-back-200675567",
+        "publisher": "Investing.com",
+        "author": "Thomas Hughes",
+        "tickers": [
+          "AIRJ",
+          "AIRJW",
+          "GEV",
+          "CARR",
+          "BASFY",
+          "MSFT"
+        ],
+        "keywords": [
+          "cooling technology",
+          "water harvesting",
+          "data centers",
+          "AI infrastructure",
+          "pre-revenue company",
+          "joint ventures",
+          "analyst ratings",
+          "insider buying",
+          "institutional investment"
+        ]
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-02-24T13:31:53Z",
+          "title": "Stock Market Today: S&P 500 Futures Slip As Dow, Nasdaq 100 Gain Following Trump's Tariff Threat \u2014 Whirlpool, Uber, HP In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Tuesday following Monday's sell-off triggered by AI-related economic concerns and a viral 'Global Intelligence Crisis' report. Market sentiment remains cautious amid Trump's tariff threats and geopolitical tensions. Key movers include Keysight Technologies surging 16% on strong earnings, Vir Biotechnology jumping 63% on revenue beat, and Whirlpool plunging 7.46% after announcing an $800 million capital raise.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50806573/stock-market-today-dow-jones-nasdaq-100-futures-gain-amid-ai-led-sell-off-trumps-threat-to-tradi?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "KEYS",
+            "VIR",
+            "WHR",
+            "HPQ",
+            "UBER",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "AI sell-off",
+            "tariffs",
+            "earnings",
+            "Federal Reserve",
+            "Treasury yields",
+            "market sentiment"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-02-24T13:31:53Z",
+          "title": "Stock Market Today: S&P 500 Futures Slip As Dow, Nasdaq 100 Gain Following Trump's Tariff Threat \u2014 Whirlpool, Uber, HP In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Tuesday following Monday's sell-off triggered by AI-related economic concerns and a viral 'Global Intelligence Crisis' report. Market sentiment remains cautious amid Trump's tariff threats and geopolitical tensions. Key movers include Keysight Technologies surging 16% on strong earnings, Vir Biotechnology jumping 63% on revenue beat, and Whirlpool plunging 7.46% after announcing an $800 million capital raise.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50806573/stock-market-today-dow-jones-nasdaq-100-futures-gain-amid-ai-led-sell-off-trumps-threat-to-tradi?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "KEYS",
+            "VIR",
+            "WHR",
+            "HPQ",
+            "UBER",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "AI sell-off",
+            "tariffs",
+            "earnings",
+            "Federal Reserve",
+            "Treasury yields",
+            "market sentiment"
+          ]
+        }
+      ]
+    }
+  }
+}

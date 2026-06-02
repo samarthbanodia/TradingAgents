@@ -1,0 +1,195 @@
+{
+  "event": {
+    "event_id": "NVDA_20240711_133000",
+    "ticker": "NVDA",
+    "t0_utc": "2024-07-11 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-07-11T10:30:00+00:00",
+      "end": "2024-07-11T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-07-11T10:38:21Z",
+        "title": "Large distressed Hong Kong realty deals set to rise as more sellers accept losses By Reuters - Investing.com",
+        "description": "Wall Street futures slipped as markets braced for a key U.S. inflation print that could bolster expectations of policy easing from the Federal Reserve and keep equities on their record-breaking run.",
+        "article_url": "https://www.investing.com/news/economy-news/futures-edge-lower-ahead-of-rallytesting-inflation-data-3515130",
+        "publisher": "Investing.com",
+        "author": "Reuters",
+        "tickers": [
+          "NVDA",
+          "TSLA",
+          "META",
+          "DAL",
+          "CAG"
+        ],
+        "keywords": [
+          "inflation",
+          "Federal Reserve",
+          "equities",
+          "futures"
+        ]
+      },
+      {
+        "published_utc": "2024-07-11T10:44:59Z",
+        "title": "AMD Challenges Nvidia With Strategic $665M Purchase Of Finnish AI Lab - Benzinga",
+        "description": "AMD announced plans to acquire Finnish AI startup Silo AI for $665 million, aiming to enhance its AI services to compete with market leader Nvidia.",
+        "article_url": "https://www.benzinga.com/m-a/24/07/39725192/amd-challenges-nvidia-with-strategic-665m-purchase-of-finnish-ai-lab",
+        "publisher": "Benzinga",
+        "author": "Anusuya Lahiri",
+        "tickers": [
+          "AMD",
+          "NVDA"
+        ],
+        "keywords": [
+          "AMD",
+          "Nvidia",
+          "AI",
+          "acquisition"
+        ]
+      },
+      {
+        "published_utc": "2024-07-11T11:03:52Z",
+        "title": "Nasdaq, S&P 500 Futures Edgy Ahead Of Inflation Data: What's Going On - Invesco QQQ Trust, Series 1 (NASDAQ:QQQ), SPDR S&P 500 (ARCA:SPY) - Benzinga",
+        "description": "The US stock market is jittery ahead of the release of key inflation data, with the Nasdaq and S&P 500 futures edging lower. Analysts expect the data to have a significant impact on the market, with an in-line or tamer number potentially boosting the S&P 500 by 1.75%, while a miss could send it tumbling by 2.50%.",
+        "article_url": "https://www.benzinga.com/news/earnings/24/07/39725637/wall-street-jittery-ahead-of-key-inflation-data-after-delta-air-lines-pepsi-disappoint-strategist-r",
+        "publisher": "Benzinga",
+        "author": "Shanthi Rexaline",
+        "tickers": [
+          "DAL",
+          "PEP",
+          "PSMT",
+          "WDFC",
+          "TSLA",
+          "NVDA"
+        ],
+        "keywords": [
+          "Nasdaq",
+          "S&P 500",
+          "inflation data",
+          "stock market",
+          "US economy"
+        ]
+      },
+      {
+        "published_utc": "2024-07-11T12:31:16Z",
+        "title": "AI winner Broadcom stock gets a new Street high price target ahead of stock split - Investing.com",
+        "description": "Broadcom's stock price target has been raised to a new Street high of $2,400 by Rosenblatt, ahead of the company's 10-for-1 stock split. The firm cites Broadcom's strong performance in AI-focused semiconductors and the integration of VMware as key drivers for the bullish outlook.",
+        "article_url": "https://www.investing.com/news/stock-market-news/ai-winner-broadcom-stock-gets-a-new-street-high-price-target-ahead-of-stock-split-3515501",
+        "publisher": "Investing.com",
+        "author": "Sam Bougheddaa",
+        "tickers": [
+          "AVGO",
+          "NVDA"
+        ],
+        "keywords": [
+          "Broadcom",
+          "stock split",
+          "price target",
+          "AI",
+          "semiconductors",
+          "VMware"
+        ]
+      },
+      {
+        "published_utc": "2024-07-11T13:15:00Z",
+        "title": "Want Exposure to Nvidia's Parabolic Growth? These 3 Vanguard Funds Are Ideal Vehicles. - The Motley Fool",
+        "description": "Nvidia has seen a 165% gain in the first half of 2024, but its shares trade at a high valuation. The article discusses three Vanguard ETFs that provide exposure to Nvidia's growth while diversifying risk.",
+        "article_url": "https://www.fool.com/investing/2024/07/11/want-exposure-to-nvidias-parabolic-growth-these-3/",
+        "publisher": "The Motley Fool",
+        "author": "George Budwell",
+        "tickers": [
+          "NVDA"
+        ],
+        "keywords": [
+          "Nvidia",
+          "Vanguard",
+          "ETFs",
+          "Growth stocks",
+          "Diversification"
+        ]
+      },
+      {
+        "published_utc": "2024-07-11T13:30:00Z",
+        "title": "Surprise! The Top Year-to-Date Performer In the S&P 500 Isn't Nvidia. Can This Company Keep It Up? - The Motley Fool",
+        "description": "Nvidia has been on an incredible run in 2024, but Supermicro has actually outperformed it, rising nearly 200% so far this year. Supermicro's customizability and reasonable valuation have contributed to its strong performance, and it may be able to maintain its lead over Nvidia for the rest of the year.",
+        "article_url": "https://www.fool.com/investing/2024/07/11/surprise-the-top-year-to-date-performer-in-the-sp/",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "NVDA",
+          "SMCI"
+        ],
+        "keywords": [
+          "Nvidia",
+          "Supermicro",
+          "S&P 500",
+          "AI",
+          "server"
+        ]
+      },
+      {
+        "published_utc": "2024-07-11T13:30:28Z",
+        "title": "ServiceNow (NOW) Loses 5% in a Week: Should You Buy the Dip? - Zacks Investment Research",
+        "description": "ServiceNow's shares have declined 5.4% in the past week, underperforming the broader market. However, the company's strong expansion in clientele, robust Generative AI portfolio, and strategic partnerships are expected to drive its subscription revenues in the long run.",
+        "article_url": "https://www.zacks.com/stock/news/2300006/servicenow-now-loses-5-in-a-week-should-you-buy-the-dip",
+        "publisher": "Zacks Investment Research",
+        "author": "Zacks Investment Research",
+        "tickers": [
+          "NOW",
+          "MSFT",
+          "NVDA",
+          "IBM"
+        ],
+        "keywords": [
+          "ServiceNow",
+          "Generative AI",
+          "Subscription Revenues",
+          "Digital Transformation"
+        ]
+      },
+      {
+        "published_utc": "2024-07-11T14:18:02Z",
+        "title": "Market Clubhouse Morning Memo - July 11th, 2024 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META And TSLA) - Benzinga",
+        "description": "The article provides a detailed market analysis and trading strategy for several major stocks, including SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, and TSLA, ahead of the release of key economic data.",
+        "article_url": "https://www.benzinga.com/24/07/39731330/market-clubhouse-morning-memo-july-11th-2024-trade-strategy-for-spy-qqq-aapl-msft-nvda-googl-meta-an",
+        "publisher": "Benzinga",
+        "author": "Rips",
+        "tickers": [
+          "AAPL",
+          "MSFT",
+          "NVDA",
+          "GOOG",
+          "GOOGL",
+          "META",
+          "TSLA"
+        ],
+        "keywords": [
+          "market analysis",
+          "trading strategy",
+          "SPY",
+          "QQQ",
+          "AAPL",
+          "MSFT",
+          "NVDA",
+          "GOOGL",
+          "META",
+          "TSLA",
+          "economic data"
+        ]
+      }
+    ],
+    "ticker_news_count": 8,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

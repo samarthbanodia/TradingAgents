@@ -1,0 +1,79 @@
+{
+  "event": {
+    "event_id": "NFLX_20240718_200000",
+    "ticker": "NFLX",
+    "t0_utc": "2024-07-18 20:00:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2024-07-18T17:00:00+00:00",
+      "end": "2024-07-18T21:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-07-18T20:11:00Z",
+        "title": "Netflix earnings: Stock falls despite subscriber beat - MarketWatch",
+        "description": "Netflix reported earnings on Thursday afternoon, with the stock falling despite a subscriber beat. The article provides updates on the company's performance and market reaction.",
+        "article_url": "https://www.marketwatch.com/livecoverage/netflix-earnings-results-subscribers-q2-streaming-revenue-profit?mod=bnbh",
+        "publisher": "MarketWatch",
+        "author": "Marketwatch",
+        "tickers": [
+          "NFLX"
+        ],
+        "keywords": [
+          "Netflix",
+          "earnings",
+          "subscribers"
+        ]
+      },
+      {
+        "published_utc": "2024-07-18T20:16:42Z",
+        "title": "Netflix Q3 revenue guidance falls short despite blowout Q2 subscriber adds - Investing.com",
+        "description": "Netflix reported better-than-expected Q2 results with strong subscriber adds, but its Q3 revenue guidance fell short of estimates.",
+        "article_url": "https://www.investing.com/news/stock-market-news/netflix-q3-revenue-guidance-falls-short-despite-blowout-q2-subscriber-adds-3525817",
+        "publisher": "Investing.com",
+        "author": "Yasin Ebrahim",
+        "tickers": [
+          "NFLX"
+        ],
+        "keywords": [
+          "Netflix",
+          "streaming",
+          "subscriber adds",
+          "revenue guidance"
+        ]
+      },
+      {
+        "published_utc": "2024-07-18T20:54:11Z",
+        "title": "After-hours movers: Netflix, Intuitive Surgical, and more By Investing.com - Investing.com Canada",
+        "description": "Netflix reported mixed Q2 results, with better-than-expected earnings but weaker guidance. Intuitive Surgical saw strong Q2 results, with a 17% increase in procedures. Plug Power announced a $200 million stock offering, while Surgery Partners is exploring strategic options including a potential sale.",
+        "article_url": "https://ca.investing.com/news/stock-market-news/afterhours-movers-netflix-intuitive-surgical-and-more-432SI-3504849",
+        "publisher": "Investing.com",
+        "author": "Louis Juricic",
+        "tickers": [
+          "NFLX",
+          "ISRG",
+          "PLUG",
+          "SGRY"
+        ],
+        "keywords": [
+          "Netflix",
+          "Intuitive Surgical",
+          "Plug Power",
+          "Surgery Partners"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

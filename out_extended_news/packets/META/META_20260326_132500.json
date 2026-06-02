@@ -1,0 +1,157 @@
+{
+  "event": {
+    "event_id": "META_20260326_132500",
+    "ticker": "META",
+    "t0_utc": "2026-03-26 13:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-03-26T10:25:00+00:00",
+      "end": "2026-03-26T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-03-26T11:20:00Z",
+        "title": "3 Stocks That Could Turn $10,000 Into $100,000 by 2030",
+        "description": "The article identifies three stocks with potential 10x returns by 2030: Nebius, an AI-focused cloud computing company benefiting from a $27 billion Meta deal; SoundHound AI, which offers AI-powered voice recognition for customer service automation; and IonQ, a quantum computing leader with strong revenue growth. Each company operates in high-growth AI and emerging technology sectors, though success depends on market adoption and execution.",
+        "article_url": "https://www.fool.com/investing/2026/03/26/3-stocks-that-could-turn-10000-into-100000-by-2030/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Keithen Drury",
+        "tickers": [
+          "NBIS",
+          "SOUN",
+          "SOUNW",
+          "IONQ",
+          "IONQ.WS",
+          "META",
+          "NVDA"
+        ],
+        "keywords": [
+          "AI computing",
+          "cloud infrastructure",
+          "quantum computing",
+          "voice recognition",
+          "customer service automation",
+          "10x returns",
+          "hyperscaler demand"
+        ]
+      },
+      {
+        "published_utc": "2026-03-26T12:11:00Z",
+        "title": "The Biggest Investing Mistakes I See as a CFP\u00ae (And How to Avoid Them)",
+        "description": "Matt Frankel, a Certified Financial Planner, discusses the six most common investing mistakes he has observed in his professional experience and provides guidance on how investors can avoid making these costly errors.",
+        "article_url": "https://www.fool.com/investing/2026/03/26/the-biggest-investing-mistakes-i-see-as-a-cfp-and/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Matt Frankel, Cfp",
+        "tickers": [
+          "AMZN",
+          "GOOG",
+          "GOOGL",
+          "META",
+          "MSFT",
+          "NVDA",
+          "TSLA"
+        ],
+        "keywords": [
+          "investing mistakes",
+          "financial planning",
+          "portfolio management",
+          "investment strategy",
+          "CFP advice"
+        ]
+      },
+      {
+        "published_utc": "2026-03-26T13:21:00Z",
+        "title": "2 AI Stocks That Are Cheaper Today Than They Were on Jan. 1 -- for No Good Reason",
+        "description": "Amazon and Meta Platforms are down approximately 10% year-to-date in 2026 despite solid fundamentals and attractive valuations. Both companies are investing heavily in AI infrastructure and seeing strong growth. Wells Fargo's chief equity strategist now views these hyperscalers as attractive investments, believing their free cash flow may exceed expectations and their AI spending is justified by the transformative potential of the technology.",
+        "article_url": "https://www.fool.com/investing/2026/03/26/2-ai-stocks-that-are-cheaper-today-than-they-were/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Geoffrey Seiler",
+        "tickers": [
+          "AMZN",
+          "META"
+        ],
+        "keywords": [
+          "AI stocks",
+          "Amazon",
+          "Meta Platforms",
+          "capital expenditure",
+          "data centers",
+          "cloud computing",
+          "AI infrastructure",
+          "valuation",
+          "free cash flow"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-03-26T12:46:05Z",
+          "title": "Stock Market Today: S&P 500, Dow Futures Trip As Trump Tells Iran To 'Get Serious'\u2014 Pony AI, Worthington Steel, Olaplex In Focus (UPDATED)",
+          "description": "U.S. stock futures fell on Thursday amid escalating Iran tensions and Trump's threats of military action. Major indices declined with the Dow down 0.47%, S&P 500 down 0.55%, and Nasdaq 100 down 0.65%. BlackRock downgraded U.S. stocks to neutral citing geopolitical risks and energy market disruptions. Several individual stocks experienced significant moves: Olaplex surged 48% on acquisition news, while Worthington Steel plunged 14% and MillerKnoll dropped 19% on weak earnings.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/03/51475286/stock-market-today-dow-jones-sp-500-futures-fall?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "OLPX",
+            "WS",
+            "MLKN",
+            "PONY",
+            "NOTE",
+            "NOTE.WS",
+            "UBER"
+          ],
+          "keywords": [
+            "stock market",
+            "Iran tensions",
+            "geopolitical risk",
+            "energy prices",
+            "Fed policy",
+            "earnings",
+            "acquisitions"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-03-26T12:46:05Z",
+          "title": "Stock Market Today: S&P 500, Dow Futures Trip As Trump Tells Iran To 'Get Serious'\u2014 Pony AI, Worthington Steel, Olaplex In Focus (UPDATED)",
+          "description": "U.S. stock futures fell on Thursday amid escalating Iran tensions and Trump's threats of military action. Major indices declined with the Dow down 0.47%, S&P 500 down 0.55%, and Nasdaq 100 down 0.65%. BlackRock downgraded U.S. stocks to neutral citing geopolitical risks and energy market disruptions. Several individual stocks experienced significant moves: Olaplex surged 48% on acquisition news, while Worthington Steel plunged 14% and MillerKnoll dropped 19% on weak earnings.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/03/51475286/stock-market-today-dow-jones-sp-500-futures-fall?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "OLPX",
+            "WS",
+            "MLKN",
+            "PONY",
+            "NOTE",
+            "NOTE.WS",
+            "UBER"
+          ],
+          "keywords": [
+            "stock market",
+            "Iran tensions",
+            "geopolitical risk",
+            "energy prices",
+            "Fed policy",
+            "earnings",
+            "acquisitions"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "event": {
+    "event_id": "MSFT_20260305_142500",
+    "ticker": "MSFT",
+    "t0_utc": "2026-03-05 14:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-03-05T11:25:00+00:00",
+      "end": "2026-03-05T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-03-05T13:05:00Z",
+        "title": "Broadcom Gains as AI Chip Outlook Points to $100B Revenue Path by 2027",
+        "description": "Broadcom shares surged 7% in premarket trading after CEO Hock Tan announced the company has clear visibility to exceed $100 billion in AI chip sales by 2027, up from $20 billion in 2025. The company secured major partnerships with OpenAI, Anthropic, Google, and Meta, and announced a $10 billion share repurchase program. Despite the positive outlook, Broadcom faces competition from Nvidia, which is expected to generate around $333 billion in AI data center revenue in fiscal 2027.",
+        "article_url": "https://www.investing.com/analysis/broadcom-gains-as-ai-chip-outlook-points-to-100b-revenue-path-by-2027-200676135",
+        "publisher": "Investing.com",
+        "author": "Timothy Fries",
+        "tickers": [
+          "AVGO",
+          "NVDA",
+          "GOOG",
+          "GOOGL",
+          "META",
+          "MSFT",
+          "AMZN"
+        ],
+        "keywords": [
+          "AI chips",
+          "semiconductor",
+          "custom chips",
+          "AI accelerators",
+          "earnings",
+          "revenue forecast",
+          "share buyback",
+          "AI infrastructure spending"
+        ]
+      },
+      {
+        "published_utc": "2026-03-05T13:05:00Z",
+        "title": "Why Constellation Energy Stock Surged 17.5% in February",
+        "description": "Constellation Energy's stock surged 17.5% in February following strong Q4 results that beat analyst expectations and a new power supply deal with data center developer CyrusOne for 380 MW. The company's Calpine acquisition, which closed in January, is already driving growth through multiple data center contracts. However, the stock now trades at a premium valuation of 28x forward earnings compared to the S&P 500's 22x.",
+        "article_url": "https://www.fool.com/investing/2026/03/05/why-constellation-energy-stock-surged-175-in-febru/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Matt Dilallo",
+        "tickers": [
+          "CEG",
+          "META",
+          "MSFT"
+        ],
+        "keywords": [
+          "nuclear energy",
+          "data centers",
+          "power supply contracts",
+          "Calpine acquisition",
+          "earnings beat",
+          "valuation premium"
+        ]
+      },
+      {
+        "published_utc": "2026-03-05T14:05:00Z",
+        "title": "Why I'm Watching SentinelOne Stock Heading Into March",
+        "description": "SentinelOne, a cybersecurity company, has surged 9% recently due to the launch of a new AI-native identity security platform and potential increased demand from geopolitical tensions. The stock has struggled since going public, declining from $70 to $13.50, with slowing revenue growth expected (21% vs. prior 32%). The company reports earnings on March 12, with investors watching to see if the new product and AI advantages can boost demand and market share against competitors like CrowdStrike, Okta, and Microsoft.",
+        "article_url": "https://www.fool.com/investing/2026/03/05/why-watching-sentinelone-stock-heading-in-march/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Dave Kovaleski",
+        "tickers": [
+          "S",
+          "CRWD",
+          "OKTA",
+          "MSFT"
+        ],
+        "keywords": [
+          "cybersecurity",
+          "AI-native platform",
+          "identity security",
+          "earnings report",
+          "geopolitical tensions",
+          "endpoint security",
+          "revenue growth"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-03-05T13:45:50Z",
+          "title": "Stock Market Today: S&P 500, Dow, Nasdaq Futures Decline As Iran War Escalates\u2014 Trade Desk, Webull, Broadcom In Focus (UPDATED)",
+          "description": "U.S. stock futures declined on Thursday following geopolitical tensions in the Middle East, with reports of Iran initiating contact with Trump for ceasefire negotiations. The S&P 500 and Nasdaq 100 fell slightly in premarket trading. Notable movers included Broadcom surging 6.66% on better-than-expected Q1 results, Veeva Systems rising 11.32% on strong guidance, Trade Desk jumping 16.85% following insider buying, and Webull falling 3.13% after missing profit targets.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/03/51059966/stock-market-today-sp-500-dow-jones-futures-decline-amid-reports-of-iran-initiating-contact-with?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AVGO",
+            "VEEV",
+            "COST",
+            "BULL",
+            "BULLW",
+            "TTD",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures decline",
+            "Iran-Trump negotiations",
+            "geopolitical tensions",
+            "earnings",
+            "insider trading",
+            "AI",
+            "Federal Reserve"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-03-05T13:45:50Z",
+          "title": "Stock Market Today: S&P 500, Dow, Nasdaq Futures Decline As Iran War Escalates\u2014 Trade Desk, Webull, Broadcom In Focus (UPDATED)",
+          "description": "U.S. stock futures declined on Thursday following geopolitical tensions in the Middle East, with reports of Iran initiating contact with Trump for ceasefire negotiations. The S&P 500 and Nasdaq 100 fell slightly in premarket trading. Notable movers included Broadcom surging 6.66% on better-than-expected Q1 results, Veeva Systems rising 11.32% on strong guidance, Trade Desk jumping 16.85% following insider buying, and Webull falling 3.13% after missing profit targets.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/03/51059966/stock-market-today-sp-500-dow-jones-futures-decline-amid-reports-of-iran-initiating-contact-with?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AVGO",
+            "VEEV",
+            "COST",
+            "BULL",
+            "BULLW",
+            "TTD",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures decline",
+            "Iran-Trump negotiations",
+            "geopolitical tensions",
+            "earnings",
+            "insider trading",
+            "AI",
+            "Federal Reserve"
+          ]
+        }
+      ]
+    }
+  }
+}

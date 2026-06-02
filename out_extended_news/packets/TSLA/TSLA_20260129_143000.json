@@ -1,0 +1,54 @@
+{
+  "event": {
+    "event_id": "TSLA_20260129_143000",
+    "ticker": "TSLA",
+    "t0_utc": "2026-01-29 14:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-01-29T11:30:00+00:00",
+      "end": "2026-01-29T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-01-29T13:21:00Z",
+        "title": "1 Beaten-Down AI Stock to Buy and Hold Forever",
+        "description": "Meta Platforms is presented as an undervalued AI stock opportunity despite recent market underperformance. The company's strong social media ecosystem with 3.5 billion daily active users, combined with AI-powered advertising improvements, positions it well for growth. While concerns exist about massive AI spending and potential margin pressure, Meta's ability to pivot strategy and its lowest forward P/E ratio among Magnificent Seven peers make it attractive for long-term investors.",
+        "article_url": "https://www.fool.com/investing/2026/01/29/1-beaten-down-ai-stock-to-buy-and-hold-forever/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Prosper Junior Bakiny",
+        "tickers": [
+          "META",
+          "NVDA",
+          "GOOG",
+          "GOOGL",
+          "AMZN",
+          "MSFT",
+          "AAPL",
+          "TSLA"
+        ],
+        "keywords": [
+          "AI stocks",
+          "Meta Platforms",
+          "undervalued",
+          "social media",
+          "advertising",
+          "AI spending",
+          "valuation",
+          "buy and hold"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

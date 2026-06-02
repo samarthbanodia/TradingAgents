@@ -1,0 +1,67 @@
+{
+  "event": {
+    "event_id": "TSLA_20250219_143000",
+    "ticker": "TSLA",
+    "t0_utc": "2025-02-19 14:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-02-19T11:30:00+00:00",
+      "end": "2025-02-19T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-02-19T13:00:00Z",
+        "title": "ACT-ion announces Anthony Thurston as Chief Operating Officer",
+        "description": "ACTion Battery Technologies, Inc. (ACT-ion) has appointed Anthony Thurston as its new Chief Operating Officer. Thurston has extensive experience in leading cathode active materials (CAM) manufacturing operations at companies like Tesla, BASF, and Apple. The move comes as ACT-ion accelerates the commercialization of its innovative CAM production process.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/02/19/3028692/0/en/ACT-ion-announces-Anthony-Thurston-as-Chief-Operating-Officer.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "N/A",
+        "tickers": [
+          "TSLA",
+          "BASFY",
+          "AAPL"
+        ],
+        "keywords": [
+          "ACTion Battery Technologies",
+          "Anthony Thurston",
+          "cathode active materials",
+          "manufacturing",
+          "Tesla",
+          "BASF",
+          "Apple"
+        ]
+      },
+      {
+        "published_utc": "2025-02-19T13:00:00Z",
+        "title": "Dawn Project Safety tests reveal that Tesla Full Self-Driving illegally overtakes stopped school buses and runs down children crossing the road",
+        "description": "The Dawn Project's safety tests reveal that Tesla's Full Self-Driving software illegally overtakes stopped school buses and runs down children crossing the road, posing a critical safety risk. The organization has been warning Tesla about this issue for over two years, but the company has failed to address it.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/02/19/3028741/0/en/Dawn-Project-Safety-tests-reveal-that-Tesla-Full-Self-Driving-illegally-overtakes-stopped-school-buses-and-runs-down-children-crossing-the-road.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "N/A",
+        "tickers": [
+          "TSLA"
+        ],
+        "keywords": [
+          "Tesla",
+          "Full Self-Driving",
+          "safety",
+          "school buses",
+          "children",
+          "Dawn Project"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

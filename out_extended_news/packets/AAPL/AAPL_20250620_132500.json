@@ -1,0 +1,25 @@
+{
+  "event": {
+    "event_id": "AAPL_20250620_132500",
+    "ticker": "AAPL",
+    "t0_utc": "2025-06-20 13:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "unclear",
+    "window": {
+      "start": "2025-06-20T10:25:00+00:00",
+      "end": "2025-06-20T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

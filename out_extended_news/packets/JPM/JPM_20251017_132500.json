@@ -1,0 +1,140 @@
+{
+  "event": {
+    "event_id": "JPM_20251017_132500",
+    "ticker": "JPM",
+    "t0_utc": "2025-10-17 13:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-10-17T10:25:00+00:00",
+      "end": "2025-10-17T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-10-17T12:26:18Z",
+        "title": "Jim Cramer Predicts Fed Rate Cuts As Regional Banks Stumble: 'Credit Cavalry Is Right On Time'",
+        "description": "Jim Cramer suggests that recent bad bank loans signal the Federal Reserve will likely cut interest rates, which could benefit 'real economy' stocks while warning investors to be cautious with speculative investments.",
+        "article_url": "https://www.benzinga.com/markets/equities/25/10/48272287/jim-cramer-predicts-fed-rate-cuts-as-regional-banks-stumble-credit-cavalry-is-right-on-time",
+        "publisher": "Benzinga",
+        "author": "Rishabh Mishra",
+        "tickers": [
+          "CPB",
+          "GIS",
+          "ZION",
+          "ZIONP",
+          "WAL",
+          "WALpA",
+          "AMJB",
+          "JPM",
+          "JPMpC",
+          "JPMpD",
+          "JPMpJ",
+          "JPMpK",
+          "JPMpL",
+          "JPMpM",
+          "VYLD"
+        ],
+        "keywords": [
+          "Federal Reserve",
+          "interest rates",
+          "bank loans",
+          "market sentiment",
+          "economic indicators"
+        ]
+      },
+      {
+        "published_utc": "2025-10-17T12:57:36Z",
+        "title": "Stock Market Today: S&P 500, Nasdaq, Dow Jones Futures Dragged By Financial Stocks\u2014American Express, CSX Corp, Standard Lithium In Focus (UPDATED)",
+        "description": "U.S. stock futures slumped on Friday, with financial stocks experiencing significant declines following concerns about loan quality and potential broader banking sector issues. Key companies like CSX Corp reported better-than-expected earnings, while others like Standard Lithium and Oracle saw stock price drops.",
+        "article_url": "https://www.benzinga.com/markets/equities/25/10/48270211/stock-market-today-sp-500-nasdaq-futures-dragged-by-financial-stocks-american-express-csx-corp-s",
+        "publisher": "Benzinga",
+        "author": "Rishabh Mishra",
+        "tickers": [
+          "CSX",
+          "SLI",
+          "AXP",
+          "AMJB",
+          "JPM",
+          "JPMpC",
+          "JPMpD",
+          "JPMpJ",
+          "JPMpK",
+          "JPMpL",
+          "JPMpM",
+          "VYLD"
+        ],
+        "keywords": [
+          "stock market",
+          "futures",
+          "financial stocks",
+          "banking sector",
+          "earnings"
+        ]
+      },
+      {
+        "published_utc": "2025-10-17T13:30:00Z",
+        "title": "Want Reliable Passive Income? 1 ETF to Buy Right Now",
+        "description": "In a potentially overvalued stock market, the Vanguard High Dividend Yield ETF offers a defensive investment approach with stable, high-dividend stocks across multiple sectors, providing reliable passive income and lower risk.",
+        "article_url": "https://www.fool.com/investing/2025/10/17/want-reliable-passive-income-1-etf-to-buy-now/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Matthew Benjamin",
+        "tickers": [
+          "VYM",
+          "AMJB",
+          "JPM",
+          "JPMpC",
+          "JPMpD",
+          "JPMpJ",
+          "JPMpK",
+          "JPMpL",
+          "JPMpM",
+          "VYLD",
+          "AVGO",
+          "WMT"
+        ],
+        "keywords": [
+          "defensive stocks",
+          "dividends",
+          "ETF",
+          "market volatility",
+          "passive income"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-10-17T12:34:00Z",
+          "title": "VIX Surges as Hedge Fund Unwinds and Bank Losses Rattle US Markets",
+          "description": "US markets experienced volatility as hedge funds unwound positions, with regional banks reporting losses and the VIX index surging due to technical trading factors and credit market risks.",
+          "article_url": "https://www.investing.com/analysis/vix-surges-as-hedge-fund-unwinds-and-bank-losses-rattle-us-markets-200668712",
+          "publisher": "Investing.com",
+          "author": "Alfonso Peccatiello",
+          "tickers": [
+            "IAT",
+            "GS",
+            "GSpA",
+            "GSpC",
+            "GSpD",
+            "SPY"
+          ],
+          "keywords": [
+            "VIX",
+            "hedge funds",
+            "market volatility",
+            "credit markets",
+            "short squeeze"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "event": {
+    "event_id": "COIN_20240903_133000",
+    "ticker": "COIN",
+    "t0_utc": "2024-09-03 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-09-03T10:30:00+00:00",
+      "end": "2024-09-03T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-09-03T10:50:21Z",
+          "title": "Wall Street Poised For Sharply Lower Start In New Week As Risk-Off Sentiment Dominates, VIX Spikes: Analysts Fret Over Sluggish September Seasonality",
+          "description": "The Nasdaq and S&P 500 futures are down sharply at the start of the trading week, as risk appetite has waned amid concerns over sluggish September seasonality and the upcoming jobs data, which could influence the Federal Reserve's rate decision.",
+          "article_url": "https://www.benzinga.com/news/earnings/24/09/40682836/wall-street-poised-for-sharply-lower-start-in-new-week-as-risk-off-sentiment-dominates-vix-spikes-a",
+          "publisher": "Benzinga",
+          "author": "Shanthi Rexaline",
+          "tickers": [
+            "QQQ",
+            "SPY",
+            "NVDA",
+            "X",
+            "GTLB",
+            "PD",
+            "ZS"
+          ],
+          "keywords": [
+            "Nasdaq",
+            "S&P 500",
+            "futures",
+            "risk appetite",
+            "September seasonality",
+            "jobs data",
+            "Federal Reserve"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2024-09-03T10:50:21Z",
+          "title": "Wall Street Poised For Sharply Lower Start In New Week As Risk-Off Sentiment Dominates, VIX Spikes: Analysts Fret Over Sluggish September Seasonality",
+          "description": "The Nasdaq and S&P 500 futures are down sharply at the start of the trading week, as risk appetite has waned amid concerns over sluggish September seasonality and the upcoming jobs data, which could influence the Federal Reserve's rate decision.",
+          "article_url": "https://www.benzinga.com/news/earnings/24/09/40682836/wall-street-poised-for-sharply-lower-start-in-new-week-as-risk-off-sentiment-dominates-vix-spikes-a",
+          "publisher": "Benzinga",
+          "author": "Shanthi Rexaline",
+          "tickers": [
+            "QQQ",
+            "SPY",
+            "NVDA",
+            "X",
+            "GTLB",
+            "PD",
+            "ZS"
+          ],
+          "keywords": [
+            "Nasdaq",
+            "S&P 500",
+            "futures",
+            "risk appetite",
+            "September seasonality",
+            "jobs data",
+            "Federal Reserve"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "event": {
+    "event_id": "GOOGL_20251204_142500",
+    "ticker": "GOOGL",
+    "t0_utc": "2025-12-04 14:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-12-04T11:25:00+00:00",
+      "end": "2025-12-04T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-12-04T11:40:49Z",
+        "title": "Anthropic CEO Dario Amodei 'Very Concerned' About 'YOLO' AI Spending Trend, Warns It Could Lead To 'Bad Things'",
+        "description": "Anthropic's CEO Dario Amodei expressed serious concerns about excessive AI spending, warning that timing errors could lead to 'bad things' and emphasizing the need for careful investment and workforce retraining.",
+        "article_url": "https://www.benzinga.com/markets/tech/25/12/49204459/anthropic-ceo-dario-amodei-very-concerned-about-yolo-ai-spending-trend-warns-it-could-lead-to-bad-th?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "GOOG",
+          "GOOGL",
+          "AMZN",
+          "IBM"
+        ],
+        "keywords": [
+          "AI",
+          "spending",
+          "investment",
+          "technology",
+          "workforce",
+          "infrastructure"
+        ]
+      },
+      {
+        "published_utc": "2025-12-04T12:35:00Z",
+        "title": "IonQ Is Yesterday's News: Buy This Quantum Computing Stock Instead",
+        "description": "The article compares quantum computing stocks, suggesting Alphabet as a better investment than IonQ due to its significant quantum computing breakthroughs and diversified business model.",
+        "article_url": "https://www.fool.com/investing/2025/12/04/ionq-is-yesterdays-news-buy-this-quantum-computing/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Stefon Walters",
+        "tickers": [
+          "GOOG",
+          "GOOGL",
+          "IONQ",
+          "IONQ.WS"
+        ],
+        "keywords": [
+          "quantum computing",
+          "technology",
+          "investment",
+          "innovation"
+        ]
+      },
+      {
+        "published_utc": "2025-12-04T14:49:00Z",
+        "title": "Email Hosting Services Strategic Business Report 2025: Market to Surpass $155 Billion by 2030 - Adoption in Hospitality and Travel for Reservation and Booking Management Sets the Stage for Growth",
+        "description": "Global email hosting services market projected to grow from $60.1 billion in 2024 to $155.1 billion by 2030, driven by cloud technologies, remote work trends, and enhanced security needs.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/12/04/3199944/28124/en/Email-Hosting-Services-Strategic-Business-Report-2025-Market-to-Surpass-155-Billion-by-2030-Adoption-in-Hospitality-and-Travel-for-Reservation-and-Booking-Management-Sets-the-Stage.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Researchandmarkets.Com",
+        "tickers": [
+          "AMZN",
+          "GOOG",
+          "GOOGL",
+          "GDDY"
+        ],
+        "keywords": [
+          "email hosting",
+          "cloud services",
+          "cybersecurity",
+          "remote work",
+          "digital communication"
+        ]
+      },
+      {
+        "published_utc": "2025-12-04T14:57:00Z",
+        "title": "MVNO Market - Global Forecast 2025-2032: Significant Opportunities with Agile Models, Expanding Beyond Connectivity Through Partnerships in IoT and Fintech",
+        "description": "The global Mobile Virtual Network Operator (MVNO) market is projected to grow from $108.40 billion in 2024 to $219.48 billion by 2032, with a 9.21% CAGR, driven by digital transformation, advanced network technologies, and customer-centric services.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/12/04/3199952/28124/en/MVNO-Market-Global-Forecast-2025-2032-Significant-Opportunities-with-Agile-Models-Expanding-Beyond-Connectivity-Through-Partnerships-in-IoT-and-Fintech.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Researchandmarkets.Com",
+        "tickers": [
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "MVNO",
+          "telecommunications",
+          "digital transformation",
+          "connectivity",
+          "IoT",
+          "fintech"
+        ]
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-12-04T15:21:00Z",
+          "title": "S&P 500 Nears a Higher High as VIX Divergence Points to Continued Strength",
+          "description": "The S&P 500 is approaching a potential higher high, with the SPX/VIX ratio suggesting continued market strength. The Zweig Breadth Thrust indicator is close to triggering a bullish signal, and the commodity index (GSG) appears poised for a potential breakout.",
+          "article_url": "https://www.investing.com/analysis/sp-500-nears-a-higher-high-as-vix-divergence-points-to-continued-strength-200671294",
+          "publisher": "Investing.com",
+          "author": "Tim Ord",
+          "tickers": [
+            "SPY"
+          ],
+          "keywords": [
+            "S&P 500",
+            "VIX",
+            "market strength",
+            "Zweig Breadth Thrust",
+            "commodity index"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

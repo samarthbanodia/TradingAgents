@@ -1,0 +1,61 @@
+{
+  "event": {
+    "event_id": "AMZN_20250206_210000",
+    "ticker": "AMZN",
+    "t0_utc": "2025-02-06 21:00:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-02-06T18:00:00+00:00",
+      "end": "2025-02-06T22:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-02-06T19:16:00Z",
+        "title": "NexQloud Files Patent for Distributed Kubernetes Service (DKS) and Migrates Infrastructure from Amazon EKS",
+        "description": "NexQloud has filed a patent for its Distributed Kubernetes Service (DKS), a decentralized cloud computing solution that integrates AI, blockchain, and energy-efficient hardware. The company is transitioning its infrastructure from Amazon EKS to its own DKS platform, offering enterprises a secure, scalable, and cost-effective alternative to traditional cloud solutions.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/02/06/3022377/0/en/NexQloud-Files-Patent-for-Distributed-Kubernetes-Service-DKS-and-Migrates-Infrastructure-from-Amazon-EKS.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Nexqloud",
+        "tickers": [
+          "AMZN"
+        ],
+        "keywords": [
+          "Distributed Kubernetes Service",
+          "Decentralized cloud computing",
+          "Energy-efficient hardware",
+          "Infrastructure migration"
+        ]
+      },
+      {
+        "published_utc": "2025-02-06T21:35:47Z",
+        "title": "Amazon EPS Jumps 86%, Beats Forecasts",
+        "description": "Amazon reported strong Q4 2024 results, with revenue increasing 10.5% year-over-year to $187.8 billion and earnings per share soaring 86% to $1.86. The performance was driven by robust growth in Amazon Web Services and international markets, though high capital expenditures remain a challenge.",
+        "article_url": "https://www.fool.com/data-news/2025/02/06/amazon-eps-jumps-86-beats-forecasts/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jesterai",
+        "tickers": [
+          "AMZN"
+        ],
+        "keywords": [
+          "Amazon",
+          "AWS",
+          "Earnings",
+          "Revenue",
+          "Capital Expenditures"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

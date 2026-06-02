@@ -1,0 +1,130 @@
+{
+  "event": {
+    "event_id": "NVDA_20241125_143000",
+    "ticker": "NVDA",
+    "t0_utc": "2024-11-25 14:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-11-25T11:30:00+00:00",
+      "end": "2024-11-25T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-11-25T11:30:00Z",
+        "title": "High Performance Computing Market to Drive Growth at USD 3.87 Billion by 2031",
+        "description": "The high-performance computing market is expected to grow at a CAGR of 10.7% from 2024 to 2031, driven by increasing demand for virtualization, IT industry expansion, and the rising adoption of hybrid HPC solutions. The market is dominated by the hardware segment, with advancements in processors, memory, and interconnects enabling HPC systems to perform complex calculations.",
+        "article_url": "https://www.benzinga.com/pressreleases/24/11/g42159505/high-performance-computing-market-to-drive-growth-at-usd-3-87-billion-by-2031",
+        "publisher": "Benzinga",
+        "author": "Globe Newswire",
+        "tickers": [
+          "AMD",
+          "INTC",
+          "HPE",
+          "HPEpC",
+          "IBM",
+          "DELL",
+          "LNVGY",
+          "NVDA",
+          "FJTSY",
+          "CSCO"
+        ],
+        "keywords": [
+          "high-performance computing",
+          "hardware",
+          "virtualization",
+          "IT industry",
+          "hybrid HPC"
+        ]
+      },
+      {
+        "published_utc": "2024-11-25T12:05:21Z",
+        "title": "Jensen Huang Credits China's 'Amazing' Tech Ecosystem For Helping Shape AI Giant Nvidia",
+        "description": "Nvidia CEO Jensen Huang highlighted the company's long-standing presence in China's technology ecosystem, emphasizing how the region has been instrumental in shaping the AI chip giant. Nvidia has seen unprecedented demand for its AI chips, with recent third-quarter revenue reaching $35.1 billion, up 94% year-over-year.",
+        "article_url": "https://www.benzinga.com/news/global/24/11/42160203/nvidias-growth-is-deeply-rooted-in-chinas-tech-ecosystem-says-ceo-jensen-huang",
+        "publisher": "Benzinga",
+        "author": "Kaustubh Bagalkote",
+        "tickers": [
+          "NVDA",
+          "MSFT",
+          "AAPL"
+        ],
+        "keywords": [
+          "Nvidia",
+          "China",
+          "AI",
+          "technology ecosystem"
+        ]
+      },
+      {
+        "published_utc": "2024-11-25T12:18:00Z",
+        "title": "The Best Vanguard ETF to Invest $1,000 in Right Now",
+        "description": "Small-cap stocks, represented by the Vanguard Russell 2000 Index Fund (VTWO), are undervalued compared to large-cap stocks and could benefit from an economic expansion, falling interest rates, and a potential rotation from investors. The sector's low valuation and cyclical nature make it an attractive investment opportunity.",
+        "article_url": "https://www.fool.com/investing/2024/11/25/the-best-vanguard-etf-to-invest-1000-in-right-now/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jeremy Bowman",
+        "tickers": [
+          "VTWO",
+          "NVDA",
+          "PLTR"
+        ],
+        "keywords": [
+          "small-cap stocks",
+          "Vanguard Russell 2000 Index Fund",
+          "economic expansion",
+          "interest rates",
+          "investor rotation"
+        ]
+      },
+      {
+        "published_utc": "2024-11-25T12:33:00Z",
+        "title": "Stock-Split Watch: Is ServiceNow Next?",
+        "description": "ServiceNow, a software company, has seen its stock price soar over 4,200% since its IPO in 2012, but has never split its shares. A stock split would not change the intrinsic value of the company, but could make the shares more accessible to budget-constrained investors. The article discusses the potential for a ServiceNow stock split and its implications.",
+        "article_url": "https://www.fool.com/investing/2024/11/25/stock-split-watch-is-servicenow-next/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Anders Bylund",
+        "tickers": [
+          "NOW",
+          "NVDA",
+          "CMG"
+        ],
+        "keywords": [
+          "ServiceNow",
+          "stock split",
+          "software company",
+          "stock price",
+          "IPO"
+        ]
+      },
+      {
+        "published_utc": "2024-11-25T14:45:00Z",
+        "title": "Billionaire Ray Dalio Sold Nvidia Stock. Should You Follow?",
+        "description": "Bridgewater Associates, the hedge fund managed by Ray Dalio, has been steadily reducing its position in Nvidia over the past year. While Nvidia's performance has been impressive, the stock's high valuation and potential future headwinds may warrant some profit-taking, according to the article.",
+        "article_url": "https://www.fool.com/investing/2024/11/25/billionaire-ray-dalio-sold-nvidia-stock-should-you/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Keithen Drury",
+        "tickers": [
+          "NVDA"
+        ],
+        "keywords": [
+          "Nvidia",
+          "Bridgewater Associates",
+          "Ray Dalio",
+          "hedge fund",
+          "stock valuation"
+        ]
+      }
+    ],
+    "ticker_news_count": 5,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "event": {
+    "event_id": "MSFT_20250911_213000",
+    "ticker": "MSFT",
+    "t0_utc": "2025-09-11 21:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "unclear",
+    "window": {
+      "start": "2025-09-11T18:30:00+00:00",
+      "end": "2025-09-11T22:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-09-11T20:17:00Z",
+        "title": "Why Iren Limited Stock Surged Over 25% This Week",
+        "description": "Microsoft signed a five-year contract with Nebius Group for AI cloud infrastructure, sparking investor interest in AI data center companies like Iren Limited, which is expanding its GPU capacity using Bitcoin mining revenue.",
+        "article_url": "https://www.fool.com/investing/2025/09/11/why-iren-limited-stock-surged-over-25-this-week/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Howard Smith",
+        "tickers": [
+          "MSFT",
+          "IREN",
+          "NBIS",
+          "NVDA",
+          "ORCL"
+        ],
+        "keywords": [
+          "AI",
+          "cloud infrastructure",
+          "GPU",
+          "data centers",
+          "Microsoft"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

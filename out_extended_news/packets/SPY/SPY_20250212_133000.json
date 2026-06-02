@@ -1,0 +1,158 @@
+{
+  "event": {
+    "event_id": "SPY_20250212_133000",
+    "ticker": "SPY",
+    "t0_utc": "2025-02-12 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "unclear",
+    "window": {
+      "start": "2025-02-12T10:30:00+00:00",
+      "end": "2025-02-12T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-02-12T11:13:34Z",
+        "title": "US Stocks Set For A Cautious Start Ahead Of Inflation Data: Expert Says 'Strong Bull Markets Tend To Roar Back To Life After Corrections'",
+        "description": "U.S. stock futures fell ahead of the release of inflation data, with traders expecting a modest report that could signal easing price pressures and potential interest rate cuts by the Federal Reserve. Experts noted a 'weak recovery' in the market, but sentiment remains constructive.",
+        "article_url": "https://www.benzinga.com/government/regulations/25/02/43651497/us-stocks-set-for-a-cautious-start-ahead-of-inflation-data-expert-says-strong-bull-markets",
+        "publisher": "Benzinga",
+        "author": "Rishabh Mishra",
+        "tickers": [
+          "BIIB",
+          "CME",
+          "CSCO",
+          "CVS",
+          "DASH",
+          "HOOD",
+          "KHC",
+          "KO",
+          "PBI",
+          "PBIpB",
+          "QQQ",
+          "RDDT",
+          "SPY",
+          "TSLA",
+          "Z",
+          "ZG"
+        ],
+        "keywords": [
+          "US stocks",
+          "inflation data",
+          "Federal Reserve",
+          "market sentiment"
+        ]
+      },
+      {
+        "published_utc": "2025-02-12T13:48:11Z",
+        "title": "Inflation Rises More Than Expected In January, Chills Interest Rate Cut Hopes",
+        "description": "Inflation surged more than expected in January, with CPI rising 3% year-over-year and 0.5% month-over-month, exceeding forecasts and dampening investor hopes for Federal Reserve interest rate cuts.",
+        "article_url": "https://www.benzinga.com/government/regulations/25/02/43656846/inflation-rises-more-than-expected-in-january-chills-interest-rate-cut-hopes",
+        "publisher": "Benzinga",
+        "author": "Piero Cingari",
+        "tickers": [
+          "SPY"
+        ],
+        "keywords": [
+          "inflation",
+          "CPI",
+          "interest rates",
+          "Federal Reserve"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-02-12T11:13:34Z",
+          "title": "US Stocks Set For A Cautious Start Ahead Of Inflation Data: Expert Says 'Strong Bull Markets Tend To Roar Back To Life After Corrections'",
+          "description": "U.S. stock futures fell ahead of the release of inflation data, with traders expecting a modest report that could signal easing price pressures and potential interest rate cuts by the Federal Reserve. Experts noted a 'weak recovery' in the market, but sentiment remains constructive.",
+          "article_url": "https://www.benzinga.com/government/regulations/25/02/43651497/us-stocks-set-for-a-cautious-start-ahead-of-inflation-data-expert-says-strong-bull-markets",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "BIIB",
+            "CME",
+            "CSCO",
+            "CVS",
+            "DASH",
+            "HOOD",
+            "KHC",
+            "KO",
+            "PBI",
+            "PBIpB",
+            "QQQ",
+            "RDDT",
+            "SPY",
+            "TSLA",
+            "Z",
+            "ZG"
+          ],
+          "keywords": [
+            "US stocks",
+            "inflation data",
+            "Federal Reserve",
+            "market sentiment"
+          ]
+        },
+        {
+          "published_utc": "2025-02-12T13:48:11Z",
+          "title": "Inflation Rises More Than Expected In January, Chills Interest Rate Cut Hopes",
+          "description": "Inflation surged more than expected in January, with CPI rising 3% year-over-year and 0.5% month-over-month, exceeding forecasts and dampening investor hopes for Federal Reserve interest rate cuts.",
+          "article_url": "https://www.benzinga.com/government/regulations/25/02/43656846/inflation-rises-more-than-expected-in-january-chills-interest-rate-cut-hopes",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "SPY"
+          ],
+          "keywords": [
+            "inflation",
+            "CPI",
+            "interest rates",
+            "Federal Reserve"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-02-12T11:13:34Z",
+          "title": "US Stocks Set For A Cautious Start Ahead Of Inflation Data: Expert Says 'Strong Bull Markets Tend To Roar Back To Life After Corrections'",
+          "description": "U.S. stock futures fell ahead of the release of inflation data, with traders expecting a modest report that could signal easing price pressures and potential interest rate cuts by the Federal Reserve. Experts noted a 'weak recovery' in the market, but sentiment remains constructive.",
+          "article_url": "https://www.benzinga.com/government/regulations/25/02/43651497/us-stocks-set-for-a-cautious-start-ahead-of-inflation-data-expert-says-strong-bull-markets",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "BIIB",
+            "CME",
+            "CSCO",
+            "CVS",
+            "DASH",
+            "HOOD",
+            "KHC",
+            "KO",
+            "PBI",
+            "PBIpB",
+            "QQQ",
+            "RDDT",
+            "SPY",
+            "TSLA",
+            "Z",
+            "ZG"
+          ],
+          "keywords": [
+            "US stocks",
+            "inflation data",
+            "Federal Reserve",
+            "market sentiment"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "event": {
+    "event_id": "NFLX_20260416_200000",
+    "ticker": "NFLX",
+    "t0_utc": "2026-04-16 20:00:00+00:00",
+    "direction": -1,
+    "label_proxy": "unclear",
+    "window": {
+      "start": "2026-04-16T17:00:00+00:00",
+      "end": "2026-04-16T21:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-04-16T17:06:44Z",
+        "title": "Wall Street Hits New Records, Oil Surges On Hormuz Toll Drama: What's Moving Markets Thursday?",
+        "description": "U.S. equities reached all-time highs on Thursday as President Trump announced a 10-day ceasefire between Israeli and Lebanese leaders. The S&P 500 advanced to 7,038.57 (+0.2%), while the Nasdaq 100 rallied 0.6% to 26,359 on its 12th straight session of gains. Oil prices surged on Iran's Hormuz toll legislation, with WTI crude jumping 2.5% to $93.58. Energy and technology sectors led gains, though healthcare stocks declined following weak guidance from Abbott Laboratories.",
+        "article_url": "https://www.benzinga.com/markets/market-summary/26/04/51866579/sp-500-nasdaq-100-record-highs-oil-surges-trump-israel-lebanon-ceasefire-markets-thursday?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Piero Cingari",
+        "tickers": [
+          "AAPL",
+          "ABT",
+          "TSLA",
+          "META",
+          "MSFT",
+          "PEP",
+          "BK",
+          "BKpK",
+          "SCHW",
+          "SCHWpD",
+          "SCHWpJ",
+          "NFLX",
+          "LCID",
+          "CCL",
+          "SMMT",
+          "ON",
+          "ALB",
+          "ALBpA"
+        ],
+        "keywords": [
+          "ceasefire",
+          "all-time highs",
+          "S&P 500",
+          "Nasdaq 100",
+          "oil prices",
+          "Hormuz toll",
+          "energy sector",
+          "technology sector"
+        ]
+      },
+      {
+        "published_utc": "2026-04-16T17:21:00Z",
+        "title": "Netflix Earnings Preview: Pricing Hikes, Growth in Focus After Warner Bros. Exit",
+        "description": "Netflix is set to report Q1 2026 earnings on April 16, with shares up 13.38% year-to-date following its withdrawal from the Warner Bros. Discovery acquisition. Analysts remain bullish with 12 of 15 rating it 'buy' and a $118 average price target implying 11% upside. Key focus areas include content investment, ad revenue growth, and the impact of recent price increases on subscriber tiers. Netflix has expanded live offerings including a BTS concert and the 2026 World Baseball Classic to drive advertising revenue.",
+        "article_url": "https://www.investing.com/analysis/netflix-earnings-preview-pricing-hikes-growth-in-focus-after-warner-bros-exit-200678567",
+        "publisher": "Investing.com",
+        "author": "Ali Merchant",
+        "tickers": [
+          "NFLX",
+          "WBD"
+        ],
+        "keywords": [
+          "Netflix earnings",
+          "pricing hikes",
+          "Warner Bros. Discovery acquisition",
+          "ad-supported tier",
+          "live events",
+          "subscriber growth",
+          "content investment"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

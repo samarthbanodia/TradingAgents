@@ -1,0 +1,69 @@
+{
+  "event": {
+    "event_id": "AMZN_20251029_123500",
+    "ticker": "AMZN",
+    "t0_utc": "2025-10-29 12:35:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-10-29T09:35:00+00:00",
+      "end": "2025-10-29T13:35:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-10-29T11:31:00Z",
+        "title": "Where Will UPS Be in 5 Years?",
+        "description": "UPS is expected to become a leaner, more profitable company by 2030, leveraging technological advances like AI and robotics while navigating potential economic challenges and competitive threats from Amazon.",
+        "article_url": "https://www.fool.com/investing/2025/10/29/where-will-ups-be-in-5-years/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Keith Speights",
+        "tickers": [
+          "UPS",
+          "AMZN"
+        ],
+        "keywords": [
+          "package delivery",
+          "dividend",
+          "AI",
+          "technology",
+          "economic challenges"
+        ]
+      },
+      {
+        "published_utc": "2025-10-29T13:25:00Z",
+        "title": "Is This Texas-Based Company a No-Brainer Buy for Energy Investors?",
+        "description": "Occidental Petroleum, a Texas-based energy company, is highlighted for its efficient oil production and promising carbon capture technology. While Warren Buffett has a significant stake in the company, its future remains tied to volatile oil prices.",
+        "article_url": "https://www.fool.com/investing/2025/10/29/is-this-texas-based-company-a-no-brainer-buy-for-e/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Keith Speights",
+        "tickers": [
+          "OXY",
+          "OXY.WS",
+          "BRK.A",
+          "BRK.B",
+          "AMZN",
+          "XOM",
+          "COP"
+        ],
+        "keywords": [
+          "energy",
+          "oil",
+          "carbon capture",
+          "Texas",
+          "Warren Buffett"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

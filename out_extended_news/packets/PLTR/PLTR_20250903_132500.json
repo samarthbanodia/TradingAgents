@@ -1,0 +1,49 @@
+{
+  "event": {
+    "event_id": "PLTR_20250903_132500",
+    "ticker": "PLTR",
+    "t0_utc": "2025-09-03 13:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-09-03T10:25:00+00:00",
+      "end": "2025-09-03T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-09-03T11:08:00Z",
+          "title": "S&P 500 Monthly Market Trends: Do They Matter Anymore?",
+          "description": "The article discusses potential market challenges in September, including Federal Reserve rate decisions, potential government shutdown risks, and recent tariff-related legal developments. Small-cap stocks are showing signs of recovery but remain sensitive to economic conditions.",
+          "article_url": "https://www.investing.com/analysis/sp-500-monthly-market-trends-do-they-matter-anymore-200666312",
+          "publisher": "Investing.com",
+          "author": "Lance Roberts",
+          "tickers": [
+            "GOOG",
+            "GOOGL",
+            "TSLA",
+            "AAPL",
+            "SPY"
+          ],
+          "keywords": [
+            "S&P 500",
+            "monthly trends",
+            "small-cap stocks",
+            "Federal Reserve",
+            "tariffs",
+            "market volatility"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

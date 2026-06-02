@@ -1,0 +1,115 @@
+{
+  "event": {
+    "event_id": "META_20241107_142500",
+    "ticker": "META",
+    "t0_utc": "2024-11-07 14:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-11-07T11:25:00+00:00",
+      "end": "2024-11-07T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-11-07T12:30:00Z",
+        "title": "SolarBank Expands into the projected $395 Billion Data Center Market as Developer and Strategic Partner",
+        "description": "SolarBank, a renewable energy solutions provider, announces its strategic expansion into the rapidly growing data center market. The company aims to pursue opportunities as a developer, owner, and strategic partner in data center infrastructure, supporting the demand for high-performance, sustainable energy solutions.",
+        "article_url": "https://www.benzinga.com/pressreleases/24/11/n41803959/solarbank-expands-into-the-projected-395-billion-data-center-market-as-developer-and-strategic-par",
+        "publisher": "Benzinga",
+        "author": "Prnewswire",
+        "tickers": [
+          "SUUN",
+          "AMZN",
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "META",
+          "AAPL",
+          "EQIX",
+          "DLR",
+          "DLRpJ",
+          "DLRpK",
+          "DLRpL"
+        ],
+        "keywords": [
+          "SolarBank",
+          "data center",
+          "renewable energy",
+          "sustainability"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-11-07T11:45:38Z",
+          "title": "US Stocks Likely To Open Higher, Extending Post-Election Rally: Fed's Rate Decision On Investors' Radar As Expert Highlights Markets Scaling 48 All-Time Highs This Year",
+          "description": "U.S. stocks are expected to open higher on Thursday, extending the post-election rally after former President Donald Trump's victory. Investors are also awaiting the Federal Reserve's rate decision. Key companies and ETFs mentioned include SPDR S&P 500 ETF Trust (SPY), Invesco QQQ ETF (QQQ), and Bitcoin (BTC/USD).",
+          "article_url": "https://www.benzinga.com/news/earnings/24/11/41801920/us-stocks-likely-to-open-higher-extending-post-election-rally-feds-rate-decision-on-investors-radar",
+          "publisher": "Benzinga",
+          "author": "Rounak Jain",
+          "tickers": [
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "US stocks",
+            "post-election rally",
+            "Federal Reserve",
+            "SPDR S&P 500 ETF Trust",
+            "Invesco QQQ ETF",
+            "Bitcoin"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2024-11-07T11:30:00Z",
+          "title": "3 Artificial Intelligence ETFs to Buy for Long-Term Growth",
+          "description": "The article discusses three exchange-traded funds (ETFs) that provide exposure to the growing artificial intelligence (AI) industry. The ETFs offer different approaches, from established tech giants to emerging innovators, allowing investors to match their AI exposure to their risk tolerance and investment goals.",
+          "article_url": "https://www.fool.com/investing/2024/11/07/3-artificial-intelligence-etfs-to-buy-for-long-ter/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "The Motley Fool",
+          "tickers": [
+            "VGT",
+            "QQQ",
+            "ARKQ"
+          ],
+          "keywords": [
+            "artificial intelligence",
+            "ETFs",
+            "technology",
+            "investing"
+          ]
+        },
+        {
+          "published_utc": "2024-11-07T11:45:38Z",
+          "title": "US Stocks Likely To Open Higher, Extending Post-Election Rally: Fed's Rate Decision On Investors' Radar As Expert Highlights Markets Scaling 48 All-Time Highs This Year",
+          "description": "U.S. stocks are expected to open higher on Thursday, extending the post-election rally after former President Donald Trump's victory. Investors are also awaiting the Federal Reserve's rate decision. Key companies and ETFs mentioned include SPDR S&P 500 ETF Trust (SPY), Invesco QQQ ETF (QQQ), and Bitcoin (BTC/USD).",
+          "article_url": "https://www.benzinga.com/news/earnings/24/11/41801920/us-stocks-likely-to-open-higher-extending-post-election-rally-feds-rate-decision-on-investors-radar",
+          "publisher": "Benzinga",
+          "author": "Rounak Jain",
+          "tickers": [
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "US stocks",
+            "post-election rally",
+            "Federal Reserve",
+            "SPDR S&P 500 ETF Trust",
+            "Invesco QQQ ETF",
+            "Bitcoin"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "event": {
+    "event_id": "META_20251006_133000",
+    "ticker": "META",
+    "t0_utc": "2025-10-06 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-10-06T10:30:00+00:00",
+      "end": "2025-10-06T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-10-06T13:23:00Z",
+          "title": "If You'd Invested $1,000 in the SPDR S&P 500 ETF Trust (SPY) 5 Years Ago, Here's How Much You'd Have Today",
+          "description": "An analysis of the SPDR S&P 500 ETF Trust shows that a $1,000 investment five years ago would have grown to over $2,130, representing a 113% total return and demonstrating the potential of simple, long-term investment strategies.",
+          "article_url": "https://www.fool.com/investing/2025/10/06/invest-1000-spdr-sp-500-etf-trust-5-years-ago/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Neil Patel",
+          "tickers": [
+            "SPY"
+          ],
+          "keywords": [
+            "ETF",
+            "S&P 500",
+            "investment",
+            "portfolio",
+            "long-term strategy"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-10-06T13:35:00Z",
+          "title": "If You'd Invested $1,000 in the Invesco QQQ Trust ETF 5 Years Ago, Here's How Much You'd Have Today",
+          "description": "An investment of $1,000 in the Invesco QQQ Trust five years ago would have grown to $2,200, representing a 120% total return, slightly outperforming the S&P 500 and driven primarily by tech stocks.",
+          "article_url": "https://www.fool.com/investing/2025/10/06/invest-1000-invesco-qqq-trust-etf-5-years-ago/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Neil Patel",
+          "tickers": [
+            "QQQ"
+          ],
+          "keywords": [
+            "ETF",
+            "investment",
+            "technology",
+            "Nasdaq-100",
+            "artificial intelligence"
+          ]
+        }
+      ]
+    }
+  }
+}

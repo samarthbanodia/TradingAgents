@@ -1,0 +1,67 @@
+{
+  "event": {
+    "event_id": "NVDA_20251113_143000",
+    "ticker": "NVDA",
+    "t0_utc": "2025-11-13 14:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-11-13T11:30:00+00:00",
+      "end": "2025-11-13T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-11-13T11:30:00Z",
+        "title": "If I Could Only Buy and Hold a Single Stock, This Would Be It",
+        "description": "The article recommends the VanEck Semiconductor ETF (SMH) as a relatively safe investment option, highlighting its strong historical performance of averaging 31% annual returns over 10 years and providing exposure to 26 top semiconductor stocks.",
+        "article_url": "https://www.fool.com/investing/2025/11/13/if-i-could-only-buy-and-hold-single-stock-this-it/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Will Healy",
+        "tickers": [
+          "NVDA",
+          "TSM",
+          "AVGO",
+          "AMD",
+          "MU"
+        ],
+        "keywords": [
+          "semiconductor",
+          "ETF",
+          "investment",
+          "technology",
+          "stocks"
+        ]
+      },
+      {
+        "published_utc": "2025-11-13T13:15:00Z",
+        "title": "2 Core AI Infrastructure Stocks I'd Buy Now",
+        "description": "Despite recent stock sell-offs, Nvidia and CoreWeave remain strong AI infrastructure investments with long-term growth potential, offering attractive entry points for patient investors interested in the AI computing megatrend.",
+        "article_url": "https://www.fool.com/investing/2025/11/13/2-core-ai-infrastructure-stocks-id-buy-now/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "George Budwell",
+        "tickers": [
+          "NVDA",
+          "CRWV"
+        ],
+        "keywords": [
+          "AI",
+          "infrastructure",
+          "GPU",
+          "cloud computing",
+          "technology investment"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

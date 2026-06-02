@@ -1,0 +1,84 @@
+{
+  "event": {
+    "event_id": "COIN_20250820_131000",
+    "ticker": "COIN",
+    "t0_utc": "2025-08-20 13:10:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-08-20T10:10:00+00:00",
+      "end": "2025-08-20T14:10:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-08-20T12:13:17Z",
+          "title": "Mohamed El-Erian Slams 'Backward-Looking' Powell, Question's Fed's 2% Inflation Target\u2014'Being Too Late'",
+          "description": "Economist Mohamed El-Erian criticized Federal Reserve Chair Jerome Powell for being 'backward-looking' and potentially making policy mistakes regarding inflation, suggesting the Fed should consider cutting rates and potentially revising its 2% inflation target.",
+          "article_url": "https://www.benzinga.com/markets/macro-economic-events/25/08/47231694/mohamed-el-erian-slams-backward-looking-powell-questions-feds-2-inflation-target-be",
+          "publisher": "Benzinga",
+          "author": "Namrata Sen",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "inflation",
+            "monetary policy",
+            "rate cuts",
+            "economic strategy"
+          ]
+        },
+        {
+          "published_utc": "2025-08-20T13:25:00Z",
+          "title": "Homebuilder Stocks Are Rallying: Is the Optimism Premature?",
+          "description": "Homebuilder stocks are experiencing a rally despite ongoing challenges in the housing market, including high mortgage rates and reduced construction permits. The SPDR S&P Homebuilders ETF is trading near its highest level since December, but uncertainties remain about future housing market conditions.",
+          "article_url": "https://www.investing.com/analysis/homebuilder-stocks-are-rallying-is-the-optimism-premature-200665608",
+          "publisher": "Investing.com",
+          "author": "James Picerno",
+          "tickers": [
+            "XHB",
+            "SPY"
+          ],
+          "keywords": [
+            "homebuilder stocks",
+            "housing market",
+            "mortgage rates",
+            "construction",
+            "real estate"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-08-20T12:13:17Z",
+          "title": "Mohamed El-Erian Slams 'Backward-Looking' Powell, Question's Fed's 2% Inflation Target\u2014'Being Too Late'",
+          "description": "Economist Mohamed El-Erian criticized Federal Reserve Chair Jerome Powell for being 'backward-looking' and potentially making policy mistakes regarding inflation, suggesting the Fed should consider cutting rates and potentially revising its 2% inflation target.",
+          "article_url": "https://www.benzinga.com/markets/macro-economic-events/25/08/47231694/mohamed-el-erian-slams-backward-looking-powell-questions-feds-2-inflation-target-be",
+          "publisher": "Benzinga",
+          "author": "Namrata Sen",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "inflation",
+            "monetary policy",
+            "rate cuts",
+            "economic strategy"
+          ]
+        }
+      ]
+    }
+  }
+}

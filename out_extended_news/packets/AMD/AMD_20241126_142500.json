@@ -1,0 +1,75 @@
+{
+  "event": {
+    "event_id": "AMD_20241126_142500",
+    "ticker": "AMD",
+    "t0_utc": "2024-11-26 14:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-11-26T11:25:00+00:00",
+      "end": "2024-11-26T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-11-26T12:06:04Z",
+          "title": "US Stocks May Have A Slow Start As Trump's Tariff Threat Begins To Thwart Relief Rally: Analysts Remain Optimistic About AI-Linked Sectors Stocks",
+          "description": "U.S. stocks may open sluggishly on Tuesday as President-elect Trump threatens tariffs on Canada and Mexico. However, analysts remain optimistic about AI-linked sectors.",
+          "article_url": "https://www.benzinga.com/24/11/42185644/us-stocks-may-have-a-slow-start-as-trumps-tariff-threat-begins-to-thwart-relief-rally-analysts-remain-positive-on",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "BLBD",
+            "BBY",
+            "SPY",
+            "QQQ",
+            "WWD",
+            "RIVN",
+            "EXAS",
+            "SMTC"
+          ],
+          "keywords": [
+            "US stocks",
+            "tariffs",
+            "AI",
+            "technology sector"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2024-11-26T12:06:04Z",
+          "title": "US Stocks May Have A Slow Start As Trump's Tariff Threat Begins To Thwart Relief Rally: Analysts Remain Optimistic About AI-Linked Sectors Stocks",
+          "description": "U.S. stocks may open sluggishly on Tuesday as President-elect Trump threatens tariffs on Canada and Mexico. However, analysts remain optimistic about AI-linked sectors.",
+          "article_url": "https://www.benzinga.com/24/11/42185644/us-stocks-may-have-a-slow-start-as-trumps-tariff-threat-begins-to-thwart-relief-rally-analysts-remain-positive-on",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "BLBD",
+            "BBY",
+            "SPY",
+            "QQQ",
+            "WWD",
+            "RIVN",
+            "EXAS",
+            "SMTC"
+          ],
+          "keywords": [
+            "US stocks",
+            "tariffs",
+            "AI",
+            "technology sector"
+          ]
+        }
+      ]
+    }
+  }
+}

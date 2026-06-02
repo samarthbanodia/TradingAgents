@@ -1,0 +1,81 @@
+{
+  "event": {
+    "event_id": "NFLX_20260304_142500",
+    "ticker": "NFLX",
+    "t0_utc": "2026-03-04 14:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2026-03-04T11:25:00+00:00",
+      "end": "2026-03-04T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-03-04T13:55:49Z",
+          "title": "Stock Market Today: S&P 500, Dow Futures Up As Oil Prices Fall For First Time Since Iran War Began\u2014 Broadcom, Abercrombie & Fitch In Focus (UPDATED)",
+          "description": "U.S. stock futures rose modestly on Wednesday as oil price gains slowed following Trump's announcement of Navy escort services through the Strait of Hormuz. Markets await the ADP employment report and earnings from Broadcom, Abercrombie & Fitch, and Okta. Asian markets suffered steep losses, with South Korea's Kospi plunging 12%. The VIX jumped to 23.96, reflecting elevated market volatility amid inflation concerns.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/03/51028040/stock-market-today-sp-500-dow-futures-gain-as-oil-hike-pace-slows-after-trumps-order-adp-report-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Eva Mathew",
+          "tickers": [
+            "AVGO",
+            "ANF",
+            "OKTA",
+            "BOX",
+            "ROST",
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "stock futures",
+            "oil prices",
+            "ADP report",
+            "earnings",
+            "market volatility",
+            "inflation",
+            "Asian markets",
+            "Federal Reserve"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-03-04T13:55:49Z",
+          "title": "Stock Market Today: S&P 500, Dow Futures Up As Oil Prices Fall For First Time Since Iran War Began\u2014 Broadcom, Abercrombie & Fitch In Focus (UPDATED)",
+          "description": "U.S. stock futures rose modestly on Wednesday as oil price gains slowed following Trump's announcement of Navy escort services through the Strait of Hormuz. Markets await the ADP employment report and earnings from Broadcom, Abercrombie & Fitch, and Okta. Asian markets suffered steep losses, with South Korea's Kospi plunging 12%. The VIX jumped to 23.96, reflecting elevated market volatility amid inflation concerns.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/03/51028040/stock-market-today-sp-500-dow-futures-gain-as-oil-hike-pace-slows-after-trumps-order-adp-report-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Eva Mathew",
+          "tickers": [
+            "AVGO",
+            "ANF",
+            "OKTA",
+            "BOX",
+            "ROST",
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "stock futures",
+            "oil prices",
+            "ADP report",
+            "earnings",
+            "market volatility",
+            "inflation",
+            "Asian markets",
+            "Federal Reserve"
+          ]
+        }
+      ]
+    }
+  }
+}

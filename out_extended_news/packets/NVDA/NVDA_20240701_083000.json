@@ -1,0 +1,315 @@
+{
+  "event": {
+    "event_id": "NVDA_20240701_083000",
+    "ticker": "NVDA",
+    "t0_utc": "2024-07-01 08:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-07-01T05:30:00+00:00",
+      "end": "2024-07-01T09:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-07-01T08:00:00Z",
+        "title": "Bull of the Day: Vistra (VST)",
+        "description": "Vistra helps investors benefit from both the energy transition and the AI boom. Vistra's recent pullback sets investors up to buy VST stock at a great entry point.",
+        "article_url": "https://www.zacks.com/commentary/2295229/bull-of-the-day-vistra-vst",
+        "publisher": "Zacks Investment Research",
+        "author": "Benjamin Rains",
+        "tickers": [
+          "CEG",
+          "NVDA",
+          "VST"
+        ],
+        "keywords": []
+      },
+      {
+        "published_utc": "2024-07-01T08:09:00Z",
+        "title": "Got $1,000? Here's 1 Unique ETF to Cash In on the Nasdaq.",
+        "description": "This ETF enables you to generate income while cashing in on the Nasdaq 100's upside.",
+        "article_url": "https://www.fool.com/investing/2024/07/01/got-1000-heres-1-unique-etf-to-cash-in-on-the-nasd/",
+        "publisher": "The Motley Fool",
+        "author": "newsfeedback@fool.com (Matt DiLallo)",
+        "tickers": [
+          "JEPQ",
+          "INTC",
+          "NVDA",
+          "AMAT",
+          "QQQ",
+          "ADI"
+        ],
+        "keywords": [
+          "investing"
+        ]
+      },
+      {
+        "published_utc": "2024-07-01T08:12:00Z",
+        "title": "The S&P 500 Just Did Something It Has Only Done Once in History, and It Could Signal a Big Move in the Stock Market",
+        "description": "The S&P 500 outperformed its equal-weight counterpart by more than 10% in the first half of 2024, something that has only happened once before.",
+        "article_url": "https://www.fool.com/investing/2024/07/01/sp-500-only-done-once-signal-big-move-stock-market/",
+        "publisher": "The Motley Fool",
+        "author": "newsfeedback@fool.com (Trevor Jennewine)",
+        "tickers": [
+          "META",
+          "MSFT",
+          "GOOGL",
+          "AAPL",
+          "AMZN",
+          "NVDA",
+          "UBS",
+          "IT",
+          "GOOG"
+        ],
+        "keywords": [
+          "investing"
+        ]
+      },
+      {
+        "published_utc": "2024-07-01T08:13:14Z",
+        "title": "Micron Q3: Good Quarter, Bad Cash-Flow (Rating Downgrade)",
+        "description": "Micron beat revenue and earnings expectations in fiscal Q3 2024, but stock price slumped in extended-hours trading. Read why MU stock is a Buy.",
+        "article_url": "https://seekingalpha.com/article/4701792-micron-q3-good-quarter-bad-cash-flow-rating-downgrade",
+        "publisher": "Seeking Alpha",
+        "author": "Noah's Arc Capital Management",
+        "tickers": [
+          "NVDA",
+          "MU"
+        ],
+        "keywords": []
+      },
+      {
+        "published_utc": "2024-07-01T08:15:00Z",
+        "title": "AMD Stock Just Dipped. Is 2024 the Time to Invest?",
+        "description": "The company could struggle to compete with its rivals this year and beyond.",
+        "article_url": "https://www.fool.com/investing/2024/07/01/amd-stock-just-dipped-is-2024-the-time-to-invest/",
+        "publisher": "The Motley Fool",
+        "author": "newsfeedback@fool.com (Dani Cook)",
+        "tickers": [
+          "AMD",
+          "INTC",
+          "NVDA"
+        ],
+        "keywords": [
+          "investing"
+        ]
+      },
+      {
+        "published_utc": "2024-07-01T08:44:00Z",
+        "title": "2 Stock-Split AI Stocks to Buy Before They Soar 70% and 230%, According to Certain Wall Street Analysts",
+        "description": "These Wall Street analysts see substantial upside in artificial intelligence stocks Nvidia and Broadcom.",
+        "article_url": "https://www.fool.com/investing/2024/07/01/2-stock-split-ai-stock-buy-before-soar-230-wall-st/",
+        "publisher": "The Motley Fool",
+        "author": "newsfeedback@fool.com (Trevor Jennewine)",
+        "tickers": [
+          "NVDA",
+          "AVGO",
+          "GS",
+          "MS",
+          "MRVL"
+        ],
+        "keywords": [
+          "investing"
+        ]
+      },
+      {
+        "published_utc": "2024-07-01T09:06:00Z",
+        "title": "1 Stock-Split Stock You Can Confidently Buy for the Second Half of 2024, and 2 to Avoid",
+        "description": "Nine prominent businesses have announced stock splits in 2024. One of these companies is cheaper than it's ever been, while history suggests two others are poised to disappoint their shareholders.",
+        "article_url": "https://www.fool.com/investing/2024/07/01/1-stock-split-stock-buy-second-half-2024-2-avoid/",
+        "publisher": "The Motley Fool",
+        "author": "newsfeedback@fool.com (Sean Williams)",
+        "tickers": [
+          "NVDA",
+          "CMG",
+          "SIRI"
+        ],
+        "keywords": [
+          "investing"
+        ]
+      }
+    ],
+    "ticker_news_count": 7,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-07-01T07:13:05Z",
+          "title": "Economy Hasn't Gained, Interest Rates Haven't Changed, QQQ +40% Since October",
+          "description": "The Big Tech market rally seems to be based on hopes for future AI efficiency gains, not dramatic business growth or lower interest rates. Click here for a detailed analysis.",
+          "article_url": "https://seekingalpha.com/article/4701783-economy-hasnt-gained-interest-rates-havent-changed-qqq-plus-40-percent-since-october",
+          "publisher": "Seeking Alpha",
+          "author": "Paul Franke",
+          "tickers": [
+            "DIA",
+            "IWM",
+            "QQQM",
+            "SPY",
+            "VOO",
+            "VTI",
+            "QQQ",
+            "ACTV",
+            "AFMC",
+            "AFSM",
+            "ARKK",
+            "AVUV",
+            "BAPR",
+            "IVOO",
+            "IVOV",
+            "IVV",
+            "IVW",
+            "IWC",
+            "IWN",
+            "IWO",
+            "IWP",
+            "IWR",
+            "IWS",
+            "IYY",
+            "SPLV",
+            "SPMD",
+            "SPMO",
+            "SPMV",
+            "SPSM",
+            "SPUS",
+            "SPUU",
+            "SPVM",
+            "SPVU",
+            "SPXE",
+            "SPXL",
+            "SPXN",
+            "SPXS",
+            "SPXT",
+            "SPXU",
+            "SPXV",
+            "SPYD",
+            "SPYG",
+            "SPYV",
+            "SPYX",
+            "SQEW",
+            "SQLV",
+            "SSLY",
+            "SSO",
+            "SSPY",
+            "SVAL",
+            "SYLD",
+            "TMDV",
+            "TPHD",
+            "TPLC",
+            "TPSC",
+            "UAUG",
+            "UJAN",
+            "UMAR",
+            "UMAY",
+            "UOCT",
+            "UPRO",
+            "USMC",
+            "USMF",
+            "USVM"
+          ],
+          "keywords": []
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2024-07-01T07:13:05Z",
+          "title": "Economy Hasn't Gained, Interest Rates Haven't Changed, QQQ +40% Since October",
+          "description": "The Big Tech market rally seems to be based on hopes for future AI efficiency gains, not dramatic business growth or lower interest rates. Click here for a detailed analysis.",
+          "article_url": "https://seekingalpha.com/article/4701783-economy-hasnt-gained-interest-rates-havent-changed-qqq-plus-40-percent-since-october",
+          "publisher": "Seeking Alpha",
+          "author": "Paul Franke",
+          "tickers": [
+            "DIA",
+            "IWM",
+            "QQQM",
+            "SPY",
+            "VOO",
+            "VTI",
+            "QQQ",
+            "ACTV",
+            "AFMC",
+            "AFSM",
+            "ARKK",
+            "AVUV",
+            "BAPR",
+            "IVOO",
+            "IVOV",
+            "IVV",
+            "IVW",
+            "IWC",
+            "IWN",
+            "IWO",
+            "IWP",
+            "IWR",
+            "IWS",
+            "IYY",
+            "SPLV",
+            "SPMD",
+            "SPMO",
+            "SPMV",
+            "SPSM",
+            "SPUS",
+            "SPUU",
+            "SPVM",
+            "SPVU",
+            "SPXE",
+            "SPXL",
+            "SPXN",
+            "SPXS",
+            "SPXT",
+            "SPXU",
+            "SPXV",
+            "SPYD",
+            "SPYG",
+            "SPYV",
+            "SPYX",
+            "SQEW",
+            "SQLV",
+            "SSLY",
+            "SSO",
+            "SSPY",
+            "SVAL",
+            "SYLD",
+            "TMDV",
+            "TPHD",
+            "TPLC",
+            "TPSC",
+            "UAUG",
+            "UJAN",
+            "UMAR",
+            "UMAY",
+            "UOCT",
+            "UPRO",
+            "USMC",
+            "USMF",
+            "USVM"
+          ],
+          "keywords": []
+        },
+        {
+          "published_utc": "2024-07-01T08:09:00Z",
+          "title": "Got $1,000? Here's 1 Unique ETF to Cash In on the Nasdaq.",
+          "description": "This ETF enables you to generate income while cashing in on the Nasdaq 100's upside.",
+          "article_url": "https://www.fool.com/investing/2024/07/01/got-1000-heres-1-unique-etf-to-cash-in-on-the-nasd/",
+          "publisher": "The Motley Fool",
+          "author": "newsfeedback@fool.com (Matt DiLallo)",
+          "tickers": [
+            "JEPQ",
+            "INTC",
+            "NVDA",
+            "AMAT",
+            "QQQ",
+            "ADI"
+          ],
+          "keywords": [
+            "investing"
+          ]
+        }
+      ]
+    }
+  }
+}

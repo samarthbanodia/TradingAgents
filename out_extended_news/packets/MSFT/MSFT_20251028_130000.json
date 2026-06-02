@@ -1,0 +1,156 @@
+{
+  "event": {
+    "event_id": "MSFT_20251028_130000",
+    "ticker": "MSFT",
+    "t0_utc": "2025-10-28 13:00:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-10-28T10:00:00+00:00",
+      "end": "2025-10-28T14:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-10-28T10:00:00Z",
+        "title": "Mobile Augmented Reality Market Size to Surpass USD 327.7 Billion by 2032, Rising at a CAGR of 30.84% | Report by SNS Insider",
+        "description": "The Mobile Augmented Reality market is projected to grow from USD 29.2 Billion in 2024 to USD 327.7 Billion by 2032, with a CAGR of 30.84%. Growth is driven by increasing AR adoption in smartphones, gaming, retail, and enterprise applications.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/28/3175180/0/en/Mobile-Augmented-Reality-Market-Size-to-Surpass-USD-327-7-Billion-by-2032-Rising-at-a-CAGR-of-30-84-Report-by-SNS-Insider.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Sns Insider",
+        "tickers": [
+          "AAPL",
+          "GOOG",
+          "GOOGL",
+          "META",
+          "MSFT"
+        ],
+        "keywords": [
+          "augmented reality",
+          "mobile AR",
+          "market growth",
+          "smartphones",
+          "AR technology"
+        ]
+      },
+      {
+        "published_utc": "2025-10-28T10:03:00Z",
+        "title": "Amazon Prepares to Cut Up to 30,000 Jobs This Week. Here's What the Company's Largest Layoff in History Could Mean for the Future.",
+        "description": "Amazon plans to eliminate up to 30,000 corporate jobs, representing nearly 10% of its corporate workforce, driven by cost-cutting measures and AI integration strategies under CEO Andy Jassy's leadership.",
+        "article_url": "https://www.fool.com/investing/2025/10/28/amazon-prepares-to-cut-up-to-30000-jobs-this-week/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Joe Tenebruso",
+        "tickers": [
+          "AMZN",
+          "MSFT",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "layoffs",
+          "AI",
+          "cost-cutting",
+          "workforce reduction",
+          "cloud computing"
+        ]
+      },
+      {
+        "published_utc": "2025-10-28T10:30:00Z",
+        "title": "Sapiens Launches Decision Analytics, Bringing Real-Time Visibility and Optimization to AI Decisioning",
+        "description": "Sapiens International launched Decision Analytics, a new module within its Decision Platform that provides real-time visibility and optimization for AI-driven decision-making processes, enabling enterprises to monitor, evaluate, and improve automated decisions with enhanced transparency.",
+        "article_url": "https://www.benzinga.com/pressreleases/25/10/n48456085/sapiens-launches-decision-analytics-bringing-real-time-visibility-and-optimization-to-ai-decisioni?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Prnewswire",
+        "tickers": [
+          "SPNS",
+          "MSFT"
+        ],
+        "keywords": [
+          "AI",
+          "Decision Analytics",
+          "SaaS",
+          "Enterprise Software",
+          "Machine Learning"
+        ]
+      },
+      {
+        "published_utc": "2025-10-28T11:30:00Z",
+        "title": "The Smartest ETF to Buy With $1,000 Right Now",
+        "description": "The Invesco Nasdaq 100 ETF (QQQM) is recommended as an attractive investment option for new and small-stake investors, offering low-cost exposure to tech and AI growth stocks, with a strong historical performance and significant representation of Magnificent Seven tech companies.",
+        "article_url": "https://www.fool.com/investing/2025/10/28/the-smartest-etf-to-buy-with-1000-right-now/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Todd Shriber",
+        "tickers": [
+          "QQQM",
+          "GOOG",
+          "GOOGL",
+          "MSFT",
+          "META"
+        ],
+        "keywords": [
+          "ETF",
+          "tech stocks",
+          "AI",
+          "investment",
+          "Nasdaq",
+          "growth stocks"
+        ]
+      },
+      {
+        "published_utc": "2025-10-28T12:02:06Z",
+        "title": "Investment Manager Expands QQQ Position, According to Latest SEC Filing",
+        "description": "McElhenny Sheffield Capital Management purchased 7,685 shares of Invesco QQQ Trust, valued at $4.40 million, increasing its position to 96,167 shares worth $57.74 million, representing 13.68% of its assets under management.",
+        "article_url": "https://www.fool.com/coverage/filings/2025/10/28/investment-manager-expands-qqq-position-according-to-latest-sec-filing/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jake Lerch",
+        "tickers": [
+          "QQQ",
+          "NVDA",
+          "MSFT",
+          "AAPL",
+          "AVGO"
+        ],
+        "keywords": [
+          "QQQ",
+          "ETF",
+          "tech stocks",
+          "investment",
+          "NASDAQ-100"
+        ]
+      }
+    ],
+    "ticker_news_count": 5,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": [
+        {
+          "published_utc": "2025-10-28T12:02:06Z",
+          "title": "Investment Manager Expands QQQ Position, According to Latest SEC Filing",
+          "description": "McElhenny Sheffield Capital Management purchased 7,685 shares of Invesco QQQ Trust, valued at $4.40 million, increasing its position to 96,167 shares worth $57.74 million, representing 13.68% of its assets under management.",
+          "article_url": "https://www.fool.com/coverage/filings/2025/10/28/investment-manager-expands-qqq-position-according-to-latest-sec-filing/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Jake Lerch",
+          "tickers": [
+            "QQQ",
+            "NVDA",
+            "MSFT",
+            "AAPL",
+            "AVGO"
+          ],
+          "keywords": [
+            "QQQ",
+            "ETF",
+            "tech stocks",
+            "investment",
+            "NASDAQ-100"
+          ]
+        }
+      ]
+    }
+  }
+}

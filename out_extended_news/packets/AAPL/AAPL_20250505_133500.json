@@ -1,0 +1,87 @@
+{
+  "event": {
+    "event_id": "AAPL_20250505_133500",
+    "ticker": "AAPL",
+    "t0_utc": "2025-05-05 13:35:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-05-05T10:35:00+00:00",
+      "end": "2025-05-05T14:35:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-05-05T12:30:00Z",
+        "title": "Will $10,000 Invested in Nvidia Stock Turn Into $1 Million a Decade From Now?",
+        "description": "The article discusses whether a $10,000 investment in Nvidia could turn into $1 million in a decade. While Nvidia has been a strong performer, the article concludes that a 100-fold return is unlikely, but the company still has significant growth potential in the AI market and could provide market-beating returns.",
+        "article_url": "https://www.fool.com/investing/2025/05/05/will-10000-invested-in-nvidia-stock-turn-into-1-mi/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Keithen Drury",
+        "tickers": [
+          "NVDA",
+          "GOOG",
+          "GOOGL",
+          "MSFT",
+          "AAPL"
+        ],
+        "keywords": [
+          "Nvidia",
+          "AI",
+          "investment",
+          "growth"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-05-05T12:37:02Z",
+          "title": "Market's Bet On Aggressive Fed Cuts Clash With Short Rate Market Data: Next Fed Chair Could Initiate 'Cutting Cycle,' Says Expert",
+          "description": "The article discusses the divergence between market expectations of aggressive Fed rate cuts and the likely stance of the current Federal Reserve leadership. It suggests that the underlying economic data may not support such rapid easing, and a change in Fed Chair could be necessary to initiate a 'cutting cycle'.",
+          "article_url": "https://www.benzinga.com/25/05/45192387/market-bets-on-aggressive-fed-cuts-clash-with-short-rate-market-data-next-fed-chair-could-initiate-cutting-cycle-",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "interest rates",
+            "rate cuts",
+            "economic data",
+            "Fed Chair"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-05-05T12:37:02Z",
+          "title": "Market's Bet On Aggressive Fed Cuts Clash With Short Rate Market Data: Next Fed Chair Could Initiate 'Cutting Cycle,' Says Expert",
+          "description": "The article discusses the divergence between market expectations of aggressive Fed rate cuts and the likely stance of the current Federal Reserve leadership. It suggests that the underlying economic data may not support such rapid easing, and a change in Fed Chair could be necessary to initiate a 'cutting cycle'.",
+          "article_url": "https://www.benzinga.com/25/05/45192387/market-bets-on-aggressive-fed-cuts-clash-with-short-rate-market-data-next-fed-chair-could-initiate-cutting-cycle-",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "interest rates",
+            "rate cuts",
+            "economic data",
+            "Fed Chair"
+          ]
+        }
+      ]
+    }
+  }
+}

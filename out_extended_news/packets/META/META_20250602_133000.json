@@ -1,0 +1,54 @@
+{
+  "event": {
+    "event_id": "META_20250602_133000",
+    "ticker": "META",
+    "t0_utc": "2025-06-02 13:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-06-02T10:30:00+00:00",
+      "end": "2025-06-02T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-06-02T12:21:59Z",
+        "title": "Meta, JPMorgan, Gap And A Health Care Stock On CNBC's 'Final Trades'",
+        "description": "CNBC's 'Final Trades' featured recommendations on Meta Platforms, JPMorgan Chase, Gap, and AbbVie. Analysts discussed the companies' strong financial performance and growth potential.",
+        "article_url": "https://www.benzinga.com/markets/large-cap/25/06/45719365/meta-jpmorgan-gap-and-a-health-care-stock-on-cnbcs-final-trades",
+        "publisher": "Benzinga",
+        "author": "Avi Kapoor",
+        "tickers": [
+          "META",
+          "AMJB",
+          "JPM",
+          "JPMpC",
+          "JPMpD",
+          "JPMpJ",
+          "JPMpK",
+          "JPMpL",
+          "JPMpM",
+          "VYLD",
+          "GAP",
+          "ABBV"
+        ],
+        "keywords": [
+          "Meta Platforms",
+          "JPMorgan Chase",
+          "Gap",
+          "AbbVie"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

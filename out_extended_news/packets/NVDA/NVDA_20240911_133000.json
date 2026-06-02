@@ -1,0 +1,152 @@
+{
+  "event": {
+    "event_id": "NVDA_20240911_133000",
+    "ticker": "NVDA",
+    "t0_utc": "2024-09-11 13:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2024-09-11T10:30:00+00:00",
+      "end": "2024-09-11T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-09-11T10:50:00Z",
+        "title": "2 Reasons to Sell Nvidia Stock (and 1 Reason to Buy)",
+        "description": "Nvidia's high profitability and dominant market position in AI processors may be attracting antitrust scrutiny, while the broader AI industry faces challenges with start-ups struggling and major customers like Meta not expecting near-term profits. However, Nvidia's hardware could find new use cases beyond generative AI, such as in self-driving cars, robotics, and the metaverse.",
+        "article_url": "https://www.fool.com/investing/2024/09/11/2-reasons-to-sell-nvidia-stock-and-1-reason-to-buy/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "NVDA",
+          "META",
+          "GOOG",
+          "GOOGL",
+          "MSFT"
+        ],
+        "keywords": [
+          "Nvidia",
+          "AI",
+          "antitrust",
+          "profitability",
+          "start-ups",
+          "Meta"
+        ]
+      },
+      {
+        "published_utc": "2024-09-11T11:30:00Z",
+        "title": "Is This Artificial Intelligence (AI) Stock a Bargain After Recent Volatility?",
+        "description": "Super Micro Computer (SMCI) has experienced significant volatility, with its stock price rising and then falling sharply. The company's investment thesis was based on the growing demand for Nvidia's data center GPUs, but it now faces challenges such as accounting issues, shrinking gross margins, and increased competition.",
+        "article_url": "https://www.fool.com/investing/2024/09/11/is-this-artificial-intelligence-ai-stock-a-bargain/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Keithen Drury",
+        "tickers": [
+          "SMCI",
+          "NVDA"
+        ],
+        "keywords": [
+          "Super Micro Computer",
+          "Nvidia",
+          "data center",
+          "accounting issues",
+          "gross margins",
+          "competition"
+        ]
+      },
+      {
+        "published_utc": "2024-09-11T11:30:00Z",
+        "title": "Prediction: Nvidia Stock May Tumble in the Remainder of 2024",
+        "description": "Nvidia's stock has seen a meteoric rise, but the company's valuation has become detached from its fundamentals. Investors should avoid the stock for the remainder of 2024 due to its likely overvaluation and a momentum shift, despite the company's technical lead and long-term potential.",
+        "article_url": "https://www.fool.com/investing/2024/09/11/prediction-nvidia-stock-tumble-remainder-2024/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Will Healy",
+        "tickers": [
+          "NVDA",
+          "INTC",
+          "AMD",
+          "QCOM"
+        ],
+        "keywords": [
+          "Nvidia",
+          "semiconductor",
+          "AI chips",
+          "stock valuation"
+        ]
+      },
+      {
+        "published_utc": "2024-09-11T12:55:00Z",
+        "title": "SCTE\u00ae TechExpo 2024 Set to Gather Innovators, Experts and Business Leaders",
+        "description": "The SCTE TechExpo 2024, the largest broadband event in the Americas, will take place in Atlanta from September 24-26, 2024. The event will feature keynote sessions, specialized conference tracks, and an exhibition showcasing the latest advancements in broadband technology. Industry leaders from Cox Communications and Liberty Latin America will co-chair the event.",
+        "article_url": "https://www.globenewswire.com/news-release/2024/09/11/2944491/0/en/SCTE-TechExpo-2024-Set-to-Gather-Innovators-Experts-and-Business-Leaders.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Scte",
+        "tickers": [
+          "LILA",
+          "LILAK",
+          "CMCSA",
+          "AIZ",
+          "AIZN",
+          "NVDA",
+          "AMZN",
+          "LBTYA"
+        ],
+        "keywords": [
+          "SCTE TechExpo",
+          "broadband technology",
+          "industry leaders",
+          "innovations"
+        ]
+      },
+      {
+        "published_utc": "2024-09-11T13:53:00Z",
+        "title": "Forget Nvidia, This AI Growth Stock Might Be a Better Buy",
+        "description": "The article discusses SoundHound AI, a leader in conversational intelligence, and its potential as a long-term investment. It highlights the company's partnerships with Nvidia and its adoption in the automotive and restaurant industries.",
+        "article_url": "https://www.fool.com/investing/2024/09/11/forget-nvidia-this-ai-growth-stock-might-be-better/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Will Ebiefung",
+        "tickers": [
+          "SOUN",
+          "SOUNW",
+          "NVDA"
+        ],
+        "keywords": [
+          "SoundHound AI",
+          "Nvidia",
+          "AI",
+          "conversational intelligence",
+          "automotive industry",
+          "restaurant industry"
+        ]
+      }
+    ],
+    "ticker_news_count": 5,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-09-11T10:30:00Z",
+          "title": "1 No-Brainer Wealth-Building ETF to Buy Right Now for Less Than $1,000",
+          "description": "The article discusses the S&P 500 as a reliable wealth-building mechanism, highlighting its consistent long-term returns and the ease of investing in it through ETFs like the SPDR S&P 500 ETF Trust. It emphasizes the importance of long-term investing and the potential for significant growth over time.",
+          "article_url": "https://www.fool.com/investing/2024/09/11/1-no-brainer-wealth-building-etf-to-buy-right-now/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Justin Pope",
+          "tickers": [
+            "SPY"
+          ],
+          "keywords": [
+            "S&P 500",
+            "investing",
+            "ETFs",
+            "long-term wealth"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

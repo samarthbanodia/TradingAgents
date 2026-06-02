@@ -1,0 +1,227 @@
+{
+  "event": {
+    "event_id": "GOOGL_20260205_135500",
+    "ticker": "GOOGL",
+    "t0_utc": "2026-02-05 13:55:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2026-02-05T10:55:00+00:00",
+      "end": "2026-02-05T14:55:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-02-05T13:00:00Z",
+        "title": "Teads Partners with Google TV\u2122 to Expand CTV HomeScreen Availability Globally",
+        "description": "Teads has partnered with Google TV to significantly expand its connected TV HomeScreen ad inventory, providing brands with premium placements on Google TV devices across major global markets. The partnership leverages Teads' creative capabilities and 3D formats to deliver high-impact campaigns, with over 4,000 campaigns successfully activated since 2023 reaching 500+ million unique devices.",
+        "article_url": "https://www.globenewswire.com/news-release/2026/02/05/3232910/0/en/Teads-Partners-with-Google-TV-to-Expand-CTV-HomeScreen-Availability-Globally.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Not Specified",
+        "tickers": [
+          "TEAD",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "connected TV advertising",
+          "Google TV HomeScreen",
+          "CTV inventory expansion",
+          "premium ad placements",
+          "3D creative formats",
+          "omnichannel advertising",
+          "streaming advertising"
+        ]
+      },
+      {
+        "published_utc": "2026-02-05T13:17:00Z",
+        "title": "Nasdaq 100: Downside Risk Builds as Tech Struggles to Reclaim Lost Ground",
+        "description": "The Nasdaq 100 faces downside pressure as technology stocks struggle to recover recent losses. While Alphabet, Arm, and Qualcomm beat earnings expectations, their shares fell ahead of the open. Alphabet's decision to double AI spending provided some support for chip stocks. The sector rotation away from tech into economically sensitive areas continues, though analysts suggest the trend is consolidation rather than a decisive bearish reversal. Key support levels between 24,700-25,000 are critical to watch.",
+        "article_url": "https://www.investing.com/analysis/nasdaq-100-downside-risk-builds-as-tech-struggles-to-reclaim-lost-ground-200674518",
+        "publisher": "Investing.com",
+        "author": "Fawad Razaqzada",
+        "tickers": [
+          "GOOG",
+          "GOOGL",
+          "ARM",
+          "QCOM",
+          "AVGO",
+          "QQQM"
+        ],
+        "keywords": [
+          "Nasdaq 100",
+          "tech sector weakness",
+          "AI spending",
+          "sector rotation",
+          "earnings misses despite beats",
+          "support levels",
+          "consolidation pattern",
+          "cryptocurrency weakness"
+        ]
+      },
+      {
+        "published_utc": "2026-02-05T13:21:38Z",
+        "title": "Why Alphabet Investors Own A Secret $100B SpaceX Stake",
+        "description": "Alphabet's 2015 investment of $900 million in SpaceX at a $12 billion valuation has grown to approximately $87-$100 billion following Elon Musk's proposed merger between SpaceX and xAI, valuing the combined entity at $1.25 trillion. Alphabet's estimated 7% stake represents one of its most successful investments, with potential upside if SpaceX goes public in mid-2026.",
+        "article_url": "https://www.benzinga.com/markets/tech/26/02/50408897/why-alphabet-investors-own-a-secret-100b-spacex-stake?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Surbhi Jain",
+        "tickers": [
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "SpaceX valuation",
+          "venture investment",
+          "merger",
+          "xAI",
+          "IPO",
+          "private equity",
+          "space industry"
+        ]
+      },
+      {
+        "published_utc": "2026-02-05T13:42:00Z",
+        "title": "Stock Market Today: Dow, S&P 500, Nasdaq Futures Fall After Tech Selloff\u2014Alphabet, Broadcom, Amazon In Focus (UPDATED)",
+        "description": "U.S. stock futures were mixed on Thursday as markets rotated away from tech stocks following Wednesday's selloff. The Dow Jones fell while the Nasdaq gained. Amazon reports earnings after the bell, and investors await jobless claims data. Key movers include Alphabet (down despite strong earnings), Broadcom (up on Google's capex guidance), and Workday (down on workforce cuts). Treasury yields held steady at 4.27% for 10-year bonds, with markets pricing a 90% chance of unchanged Fed rates in March.",
+        "article_url": "https://www.benzinga.com/markets/equities/26/02/50403159/stock-market-today-dow-jones-futures-fall-nasdaq-gains-day-after-tech-selloff-alphabet-broadcom-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Rishabh Mishra",
+        "tickers": [
+          "GOOG",
+          "GOOGL",
+          "AVGO",
+          "AMZN",
+          "WDAY",
+          "SHEL",
+          "SPY",
+          "QQQ"
+        ],
+        "keywords": [
+          "stock market",
+          "tech selloff",
+          "earnings",
+          "Federal Reserve",
+          "AI infrastructure",
+          "capital expenditures",
+          "jobless claims",
+          "rotation trade"
+        ]
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-02-05T12:53:34Z",
+          "title": "Fed's Lisa Cook Says Inflation Is Still Too Hot \u2014 And A 'K-Shaped' Economy Is Leaving Low-Income Americans Behind",
+          "description": "Federal Reserve Governor Lisa Cook signaled a cautious 'wait and see' approach to monetary policy, noting that inflation remains stubbornly above the Fed's 2% target at 2.9% and progress stalled in 2025. She warned of a 'K-shaped' economy where higher-income households maintain robust spending while low- and moderate-income families face rising delinquencies and stagnant spending, with elevated unemployment among Black and youth populations.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/26/02/50407691/feds-lisa-cook-says-inflation-is-still-too-hot-and-a-k-shaped-economy-is-leaving-low-income?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "inflation",
+            "monetary policy",
+            "K-shaped economy",
+            "interest rates",
+            "PCE inflation",
+            "low-income households",
+            "labor market",
+            "tariffs"
+          ]
+        },
+        {
+          "published_utc": "2026-02-05T13:42:00Z",
+          "title": "Stock Market Today: Dow, S&P 500, Nasdaq Futures Fall After Tech Selloff\u2014Alphabet, Broadcom, Amazon In Focus (UPDATED)",
+          "description": "U.S. stock futures were mixed on Thursday as markets rotated away from tech stocks following Wednesday's selloff. The Dow Jones fell while the Nasdaq gained. Amazon reports earnings after the bell, and investors await jobless claims data. Key movers include Alphabet (down despite strong earnings), Broadcom (up on Google's capex guidance), and Workday (down on workforce cuts). Treasury yields held steady at 4.27% for 10-year bonds, with markets pricing a 90% chance of unchanged Fed rates in March.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50403159/stock-market-today-dow-jones-futures-fall-nasdaq-gains-day-after-tech-selloff-alphabet-broadcom-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "GOOG",
+            "GOOGL",
+            "AVGO",
+            "AMZN",
+            "WDAY",
+            "SHEL",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "tech selloff",
+            "earnings",
+            "Federal Reserve",
+            "AI infrastructure",
+            "capital expenditures",
+            "jobless claims",
+            "rotation trade"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-02-05T12:53:34Z",
+          "title": "Fed's Lisa Cook Says Inflation Is Still Too Hot \u2014 And A 'K-Shaped' Economy Is Leaving Low-Income Americans Behind",
+          "description": "Federal Reserve Governor Lisa Cook signaled a cautious 'wait and see' approach to monetary policy, noting that inflation remains stubbornly above the Fed's 2% target at 2.9% and progress stalled in 2025. She warned of a 'K-shaped' economy where higher-income households maintain robust spending while low- and moderate-income families face rising delinquencies and stagnant spending, with elevated unemployment among Black and youth populations.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/26/02/50407691/feds-lisa-cook-says-inflation-is-still-too-hot-and-a-k-shaped-economy-is-leaving-low-income?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "inflation",
+            "monetary policy",
+            "K-shaped economy",
+            "interest rates",
+            "PCE inflation",
+            "low-income households",
+            "labor market",
+            "tariffs"
+          ]
+        },
+        {
+          "published_utc": "2026-02-05T13:42:00Z",
+          "title": "Stock Market Today: Dow, S&P 500, Nasdaq Futures Fall After Tech Selloff\u2014Alphabet, Broadcom, Amazon In Focus (UPDATED)",
+          "description": "U.S. stock futures were mixed on Thursday as markets rotated away from tech stocks following Wednesday's selloff. The Dow Jones fell while the Nasdaq gained. Amazon reports earnings after the bell, and investors await jobless claims data. Key movers include Alphabet (down despite strong earnings), Broadcom (up on Google's capex guidance), and Workday (down on workforce cuts). Treasury yields held steady at 4.27% for 10-year bonds, with markets pricing a 90% chance of unchanged Fed rates in March.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50403159/stock-market-today-dow-jones-futures-fall-nasdaq-gains-day-after-tech-selloff-alphabet-broadcom-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "GOOG",
+            "GOOGL",
+            "AVGO",
+            "AMZN",
+            "WDAY",
+            "SHEL",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "tech selloff",
+            "earnings",
+            "Federal Reserve",
+            "AI infrastructure",
+            "capital expenditures",
+            "jobless claims",
+            "rotation trade"
+          ]
+        }
+      ]
+    }
+  }
+}

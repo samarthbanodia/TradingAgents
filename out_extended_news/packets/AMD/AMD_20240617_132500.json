@@ -1,0 +1,66 @@
+{
+  "event": {
+    "event_id": "AMD_20240617_132500",
+    "ticker": "AMD",
+    "t0_utc": "2024-06-17 13:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-06-17T10:25:00+00:00",
+      "end": "2024-06-17T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-06-17T13:56:21Z",
+        "title": "Is AMD Stock a Better Buy Over Intel Stock After Recent Announcements",
+        "description": "Advanced Micro Devices and Intel announced new server CPUs for the data center market.",
+        "article_url": "https://www.fool.com/investing/2024/06/17/is-amd-stock-a-better-buy-over-intel-stock-after-r/",
+        "publisher": "The Motley Fool",
+        "author": "newsfeedback@fool.com (Jose Najarro)",
+        "tickers": [
+          "AMD",
+          "INTC"
+        ],
+        "keywords": [
+          "investing"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-06-17T13:22:06Z",
+          "title": "As Small Caps Lag 20% Behind S&P 500, Reddit User Says Market Cap Definitions 'Should Really Be Readjusted For Inflation'",
+          "description": "In a recent discussion on Reddit, users are debating the necessity of adjusting market cap definitions to account for inflation. \n\n\nSmall Cap Value has never been more brutal byu/AbuSaho instocks\n\n\nThis topic has garnered attention as small-cap value stocks lag significantly behind the S&P 500, underperforming by over 20%, as highlighted by Redditor AbuSaho.\nAlso Read: S&P 500 Index Year-End Target Raised To 5,600 By Goldman Sachs On Strong Tech Earnings And Valuation Expansion\n\nChart: Benzinga Pro\nThe SPDR S&P 600 Small Cap Value ETF (NYSE:SLYV), representing small cap value stocks in the U.S., is down 8.31% YTD, while the broad U.S. equity market-tracking SPDR S&P 500 ETF (NYSE:SPY) has gained 14.19% over the same period.\nThe Call For Change: Adjusting Market Cap Definitions\nOne Redditor argues that market cap definitions are outdated and should be revised to reflect ...Full story available on Benzinga.com",
+          "article_url": "https://www.benzinga.com/news/24/06/39357591/as-small-caps-lag-20-behind-s-p-500-reddit-user-says-market-cap-definitions-should-really-be-readjus",
+          "publisher": "Benzinga",
+          "author": "Surbhi Jain",
+          "tickers": [
+            "SPY",
+            "SLYV"
+          ],
+          "keywords": [
+            "News",
+            "Social Media",
+            "Broad U.S. Equity ETFs",
+            "Specialty ETFs",
+            "Small Cap Analysis",
+            "Small Cap",
+            "Top Stories",
+            "Trading Ideas",
+            "ETFs",
+            "General"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

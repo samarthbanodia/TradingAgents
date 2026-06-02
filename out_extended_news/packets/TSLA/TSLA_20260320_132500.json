@@ -1,0 +1,198 @@
+{
+  "event": {
+    "event_id": "TSLA_20260320_132500",
+    "ticker": "TSLA",
+    "t0_utc": "2026-03-20 13:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-03-20T10:25:00+00:00",
+      "end": "2026-03-20T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-03-20T10:42:13Z",
+        "title": "Tesla In Talks To Purchase $2.9 Billion Worth Of Solar Equipment From Chinese Suppliers: Report",
+        "description": "Tesla is in negotiations with Chinese suppliers including Suzhou Maxwell Technologies, Shenzhen S.C New Energy Technology, and Laplace Renewable Energy Technology to purchase $2.9 billion worth of solar manufacturing equipment. The equipment, including screen-printing production lines, requires Chinese regulatory export approval and is targeted for delivery by autumn, primarily to Texas. This move supports Tesla's ambitious goal to deploy 100 GW of solar manufacturing capacity on American soil by the end of 2028.",
+        "article_url": "https://www.benzinga.com/markets/tech/26/03/51374236/tesla-in-talks-to-purchase-2-9-billion-worth-of-solar-equipment-from-chinese-suppliers-report?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "TSLA"
+        ],
+        "keywords": [
+          "solar equipment",
+          "Chinese suppliers",
+          "manufacturing capacity",
+          "100GW solar goal",
+          "export approval",
+          "renewable energy",
+          "supply chain"
+        ]
+      },
+      {
+        "published_utc": "2026-03-20T11:11:00Z",
+        "title": "Should Tesla be Worried About General Motors?",
+        "description": "General Motors has become the second-largest EV seller in the U.S. with impressive growth, but Tesla investors shouldn't be concerned. Tesla's trillion-dollar valuation is driven by its broader business ambitions including energy storage, robotaxis (Cybercab), and humanoid robots (Optimus), rather than just EV sales. While GM could gain EV market share, Tesla's success depends on delivering on its larger strategic plans beyond traditional vehicle sales.",
+        "article_url": "https://www.fool.com/investing/2026/03/20/should-tesla-be-worried-about-general-motors/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Matt Frankel, Cfp",
+        "tickers": [
+          "TSLA",
+          "GM"
+        ],
+        "keywords": [
+          "electric vehicles",
+          "market share",
+          "EV competition",
+          "robotaxis",
+          "energy storage",
+          "humanoid robots",
+          "business diversification"
+        ]
+      },
+      {
+        "published_utc": "2026-03-20T13:15:00Z",
+        "title": "Skeptics Fear Autonomous Vehicles Will Destroy Uber. Here's Why They May Be Wrong.",
+        "description": "Rather than destroying Uber, autonomous vehicles could expand the ride-hailing market by making rides cheaper and more accessible. Early data from Austin and Atlanta shows AV deployments on Uber's platform have driven faster trip growth while increasing both driver numbers and earnings, suggesting market expansion rather than displacement. Uber's strength lies in its demand network and ability to aggregate supply, positioning it to benefit from autonomous vehicle adoption regardless of who builds the technology.",
+        "article_url": "https://www.fool.com/investing/2026/03/20/skeptics-fear-autonomous-vehicles-will-destroy-ube/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Lawrence Nga",
+        "tickers": [
+          "UBER",
+          "TSLA"
+        ],
+        "keywords": [
+          "autonomous vehicles",
+          "ride-hailing",
+          "robotaxis",
+          "market expansion",
+          "supply-led growth",
+          "mobility marketplace",
+          "demand network"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-03-20T10:32:26Z",
+          "title": "BlackRock's Rick Rieder Says Fed 'Patience' Is Right Call Despite $820 Billion Market Rout, Oil Spike",
+          "description": "BlackRock's CIO Rick Rieder argues the Federal Reserve's patient stance on interest rates is appropriate despite an $820 billion stock market decline and surging oil prices. He distinguishes between episodic supply shocks and underlying demand-driven inflation, noting that longer-term inflation expectations remain anchored. While near-term commodity pressures exist, Rieder suggests rate cuts remain possible this year as core economic fundamentals remain stable.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/26/03/51374173/blackrock-cio-says-fed-patience-on-rates-justified?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "BLK",
+            "DIVB",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "interest rates",
+            "inflation",
+            "oil prices",
+            "stock market decline",
+            "supply shocks",
+            "monetary policy",
+            "rate cuts"
+          ]
+        },
+        {
+          "published_utc": "2026-03-20T12:51:31Z",
+          "title": "Stock Market Today: Futures Drop Ahead Of 'Triple Witching' Session As Iran Threatens 'Zero Restraint'\u2014 FedEx, Super Micro In Focus (UPDATED)",
+          "description": "U.S. stock futures declined on Friday with major indices down slightly ahead of 'triple witching' expiration. FedEx surged 10.43% on better-than-expected earnings and raised guidance, while Super Micro Computer plunged 23.61% after its co-founder was charged in an alleged AI technology export scheme to China. Planet Labs soared 17.25% and Scholastic gained 10.54% on strong earnings. Geopolitical tensions with Iran and energy market disruptions added to market uncertainty.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/03/51373609/stock-market-today-sp-500-dow-futures-down-ahead-of-triple-witching-as-iran-warns-of-zero-restra?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "FDX",
+            "SMCI",
+            "PL",
+            "PL.WS",
+            "SCHL",
+            "SER",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "S&P 500",
+            "triple witching",
+            "futures",
+            "Iran",
+            "FedEx",
+            "Super Micro Computer",
+            "earnings",
+            "geopolitical risk",
+            "energy markets"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-03-20T10:32:26Z",
+          "title": "BlackRock's Rick Rieder Says Fed 'Patience' Is Right Call Despite $820 Billion Market Rout, Oil Spike",
+          "description": "BlackRock's CIO Rick Rieder argues the Federal Reserve's patient stance on interest rates is appropriate despite an $820 billion stock market decline and surging oil prices. He distinguishes between episodic supply shocks and underlying demand-driven inflation, noting that longer-term inflation expectations remain anchored. While near-term commodity pressures exist, Rieder suggests rate cuts remain possible this year as core economic fundamentals remain stable.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/26/03/51374173/blackrock-cio-says-fed-patience-on-rates-justified?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "BLK",
+            "DIVB",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "interest rates",
+            "inflation",
+            "oil prices",
+            "stock market decline",
+            "supply shocks",
+            "monetary policy",
+            "rate cuts"
+          ]
+        },
+        {
+          "published_utc": "2026-03-20T12:51:31Z",
+          "title": "Stock Market Today: Futures Drop Ahead Of 'Triple Witching' Session As Iran Threatens 'Zero Restraint'\u2014 FedEx, Super Micro In Focus (UPDATED)",
+          "description": "U.S. stock futures declined on Friday with major indices down slightly ahead of 'triple witching' expiration. FedEx surged 10.43% on better-than-expected earnings and raised guidance, while Super Micro Computer plunged 23.61% after its co-founder was charged in an alleged AI technology export scheme to China. Planet Labs soared 17.25% and Scholastic gained 10.54% on strong earnings. Geopolitical tensions with Iran and energy market disruptions added to market uncertainty.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/03/51373609/stock-market-today-sp-500-dow-futures-down-ahead-of-triple-witching-as-iran-warns-of-zero-restra?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "FDX",
+            "SMCI",
+            "PL",
+            "PL.WS",
+            "SCHL",
+            "SER",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "S&P 500",
+            "triple witching",
+            "futures",
+            "Iran",
+            "FedEx",
+            "Super Micro Computer",
+            "earnings",
+            "geopolitical risk",
+            "energy markets"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "event": {
+    "event_id": "META_20240705_133000",
+    "ticker": "META",
+    "t0_utc": "2024-07-05 13:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-07-05T10:30:00+00:00",
+      "end": "2024-07-05T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-07-05T13:57:56Z",
+        "title": "Wedbush sees 15% upside left for Nasdaq, tech stocks By Investing.com - Investing.com Australia",
+        "description": "Wedbush analysts are bullish on the tech sector, predicting a further 15% upside for the Nasdaq in 2024 driven by the AI revolution. They highlight Nvidia and Microsoft as early leaders, and expect Apple, Meta, and Google to join the party in the latter half of the year.",
+        "article_url": "https://au.investing.com/news/stock-market-news/wedbush-sees-15-upside-left-for-nasdaq-tech-stocks-3329577",
+        "publisher": "Investing.com",
+        "author": "Sam Bougheddaa",
+        "tickers": [
+          "NVDA",
+          "MSFT",
+          "AAPL",
+          "META",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "Nasdaq",
+          "tech stocks",
+          "AI revolution",
+          "Nvidia",
+          "Microsoft",
+          "Apple",
+          "Meta",
+          "Google"
+        ]
+      },
+      {
+        "published_utc": "2024-07-05T14:04:41Z",
+        "title": "Wedbush sees 15% upside left for Nasdaq, tech stocks By Investing.com - Investing.com Canada",
+        "description": "Wedbush analysts are bullish on the tech sector, predicting a further 15% upside for the Nasdaq in 2024. They believe the current momentum is just the beginning of an AI-driven tech bull market, with the 'AI party' just reaching 9 pm.",
+        "article_url": "https://ca.investing.com/news/stock-market-news/wedbush-sees-15-upside-left-for-nasdaq-tech-stocks-3486131",
+        "publisher": "Investing.com",
+        "author": "Sam Bougheddaa",
+        "tickers": [
+          "NVDA",
+          "MSFT",
+          "AMZN",
+          "META",
+          "AAPL",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "Nasdaq",
+          "tech stocks",
+          "AI",
+          "tech sector"
+        ]
+      },
+      {
+        "published_utc": "2024-07-05T14:23:52Z",
+        "title": "Market Clubhouse Morning Memo - July 5th, 2024 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META ... - Benzinga",
+        "description": "The article provides a detailed market analysis and trade strategy for several major stocks, including SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, and TSLA. It outlines key support and resistance levels, as well as potential price targets for bullish and bearish scenarios.",
+        "article_url": "https://www.benzinga.com/24/07/39647534/market-clubhouse-morning-memo-july-5th-2024-trade-strategy-for-spy-qqq-aapl-msft-nvda-googl-meta-and",
+        "publisher": "Benzinga",
+        "author": "Rips",
+        "tickers": [
+          "AAPL",
+          "MSFT",
+          "NVDA",
+          "GOOG",
+          "GOOGL",
+          "META",
+          "TSLA"
+        ],
+        "keywords": [
+          "SPY",
+          "QQQ",
+          "AAPL",
+          "MSFT",
+          "NVDA",
+          "GOOGL",
+          "META",
+          "TSLA",
+          "market analysis",
+          "trade strategy"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "event": {
+    "event_id": "AMD_20260130_140000",
+    "ticker": "AMD",
+    "t0_utc": "2026-01-30 14:00:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2026-01-30T11:00:00+00:00",
+      "end": "2026-01-30T15:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-01-30T11:05:00Z",
+        "title": "Intel Just Made a Big Bet on ASML's Next-Gen Technology. Here's Why It Matters in 2026.",
+        "description": "Intel is investing heavily in ASML's high-NA EUV lithography systems to reclaim its process technology lead from TSMC. The company plans to mass-produce its 14A chips in 2027-2028, ahead of TSMC's comparable A14 chips. However, this costly strategy requires Intel to stabilize its high-NA process in 2026 while expanding older nodes. Analysts expect Intel to remain unprofitable in 2026 but turn profitable in 2027 if the bet pays off.",
+        "article_url": "https://www.fool.com/investing/2026/01/30/intel-just-made-a-big-bet-on-asmls-next-gen-techno/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Leo Sun",
+        "tickers": [
+          "INTC",
+          "ASML",
+          "TSM",
+          "AMD"
+        ],
+        "keywords": [
+          "lithography systems",
+          "process technology",
+          "chip manufacturing",
+          "high-NA EUV",
+          "semiconductor competition",
+          "foundry business"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-01-30T13:41:27Z",
+          "title": "Stock Market Today: Dow Jones, Nasdaq, S&P 500 Futures Slip As Trump Names Kevin Warsh As New Fed Chair Pick\u2014 SanDisk, Robinhood In Focus (UPDATED)",
+          "description": "U.S. stock futures declined on Friday as investors awaited President Trump's announcement of his Federal Reserve Chair pick. Major indices fell, with the Nasdaq 100 down 1.13% and Russell 2000 down 1.51%. Notable movers included SanDisk surging 20.53% on strong earnings, Deckers jumping 12.85% on record results, while Apple and Rocket Lab declined despite positive developments. Analyst Scott Wren from Wells Fargo maintains an optimistic outlook for 2026, expecting 2.4% GDP growth and record corporate earnings.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/50257945/stock-market-today-nasdaq-sp-500-futures-decline-as-investors-await-trumps-new-fed-chair-pick-sa?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AAPL",
+            "SNDK",
+            "RKLB",
+            "DECK",
+            "HOOD",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "Fed Chair nomination",
+            "stock futures decline",
+            "earnings results",
+            "market sentiment",
+            "economic outlook 2026"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-01-30T13:41:27Z",
+          "title": "Stock Market Today: Dow Jones, Nasdaq, S&P 500 Futures Slip As Trump Names Kevin Warsh As New Fed Chair Pick\u2014 SanDisk, Robinhood In Focus (UPDATED)",
+          "description": "U.S. stock futures declined on Friday as investors awaited President Trump's announcement of his Federal Reserve Chair pick. Major indices fell, with the Nasdaq 100 down 1.13% and Russell 2000 down 1.51%. Notable movers included SanDisk surging 20.53% on strong earnings, Deckers jumping 12.85% on record results, while Apple and Rocket Lab declined despite positive developments. Analyst Scott Wren from Wells Fargo maintains an optimistic outlook for 2026, expecting 2.4% GDP growth and record corporate earnings.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/50257945/stock-market-today-nasdaq-sp-500-futures-decline-as-investors-await-trumps-new-fed-chair-pick-sa?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AAPL",
+            "SNDK",
+            "RKLB",
+            "DECK",
+            "HOOD",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "Fed Chair nomination",
+            "stock futures decline",
+            "earnings results",
+            "market sentiment",
+            "economic outlook 2026"
+          ]
+        }
+      ]
+    }
+  }
+}

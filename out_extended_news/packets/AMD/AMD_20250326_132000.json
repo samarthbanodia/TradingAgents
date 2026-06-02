@@ -1,0 +1,84 @@
+{
+  "event": {
+    "event_id": "AMD_20250326_132000",
+    "ticker": "AMD",
+    "t0_utc": "2025-03-26 13:20:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-03-26T10:20:00+00:00",
+      "end": "2025-03-26T14:20:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-03-26T14:17:41Z",
+        "title": "US Adds 50 Chinese Entities To Export Restriction List Curtailing Access To Nvidia, AMD Chips",
+        "description": "The U.S. government has added over 50 Chinese entities to an export restriction list, limiting their access to advanced U.S. semiconductor technology from companies like Nvidia and AMD. This move aims to curb China's military modernization and technological development.",
+        "article_url": "https://www.benzinga.com/news/global/25/03/44494896/us-adds-50-chinese-entities-to-export-restriction-list-curtailing-access-to-nvidia-amd-chips",
+        "publisher": "Benzinga",
+        "author": "Erica Kollmann",
+        "tickers": [
+          "NVDA",
+          "AMD"
+        ],
+        "keywords": [
+          "export restrictions",
+          "China",
+          "Nvidia",
+          "AMD",
+          "semiconductors",
+          "military modernization"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-03-26T12:26:13Z",
+          "title": "CFOs Increasingly Alarmed Over Tariffs As Business Confidence Wavers: 15% Say They Are 'Concerned' About Duties In Q1",
+          "description": "The first quarter of 2025 saw a notable decrease in economic optimism among chief financial officers, with tariffs and market uncertainty cited as primary concerns. Trade policy and tariff issues affected nearly a third of surveyed firms, a significant jump from the previous quarter.",
+          "article_url": "https://www.benzinga.com/government/regulations/25/03/44492183/cfos-increasingly-alarmed-over-tariffs-as-business-confidence-wavers-15-say-they-are-conce",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "CFOs",
+            "tariffs",
+            "business confidence",
+            "economic optimism"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-03-26T12:26:13Z",
+          "title": "CFOs Increasingly Alarmed Over Tariffs As Business Confidence Wavers: 15% Say They Are 'Concerned' About Duties In Q1",
+          "description": "The first quarter of 2025 saw a notable decrease in economic optimism among chief financial officers, with tariffs and market uncertainty cited as primary concerns. Trade policy and tariff issues affected nearly a third of surveyed firms, a significant jump from the previous quarter.",
+          "article_url": "https://www.benzinga.com/government/regulations/25/03/44492183/cfos-increasingly-alarmed-over-tariffs-as-business-confidence-wavers-15-say-they-are-conce",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "CFOs",
+            "tariffs",
+            "business confidence",
+            "economic optimism"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "event": {
+    "event_id": "META_20241101_132500",
+    "ticker": "META",
+    "t0_utc": "2024-11-01 13:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2024-11-01T10:25:00+00:00",
+      "end": "2024-11-01T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-11-01T10:33:00Z",
+        "title": "Corporate Buybacks: A Wolf In Sheep\u2019s Clothing?",
+        "description": "Corporate buybacks have become a controversial topic, with critics arguing they primarily benefit insiders rather than shareholders. The article explores the mechanics of buybacks, their impact on markets, and whether they truly return capital to shareholders or merely enrich executives.",
+        "article_url": "https://www.investing.com/analysis/corporate-buybacks-a-wolf-in-sheeps-clothing-200653672",
+        "publisher": "Investing.com",
+        "author": "Lance Roberts",
+        "tickers": [
+          "AAPL",
+          "META"
+        ],
+        "keywords": [
+          "corporate buybacks",
+          "stock market",
+          "shareholder value",
+          "executive compensation"
+        ]
+      },
+      {
+        "published_utc": "2024-11-01T11:10:00Z",
+        "title": "S&P 500: Downside Volatility Ahead? Odds of Medium-Term Corrective Move Rise",
+        "description": "The S&P 500 has reversed down by 3% from its all-time high, and market breadth indicators have deteriorated, suggesting a potential medium-term corrective decline ahead of the US presidential election.",
+        "article_url": "https://www.investing.com/analysis/sp-500-downside-volatility-ahead-odds-of-mediumterm-corrective-move-rise-200653676",
+        "publisher": "Investing.com",
+        "author": "Marketpulse",
+        "tickers": [
+          "MSFT",
+          "META",
+          "AAPL"
+        ],
+        "keywords": [
+          "S&P 500",
+          "market breadth",
+          "corrective move",
+          "US presidential election"
+        ]
+      },
+      {
+        "published_utc": "2024-11-01T11:42:04Z",
+        "title": "What Nvidia Stock Investors Should Know About Meta Platforms' Earnings",
+        "description": "The article discusses Nvidia's stock performance in relation to Meta Platforms' earnings. It also mentions that billionaires John Overdeck and David Siegel are investing in Nvidia, while reducing their holdings in a Warren Buffett favorite.",
+        "article_url": "https://www.fool.com/investing/2024/11/01/what-nvidia-stock-investors-should-know-about-meta/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jose Najarro",
+        "tickers": [
+          "NVDA",
+          "META"
+        ],
+        "keywords": [
+          "Nvidia",
+          "Meta Platforms",
+          "Artificial Intelligence",
+          "Warren Buffett"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-11-01T14:17:21Z",
+          "title": "Stocks Rebound After Selloff As October Hiring Slump Fuels Interest Rate Cut Bets: 10 ETFs To Watch Friday",
+          "description": "Stocks rebounded after Thursday's decline as a hiring freeze in October boosted market expectations for Federal Reserve rate cuts. The SPDR S&P 500 ETF Trust, Roundhill Magnificent Seven ETF, and other sector-specific ETFs saw gains.",
+          "article_url": "https://www.benzinga.com/markets/equities/24/11/41687354/stocks-rebound-after-selloff-as-october-hiring-slump-fuels-interest-rate-cut-bets-10-etfs-to-wat",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari, Benzinga Staff Writer",
+          "tickers": [
+            "SPY",
+            "MAGS",
+            "XLY",
+            "ITB",
+            "SOXX"
+          ],
+          "keywords": [
+            "stocks",
+            "federal reserve",
+            "interest rates",
+            "employment",
+            "etfs"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

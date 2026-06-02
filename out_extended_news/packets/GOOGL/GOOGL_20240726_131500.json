@@ -1,0 +1,86 @@
+{
+  "event": {
+    "event_id": "GOOGL_20240726_131500",
+    "ticker": "GOOGL",
+    "t0_utc": "2024-07-26 13:15:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2024-07-26T10:15:00+00:00",
+      "end": "2024-07-26T14:15:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-07-26T11:26:00Z",
+        "title": "Should Investors Buy Alphabet Stock on the Dip?",
+        "description": "Parkev Tatevosian, a Fool.com contributor, updates his buy recommendation for Alphabet (GOOG/GOOGL) stock.",
+        "article_url": "https://www.fool.com/investing/2024/07/26/should-investors-buy-alphabet-stock-on-the-dip/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Parkev Tatevosian",
+        "tickers": [
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "Alphabet",
+          "stock recommendation"
+        ]
+      },
+      {
+        "published_utc": "2024-07-26T11:45:00Z",
+        "title": "Prediction: This Is What Eli Lilly Stock Will Do Next",
+        "description": "Eli Lilly, a pharmaceutical company, has seen its stock price soar over 130% in the past year due to the success of its weight-loss medication Mounjaro. The author believes Lilly could be a good candidate for a stock split, as its stock price is nearing $900 per share. The article also discusses Lilly's potential in the Alzheimer's disease market and the overall growth prospects of the GLP-1 market.",
+        "article_url": "https://www.fool.com/investing/2024/07/26/prediction-this-is-what-eli-lilly-stock-will-do/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Adam Spatacco",
+        "tickers": [
+          "LLY",
+          "NVO",
+          "NVDA",
+          "TSLA",
+          "AMZN",
+          "GOOG",
+          "GOOGL",
+          "WMT",
+          "CMG"
+        ],
+        "keywords": [
+          "Eli Lilly",
+          "stock split",
+          "Mounjaro",
+          "GLP-1",
+          "Alzheimer's disease"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-07-26T10:55:00Z",
+          "title": "The Most Important Retirement Table You'll Ever See",
+          "description": "The article emphasizes the importance of retirement planning, highlighting the low median retirement savings among people in their 50s. It recommends investing in the S&P 500 index through index funds as a strategy, noting the long-term growth potential and resilience of the index.",
+          "article_url": "https://www.fool.com/retirement/2024/07/26/the-most-important-retirement-table-youll-ever-see/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Justin Pope",
+          "tickers": [
+            "VOO",
+            "SPY"
+          ],
+          "keywords": [
+            "retirement planning",
+            "S&P 500",
+            "index funds"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

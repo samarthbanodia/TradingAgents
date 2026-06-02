@@ -1,0 +1,97 @@
+{
+  "event": {
+    "event_id": "AMZN_20241129_142500",
+    "ticker": "AMZN",
+    "t0_utc": "2024-11-29 14:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "unclear",
+    "window": {
+      "start": "2024-11-29T11:25:00+00:00",
+      "end": "2024-11-29T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-11-29T13:30:00Z",
+        "title": "Does Billionaire Israel Englander Know Something Wall Street Doesn't? The Billionaire Investor Just Sold 8.1 Million Shares of Walmart Stock.",
+        "description": "Billionaire investor Israel Englander's hedge fund Millennium Management has sold 8.1 million shares of Walmart, despite the retailer's strong performance during the recent macroeconomic challenges. The article suggests that Englander may be locking in profits and rebalancing his portfolio towards more high-growth opportunities.",
+        "article_url": "https://www.fool.com/investing/2024/11/29/does-billionaire-israel-englander-know-something-w/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "WMT",
+          "AMZN",
+          "AAPL",
+          "MSFT",
+          "SPOT",
+          "LLY"
+        ],
+        "keywords": [
+          "Walmart",
+          "Millennium Management",
+          "Israel Englander",
+          "retail",
+          "macroeconomic challenges"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-11-29T11:46:40Z",
+          "title": "US Stocks Likely To Open In The Green To End November On A High: Are Markets Set For A Santa Claus Rally In December? Analysts Decode",
+          "description": "US stock futures are pointing to a higher open on Friday as investors look to end November on a positive note. Analysts suggest that December has historically been a strong month for markets, with only one instance of it being the worst month in the last 95 years.",
+          "article_url": "https://www.benzinga.com/24/11/42241785/us-futures-signal-gains-on-the-truncated-trading-day-will-december-witness-a-santa-claus-rally-analysts-decode",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "CABA",
+            "FRO",
+            "RGTI",
+            "RGTIW",
+            "BTDR",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "US stocks",
+            "market outlook",
+            "Santa Claus rally",
+            "December performance"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2024-11-29T11:46:40Z",
+          "title": "US Stocks Likely To Open In The Green To End November On A High: Are Markets Set For A Santa Claus Rally In December? Analysts Decode",
+          "description": "US stock futures are pointing to a higher open on Friday as investors look to end November on a positive note. Analysts suggest that December has historically been a strong month for markets, with only one instance of it being the worst month in the last 95 years.",
+          "article_url": "https://www.benzinga.com/24/11/42241785/us-futures-signal-gains-on-the-truncated-trading-day-will-december-witness-a-santa-claus-rally-analysts-decode",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "CABA",
+            "FRO",
+            "RGTI",
+            "RGTIW",
+            "BTDR",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "US stocks",
+            "market outlook",
+            "Santa Claus rally",
+            "December performance"
+          ]
+        }
+      ]
+    }
+  }
+}

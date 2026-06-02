@@ -1,0 +1,82 @@
+{
+  "event": {
+    "event_id": "AAPL_20250307_143000",
+    "ticker": "AAPL",
+    "t0_utc": "2025-03-07 14:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-03-07T11:30:00+00:00",
+      "end": "2025-03-07T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-03-07T11:45:00Z",
+        "title": "38% of Berkshire Hathaway's Portfolio Is Invested in These 3 Unstoppable Dividend Stocks",
+        "description": "Berkshire Hathaway's portfolio is heavily invested in three dividend stocks: Apple, Coca-Cola, and Visa. These companies are known for their strong brands, competitive advantages, and consistent dividend growth, making them attractive long-term investments.",
+        "article_url": "https://www.fool.com/investing/2025/03/07/38-of-berkshire-hathaway-portfolio-is-invested-in/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Prosper Junior Bakiny",
+        "tickers": [
+          "AAPL"
+        ],
+        "keywords": [
+          "Berkshire Hathaway",
+          "dividend stocks",
+          "Apple",
+          "Coca-Cola",
+          "Visa"
+        ]
+      },
+      {
+        "published_utc": "2025-03-07T11:58:00Z",
+        "title": "Growth Opportunities in the UK OTT Media Services Market, 2025-2030 - Local Content and Original Programming are Key to Standing Out in the UK's Crowded Streaming Market",
+        "description": "The UK OTT media services market is expected to grow from $14.34 billion in 2024 to $19.35 billion by 2030, driven by increasing digital adoption and high-speed internet access. However, the market faces challenges such as subscription fatigue and intense competition, leading to content diversification and enhanced user experiences.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/03/07/3038847/28124/en/Growth-Opportunities-in-the-UK-OTT-Media-Services-Market-2025-2030-Local-Content-and-Original-Programming-are-Key-to-Standing-Out-in-the-UK-s-Crowded-Streaming-Market.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Researchandmarkets.Com",
+        "tickers": [
+          "DIS",
+          "PARA",
+          "PARAA",
+          "AMZN",
+          "AAPL"
+        ],
+        "keywords": [
+          "OTT media services",
+          "UK streaming market",
+          "subscription fatigue",
+          "content diversification"
+        ]
+      },
+      {
+        "published_utc": "2025-03-07T12:02:00Z",
+        "title": "Apple Intelligence Is Fueling iPhone Upgrades in Positive News for Apple Stock Investors",
+        "description": "Apple's latest catalyst could increase consumer upgrade activity, which is positive news for Apple stock investors.",
+        "article_url": "https://www.fool.com/investing/2025/03/07/apple-intelligence-is-fueling-iphone-upgrades-in-p/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "AAPL"
+        ],
+        "keywords": [
+          "Apple",
+          "iPhone",
+          "stock",
+          "investors"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

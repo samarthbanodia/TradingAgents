@@ -1,0 +1,127 @@
+{
+  "event": {
+    "event_id": "COIN_20260203_143000",
+    "ticker": "COIN",
+    "t0_utc": "2026-02-03 14:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-02-03T11:30:00+00:00",
+      "end": "2026-02-03T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-02-03T12:58:40Z",
+          "title": "Trump's Fed Chair Pick Kevin Warsh Could Deliver 'Four Or Five' Rate Cuts, Says Macro Expert",
+          "description": "Kevin Warsh, Trump's pick for Fed Chair, could potentially deliver four to five rate cuts rather than the market's expected two, according to macro expert Steven Major. Warsh's nomination has rattled markets due to his different views on monetary policy, including criticism of the Fed's reliance on monthly inflation and jobs reports. The S&P 500 ETF fell on the nomination announcement, while gold, silver, and crypto assets also declined.",
+          "article_url": "https://www.benzinga.com/markets/macro-economic-events/26/02/50329096/trumps-fed-chair-pick-kevin-warsh-could-deliver-four-or-five-rate-cuts-says-macro-e?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Namrata Sen",
+          "tickers": [
+            "SPY"
+          ],
+          "keywords": [
+            "Kevin Warsh",
+            "Federal Reserve Chair",
+            "rate cuts",
+            "monetary policy",
+            "market volatility",
+            "Jerome Powell",
+            "interest rates"
+          ]
+        },
+        {
+          "published_utc": "2026-02-03T13:44:00Z",
+          "title": "Stock Market Today: Dow Futures Pare Losses, S&P 500 Gain Amid Gold, Silver Rebound\u2014 Palantir Technologies, SanDisk, PepsiCo In Focus (UPDATED)",
+          "description": "U.S. stock futures advanced on Tuesday following Monday's positive close, with major indices gaining ground. Gold and silver rebounded while crude oil declined. Key movers included Palantir Technologies jumping 10.84% on strong earnings, Teradyne surging 22.23% with impressive guidance, and SanDisk gaining 4.24% on blockbuster results. A U.S.-India trade agreement lowering tariffs and analyst forecasts for continued bull market momentum supported sentiment.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50323627/stock-market-today-sp-500-nasdaq-100-futures-gain-amid-gold-silver-rebound-palantir-technologies?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "PLTR",
+            "TER",
+            "SNDK",
+            "AMD",
+            "PEP",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "S&P 500",
+            "earnings",
+            "trade agreement",
+            "gold rebound",
+            "Federal Reserve",
+            "artificial intelligence",
+            "bull market"
+          ]
+        },
+        {
+          "published_utc": "2026-02-03T15:17:39Z",
+          "title": "South Korea Surfs Nvidia's AI Wave \u2014 What's Powering 2026's Best Stock Market?",
+          "description": "South Korea's stock market has become the world's best performer, driven by Samsung and SK Hynix's record memory chip profits fueled by AI infrastructure demand. However, economist Ed Yardeni warns that soaring valuations may distract from structural weaknesses, geopolitical risks including potential U.S. tariffs, and the risk of being squeezed between high-tech competitors and low-cost rivals.",
+          "article_url": "https://www.benzinga.com/markets/asia/26/02/50337153/south-korea-ai-stock-market-ewy-samsung-yardeni?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "EWY",
+            "NVDA",
+            "SPY"
+          ],
+          "keywords": [
+            "South Korea",
+            "AI boom",
+            "memory chips",
+            "stock market performance",
+            "Samsung",
+            "SK Hynix",
+            "tariffs",
+            "geopolitical risk",
+            "valuation concerns"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-02-03T13:44:00Z",
+          "title": "Stock Market Today: Dow Futures Pare Losses, S&P 500 Gain Amid Gold, Silver Rebound\u2014 Palantir Technologies, SanDisk, PepsiCo In Focus (UPDATED)",
+          "description": "U.S. stock futures advanced on Tuesday following Monday's positive close, with major indices gaining ground. Gold and silver rebounded while crude oil declined. Key movers included Palantir Technologies jumping 10.84% on strong earnings, Teradyne surging 22.23% with impressive guidance, and SanDisk gaining 4.24% on blockbuster results. A U.S.-India trade agreement lowering tariffs and analyst forecasts for continued bull market momentum supported sentiment.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50323627/stock-market-today-sp-500-nasdaq-100-futures-gain-amid-gold-silver-rebound-palantir-technologies?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "PLTR",
+            "TER",
+            "SNDK",
+            "AMD",
+            "PEP",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "S&P 500",
+            "earnings",
+            "trade agreement",
+            "gold rebound",
+            "Federal Reserve",
+            "artificial intelligence",
+            "bull market"
+          ]
+        }
+      ]
+    }
+  }
+}

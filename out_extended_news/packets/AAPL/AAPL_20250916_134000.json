@@ -1,0 +1,67 @@
+{
+  "event": {
+    "event_id": "AAPL_20250916_134000",
+    "ticker": "AAPL",
+    "t0_utc": "2025-09-16 13:40:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-09-16T10:40:00+00:00",
+      "end": "2025-09-16T14:40:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-09-16T12:09:00Z",
+        "title": "9 S&P 500 Dividend Gems Poised to Outperform in a Potential Post-Fed Rally",
+        "description": "The Federal Reserve is anticipated to cut interest rates, potentially sparking a market rally. Investors are looking at dividend-paying S&P 500 stocks with strong financial health and undervaluation as potential investment opportunities.",
+        "article_url": "https://www.investing.com/analysis/9-sp-500-dividend-gems-poised-to-outperform-in-a-potential-postfed-rally-200666966",
+        "publisher": "Investing.com",
+        "author": "David Wagner",
+        "tickers": [
+          "TSLA",
+          "AAPL",
+          "GOOG",
+          "GOOGL",
+          "META",
+          "AMZN"
+        ],
+        "keywords": [
+          "Federal Reserve",
+          "rate cuts",
+          "dividend stocks",
+          "S&P 500",
+          "market rally"
+        ]
+      },
+      {
+        "published_utc": "2025-09-16T12:46:21Z",
+        "title": "Anthony Scaramucci Explains Why Warren Buffett's Apple Bet Shows Diversification Can Be Overrated: 'Don't Trade Michael Jordan For...'",
+        "description": "Anthony Scaramucci criticized blind diversification, using Warren Buffett's Apple investment strategy as an example. He argued that investors should not trade high-quality assets for mediocre ones just to achieve diversification.",
+        "article_url": "https://www.benzinga.com/personal-finance/management/25/09/47688969/anthony-scaramucci-explains-why-warren-buffetts-apple-bet-shows-diversification-can-b",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "AAPL",
+          "BRK.A",
+          "BRK.B"
+        ],
+        "keywords": [
+          "diversification",
+          "investment strategy",
+          "portfolio management"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "event": {
+    "event_id": "META_20250224_143500",
+    "ticker": "META",
+    "t0_utc": "2025-02-24 14:35:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-02-24T11:35:00+00:00",
+      "end": "2025-02-24T15:35:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-02-24T11:53:00Z",
+        "title": "Billionaire Steve Mandel Just Bought $100 Million More of His Top Artificial Intelligence (AI) Stock Pick",
+        "description": "Billionaire Steve Mandel's firm, Lone Pine Capital, has increased its stake in Meta Platforms (META) by $100 million, indicating confidence in the company's social media dominance and its investments in artificial intelligence (AI).",
+        "article_url": "https://www.fool.com/investing/2025/02/24/billionarire-steve-mandel-just-bought-100-million/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "META"
+        ],
+        "keywords": [
+          "Steve Mandel",
+          "Lone Pine Capital",
+          "Meta Platforms",
+          "Artificial Intelligence",
+          "AI"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-02-24T12:29:59Z",
+          "title": "Zelensky Says Ukraine Won't Trade Minerals For Debt, Seeks 'Win-Win' Deal With US",
+          "description": "Ukraine's President Zelensky remains focused on security guarantees as the country negotiates a deal with the US over its rare earth minerals. Zelensky is committed to a 'win-win' agreement and has disputed the financial claims made by the Trump administration.",
+          "article_url": "https://www.benzinga.com/news/global/25/02/43909360/zelensky-says-ukraine-wont-trade-minerals-for-debt-seeks-win-win-deal-with-us",
+          "publisher": "Benzinga",
+          "author": "Stjepan Kalinic",
+          "tickers": [
+            "IEV",
+            "SPY"
+          ],
+          "keywords": [
+            "Ukraine",
+            "US",
+            "rare earth minerals",
+            "security guarantees",
+            "negotiations"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

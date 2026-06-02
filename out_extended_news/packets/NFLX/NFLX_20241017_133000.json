@@ -1,0 +1,87 @@
+{
+  "event": {
+    "event_id": "NFLX_20241017_133000",
+    "ticker": "NFLX",
+    "t0_utc": "2024-10-17 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-10-17T10:30:00+00:00",
+      "end": "2024-10-17T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-10-17T11:24:01Z",
+          "title": "Wall Street Poised To Open Higher As TSMC Earnings Expected To Kick Off Rally In Tech Stocks: Strategist Says AI Trade Will Have Legs Even In Case Of Recession In 2025",
+          "description": "Nasdaq and S&P 500 futures are trading higher on Thursday, driven by strong earnings from Taiwan Semiconductor Manufacturing Company (TSMC) and expectations of a positive tech earnings season. Small-cap stocks have also gained momentum recently, supported by improved economic outlook and expectations of Fed rate cuts.",
+          "article_url": "https://www.benzinga.com/news/earnings/24/10/41377257/wall-street-poised-to-open-higher-as-tsmc-earnings-expected-to-kick-off-rally-in-tech-stocks-strate",
+          "publisher": "Benzinga",
+          "author": "Benzinga Editor",
+          "tickers": [
+            "QQQ",
+            "SPY",
+            "TSM"
+          ],
+          "keywords": [
+            "Nasdaq",
+            "S&P 500",
+            "TSMC",
+            "small-caps",
+            "tech earnings"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2024-10-17T10:35:00Z",
+          "title": "Nasdaq 100: Tech Recovery May Keep Uptrend Intact Well Into US Election, Earnings",
+          "description": "The Nasdaq 100 index is showing signs of a bullish recovery, with dip buyers returning to the tech sector. However, the upcoming US election and earnings season could bring volatility. Key support and resistance levels will be crucial in navigating the market's trend.",
+          "article_url": "https://www.investing.com/analysis/nasdaq-100-tech-recovery-may-keep-uptrend-intact-well-into-us-election-earnings-200653094",
+          "publisher": "Investing.com",
+          "author": "Fawad Razaqzada",
+          "tickers": [
+            "TSM",
+            "ASML",
+            "NVDA",
+            "QQQ"
+          ],
+          "keywords": [
+            "Nasdaq 100",
+            "tech sector",
+            "US election",
+            "earnings season"
+          ]
+        },
+        {
+          "published_utc": "2024-10-17T11:24:01Z",
+          "title": "Wall Street Poised To Open Higher As TSMC Earnings Expected To Kick Off Rally In Tech Stocks: Strategist Says AI Trade Will Have Legs Even In Case Of Recession In 2025",
+          "description": "Nasdaq and S&P 500 futures are trading higher on Thursday, driven by strong earnings from Taiwan Semiconductor Manufacturing Company (TSMC) and expectations of a positive tech earnings season. Small-cap stocks have also gained momentum recently, supported by improved economic outlook and expectations of Fed rate cuts.",
+          "article_url": "https://www.benzinga.com/news/earnings/24/10/41377257/wall-street-poised-to-open-higher-as-tsmc-earnings-expected-to-kick-off-rally-in-tech-stocks-strate",
+          "publisher": "Benzinga",
+          "author": "Benzinga Editor",
+          "tickers": [
+            "QQQ",
+            "SPY",
+            "TSM"
+          ],
+          "keywords": [
+            "Nasdaq",
+            "S&P 500",
+            "TSMC",
+            "small-caps",
+            "tech earnings"
+          ]
+        }
+      ]
+    }
+  }
+}

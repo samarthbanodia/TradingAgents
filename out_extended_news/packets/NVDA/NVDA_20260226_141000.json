@@ -1,0 +1,263 @@
+{
+  "event": {
+    "event_id": "NVDA_20260226_141000",
+    "ticker": "NVDA",
+    "t0_utc": "2026-02-26 14:10:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-02-26T11:10:00+00:00",
+      "end": "2026-02-26T15:10:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-02-26T12:11:38Z",
+        "title": "Magnificent Risk: Why Nvidia And Microsoft Are At The Center Of El-Erian's 'Rational Bubble'",
+        "description": "Economist Mohamed El-Erian warns of a 'rational bubble' in AI where overinvestment is rampant, with many companies merely attaching 'AI labels' to attract capital. While the potential payoff justifies some overinvestment, the market is dangerously concentrated in a few hyperscalers like Nvidia. Combined with surging corporate debt and 'circular financing' among tech giants, a slowdown in AI adoption could trigger a significant sell-off and contaminate the broader economy, particularly impacting lower-income households already burdened by high debt.",
+        "article_url": "https://www.benzinga.com/markets/equities/26/02/50882786/magnificent-risk-why-nvidia-and-microsoft-are-at-the-center-of-el-erians-rational-bubble?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Rishabh Mishra",
+        "tickers": [
+          "NVDA",
+          "MSFT",
+          "META",
+          "ORCL",
+          "ORCLpD"
+        ],
+        "keywords": [
+          "AI bubble",
+          "rational bubble",
+          "overvaluation",
+          "corporate debt",
+          "GPU concentration",
+          "hyperscalers",
+          "market risk",
+          "tech sector",
+          "circular financing"
+        ]
+      },
+      {
+        "published_utc": "2026-02-26T13:00:51Z",
+        "title": "HSBC Dismisses 'SaaSpocalypse' Fears Amid $1 Trillion Sell-Off, Says 'Software Is Already Eating AI'",
+        "description": "HSBC has downplayed concerns about AI replacing the SaaS sector, arguing that software will benefit from AI's development rather than be disrupted by it. The bank maintains that companies won't abandon established software vendors due to high switching costs and long-term contracts. Analysts including Wedbush's Dan Ives and Nvidia CEO Jensen Huang agree that AI will enhance rather than replace enterprise software, contradicting the recent $1 trillion market sell-off in software stocks.",
+        "article_url": "https://www.benzinga.com/markets/tech/26/02/50884745/hsbc-dismisses-saaspocalypse-fears-amid-1-trillion-sell-off-says-software-is-already-eating-ai?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "CRM",
+          "CRWD",
+          "NOW",
+          "ORCL",
+          "ORCLpD",
+          "NVDA",
+          "GOOG",
+          "GOOGL",
+          "TEAM",
+          "WDAY",
+          "ZS"
+        ],
+        "keywords": [
+          "SaaS",
+          "AI disruption",
+          "software stocks",
+          "enterprise software",
+          "market valuation reset",
+          "AI integration"
+        ]
+      },
+      {
+        "published_utc": "2026-02-26T13:05:00Z",
+        "title": "Artificial Intelligence (AI) Agents Are Crashing the Internet, and This Stock Is Profiting From Every Request in 2026",
+        "description": "AI agents are expected to see massive adoption growth, with IDC forecasting a 10x increase by 2027 and a 1,000x surge in inference demands. Nvidia is positioned to capitalize on this trend through its GPU chips, CUDA platform, and agentic AI toolkit. The company's upcoming Vera Rubin accelerators promise 90% cost reductions in inference compared to Blackwell processors, potentially driving strong demand and earnings growth in 2026.",
+        "article_url": "https://www.fool.com/investing/2026/02/26/artificial-intelligence-ai-agents-are-crashing-the/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Harsh Chauhan",
+        "tickers": [
+          "NVDA",
+          "META",
+          "CRM",
+          "PLTR"
+        ],
+        "keywords": [
+          "AI agents",
+          "agentic AI",
+          "GPU chips",
+          "inference demand",
+          "Vera Rubin accelerators",
+          "enterprise productivity",
+          "AI adoption"
+        ]
+      },
+      {
+        "published_utc": "2026-02-26T13:14:00Z",
+        "title": "Playing the SaaS Selloff for Income and Long-Term Gains",
+        "description": "The article argues that the current SaaS selloff presents a buying opportunity despite market fears. Three tech-focused CEFs (BSTZ, BST, STK) have outperformed the XLK ETF over three months. The author contends that AI will create jobs rather than eliminate them, citing historical precedent from the 1990s computer revolution, and that SaaS companies remain valuable due to their proprietary infrastructure and expertise that individual developers cannot replicate.",
+        "article_url": "https://www.investing.com/analysis/playing-the-saas-selloff-for-income-and-longterm-gains-200675709",
+        "publisher": "Investing.com",
+        "author": "Michael Foster",
+        "tickers": [
+          "XLK",
+          "MSFT",
+          "CRM",
+          "NVDA",
+          "AVGO",
+          "MRVL",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "SaaS selloff",
+          "AI job creation",
+          "tech CEFs",
+          "contrarian investing",
+          "software stocks",
+          "hardware vs software rotation",
+          "managed funds vs ETFs"
+        ]
+      },
+      {
+        "published_utc": "2026-02-26T13:39:50Z",
+        "title": "Stock Market Today: Dow, S&P 500 Futures Gain As Jobless Claims Edge Up To 212K; Nasdaq Drops \u2014 Nvidia, Salesforce, Trade Desk In Focus (UPDATED)",
+        "description": "U.S. stock futures showed mixed performance on Thursday with the S&P 500 and Nasdaq gaining slightly while Dow futures declined. Markets await weekly jobless claims data and January producer price index. Key movers included Nvidia rising on strong earnings, Salesforce falling despite upbeat results due to weak guidance, and Trade Desk tumbling 16.69% on disappointing Q1 guidance. BlackRock remains overweight on U.S. equities citing favorable macro conditions and strong corporate earnings.",
+        "article_url": "https://www.benzinga.com/markets/equities/26/02/50878659/stock-market-today-dow-futures-slide-sp-500-nasdaq-gain-ahead-of-weekly-jobless-claims-nvidia-sa?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Rishabh Mishra",
+        "tickers": [
+          "NVDA",
+          "CRM",
+          "TTD",
+          "DELL",
+          "DRVN",
+          "SPY",
+          "QQQ"
+        ],
+        "keywords": [
+          "stock market",
+          "futures",
+          "jobless claims",
+          "earnings",
+          "guidance",
+          "Federal Reserve",
+          "interest rates",
+          "technology stocks",
+          "AI",
+          "corporate earnings"
+        ]
+      },
+      {
+        "published_utc": "2026-02-26T14:08:00Z",
+        "title": "Cracking the Chip Monopoly: Meta Invests in AMD Chips",
+        "description": "Meta Platforms announced a multi-year agreement to deploy up to 6 gigawatts of AMD Instinct GPUs, with initial shipments beginning in H2 2026. The deal includes performance-based warrants allowing Meta to purchase up to 160 million AMD shares (potential 10% stake). This signals a major shift in the semiconductor market as hyperscalers diversify away from single-supplier dependency, creating significant growth opportunities for AMD despite NVIDIA's dominant market position.",
+        "article_url": "https://www.investing.com/analysis/cracking-the-chip-monopoly-meta-invests-in-amd-chips-200675725",
+        "publisher": "Investing.com",
+        "author": "Jeffrey Neal Johnson",
+        "tickers": [
+          "META",
+          "AMD",
+          "NVDA"
+        ],
+        "keywords": [
+          "AI infrastructure",
+          "semiconductor supply chain diversification",
+          "data center GPUs",
+          "capital expenditure",
+          "hardware deployment",
+          "equity warrants",
+          "hyperscaler competition"
+        ]
+      },
+      {
+        "published_utc": "2026-02-26T15:00:00Z",
+        "title": "Hethereau Calling: NTE (Neverness to Everness) Launches April 29",
+        "description": "Perfect World Games and Hotta Studio announced the official launch of their urban open-world RPG NTE for April 29, 2026, on PC, PlayStation 5, iOS, and Android. The game features updated Unreal Engine 5.7 graphics, NVIDIA DLSS 4 support, crime mechanics, multiplayer gameplay, and vehicle physics. Pre-registration is open with milestone rewards available.",
+        "article_url": "https://www.globenewswire.com/news-release/2026/02/26/3245751/0/en/Hethereau-Calling-NTE-Neverness-to-Everness-Launches-April-29.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Perfect World Games / Hotta Studio",
+        "tickers": [
+          "NVDA"
+        ],
+        "keywords": [
+          "NTE",
+          "Neverness to Everness",
+          "open-world RPG",
+          "Unreal Engine 5.7",
+          "NVIDIA DLSS 4",
+          "multiplayer gameplay",
+          "pre-registration",
+          "April 29 2026 launch"
+        ]
+      }
+    ],
+    "ticker_news_count": 7,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-02-26T13:39:50Z",
+          "title": "Stock Market Today: Dow, S&P 500 Futures Gain As Jobless Claims Edge Up To 212K; Nasdaq Drops \u2014 Nvidia, Salesforce, Trade Desk In Focus (UPDATED)",
+          "description": "U.S. stock futures showed mixed performance on Thursday with the S&P 500 and Nasdaq gaining slightly while Dow futures declined. Markets await weekly jobless claims data and January producer price index. Key movers included Nvidia rising on strong earnings, Salesforce falling despite upbeat results due to weak guidance, and Trade Desk tumbling 16.69% on disappointing Q1 guidance. BlackRock remains overweight on U.S. equities citing favorable macro conditions and strong corporate earnings.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50878659/stock-market-today-dow-futures-slide-sp-500-nasdaq-gain-ahead-of-weekly-jobless-claims-nvidia-sa?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "NVDA",
+            "CRM",
+            "TTD",
+            "DELL",
+            "DRVN",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "jobless claims",
+            "earnings",
+            "guidance",
+            "Federal Reserve",
+            "interest rates",
+            "technology stocks",
+            "AI",
+            "corporate earnings"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-02-26T13:39:50Z",
+          "title": "Stock Market Today: Dow, S&P 500 Futures Gain As Jobless Claims Edge Up To 212K; Nasdaq Drops \u2014 Nvidia, Salesforce, Trade Desk In Focus (UPDATED)",
+          "description": "U.S. stock futures showed mixed performance on Thursday with the S&P 500 and Nasdaq gaining slightly while Dow futures declined. Markets await weekly jobless claims data and January producer price index. Key movers included Nvidia rising on strong earnings, Salesforce falling despite upbeat results due to weak guidance, and Trade Desk tumbling 16.69% on disappointing Q1 guidance. BlackRock remains overweight on U.S. equities citing favorable macro conditions and strong corporate earnings.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50878659/stock-market-today-dow-futures-slide-sp-500-nasdaq-gain-ahead-of-weekly-jobless-claims-nvidia-sa?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "NVDA",
+            "CRM",
+            "TTD",
+            "DELL",
+            "DRVN",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "jobless claims",
+            "earnings",
+            "guidance",
+            "Federal Reserve",
+            "interest rates",
+            "technology stocks",
+            "AI",
+            "corporate earnings"
+          ]
+        }
+      ]
+    }
+  }
+}

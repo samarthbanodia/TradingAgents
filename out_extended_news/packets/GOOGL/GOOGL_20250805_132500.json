@@ -1,0 +1,116 @@
+{
+  "event": {
+    "event_id": "GOOGL_20250805_132500",
+    "ticker": "GOOGL",
+    "t0_utc": "2025-08-05 13:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-08-05T10:25:00+00:00",
+      "end": "2025-08-05T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-08-05T11:19:00Z",
+        "title": "I Can't Lie, I'm Excited About Amazon Stock After Its Recent Earnings Report. Here's Why.",
+        "description": "Amazon reported strong Q2 earnings with $167.7 billion revenue, but investors were concerned about slower cloud computing growth compared to competitors. Despite market reaction, analysts remain optimistic about Amazon's long-term potential and AI opportunities.",
+        "article_url": "https://www.fool.com/investing/2025/08/05/i-cant-lie-im-excited-about-amazon-stock-after-th/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "James Brumley",
+        "tickers": [
+          "AMZN",
+          "MSFT",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "Amazon",
+          "AWS",
+          "cloud computing",
+          "AI",
+          "earnings",
+          "stock performance"
+        ]
+      },
+      {
+        "published_utc": "2025-08-05T12:30:00Z",
+        "title": "If I Could Only Buy and Hold a Single Stock, This Would Be It",
+        "description": "Nvidia dominates the AI semiconductor market with an estimated 95% market share, offering robust processors and software ecosystem that benefit from massive AI data center investments across major tech companies.",
+        "article_url": "https://www.fool.com/investing/2025/08/05/if-i-could-only-buy-and-hold-a-single-stock/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Chris Neiger",
+        "tickers": [
+          "NVDA",
+          "MSFT",
+          "META",
+          "GOOG",
+          "GOOGL",
+          "AMZN",
+          "VOO"
+        ],
+        "keywords": [
+          "AI",
+          "semiconductors",
+          "technology investment",
+          "Nvidia",
+          "data centers"
+        ]
+      },
+      {
+        "published_utc": "2025-08-05T13:25:52Z",
+        "title": "The Biggest Takeaways From Palantir's Aug. 4 Earnings Report",
+        "description": "Palantir Technologies reported strong Q2 earnings, with 93% commercial revenue growth and its first $1 billion quarter, driven by AI platform expansion and significant institutional client deals.",
+        "article_url": "https://www.fool.com/investing/2025/08/05/the-biggest-takeaways-from-palantirs-aug-4-earni/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Stefon Walters",
+        "tickers": [
+          "PLTR",
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "AAPL"
+        ],
+        "keywords": [
+          "Palantir",
+          "AI",
+          "earnings",
+          "technology",
+          "data analysis"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-08-05T12:32:00Z",
+          "title": "3 Reasons the Market Can Rally, 2 Ways to Diversify If It Doesn't",
+          "description": "The article discusses potential market rally factors, including commercial futures positioning, short dollar positions, and growth stock performance. It also suggests diversification strategies using small-cap and bond ETFs as potential hedging mechanisms.",
+          "article_url": "https://www.investing.com/analysis/3-reasons-the-market-can-rally-2-ways-to-diversify-if-it-doesnt-200664842",
+          "publisher": "Investing.com",
+          "author": "Gabriel Osorio-Mazzilli",
+          "tickers": [
+            "SPY",
+            "IWM",
+            "TLT"
+          ],
+          "keywords": [
+            "market rally",
+            "futures",
+            "diversification",
+            "ETFs",
+            "small-caps",
+            "bonds"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

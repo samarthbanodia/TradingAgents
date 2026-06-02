@@ -1,0 +1,171 @@
+{
+  "event": {
+    "event_id": "NVDA_20251223_142500",
+    "ticker": "NVDA",
+    "t0_utc": "2025-12-23 14:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-12-23T11:25:00+00:00",
+      "end": "2025-12-23T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-12-23T12:47:38Z",
+        "title": "TikTok Parent ByteDance To Invest $23 Billion In AI To Compete With US Tech Giants: Report",
+        "description": "ByteDance plans to invest CNY160 billion ($23 billion) in AI infrastructure in 2026, with about half directed toward purchasing advanced semiconductors. Despite this significant increase from 2025's CNY150 billion investment, ByteDance's spending remains substantially lower than U.S. tech giants like Microsoft, Alphabet, Amazon, and Meta, which collectively invested nearly $400 billion this year in AI data centers.",
+        "article_url": "https://www.benzinga.com/markets/tech/25/12/49558026/tiktok-parent-bytedance-to-invest-23-billion-in-ai-to-compete-with-us-tech-giants-report?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "AMZN",
+          "META",
+          "NVDA",
+          "ORCL"
+        ],
+        "keywords": [
+          "ByteDance",
+          "TikTok",
+          "AI investment",
+          "semiconductors",
+          "infrastructure",
+          "US tech competition",
+          "Nvidia chips"
+        ]
+      },
+      {
+        "published_utc": "2025-12-23T13:07:00Z",
+        "title": "Prediction: This AI Stock Will Prove AI Bears Wrong in 2026",
+        "description": "CoreWeave (CRWV) is positioned to overcome AI bubble concerns and succeed in 2026, according to analyst Jose Najarro. Despite bear cases driven by AI bubble fears, the company has a clear path to success. The stock has shown strong performance, with recent updates affecting CoreWeave and other AI stocks.",
+        "article_url": "https://www.fool.com/investing/2025/12/23/prediction-this-ai-stock-will-prove-ai-bears-wrong/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jose Najarro",
+        "tickers": [
+          "CRWV",
+          "NVDA"
+        ],
+        "keywords": [
+          "AI stock",
+          "CoreWeave",
+          "AI bubble",
+          "bear case",
+          "2026 prediction",
+          "AI disruption"
+        ]
+      },
+      {
+        "published_utc": "2025-12-23T14:07:00Z",
+        "title": "Nvidia and AMD Just Got Some Interesting News About the China Market",
+        "description": "Nvidia is reportedly preparing to ship H200 chips to China, while AMD's AI chips have attracted interest from a major Chinese company. These developments signal potential market opportunities for both semiconductor companies in the Chinese market.",
+        "article_url": "https://www.fool.com/investing/2025/12/23/nvidia-and-amd-just-got-some-interesting-news-abou/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jose Najarro",
+        "tickers": [
+          "NVDA",
+          "AMD"
+        ],
+        "keywords": [
+          "China market",
+          "H200 chips",
+          "AI semiconductors",
+          "Nvidia",
+          "AMD",
+          "chip exports"
+        ]
+      },
+      {
+        "published_utc": "2025-12-23T14:33:00Z",
+        "title": "Is SoundHound AI Stock a Buy Now?",
+        "description": "SoundHound AI stock is not recommended as a buy despite impressive 68% revenue growth to $42 million in Q3. The company remains unprofitable with rising expenses, negative free cash flow of -$78.7 million in the first nine months of 2025, and lacks operational leverage. With a price-to-sales ratio of 30 (versus tech sector average of 9), the stock is overvalued relative to its path to profitability.",
+        "article_url": "https://www.fool.com/investing/2025/12/23/is-soundhound-ai-stock-a-buy-now/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Chris Neiger",
+        "tickers": [
+          "SOUN",
+          "SOUNW",
+          "NVDA",
+          "CMG"
+        ],
+        "keywords": [
+          "SoundHound AI",
+          "unprofitable",
+          "negative free cash flow",
+          "overvalued",
+          "conversational AI",
+          "rising expenses",
+          "operational leverage"
+        ]
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-12-23T13:24:35Z",
+          "title": "Stock Market Today: S&P 500, Dow Futures Pare Gains As Street Awaits Delayed Q3 GDP Report\u2014 Parsons, ZIM, Trump Media & Technology In Focus (UPDATED)",
+          "description": "U.S. stock futures pared earlier gains on Tuesday as investors await delayed Q3 GDP and durable goods reports. Major indices showed mixed performance with SPY and QQQ slightly lower in premarket trading. Key movers included Parsons (contract award), ZIM (acquisition proposals), Trump Media (Bitcoin purchase), and XMax (public offering). Markets are pricing an 80.1% likelihood of unchanged Fed rates, with a truncated trading week ahead.",
+          "article_url": "https://www.benzinga.com/markets/equities/25/12/49555766/stock-market-today-nasdaq-sp-500-futures-rise-as-street-awaits-q3-gdp-report-parsons-zim-trump-m?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "PSN",
+            "ZIM",
+            "DJT",
+            "DJTWW",
+            "XWIN",
+            "LMNR"
+          ],
+          "keywords": [
+            "stock market",
+            "S&P 500",
+            "futures",
+            "GDP report",
+            "Federal Reserve",
+            "Bitcoin",
+            "economic data"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-12-23T13:24:35Z",
+          "title": "Stock Market Today: S&P 500, Dow Futures Pare Gains As Street Awaits Delayed Q3 GDP Report\u2014 Parsons, ZIM, Trump Media & Technology In Focus (UPDATED)",
+          "description": "U.S. stock futures pared earlier gains on Tuesday as investors await delayed Q3 GDP and durable goods reports. Major indices showed mixed performance with SPY and QQQ slightly lower in premarket trading. Key movers included Parsons (contract award), ZIM (acquisition proposals), Trump Media (Bitcoin purchase), and XMax (public offering). Markets are pricing an 80.1% likelihood of unchanged Fed rates, with a truncated trading week ahead.",
+          "article_url": "https://www.benzinga.com/markets/equities/25/12/49555766/stock-market-today-nasdaq-sp-500-futures-rise-as-street-awaits-q3-gdp-report-parsons-zim-trump-m?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "PSN",
+            "ZIM",
+            "DJT",
+            "DJTWW",
+            "XWIN",
+            "LMNR"
+          ],
+          "keywords": [
+            "stock market",
+            "S&P 500",
+            "futures",
+            "GDP report",
+            "Federal Reserve",
+            "Bitcoin",
+            "economic data"
+          ]
+        }
+      ]
+    }
+  }
+}

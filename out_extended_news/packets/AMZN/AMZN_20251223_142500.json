@@ -1,0 +1,187 @@
+{
+  "event": {
+    "event_id": "AMZN_20251223_142500",
+    "ticker": "AMZN",
+    "t0_utc": "2025-12-23 14:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-12-23T11:25:00+00:00",
+      "end": "2025-12-23T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-12-23T12:47:38Z",
+        "title": "TikTok Parent ByteDance To Invest $23 Billion In AI To Compete With US Tech Giants: Report",
+        "description": "ByteDance plans to invest CNY160 billion ($23 billion) in AI infrastructure in 2026, with about half directed toward purchasing advanced semiconductors. Despite this significant increase from 2025's CNY150 billion investment, ByteDance's spending remains substantially lower than U.S. tech giants like Microsoft, Alphabet, Amazon, and Meta, which collectively invested nearly $400 billion this year in AI data centers.",
+        "article_url": "https://www.benzinga.com/markets/tech/25/12/49558026/tiktok-parent-bytedance-to-invest-23-billion-in-ai-to-compete-with-us-tech-giants-report?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "AMZN",
+          "META",
+          "NVDA",
+          "ORCL"
+        ],
+        "keywords": [
+          "ByteDance",
+          "TikTok",
+          "AI investment",
+          "semiconductors",
+          "infrastructure",
+          "US tech competition",
+          "Nvidia chips"
+        ]
+      },
+      {
+        "published_utc": "2025-12-23T13:34:00Z",
+        "title": "This Dividend With 68% Returns Is the Worst Gift You Could Get This Christmas",
+        "description": "The YieldMax Ultra Income Strategy ETF (ULTY) offers a seemingly attractive 68% yield, but investors should avoid it. Despite the high dividend payout, the fund's share price has dropped 80% since launch in February 2024, resulting in negative returns even with dividends reinvested. The fund uses a covered call strategy on speculative tech stocks and has shown highly volatile and unpredictable dividend payments, with payouts falling 58% from May to December. Management plans further changes that could make dividends even less predictable.",
+        "article_url": "https://www.investing.com/analysis/this-dividend-with-68-returns-is-the-worst-gift-you-could-get-this-christmas-200672256",
+        "publisher": "Investing.com",
+        "author": "Brett Owens",
+        "tickers": [
+          "ULTY",
+          "PLTR",
+          "IBIT",
+          "HOOD",
+          "AVGO",
+          "AMZN",
+          "GOOG",
+          "GOOGL",
+          "GDX"
+        ],
+        "keywords": [
+          "dividend yield",
+          "covered call strategy",
+          "ETF performance",
+          "income investing",
+          "option selling",
+          "share price decline",
+          "dividend volatility"
+        ]
+      },
+      {
+        "published_utc": "2025-12-23T14:35:00Z",
+        "title": "Got $5,000? 3 Tech Stocks to Buy and Hold for the Long Term",
+        "description": "The article recommends three tech stocks for long-term investors with $5,000: Oracle, Reddit, and Netflix. Oracle is expanding its cloud infrastructure and AI services with expected 30% revenue CAGR through 2028. Reddit is growing its user base and monetizing through AI data licensing and targeted ads, with 44% revenue CAGR expected through 2027. Netflix maintains its streaming dominance with 13% revenue CAGR projected through 2027.",
+        "article_url": "https://www.fool.com/investing/2025/12/23/got-5000-3-tech-stocks-to-buy-and-hold-for-the-lon/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Leo Sun",
+        "tickers": [
+          "ORCL",
+          "RDDT",
+          "NFLX",
+          "AMZN",
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "META"
+        ],
+        "keywords": [
+          "cloud infrastructure",
+          "artificial intelligence",
+          "streaming video",
+          "long-term investing",
+          "tech stocks",
+          "enterprise software",
+          "social media",
+          "AI data licensing"
+        ]
+      },
+      {
+        "published_utc": "2025-12-23T15:15:00Z",
+        "title": "Microsoft Vs. Google: Which Stock Will Cross the $4 Trillion Milestone First?",
+        "description": "The article compares Microsoft and Alphabet's paths to reaching a $4 trillion market cap. While Alphabet currently leads with a $3.75 trillion valuation versus Microsoft's $3.60 trillion, analysts favor Microsoft with a 30% average price target growth compared to Alphabet's 9%. Microsoft benefits from enterprise lock-in through its productivity suite and AI-powered cloud services, while Alphabet gains momentum from superior AI performance with Gemini and full-stack cloud infrastructure control. The article suggests Alphabet may reach $4 trillion first due to investor enthusiasm for its AI capabilities, but Microsoft is positioned as the more reliable long-term winner for the $5 trillion milestone.",
+        "article_url": "https://www.investing.com/analysis/microsoft-vs-google-which-stock-will-cross-the-4-trillion-milestone-first-200672267",
+        "publisher": "Investing.com",
+        "author": "Timothy Fries",
+        "tickers": [
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "AMZN",
+          "PLTR"
+        ],
+        "keywords": [
+          "market capitalization",
+          "AI cloud services",
+          "enterprise productivity",
+          "stock valuation",
+          "cloud infrastructure",
+          "AI benchmarks"
+        ]
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-12-23T13:24:35Z",
+          "title": "Stock Market Today: S&P 500, Dow Futures Pare Gains As Street Awaits Delayed Q3 GDP Report\u2014 Parsons, ZIM, Trump Media & Technology In Focus (UPDATED)",
+          "description": "U.S. stock futures pared earlier gains on Tuesday as investors await delayed Q3 GDP and durable goods reports. Major indices showed mixed performance with SPY and QQQ slightly lower in premarket trading. Key movers included Parsons (contract award), ZIM (acquisition proposals), Trump Media (Bitcoin purchase), and XMax (public offering). Markets are pricing an 80.1% likelihood of unchanged Fed rates, with a truncated trading week ahead.",
+          "article_url": "https://www.benzinga.com/markets/equities/25/12/49555766/stock-market-today-nasdaq-sp-500-futures-rise-as-street-awaits-q3-gdp-report-parsons-zim-trump-m?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "PSN",
+            "ZIM",
+            "DJT",
+            "DJTWW",
+            "XWIN",
+            "LMNR"
+          ],
+          "keywords": [
+            "stock market",
+            "S&P 500",
+            "futures",
+            "GDP report",
+            "Federal Reserve",
+            "Bitcoin",
+            "economic data"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-12-23T13:24:35Z",
+          "title": "Stock Market Today: S&P 500, Dow Futures Pare Gains As Street Awaits Delayed Q3 GDP Report\u2014 Parsons, ZIM, Trump Media & Technology In Focus (UPDATED)",
+          "description": "U.S. stock futures pared earlier gains on Tuesday as investors await delayed Q3 GDP and durable goods reports. Major indices showed mixed performance with SPY and QQQ slightly lower in premarket trading. Key movers included Parsons (contract award), ZIM (acquisition proposals), Trump Media (Bitcoin purchase), and XMax (public offering). Markets are pricing an 80.1% likelihood of unchanged Fed rates, with a truncated trading week ahead.",
+          "article_url": "https://www.benzinga.com/markets/equities/25/12/49555766/stock-market-today-nasdaq-sp-500-futures-rise-as-street-awaits-q3-gdp-report-parsons-zim-trump-m?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "PSN",
+            "ZIM",
+            "DJT",
+            "DJTWW",
+            "XWIN",
+            "LMNR"
+          ],
+          "keywords": [
+            "stock market",
+            "S&P 500",
+            "futures",
+            "GDP report",
+            "Federal Reserve",
+            "Bitcoin",
+            "economic data"
+          ]
+        }
+      ]
+    }
+  }
+}

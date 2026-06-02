@@ -1,0 +1,61 @@
+{
+  "event": {
+    "event_id": "PLTR_20241218_141000",
+    "ticker": "PLTR",
+    "t0_utc": "2024-12-18 14:10:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2024-12-18T11:10:00+00:00",
+      "end": "2024-12-18T15:10:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-12-18T12:15:00Z",
+          "title": "The S&P 500 Recently Hit Another Record High. Should You Wait Until the New Year to Invest in It?",
+          "description": "The S&P 500 has hit a new all-time high, leading some to hesitate about investing. However, the article advises against trying to time the market and instead recommends using dollar-cost averaging to invest in the S&P 500 consistently over time.",
+          "article_url": "https://www.fool.com/investing/2024/12/18/the-sp-500-recently-hit-another-record-high-should/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Stefon Walters",
+          "tickers": [
+            "VOO",
+            "SPY"
+          ],
+          "keywords": [
+            "S&P 500",
+            "investing",
+            "dollar-cost averaging",
+            "ETFs"
+          ]
+        },
+        {
+          "published_utc": "2024-12-18T14:18:48Z",
+          "title": "All Eyes On December Fed Meeting As Traders Await Interest Rate Projections",
+          "description": "The Federal Reserve is expected to cut interest rates by 0.25% at its December meeting, bringing the federal funds rate to 4.25%-4.50%. Traders are more focused on the Fed's updated economic projections and guidance, which could reshape expectations for 2025 rate cuts.",
+          "article_url": "https://www.benzinga.com/economics/macro-economic-events/24/12/42554114/all-eyes-on-december-fed-meeting-as-traders-await-interest-rate-projections",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "interest rates",
+            "economic projections",
+            "inflation"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

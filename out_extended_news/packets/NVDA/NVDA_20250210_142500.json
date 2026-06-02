@@ -1,0 +1,108 @@
+{
+  "event": {
+    "event_id": "NVDA_20250210_142500",
+    "ticker": "NVDA",
+    "t0_utc": "2025-02-10 14:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-02-10T11:25:00+00:00",
+      "end": "2025-02-10T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-02-10T11:45:00Z",
+        "title": "Will Potential Tariffs on Taiwan Semiconductor Manufacturing Sink the Stock?",
+        "description": "The article discusses the potential impact of tariffs on Taiwan Semiconductor Manufacturing (TSMC), a vital chip manufacturer for the AI computing power arms race. It suggests that TSMC's relocation of manufacturing to the U.S. could be a way to avoid tariffs, and that any stock sell-off due to tariffs would be a good buying opportunity for investors.",
+        "article_url": "https://www.fool.com/investing/2025/02/10/will-president-donald-trumps-potential-tariffs-on/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Keithen Drury",
+        "tickers": [
+          "TSM",
+          "NVDA"
+        ],
+        "keywords": [
+          "Taiwan Semiconductor Manufacturing",
+          "TSMC",
+          "tariffs",
+          "AI",
+          "chip manufacturing"
+        ]
+      },
+      {
+        "published_utc": "2025-02-10T13:45:00Z",
+        "title": "1 Artificial Intelligence (AI) Chip Stock to Buy the Dip Right Now (Hint: It's Not Nvidia)",
+        "description": "The article analyzes AMD's financial performance and its potential in the AI chip market, suggesting that now is a good time to buy the dip in AMD stock due to its strong data center business and ability to compete with Nvidia in the AI chip space.",
+        "article_url": "https://www.fool.com/investing/2025/02/10/1-artificial-intelligence-ai-chip-stock-to-buy-the/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "AMD",
+          "NVDA",
+          "TSM",
+          "AVGO"
+        ],
+        "keywords": [
+          "Artificial Intelligence",
+          "Semiconductor Stocks",
+          "AMD",
+          "Nvidia",
+          "Data Center"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-02-10T11:54:56Z",
+          "title": "US Stocks To Open On A Positive Note After A String Of Bad Mondays: Recent Dip Has 'Reached Its Low Point,' Says Technical Analyst",
+          "description": "U.S. stock futures rose on Monday after Friday's sharp fall, with investors digesting tariff updates and earnings reports. Technical analysts suggest the recent dip in stocks may have reached its low point.",
+          "article_url": "https://www.benzinga.com/25/02/43588299/us-stocks-to-open-on-a-positive-note-after-a-string-of-bad-mondays-recent-dip-has-reached-its-low-point-says-tech",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AMAT",
+            "AMZN",
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "US stocks",
+            "market outlook",
+            "technical analysis",
+            "earnings reports"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-02-10T11:54:56Z",
+          "title": "US Stocks To Open On A Positive Note After A String Of Bad Mondays: Recent Dip Has 'Reached Its Low Point,' Says Technical Analyst",
+          "description": "U.S. stock futures rose on Monday after Friday's sharp fall, with investors digesting tariff updates and earnings reports. Technical analysts suggest the recent dip in stocks may have reached its low point.",
+          "article_url": "https://www.benzinga.com/25/02/43588299/us-stocks-to-open-on-a-positive-note-after-a-string-of-bad-mondays-recent-dip-has-reached-its-low-point-says-tech",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AMAT",
+            "AMZN",
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "US stocks",
+            "market outlook",
+            "technical analysis",
+            "earnings reports"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "event": {
+    "event_id": "JPM_20260413_112500",
+    "ticker": "JPM",
+    "t0_utc": "2026-04-13 11:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-04-13T08:25:00+00:00",
+      "end": "2026-04-13T12:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-04-13T09:35:00Z",
+        "title": "S&P 500 Outlook: The 8.2% Rally and What Comes Next",
+        "description": "The S&P 500 rallied 8.2% from March lows to 6,816.89, driven by an Iran ceasefire and oversold sentiment conditions. While the bull case cites strong earnings growth and historical precedent for continued gains, the bear case warns of narrow breadth, potential lower retests, and macro headwinds from oil prices and Fed paralysis. The market faces a critical test: whether forward earnings estimates remain intact or have been damaged by energy costs, tariffs, and consumer softness.",
+        "article_url": "https://www.investing.com/analysis/sp-500-outlook-the-82-rally-and-what-comes-next-200678312",
+        "publisher": "Investing.com",
+        "author": "Lance Roberts",
+        "tickers": [
+          "AMJB",
+          "JPM",
+          "JPMpC",
+          "JPMpD",
+          "JPMpJ",
+          "JPMpK",
+          "JPMpL",
+          "JPMpM",
+          "VYLD",
+          "BAC",
+          "BACpB",
+          "BACpE",
+          "BACpK",
+          "BACpL",
+          "BACpM",
+          "BACpN",
+          "BACpO",
+          "BACpP",
+          "BACpQ",
+          "BACpS",
+          "BMLpG",
+          "BMLpH",
+          "BMLpJ",
+          "BMLpL",
+          "MERpK"
+        ],
+        "keywords": [
+          "S&P 500",
+          "market rally",
+          "earnings growth",
+          "technical analysis",
+          "200-day moving average",
+          "market breadth",
+          "Iran ceasefire",
+          "oil prices",
+          "Federal Reserve",
+          "market volatility"
+        ]
+      },
+      {
+        "published_utc": "2026-04-13T10:03:00Z",
+        "title": "Peace-Talk Collapse Roils Markets \u2014 Warsh Hearing, Earnings to Test Wall Street",
+        "description": "Failed U.S.-Iran peace talks triggered a market sell-off as the U.S. Navy prepared to blockade Iranian ports. Oil surged above $100/barrel, the dollar strengthened, and Asian stocks declined. U.S. equity futures fell ~0.8%, while Treasury yields climbed to 4.35%. The week ahead will test investor sentiment with major bank earnings and concerns about rising energy costs threatening corporate profits.",
+        "article_url": "https://www.investing.com/analysis/peacetalk-collapse-roils-markets--warsh-hearing-earnings-to-test-wall-street-200678290",
+        "publisher": "Investing.com",
+        "author": "Ali Merchant",
+        "tickers": [
+          "AMJB",
+          "JPM",
+          "JPMpC",
+          "JPMpD",
+          "JPMpJ",
+          "JPMpK",
+          "JPMpL",
+          "JPMpM",
+          "VYLD",
+          "WFC",
+          "WFCpA",
+          "WFCpC",
+          "WFCpD",
+          "WFCpL",
+          "WFCpY",
+          "WFCpZ",
+          "C",
+          "CpN",
+          "CpR",
+          "GS",
+          "GSpA",
+          "GSpC",
+          "GSpD",
+          "BLK",
+          "DIVB",
+          "NFLX",
+          "TSM"
+        ],
+        "keywords": [
+          "peace talks collapse",
+          "Iran blockade",
+          "oil prices surge",
+          "market volatility",
+          "earnings season",
+          "inflation concerns",
+          "safe-haven assets",
+          "geopolitical risk"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

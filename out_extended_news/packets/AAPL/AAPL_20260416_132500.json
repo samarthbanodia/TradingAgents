@@ -1,0 +1,51 @@
+{
+  "event": {
+    "event_id": "AAPL_20260416_132500",
+    "ticker": "AAPL",
+    "t0_utc": "2026-04-16 13:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-04-16T10:25:00+00:00",
+      "end": "2026-04-16T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-04-16T13:34:00Z",
+        "title": "Nasdaq 100 Rally Faces Valuation Test as RSI Signals Overbought Levels",
+        "description": "US equities hover near record highs as Middle East diplomatic hopes and strong corporate earnings offset economic concerns. The Nasdaq 100 has rebounded to 26,320 but RSI signals overbought conditions. Tech stocks led the rally, while the dollar strengthened and oil prices stabilized. Key earnings beat expectations, though geopolitical risks remain fragile.",
+        "article_url": "https://www.investing.com/analysis/nasdaq-100-rally-faces-valuation-test-as-rsi-signals-overbought-levels-200678606",
+        "publisher": "Investing.com",
+        "author": "Fiona Cincotta",
+        "tickers": [
+          "TSM",
+          "PEP",
+          "AAPL",
+          "NVDA"
+        ],
+        "keywords": [
+          "Nasdaq 100",
+          "overbought",
+          "Middle East diplomacy",
+          "corporate earnings",
+          "technology stocks",
+          "semiconductor rally",
+          "AI chips",
+          "USD strength",
+          "oil prices"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

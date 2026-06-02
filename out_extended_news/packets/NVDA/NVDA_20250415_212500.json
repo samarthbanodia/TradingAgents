@@ -1,0 +1,25 @@
+{
+  "event": {
+    "event_id": "NVDA_20250415_212500",
+    "ticker": "NVDA",
+    "t0_utc": "2025-04-15 21:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-04-15T18:25:00+00:00",
+      "end": "2025-04-15T22:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

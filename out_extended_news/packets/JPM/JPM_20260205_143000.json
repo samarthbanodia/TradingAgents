@@ -1,0 +1,129 @@
+{
+  "event": {
+    "event_id": "JPM_20260205_143000",
+    "ticker": "JPM",
+    "t0_utc": "2026-02-05 14:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-02-05T11:30:00+00:00",
+      "end": "2026-02-05T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-02-05T12:53:34Z",
+          "title": "Fed's Lisa Cook Says Inflation Is Still Too Hot \u2014 And A 'K-Shaped' Economy Is Leaving Low-Income Americans Behind",
+          "description": "Federal Reserve Governor Lisa Cook signaled a cautious 'wait and see' approach to monetary policy, noting that inflation remains stubbornly above the Fed's 2% target at 2.9% and progress stalled in 2025. She warned of a 'K-shaped' economy where higher-income households maintain robust spending while low- and moderate-income families face rising delinquencies and stagnant spending, with elevated unemployment among Black and youth populations.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/26/02/50407691/feds-lisa-cook-says-inflation-is-still-too-hot-and-a-k-shaped-economy-is-leaving-low-income?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "inflation",
+            "monetary policy",
+            "K-shaped economy",
+            "interest rates",
+            "PCE inflation",
+            "low-income households",
+            "labor market",
+            "tariffs"
+          ]
+        },
+        {
+          "published_utc": "2026-02-05T13:42:00Z",
+          "title": "Stock Market Today: Dow, S&P 500, Nasdaq Futures Fall After Tech Selloff\u2014Alphabet, Broadcom, Amazon In Focus (UPDATED)",
+          "description": "U.S. stock futures were mixed on Thursday as markets rotated away from tech stocks following Wednesday's selloff. The Dow Jones fell while the Nasdaq gained. Amazon reports earnings after the bell, and investors await jobless claims data. Key movers include Alphabet (down despite strong earnings), Broadcom (up on Google's capex guidance), and Workday (down on workforce cuts). Treasury yields held steady at 4.27% for 10-year bonds, with markets pricing a 90% chance of unchanged Fed rates in March.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50403159/stock-market-today-dow-jones-futures-fall-nasdaq-gains-day-after-tech-selloff-alphabet-broadcom-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "GOOG",
+            "GOOGL",
+            "AVGO",
+            "AMZN",
+            "WDAY",
+            "SHEL",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "tech selloff",
+            "earnings",
+            "Federal Reserve",
+            "AI infrastructure",
+            "capital expenditures",
+            "jobless claims",
+            "rotation trade"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-02-05T12:53:34Z",
+          "title": "Fed's Lisa Cook Says Inflation Is Still Too Hot \u2014 And A 'K-Shaped' Economy Is Leaving Low-Income Americans Behind",
+          "description": "Federal Reserve Governor Lisa Cook signaled a cautious 'wait and see' approach to monetary policy, noting that inflation remains stubbornly above the Fed's 2% target at 2.9% and progress stalled in 2025. She warned of a 'K-shaped' economy where higher-income households maintain robust spending while low- and moderate-income families face rising delinquencies and stagnant spending, with elevated unemployment among Black and youth populations.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/26/02/50407691/feds-lisa-cook-says-inflation-is-still-too-hot-and-a-k-shaped-economy-is-leaving-low-income?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "inflation",
+            "monetary policy",
+            "K-shaped economy",
+            "interest rates",
+            "PCE inflation",
+            "low-income households",
+            "labor market",
+            "tariffs"
+          ]
+        },
+        {
+          "published_utc": "2026-02-05T13:42:00Z",
+          "title": "Stock Market Today: Dow, S&P 500, Nasdaq Futures Fall After Tech Selloff\u2014Alphabet, Broadcom, Amazon In Focus (UPDATED)",
+          "description": "U.S. stock futures were mixed on Thursday as markets rotated away from tech stocks following Wednesday's selloff. The Dow Jones fell while the Nasdaq gained. Amazon reports earnings after the bell, and investors await jobless claims data. Key movers include Alphabet (down despite strong earnings), Broadcom (up on Google's capex guidance), and Workday (down on workforce cuts). Treasury yields held steady at 4.27% for 10-year bonds, with markets pricing a 90% chance of unchanged Fed rates in March.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50403159/stock-market-today-dow-jones-futures-fall-nasdaq-gains-day-after-tech-selloff-alphabet-broadcom-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "GOOG",
+            "GOOGL",
+            "AVGO",
+            "AMZN",
+            "WDAY",
+            "SHEL",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "tech selloff",
+            "earnings",
+            "Federal Reserve",
+            "AI infrastructure",
+            "capital expenditures",
+            "jobless claims",
+            "rotation trade"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "event": {
+    "event_id": "GOOGL_20240905_133000",
+    "ticker": "GOOGL",
+    "t0_utc": "2024-09-05 13:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-09-05T10:30:00+00:00",
+      "end": "2024-09-05T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-09-05T10:50:00Z",
+        "title": "Prediction: This Beaten-Down Artificial Intelligence (AI) Stock Is About to Go Parabolic. Here's Why.",
+        "description": "Dell Technologies (DELL) is a computer maker and data-storage company that has seen its stock price decline in recent months. However, the author believes the company's infrastructure solutions and client solutions businesses are well-positioned to benefit from ongoing investments in data centers and a potential hardware refresh cycle, which could lead to growth acceleration and a rebound in the stock price.",
+        "article_url": "https://www.fool.com/investing/2024/09/05/prediction-this-beaten-down-artificial-intelligenc/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Adam Spatacco",
+        "tickers": [
+          "DELL",
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "AMZN",
+          "TSLA"
+        ],
+        "keywords": [
+          "Dell Technologies",
+          "artificial intelligence",
+          "data centers",
+          "hardware refresh cycle"
+        ]
+      },
+      {
+        "published_utc": "2024-09-05T11:50:00Z",
+        "title": "Down a Monstrous 90% This Year, Is There Any Hope Left for Ginkgo Bioworks Investors?",
+        "description": "Ginkgo Bioworks, a biotech company, has seen its stock price plummet by over 90% in the past year. The company's financials are problematic, with significant cash burn and declining sales. Investors are advised to stay away from the stock due to the high-risk nature of the business and lack of proof of sustainable operations.",
+        "article_url": "https://www.fool.com/investing/2024/09/05/down-a-monstrous-90-this-year-is-there-any-hope-le/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "DNA",
+          "DNA.WS",
+          "GOOG",
+          "GOOGL",
+          "MRK",
+          "NVO"
+        ],
+        "keywords": [
+          "Ginkgo Bioworks",
+          "biotech",
+          "stock price",
+          "financials",
+          "cash burn",
+          "high-risk"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "event": {
+    "event_id": "JPM_20250116_135500",
+    "ticker": "JPM",
+    "t0_utc": "2025-01-16 13:55:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-01-16T10:55:00+00:00",
+      "end": "2025-01-16T14:55:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-01-16T11:53:00Z",
+        "title": "Where Will American Express Be in 5 Years?",
+        "description": "American Express has outperformed the broader market in the past five years, and is expected to continue growing its revenue and payment volume. However, the current valuation is a concern, and future returns may not be as high as in the past.",
+        "article_url": "https://www.fool.com/investing/2025/01/16/where-will-american-express-be-in-5-years/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Neil Patel",
+        "tickers": [
+          "AXP",
+          "COST",
+          "DAL",
+          "HLT",
+          "UBER",
+          "AMJB",
+          "JPM",
+          "JPMpC",
+          "JPMpD",
+          "JPMpJ",
+          "JPMpK",
+          "JPMpL",
+          "JPMpM",
+          "COF",
+          "COFpI",
+          "COFpJ",
+          "COFpK",
+          "COFpL",
+          "COFpN"
+        ],
+        "keywords": [
+          "American Express",
+          "credit cards",
+          "payments",
+          "valuation"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-01-16T14:07:00Z",
+          "title": "4 Simple ETFs to Buy With $1,000 and Hold for a Lifetime",
+          "description": "The article discusses building a diversified ETF portfolio with four funds - SPDR S&P 500 ETF Trust, Invesco QQQ Trust, Vanguard Small-Cap ETF, and iShares 20+ Year Treasury Bond ETF. The author suggests this mix can provide stability, value, and growth potential for long-term investors.",
+          "article_url": "https://www.fool.com/investing/2025/01/16/4-simple-etfs-to-buy-with-1000-and-hold-forever/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Anders Bylund",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "VB",
+            "TLT"
+          ],
+          "keywords": [
+            "ETF",
+            "portfolio",
+            "diversification",
+            "long-term investing",
+            "S&P 500",
+            "NASDAQ 100",
+            "small-cap",
+            "Treasury bonds"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-01-16T11:10:00Z",
+          "title": "Want to Collect $50,000 in Dividends per Year in Retirement? Here's How",
+          "description": "The article discusses how to build a portfolio that can generate $50,000 in annual dividends. It recommends investing in growth stocks like the Invesco QQQ Trust ETF early on, then transitioning to dividend-focused funds like the Invesco High Yield Equity Dividend Achievers ETF as retirement approaches.",
+          "article_url": "https://www.fool.com/investing/2025/01/16/want-to-collect-50000-in-dividends-per-year-in-ret/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "David Jagielski",
+          "tickers": [
+            "QQQ",
+            "PEY"
+          ],
+          "keywords": [
+            "dividends",
+            "portfolio",
+            "growth stocks",
+            "ETFs"
+          ]
+        },
+        {
+          "published_utc": "2025-01-16T14:07:00Z",
+          "title": "4 Simple ETFs to Buy With $1,000 and Hold for a Lifetime",
+          "description": "The article discusses building a diversified ETF portfolio with four funds - SPDR S&P 500 ETF Trust, Invesco QQQ Trust, Vanguard Small-Cap ETF, and iShares 20+ Year Treasury Bond ETF. The author suggests this mix can provide stability, value, and growth potential for long-term investors.",
+          "article_url": "https://www.fool.com/investing/2025/01/16/4-simple-etfs-to-buy-with-1000-and-hold-forever/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Anders Bylund",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "VB",
+            "TLT"
+          ],
+          "keywords": [
+            "ETF",
+            "portfolio",
+            "diversification",
+            "long-term investing",
+            "S&P 500",
+            "NASDAQ 100",
+            "small-cap",
+            "Treasury bonds"
+          ]
+        }
+      ]
+    }
+  }
+}

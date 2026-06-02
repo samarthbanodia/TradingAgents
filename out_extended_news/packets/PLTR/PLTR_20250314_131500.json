@@ -1,0 +1,45 @@
+{
+  "event": {
+    "event_id": "PLTR_20250314_131500",
+    "ticker": "PLTR",
+    "t0_utc": "2025-03-14 13:15:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-03-14T10:15:00+00:00",
+      "end": "2025-03-14T14:15:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-03-14T11:18:00Z",
+          "title": "Buffett Just Sold 2 ETFs. Should You Follow His Lead?",
+          "description": "Warren Buffett's Berkshire Hathaway sold its positions in the Vanguard S&P 500 ETF (VOO) and the SPDR S&P 500 Index Trust ETF (SPY) in Q4 2024. The article discusses the context and potential reasons behind this move, noting that the positions were relatively small compared to Berkshire's overall portfolio.",
+          "article_url": "https://www.fool.com/investing/2025/03/14/buffett-just-sold-2-etfs-should-you-follow-his-lea/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Reuben Gregg Brewer",
+          "tickers": [
+            "VOO",
+            "SPY"
+          ],
+          "keywords": [
+            "Warren Buffett",
+            "Berkshire Hathaway",
+            "Vanguard S&P 500 ETF",
+            "SPDR S&P 500 Index Trust ETF",
+            "S&P 500 index"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

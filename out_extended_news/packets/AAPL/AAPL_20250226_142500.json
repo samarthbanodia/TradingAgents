@@ -1,0 +1,67 @@
+{
+  "event": {
+    "event_id": "AAPL_20250226_142500",
+    "ticker": "AAPL",
+    "t0_utc": "2025-02-26 14:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-02-26T11:25:00+00:00",
+      "end": "2025-02-26T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-02-26T13:45:00Z",
+        "title": "Prediction: This Artificial Intelligence (AI) Company Will Split Its Stock in 2025",
+        "description": "Microsoft is likely to split its stock this year due to pressure from its inclusion in the price-weighted Dow Jones Industrial Average. The company's high stock price compared to other Dow components may prompt a split, similar to Apple's move in 2020.",
+        "article_url": "https://www.fool.com/investing/2025/02/26/prediction-this-ai-company-split-stock-2025/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Will Healy",
+        "tickers": [
+          "MSFT",
+          "NVDA",
+          "AVGO",
+          "AAPL"
+        ],
+        "keywords": [
+          "Microsoft",
+          "stock split",
+          "Dow Jones Industrial Average",
+          "Apple"
+        ]
+      },
+      {
+        "published_utc": "2025-02-26T14:00:00Z",
+        "title": "LiveWorld Expands Board of Directors, Adding Healthcare & Tech Executive Carl Gustin",
+        "description": "LiveWorld, a social-first digital agency, has appointed Carl Gustin, an experienced healthcare and technology executive, to its Board of Directors. Gustin's expertise in AI-driven business transformation is expected to help LiveWorld expand its client portfolio and innovative AI solutions in the healthcare and pharmaceutical sectors.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/02/26/3032949/0/en/LiveWorld-Expands-Board-of-Directors-Adding-Healthcare-Tech-Executive-Carl-Gustin.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "N/A",
+        "tickers": [
+          "LVWD",
+          "KODK",
+          "AAPL"
+        ],
+        "keywords": [
+          "LiveWorld",
+          "Carl Gustin",
+          "healthcare",
+          "technology",
+          "AI",
+          "pharmaceutical"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

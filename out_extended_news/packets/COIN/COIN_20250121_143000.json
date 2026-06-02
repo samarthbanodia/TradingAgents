@@ -1,0 +1,75 @@
+{
+  "event": {
+    "event_id": "COIN_20250121_143000",
+    "ticker": "COIN",
+    "t0_utc": "2025-01-21 14:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-01-21T11:30:00+00:00",
+      "end": "2025-01-21T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-01-21T12:11:43Z",
+          "title": "US Stocks Set To Open On A Positive Note As Trump's Second White House Term Kicks Off: Tesla, Apple, Netflix Among Stocks In Focus",
+          "description": "US stocks are expected to open on a positive note as Donald Trump begins his second term as president. Key stocks in focus include Tesla, Apple, Netflix, and others. The market is optimistic about earnings growth prospects for US companies compared to their European counterparts.",
+          "article_url": "https://www.benzinga.com/markets/futures/25/01/43093520/us-stocks-set-to-open-on-a-positive-note-as-trumps-second-white-house-term-kicks-off-tesla-apple-",
+          "publisher": "Benzinga",
+          "author": "Rounak Jain",
+          "tickers": [
+            "TSLA",
+            "AAPL",
+            "NFLX",
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "US stocks",
+            "Donald Trump",
+            "Tesla",
+            "Apple",
+            "Netflix",
+            "earnings growth",
+            "European stocks"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-01-21T12:11:43Z",
+          "title": "US Stocks Set To Open On A Positive Note As Trump's Second White House Term Kicks Off: Tesla, Apple, Netflix Among Stocks In Focus",
+          "description": "US stocks are expected to open on a positive note as Donald Trump begins his second term as president. Key stocks in focus include Tesla, Apple, Netflix, and others. The market is optimistic about earnings growth prospects for US companies compared to their European counterparts.",
+          "article_url": "https://www.benzinga.com/markets/futures/25/01/43093520/us-stocks-set-to-open-on-a-positive-note-as-trumps-second-white-house-term-kicks-off-tesla-apple-",
+          "publisher": "Benzinga",
+          "author": "Rounak Jain",
+          "tickers": [
+            "TSLA",
+            "AAPL",
+            "NFLX",
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "US stocks",
+            "Donald Trump",
+            "Tesla",
+            "Apple",
+            "Netflix",
+            "earnings growth",
+            "European stocks"
+          ]
+        }
+      ]
+    }
+  }
+}

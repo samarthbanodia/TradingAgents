@@ -1,0 +1,124 @@
+{
+  "event": {
+    "event_id": "NVDA_20260123_110000",
+    "ticker": "NVDA",
+    "t0_utc": "2026-01-23 11:00:00+00:00",
+    "direction": 1,
+    "label_proxy": "unclear",
+    "window": {
+      "start": "2026-01-23T08:00:00+00:00",
+      "end": "2026-01-23T12:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-01-23T08:00:00Z",
+        "title": "KraneShares Cross-Lists KOID Humanoid Robotics ETF on Deutsche B\u00f6rse Xetra Under Ticker KBOT",
+        "description": "KraneShares announced the cross-listing of its Global Humanoid & Embodied Intelligence Index UCITS ETF on Deutsche B\u00f6rse Xetra under ticker KBOT, bringing the strategy to German investors. The ETF provides diversified exposure to humanoid robotics and embodied intelligence companies, including Tesla, NVIDIA, and German firms like Infineon Technologies and Schaeffler. The listing capitalizes on growing commercial deployment of humanoid robots across manufacturing, logistics, and healthcare sectors.",
+        "article_url": "https://www.globenewswire.com/news-release/2026/01/23/3224437/0/en/KraneShares-Cross-Lists-KOID-Humanoid-Robotics-ETF-on-Deutsche-B%C3%B6rse-Xetra-Under-Ticker-KBOT.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Kraneshares",
+        "tickers": [
+          "KRANF",
+          "TSLA",
+          "NVDA",
+          "SFFLY"
+        ],
+        "keywords": [
+          "humanoid robotics",
+          "embodied intelligence",
+          "ETF listing",
+          "Deutsche B\u00f6rse Xetra",
+          "industrial automation",
+          "artificial intelligence",
+          "KBOT",
+          "KOID"
+        ]
+      },
+      {
+        "published_utc": "2026-01-23T08:28:00Z",
+        "title": "Ourbit Accelerates Cross-Market Strategy with Commodities, Tokenised Stocks and Big Rewards",
+        "description": "Ourbit SuperCEX has launched new features including a Commodities Trading Carnival with up to 15,000 USDT in prizes, expanded its Tokenised Stocks section to trade major equities like Tesla and Apple, and introduced a Fortune Wheel event to enhance user engagement. These initiatives aim to bridge traditional finance and digital assets while expanding the platform's global trading ecosystem.",
+        "article_url": "https://www.globenewswire.com/news-release/2026/01/23/3224444/0/en/Ourbit-Accelerates-Cross-Market-Strategy-with-Commodities-Tokenised-Stocks-and-Big-Rewards.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Jason Lee",
+        "tickers": [
+          "TSLA",
+          "AAPL",
+          "NVDA",
+          "AMZN"
+        ],
+        "keywords": [
+          "cryptocurrency exchange",
+          "commodities trading",
+          "tokenised stocks",
+          "futures trading",
+          "user incentives",
+          "digital assets",
+          "trading platform"
+        ]
+      },
+      {
+        "published_utc": "2026-01-23T10:15:00Z",
+        "title": "Can Generative AI Drive These 3 ETFs to 43% Gains This Year?",
+        "description": "The article examines three semiconductor ETFs as investment opportunities to capitalize on generative AI growth, which is projected to expand at a 43.4% compound annual growth rate through 2032. The VanEck Semiconductor ETF (SMH), State Street SPDR S&P Semiconductor ETF (XSD), and iShares Semiconductor ETF (SOXX) are highlighted as diversified ways to gain exposure to semiconductor companies driving AI infrastructure development.",
+        "article_url": "https://www.fool.com/investing/2026/01/23/can-generative-ai-drive-these-3-etfs-to-43-gains/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Patrick Sanders",
+        "tickers": [
+          "SMH",
+          "XSD",
+          "SOXX",
+          "NVDA",
+          "TSM",
+          "AVGO",
+          "MU",
+          "ASML",
+          "AMD",
+          "AMAT"
+        ],
+        "keywords": [
+          "generative AI",
+          "semiconductor ETFs",
+          "investment opportunity",
+          "AI market growth",
+          "chip stocks"
+        ]
+      },
+      {
+        "published_utc": "2026-01-23T11:24:00Z",
+        "title": "Intel: Why Did the Stock Drop 14% After a Weak Forecast?",
+        "description": "Intel shares plummeted 14% following Q4 earnings despite beating revenue and EPS expectations. The stock decline was driven by weak Q1 2026 guidance, persistent manufacturing problems, supply shortages, and CEO Lip-Bu Tan's acknowledgment of production difficulties. While the Data Center and AI segment showed 9% growth, the Client Computing Group declined 7%, and the company projected breakeven adjusted EPS for Q1 versus analyst expectations of 5 cents.",
+        "article_url": "https://www.investing.com/analysis/intel-why-did-the-stock-drop-14-after-a-weak-forecast-200673771",
+        "publisher": "Investing.com",
+        "author": "Timothy Fries",
+        "tickers": [
+          "INTC",
+          "NVDA",
+          "AMD"
+        ],
+        "keywords": [
+          "Intel earnings",
+          "weak guidance",
+          "manufacturing problems",
+          "supply shortage",
+          "AI chip market",
+          "stock decline",
+          "Q4 2025 results",
+          "data center",
+          "foundry business"
+        ]
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

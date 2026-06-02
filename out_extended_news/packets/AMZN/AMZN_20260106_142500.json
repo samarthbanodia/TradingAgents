@@ -1,0 +1,160 @@
+{
+  "event": {
+    "event_id": "AMZN_20260106_142500",
+    "ticker": "AMZN",
+    "t0_utc": "2026-01-06 14:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2026-01-06T11:25:00+00:00",
+      "end": "2026-01-06T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-01-06T12:00:00Z",
+        "title": "BitMEX Launches Equity Perps for 24/7 Stock Trading",
+        "description": "BitMEX announced the launch of Equity Perps, a new derivatives product enabling 24/7 trading on major U.S. stocks and equity indices using cryptocurrency as collateral. The product supports up to 20x leverage on assets like Bitcoin and Tether, with initial offerings on stocks including Amazon, Apple, Tesla, Nvidia, and indices like S&P 500 and Nasdaq.",
+        "article_url": "https://www.globenewswire.com/news-release/2026/01/06/3213433/0/en/BitMEX-Launches-Equity-Perps-for-24-7-Stock-Trading.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Bitmex Press",
+        "tickers": [
+          "AMZN",
+          "AAPL",
+          "META",
+          "NVDA",
+          "TSLA",
+          "COIN",
+          "HOOD"
+        ],
+        "keywords": [
+          "Equity Perps",
+          "derivatives",
+          "perpetual swaps",
+          "cryptocurrency collateral",
+          "24/7 trading",
+          "leverage trading",
+          "U.S. equities"
+        ]
+      },
+      {
+        "published_utc": "2026-01-06T12:07:00Z",
+        "title": "Top Stocks to Double Up on Right Now",
+        "description": "The article recommends three tech stocks to buy more of: Broadcom, which has significant growth potential from AI ASICs with revenue expected to double to over $50 billion; Taiwan Semiconductor Manufacturing (TSMC), trading at attractive valuations with expanding technological lead in chip manufacturing; and Amazon, which offers undervalued stock with accelerating AWS growth and strong AI initiatives.",
+        "article_url": "https://www.fool.com/investing/2026/01/06/top-stocks-to-double-up-on-right-now/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Geoffrey Seiler",
+        "tickers": [
+          "AVGO",
+          "TSM",
+          "AMZN",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "AI chips",
+          "semiconductor manufacturing",
+          "cloud computing",
+          "custom ASICs",
+          "valuation",
+          "growth catalysts"
+        ]
+      },
+      {
+        "published_utc": "2026-01-06T14:50:00Z",
+        "title": "5 Stocks Wall Street Repriced Higher Heading Into 2026",
+        "description": "Wall Street analysts have upgraded five tech stocks crucial to AI and data center growth, with bullish sentiment strengthened in Q4 2025. Alphabet, Micron, CrowdStrike, Amazon, and Datadog all received multiple analyst revisions and price target increases, with consensus forecasts pointing to double-digit upside potential ranging from 20% to 50% in 2026.",
+        "article_url": "https://www.investing.com/analysis/5-stocks-wall-street-repriced-higher-heading-into-2026-200672763",
+        "publisher": "Investing.com",
+        "author": "Thomas Hughes",
+        "tickers": [
+          "GOOG",
+          "GOOGL",
+          "MU",
+          "CRWD",
+          "AMZN",
+          "DDOG"
+        ],
+        "keywords": [
+          "AI stocks",
+          "analyst upgrades",
+          "price targets",
+          "tech stocks",
+          "data center",
+          "2026 outlook",
+          "bullish sentiment"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-01-06T13:28:49Z",
+          "title": "Stock Market Today: Nasdaq Futures Pare Losses, Dow Drops After Scaling Record Highs\u2014 CoreWeave, Vistra, Microchip Technology In Focus (UPDATED)",
+          "description": "U.S. stock futures were mixed on Tuesday following Monday's rally that saw the Dow Jones jump nearly 600 points to an all-time high, driven by geopolitical developments in Venezuela. Key movers include CoreWeave rising on Nvidia partnership plans, Vistra gaining on a $4.7 billion acquisition, and Microchip Technology advancing on better-than-expected guidance. Treasury yields held steady at 4.17% for the 10-year bond, with markets pricing in an 83.9% probability of unchanged Fed rates in January.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/49715834/stock-market-today-dow-jones-futures-drop-after-scaling-record-highs-coreweave-vistra-microchip-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "CRWV",
+            "VST",
+            "MCHP",
+            "MCHPP",
+            "GLPG",
+            "AIR",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "Dow Jones",
+            "futures",
+            "Venezuela",
+            "oil",
+            "Federal Reserve",
+            "interest rates",
+            "earnings guidance",
+            "acquisitions"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-01-06T13:28:49Z",
+          "title": "Stock Market Today: Nasdaq Futures Pare Losses, Dow Drops After Scaling Record Highs\u2014 CoreWeave, Vistra, Microchip Technology In Focus (UPDATED)",
+          "description": "U.S. stock futures were mixed on Tuesday following Monday's rally that saw the Dow Jones jump nearly 600 points to an all-time high, driven by geopolitical developments in Venezuela. Key movers include CoreWeave rising on Nvidia partnership plans, Vistra gaining on a $4.7 billion acquisition, and Microchip Technology advancing on better-than-expected guidance. Treasury yields held steady at 4.17% for the 10-year bond, with markets pricing in an 83.9% probability of unchanged Fed rates in January.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/49715834/stock-market-today-dow-jones-futures-drop-after-scaling-record-highs-coreweave-vistra-microchip-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "CRWV",
+            "VST",
+            "MCHP",
+            "MCHPP",
+            "GLPG",
+            "AIR",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "Dow Jones",
+            "futures",
+            "Venezuela",
+            "oil",
+            "Federal Reserve",
+            "interest rates",
+            "earnings guidance",
+            "acquisitions"
+          ]
+        }
+      ]
+    }
+  }
+}

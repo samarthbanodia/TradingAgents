@@ -1,0 +1,207 @@
+{
+  "event": {
+    "event_id": "GOOGL_20240528_132500",
+    "ticker": "GOOGL",
+    "t0_utc": "2024-05-28 13:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-05-28T10:25:00+00:00",
+      "end": "2024-05-28T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-05-28T11:26:00Z",
+        "title": "5 Stocks With High ROE to Profit as Markets Sway Whimsically",
+        "description": "Reliance (RS), Suzano (SUZ), PulteGroup (PHM), Alphabet (GOOGL) and Banco de Chile (BCH) are some of the stocks with high ROE to profit from as markets exhibit whimsical patterns.",
+        "article_url": "https://www.zacks.com/stock/news/2279849/5-stocks-with-high-roe-to-profit-as-markets-sway-whimsically",
+        "publisher": "Zacks Investment Research",
+        "author": "Supriyo Bose",
+        "tickers": [
+          "RS",
+          "PHM",
+          "BCH",
+          "GOOGL",
+          "SUZ"
+        ],
+        "keywords": []
+      },
+      {
+        "published_utc": "2024-05-28T11:37:00Z",
+        "title": "Zacks Investment Ideas feature highlights: Nvidia, Alphabet and Arista Networks",
+        "description": "Nvidia, Alphabet and Arista Networks are part of the Zacks Investment Ideas article.",
+        "article_url": "https://www.zacks.com/stock/news/2279861/zacks-investment-ideas-feature-highlights-nvidia-alphabet-and-arista-networks",
+        "publisher": "Zacks Investment Research",
+        "author": "Zacks Equity Research",
+        "tickers": [
+          "NVDA",
+          "GOOGL",
+          "ANET"
+        ],
+        "keywords": []
+      },
+      {
+        "published_utc": "2024-05-28T12:04:00Z",
+        "title": "4 Top-Performing Liquid Stocks to Strengthen Portfolio Returns",
+        "description": "Here are four top-performing liquid stocks, Alpha and Omega Semiconductor (AOSL), Alphabet (GOOGL), Netflix (NFLX) and Spotify (SPOT), which investors can add to their portfolio to boost returns.",
+        "article_url": "https://www.zacks.com/stock/news/2279922/4-top-performing-liquid-stocks-to-strengthen-portfolio-returns",
+        "publisher": "Zacks Investment Research",
+        "author": "Vaishali Doshi",
+        "tickers": [
+          "NFLX",
+          "AOSL",
+          "GOOGL",
+          "SPOT"
+        ],
+        "keywords": []
+      },
+      {
+        "published_utc": "2024-05-28T12:27:00Z",
+        "title": "4 Solid Stocks to Gain From Nasdaq's New Milestone",
+        "description": "Stocks like NVIDIA Corporation, Alphabet Inc. (GOOGL), Netflix, Inc. (NFLX) and Palo Alto Networks, Inc. (PANW) are likely to benefit from the ongoing tech rally.",
+        "article_url": "https://www.zacks.com/stock/news/2279945/4-solid-stocks-to-gain-from-nasdaqs-new-milestone",
+        "publisher": "Zacks Investment Research",
+        "author": "Ritujay Ghosh",
+        "tickers": [
+          "NFLX",
+          "NVDA",
+          "PANW",
+          "GOOGL"
+        ],
+        "keywords": []
+      },
+      {
+        "published_utc": "2024-05-28T12:47:00Z",
+        "title": "Is Zscaler (ZS) Stock Worth Buying Ahead of Q3 Earnings?",
+        "description": "Zscaler's (ZS) expanding portfolio, client base, acquisitions and partnerships are key upsides. However, considering a stretched valuation and near-term headwinds from macroeconomic uncertainties, it will be prudent for investors to wait for a better entry time.",
+        "article_url": "https://www.zacks.com/stock/news/2279870/is-zscaler-zs-stock-worth-buying-ahead-of-q3-earnings",
+        "publisher": "Zacks Investment Research",
+        "author": "Anirudha Bhagat",
+        "tickers": [
+          "AMZN",
+          "MSFT",
+          "GOOGL",
+          "ZS"
+        ],
+        "keywords": []
+      },
+      {
+        "published_utc": "2024-05-28T14:09:00Z",
+        "title": "Solar Shines: 3 Bullish Catalysts Suggest Further Upside",
+        "description": "Solar stocks have rallied recently, but the rally is more than just a \"dead cat\" bounce. Data center demand, a crackdown on Chinese solar, and interest rate cuts all bode well for solar stocks in 2024.",
+        "article_url": "https://www.zacks.com/commentary/2280075/solar-shines-3-bullish-catalysts-suggest-further-upside",
+        "publisher": "Zacks Investment Research",
+        "author": "Andrew Rocco",
+        "tickers": [
+          "GS",
+          "MSFT",
+          "FSLR",
+          "ENPH",
+          "TAN",
+          "GOOGL",
+          "NXT"
+        ],
+        "keywords": []
+      }
+    ],
+    "ticker_news_count": 6,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-05-28T11:27:20Z",
+          "title": "Wall Street Eyes Mixed Start After Memorial Day Break: Tech And Meme Stocks Gain; Analyst Says Sustained Selloff 'Unlikely'",
+          "description": "Index futures point to a slightly higher opening for the market on Tuesday after the long Memorial Day weekend. This week marks a significant\u00a0change,\u00a0as the settlement cycle\u00a0transitions from T+2 to T+1. The Securities and Exchange Commission expects this shift to reduce risks associated with unsettled trades, including credit, market, and liquidity risks.\nTraders\u00a0are carefully weighing\u00a0each piece of economic data as they reassess the likelihood of future interest rate cuts. Speeches from Federal Reserve officials and an upcoming consumer confidence report\u00a0are key factors influencing\u00a0their decisions.\nWhile the premarket shows strength in the\u00a0big\u00a0tech sector, suggesting potential gains on Tuesday, investors may remain cautious leading up to the inflation data release on Friday.\n\n\n\n\n\nFutures\nPerformance (+/-)\n\n\nNasdaq 100\n+0.21%\n\n\nS&P 500\n+0.08%\n\n\nDow\n-0.12%\n\n\nR2K\n+0.21%\n\n\n\n\nIn premarket trading on Tuesday,\u00a0the SPDR S&P 500 ETF Trust\u00a0(NYSE:SPY) climbed 0.11% to $530.04, and the\u00a0Invesco QQQ ETF\u00a0(NASDAQ:QQQ) traded up 0.25% at $459.11, according to\u00a0Benzinga Pro data.\nCues From The Past Week\u00a0\nNvidia Corp.\u2019s (NASDAQ:NVDA) earnings boosted tech stocks in the week ending May 24, with the Nasdaq Composite closing at a new high. However,\u00a0strong\u00a0economic data and the minutes from the April 30-May 1 Federal Open Market Committee meeting clouded the rate-cut outlook for the year.\nThe S&P 500 Index posted a marginal gain for the week but did not ...Full story available on Benzinga.com",
+          "article_url": "https://www.benzinga.com/news/earnings/24/05/39035564/wall-street-eyes-mixed-start-after-memorial-day-break-tech-and-meme-stocks-gain-analyst-says-sustai",
+          "publisher": "Benzinga",
+          "author": "Shanthi Rexaline",
+          "tickers": [
+            "SPY",
+            "AAPL",
+            "NVDA",
+            "GME",
+            "BOX",
+            "QQQ",
+            "AMC",
+            "CAVA"
+          ],
+          "keywords": [
+            "News",
+            "Earnings",
+            "Equities",
+            "Futures",
+            "Previews",
+            "Top Stories",
+            "Economics",
+            "Federal Reserve",
+            "Pre-Market Outlook",
+            "Markets",
+            "Movers",
+            "Trading Ideas"
+          ]
+        },
+        {
+          "published_utc": "2024-05-28T12:52:11Z",
+          "title": "Magnificent 7 Becomes 'The Magnificent One': Wall Street Guru Hails Single Tech Stock As Market Leader",
+          "description": "Seasoned Wall Street investor Ed Yardeni, founder and CEO of Yardeni Research, has boldly rebranded the Magnificent Seven giants as the \u201cMagnificent One,\u201d referring only to Nvidia Corp. (NASDAQ:NVDA) as the key driver of this year\u2019s market gains.\nYardeni noted that the semiconductor giant has rallied by 115% year-to-date, more than three times as much as Meta Platforms Inc. (NASDAQ:META) \u2013 the top performer among the \u201cMagnificent Six\u201d \u2013 and more than 10 times as much as the broader S&P 500 index, as tracked by the SPDR S&P 500 ETF Trust (NYSE:SPY).\n\u201cNvidia is the only clear beneficiary of the AI boom currently because everyone who wants to play has to pay for the company\u2019s expensive GPU chips,\u201d Yardeni said.\nHowever, he cautioned that the heavy capital expenditures could affect the profitability of Nvidia\u2019s clients, who ...Full story available on Benzinga.com",
+          "article_url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/05/39037833/magnificent-7-becomes-the-magnificent-one-wall-street-guru-hails-single-tech-stock-",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "SPY",
+            "NVDA",
+            "META"
+          ],
+          "keywords": [
+            "Analyst Color",
+            "Equities",
+            "Large Cap",
+            "Econ #s",
+            "Top Stories",
+            "Federal Reserve",
+            "Tech"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2024-05-28T11:27:20Z",
+          "title": "Wall Street Eyes Mixed Start After Memorial Day Break: Tech And Meme Stocks Gain; Analyst Says Sustained Selloff 'Unlikely'",
+          "description": "Index futures point to a slightly higher opening for the market on Tuesday after the long Memorial Day weekend. This week marks a significant\u00a0change,\u00a0as the settlement cycle\u00a0transitions from T+2 to T+1. The Securities and Exchange Commission expects this shift to reduce risks associated with unsettled trades, including credit, market, and liquidity risks.\nTraders\u00a0are carefully weighing\u00a0each piece of economic data as they reassess the likelihood of future interest rate cuts. Speeches from Federal Reserve officials and an upcoming consumer confidence report\u00a0are key factors influencing\u00a0their decisions.\nWhile the premarket shows strength in the\u00a0big\u00a0tech sector, suggesting potential gains on Tuesday, investors may remain cautious leading up to the inflation data release on Friday.\n\n\n\n\n\nFutures\nPerformance (+/-)\n\n\nNasdaq 100\n+0.21%\n\n\nS&P 500\n+0.08%\n\n\nDow\n-0.12%\n\n\nR2K\n+0.21%\n\n\n\n\nIn premarket trading on Tuesday,\u00a0the SPDR S&P 500 ETF Trust\u00a0(NYSE:SPY) climbed 0.11% to $530.04, and the\u00a0Invesco QQQ ETF\u00a0(NASDAQ:QQQ) traded up 0.25% at $459.11, according to\u00a0Benzinga Pro data.\nCues From The Past Week\u00a0\nNvidia Corp.\u2019s (NASDAQ:NVDA) earnings boosted tech stocks in the week ending May 24, with the Nasdaq Composite closing at a new high. However,\u00a0strong\u00a0economic data and the minutes from the April 30-May 1 Federal Open Market Committee meeting clouded the rate-cut outlook for the year.\nThe S&P 500 Index posted a marginal gain for the week but did not ...Full story available on Benzinga.com",
+          "article_url": "https://www.benzinga.com/news/earnings/24/05/39035564/wall-street-eyes-mixed-start-after-memorial-day-break-tech-and-meme-stocks-gain-analyst-says-sustai",
+          "publisher": "Benzinga",
+          "author": "Shanthi Rexaline",
+          "tickers": [
+            "SPY",
+            "AAPL",
+            "NVDA",
+            "GME",
+            "BOX",
+            "QQQ",
+            "AMC",
+            "CAVA"
+          ],
+          "keywords": [
+            "News",
+            "Earnings",
+            "Equities",
+            "Futures",
+            "Previews",
+            "Top Stories",
+            "Economics",
+            "Federal Reserve",
+            "Pre-Market Outlook",
+            "Markets",
+            "Movers",
+            "Trading Ideas"
+          ]
+        }
+      ]
+    }
+  }
+}

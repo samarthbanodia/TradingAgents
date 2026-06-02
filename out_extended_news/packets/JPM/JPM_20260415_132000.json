@@ -1,0 +1,89 @@
+{
+  "event": {
+    "event_id": "JPM_20260415_132000",
+    "ticker": "JPM",
+    "t0_utc": "2026-04-15 13:20:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-04-15T10:20:00+00:00",
+      "end": "2026-04-15T14:20:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-04-15T12:43:53Z",
+          "title": "Stock Market Today: S&P 500, Dow Jones Futures Gain As Trump Fuels De-Escalation Hopes\u2014ASML, Gitlab, Broadcom In Focus (UPDATED)",
+          "description": "U.S. stock futures gained on Wednesday following Trump's comments about potential Iran talks, boosting de-escalation hopes. Major indices showed mixed performance with the S&P 500 up 0.05% and Nasdaq 100 up 0.11% in premarket trading. Key movers included ASML beating earnings expectations, Broadcom partnering with Meta on AI chips, and GitLab collaborating with Google Cloud. BlackRock upgraded to overweight U.S. stocks citing contained geopolitical damage and strong corporate earnings.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/04/51824014/stock-market-today-sp-500-nasdaq-futures-gain-as-trump-fuels-de-escalation-hopes-asml-holding-gi?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "ASML",
+            "AVGO",
+            "GTLB",
+            "WULF",
+            "STLA",
+            "META",
+            "GOOG",
+            "GOOGL",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "S&P 500",
+            "Nasdaq",
+            "de-escalation",
+            "Iran talks",
+            "AI chips",
+            "earnings",
+            "futures",
+            "tech stocks"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-04-15T12:43:53Z",
+          "title": "Stock Market Today: S&P 500, Dow Jones Futures Gain As Trump Fuels De-Escalation Hopes\u2014ASML, Gitlab, Broadcom In Focus (UPDATED)",
+          "description": "U.S. stock futures gained on Wednesday following Trump's comments about potential Iran talks, boosting de-escalation hopes. Major indices showed mixed performance with the S&P 500 up 0.05% and Nasdaq 100 up 0.11% in premarket trading. Key movers included ASML beating earnings expectations, Broadcom partnering with Meta on AI chips, and GitLab collaborating with Google Cloud. BlackRock upgraded to overweight U.S. stocks citing contained geopolitical damage and strong corporate earnings.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/04/51824014/stock-market-today-sp-500-nasdaq-futures-gain-as-trump-fuels-de-escalation-hopes-asml-holding-gi?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "ASML",
+            "AVGO",
+            "GTLB",
+            "WULF",
+            "STLA",
+            "META",
+            "GOOG",
+            "GOOGL",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "S&P 500",
+            "Nasdaq",
+            "de-escalation",
+            "Iran talks",
+            "AI chips",
+            "earnings",
+            "futures",
+            "tech stocks"
+          ]
+        }
+      ]
+    }
+  }
+}

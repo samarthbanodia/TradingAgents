@@ -1,0 +1,117 @@
+{
+  "event": {
+    "event_id": "GOOGL_20251117_141000",
+    "ticker": "GOOGL",
+    "t0_utc": "2025-11-17 14:10:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-11-17T11:10:00+00:00",
+      "end": "2025-11-17T15:10:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-11-17T11:32:00Z",
+        "title": "2 Quantum Computing Stocks That Could Make You a Millionaire",
+        "description": "The article explores two quantum computing stocks with potential for significant growth: IonQ, a specialized quantum computing company, and Alphabet, a tech giant with substantial quantum computing research capabilities.",
+        "article_url": "https://www.fool.com/investing/2025/11/17/2-quantum-computing-stocks-that-could-make-you-a-m/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Keith Speights",
+        "tickers": [
+          "IONQ",
+          "IONQ.WS",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "quantum computing",
+          "technology investment",
+          "IonQ",
+          "Alphabet",
+          "quantum computing stocks"
+        ]
+      },
+      {
+        "published_utc": "2025-11-17T13:08:00Z",
+        "title": "Alphabet Valuation Re-Rated as Berkshire Shifts Toward High-Growth Tech",
+        "description": "Berkshire Hathaway acquired a significant 17.85 million share position in Alphabet, valued at $4.93 billion, marking a strategic shift towards high-growth technology investments ahead of Warren Buffett's retirement.",
+        "article_url": "https://www.investing.com/analysis/alphabet-valuation-rerated-as-berkshire-shifts-toward-highgrowth-tech-200670286",
+        "publisher": "Investing.com",
+        "author": "Timothy Fries",
+        "tickers": [
+          "GOOG",
+          "GOOGL",
+          "BRK.A",
+          "BRK.B"
+        ],
+        "keywords": [
+          "Berkshire Hathaway",
+          "Alphabet",
+          "technology investment",
+          "Warren Buffett",
+          "AI",
+          "stock valuation"
+        ]
+      },
+      {
+        "published_utc": "2025-11-17T13:36:33Z",
+        "title": "Stock Market Today: Dow, Nasdaq Futures Rise As Investors Brace For Employment Data, Nvidia Earnings This Week\u2014GOOG, BA, PLTR In Focus (UPDATED)",
+        "description": "U.S. stock futures advanced ahead of key economic data and corporate earnings, with investors anticipating the September jobs report and Nvidia's earnings. Market sentiment remains cautious due to uncertain economic indicators and potential Federal Reserve interest rate decisions.",
+        "article_url": "https://www.benzinga.com/markets/equities/25/11/48893148/stock-market-today-sp-500-dow-futures-rise-as-investors-brace-for-employment-data-nvidia-earning?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Rishabh Mishra",
+        "tickers": [
+          "GOOG",
+          "GOOGL",
+          "DELL",
+          "BA",
+          "BApA",
+          "PLTR",
+          "NVDA"
+        ],
+        "keywords": [
+          "stock futures",
+          "employment data",
+          "earnings",
+          "Federal Reserve",
+          "interest rates"
+        ]
+      },
+      {
+        "published_utc": "2025-11-17T14:10:00Z",
+        "title": "Should You Buy the Dip in AI Stocks? Dan Ives Thinks So.",
+        "description": "Wedbush analyst Dan Ives suggests the current market dip in AI stocks represents a 'golden buying opportunity', predicting continued tech growth and potential significant returns from AI infrastructure investments.",
+        "article_url": "https://www.fool.com/investing/2025/11/17/should-you-buy-dip-in-ai-stocks-dan-ives-says-yes/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Adria Cimino",
+        "tickers": [
+          "AMZN",
+          "GOOG",
+          "GOOGL",
+          "NVDA",
+          "PLTR",
+          "CRWV",
+          "ORCL"
+        ],
+        "keywords": [
+          "AI stocks",
+          "tech investment",
+          "market dip",
+          "cloud infrastructure",
+          "technology rally"
+        ]
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

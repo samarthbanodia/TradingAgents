@@ -1,0 +1,98 @@
+{
+  "event": {
+    "event_id": "TSLA_20250321_133000",
+    "ticker": "TSLA",
+    "t0_utc": "2025-03-21 13:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "unclear",
+    "window": {
+      "start": "2025-03-21T10:30:00+00:00",
+      "end": "2025-03-21T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-03-21T13:08:35Z",
+        "title": "S&P 500 Could Soar 12% By Year-End\u2014But Only If Recession Is Avoided, Goldman Sachs Says",
+        "description": "The S&P 500 could climb 12% to 6,200 by 2025 if the U.S. economy avoids a recession, according to Goldman Sachs. The 'Magnificent 7' tech firms are planning a 32% increase in capital expenditures, signaling confidence in AI and cloud growth.",
+        "article_url": "https://www.benzinga.com/news/econ-s/25/03/44435609/sp-500-could-soar-12-by-year-end-but-only-if-recession-is-avoided-goldman-sachs-says",
+        "publisher": "Benzinga",
+        "author": "Piero Cingari",
+        "tickers": [
+          "AAPL",
+          "AMZN",
+          "GOOG",
+          "GOOGL",
+          "META",
+          "MSFT",
+          "NVDA",
+          "SPY",
+          "TSLA"
+        ],
+        "keywords": [
+          "S&P 500",
+          "recession",
+          "economy",
+          "capital expenditures",
+          "AI",
+          "cloud"
+        ]
+      },
+      {
+        "published_utc": "2025-03-21T13:23:00Z",
+        "title": "1 Wall Street Analyst Thinks Tesla Will Hit $425. Is it a Buy Around $235?",
+        "description": "Tesla (TSLA) has faced a range of challenges, including negative headlines, plunging sales in Europe, and vandalism. However, the company is preparing to launch its robotaxi service in 2023, which could be a game-changer. Wall Street analysts are divided on the stock, with Cantor Fitzgerald upgrading it to overweight, while others have slashed earnings estimates.",
+        "article_url": "https://www.fool.com/investing/2025/03/21/1-wall-street-analyst-thinks-tesla-will-double-is/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jeremy Bowman",
+        "tickers": [
+          "TSLA"
+        ],
+        "keywords": [
+          "Tesla",
+          "Robotaxi",
+          "Wall Street",
+          "Earnings"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-03-21T13:08:35Z",
+          "title": "S&P 500 Could Soar 12% By Year-End\u2014But Only If Recession Is Avoided, Goldman Sachs Says",
+          "description": "The S&P 500 could climb 12% to 6,200 by 2025 if the U.S. economy avoids a recession, according to Goldman Sachs. The 'Magnificent 7' tech firms are planning a 32% increase in capital expenditures, signaling confidence in AI and cloud growth.",
+          "article_url": "https://www.benzinga.com/news/econ-s/25/03/44435609/sp-500-could-soar-12-by-year-end-but-only-if-recession-is-avoided-goldman-sachs-says",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "AAPL",
+            "AMZN",
+            "GOOG",
+            "GOOGL",
+            "META",
+            "MSFT",
+            "NVDA",
+            "SPY",
+            "TSLA"
+          ],
+          "keywords": [
+            "S&P 500",
+            "recession",
+            "economy",
+            "capital expenditures",
+            "AI",
+            "cloud"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

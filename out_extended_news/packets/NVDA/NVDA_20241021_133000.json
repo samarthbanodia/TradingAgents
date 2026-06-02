@@ -1,0 +1,47 @@
+{
+  "event": {
+    "event_id": "NVDA_20241021_133000",
+    "ticker": "NVDA",
+    "t0_utc": "2024-10-21 13:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-10-21T10:30:00+00:00",
+      "end": "2024-10-21T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-10-21T12:25:00Z",
+        "title": "Is Microsoft Going to $505? 1 Wall Street Analyst Thinks So",
+        "description": "Microsoft, once a leader in AI through its partnership with OpenAI, is now facing challenges as competitors like Apple and Nvidia gain ground. The company's stock has fallen 10% from its peak, and it has lost its title as the world's most valuable company to Apple. While Microsoft remains the dominant enterprise software company, it faces questions about its AI investments and its partnership with OpenAI.",
+        "article_url": "https://www.fool.com/investing/2024/10/21/is-microsoft-going-to-505-1-wall-street-analyst-th/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jeremy Bowman",
+        "tickers": [
+          "MSFT",
+          "AAPL",
+          "NVDA"
+        ],
+        "keywords": [
+          "Microsoft",
+          "AI",
+          "OpenAI",
+          "Apple",
+          "Nvidia",
+          "enterprise software"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

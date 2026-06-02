@@ -1,0 +1,190 @@
+{
+  "event": {
+    "event_id": "NFLX_20240719_132000",
+    "ticker": "NFLX",
+    "t0_utc": "2024-07-19 13:20:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2024-07-19T10:20:00+00:00",
+      "end": "2024-07-19T14:20:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-07-19T10:26:51Z",
+        "title": "Morning Bid: Volatility resurfaces, tech outage rankles By Reuters - Investing.com",
+        "description": "Volatility has resurfaced in global markets, with a tech outage disrupting operations for major companies and adding to concerns over the tech sector's performance. The article discusses the impact on stocks, currencies, and the broader economic and political landscape.",
+        "article_url": "https://www.investing.com/news/commodities-news/morning-bid-volatility-resurfaces-tech-outage-rankles-3526636",
+        "publisher": "Investing.com",
+        "author": "Mike Dolan",
+        "tickers": [
+          "NFLX",
+          "TSM",
+          "CRWD"
+        ],
+        "keywords": [
+          "volatility",
+          "tech outage",
+          "earnings",
+          "US election",
+          "interest rates"
+        ]
+      },
+      {
+        "published_utc": "2024-07-19T11:19:49Z",
+        "title": "Netflix, Trump nomination, outages - what's moving markets By Investing.com - Investing.com Canada",
+        "description": "Netflix reported mixed Q2 results, with better-than-expected subscriber additions but cautious revenue guidance. U.S. stock futures slipped as the earnings season continues. Donald Trump formally accepted the Republican presidential nomination, while Microsoft and CrowdStrike experienced major outages.",
+        "article_url": "https://ca.investing.com/news/economy/netflix-trump-nomination-outages--whats-moving-markets-3505377",
+        "publisher": "Investing.com",
+        "author": "Peter Nurse",
+        "tickers": [
+          "NFLX",
+          "MSFT",
+          "CRWD"
+        ],
+        "keywords": [
+          "Netflix",
+          "U.S. stock futures",
+          "Donald Trump",
+          "Microsoft",
+          "CrowdStrike"
+        ]
+      },
+      {
+        "published_utc": "2024-07-19T11:21:21Z",
+        "title": "Nasdaq, S&P 500 Futures Point To Jittery Start: What's Going On - Invesco QQQ Trust, Series 1 (NASDAQ:QQQ), SPDR S&P 500 (ARCA:SPY) - Benzinga",
+        "description": "U.S. stock futures point to a nervous start as uncertainty intensifies on multiple fronts, including the Federal Reserve's policy, geopolitical tensions, and the upcoming presidential election. The tech sector could react to a major service outage reported by Microsoft and Netflix's earnings.",
+        "article_url": "https://www.benzinga.com/news/earnings/24/07/39857014/wall-street-set-to-end-week-on-subdued-note-as-crowdstrike-microsoft-drop-amid-global-outage-analys",
+        "publisher": "Benzinga",
+        "author": "Shanthi Rexaline",
+        "tickers": [
+          "MSFT",
+          "NFLX",
+          "CRWD",
+          "SPWR"
+        ],
+        "keywords": [
+          "stock market",
+          "Federal Reserve",
+          "geopolitical tensions",
+          "presidential election",
+          "tech sector",
+          "Microsoft",
+          "Netflix"
+        ]
+      },
+      {
+        "published_utc": "2024-07-19T11:30:15Z",
+        "title": "Netflix Co-Founder Marc Randolph Reflects On Leadership And The 'Courage To Step Aside:' 'President Biden\u2026 Now Faces A Momentous Decision' - Benzinga",
+        "description": "Netflix co-founder Marc Randolph shares insights on leadership transition, drawing parallels with President Biden's current predicament. Randolph recounts his own experience of stepping down as CEO to allow for the company's success, and suggests Biden may face a similar momentous decision.",
+        "article_url": "https://www.benzinga.com/news/24/07/39857102/netflix-co-founder-marc-randolph-reflects-on-leadership-and-the-courage-to-step-aside-president-bide",
+        "publisher": "Benzinga",
+        "author": "Ananya Gairola",
+        "tickers": [
+          "NFLX"
+        ],
+        "keywords": [
+          "leadership",
+          "transition",
+          "Netflix",
+          "President Biden"
+        ]
+      },
+      {
+        "published_utc": "2024-07-19T11:54:49Z",
+        "title": "CrowdStrike, Microsoft and American Express fall premarket, Netflix gains By Investing.com - Investing.com Canada",
+        "description": "U.S. stock futures traded mixed on Friday, with tech stocks like CrowdStrike and Microsoft falling premarket, while Netflix gained after reporting strong subscriber growth. Other notable movers included Schlumberger, Halliburton, and Plug Power.",
+        "article_url": "https://ca.investing.com/news/stock-market-news/crowdstrike-microsoft-and-american-express-fall-premarket-netflix-gains-3505792",
+        "publisher": "Investing.com",
+        "author": "Peter Nurse",
+        "tickers": [
+          "CRWD",
+          "MSFT",
+          "AXP",
+          "NFLX",
+          "SLB",
+          "HAL",
+          "PLUG"
+        ],
+        "keywords": [
+          "CrowdStrike",
+          "Microsoft",
+          "American Express",
+          "Netflix",
+          "Schlumberger",
+          "Halliburton",
+          "Plug Power"
+        ]
+      },
+      {
+        "published_utc": "2024-07-19T13:17:36Z",
+        "title": "Netflix ETFs to Buy on Robust Q2 Earnings - Zacks Investment Research",
+        "description": "Netflix reported strong Q2 2024 results, beating earnings and revenue estimates. The company added 8.05 million subscribers, driven by the crackdown on password sharing and popular content. Netflix expects revenue growth of 13.9% in Q3 and 14-15% for the full year. Investors could consider ETFs with significant exposure to Netflix, such as FNGS, GGME, FDN, VIRS, and BNGE.",
+        "article_url": "https://www.zacks.com/stock/news/2305314/netflix-etfs-to-buy-on-robust-q2-earnings",
+        "publisher": "Zacks Investment Research",
+        "author": "N/A",
+        "tickers": [
+          "NFLX"
+        ],
+        "keywords": [
+          "Netflix",
+          "earnings",
+          "streaming",
+          "ETFs"
+        ]
+      },
+      {
+        "published_utc": "2024-07-19T13:39:51Z",
+        "title": "Netflix To Rally More Than 10%? Here Are 10 Top Analyst Forecasts For Friday - Benzinga",
+        "description": "Top Wall Street analysts have updated their price targets and ratings for several companies, including Netflix, Robinhood, Intuitive Surgical, and others. The article highlights the key changes and provides insights into the analysts' views on these stocks.",
+        "article_url": "https://www.benzinga.com/news/24/07/39859847/netflix-to-rally-more-than-10-here-are-10-top-analyst-forecasts-for-friday",
+        "publisher": "Benzinga",
+        "author": "Avi Kapoor",
+        "tickers": [
+          "NFLX",
+          "HOOD",
+          "ISRG",
+          "BANR",
+          "DHI",
+          "SAGE",
+          "MTB",
+          "MTBpH",
+          "MTBpJ",
+          "DPZ",
+          "ARM",
+          "AMJB",
+          "JPM",
+          "JPMpC",
+          "JPMpD",
+          "JPMpJ",
+          "JPMpK",
+          "JPMpL",
+          "JPMpM"
+        ],
+        "keywords": [
+          "Netflix",
+          "Robinhood",
+          "Intuitive Surgical",
+          "Banner Corporation",
+          "D.R. Horton",
+          "Sage Therapeutics",
+          "M&T Bank Corporation",
+          "Domino's Pizza",
+          "Arm Holdings",
+          "JPMorgan Chase"
+        ]
+      }
+    ],
+    "ticker_news_count": 7,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

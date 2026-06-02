@@ -1,0 +1,143 @@
+{
+  "event": {
+    "event_id": "META_20260220_143000",
+    "ticker": "META",
+    "t0_utc": "2026-02-20 14:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-02-20T11:30:00+00:00",
+      "end": "2026-02-20T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-02-20T13:18:21Z",
+        "title": "Meta Plans To Pledge $65 Million In Support Of AI-Friendly State Politicians: Report",
+        "description": "Meta Platforms is pledging $65 million in 2026 to support state politicians favorable to the AI industry, marking its largest election-related expenditure. The company launched two new super PACs\u2014Forge the Future Project for Republicans and Making Our Tomorrow for Democrats\u2014to counter potential restrictive AI legislation in states like Texas and Illinois where Meta operates data centers.",
+        "article_url": "https://www.benzinga.com/news/politics/26/02/50746594/meta-plans-to-pledge-65-million-in-support-of-ai-friendly-state-politicians-report?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "META"
+        ],
+        "keywords": [
+          "Meta",
+          "political spending",
+          "AI industry",
+          "super PACs",
+          "state politicians",
+          "regulatory environment",
+          "2026 midterms"
+        ]
+      },
+      {
+        "published_utc": "2026-02-20T14:15:47Z",
+        "title": "US GDP Growth Sharply Slows To 1.4% In Q4, Fed's Favorite Inflation Rate Unexpectedly Rises (UPDATED)",
+        "description": "U.S. GDP growth decelerated sharply to 1.4% in Q4 2025, falling well below the 3% forecast and down from 4.4% in Q3. Meanwhile, the Fed's preferred inflation gauge (core PCE) unexpectedly rose to 3% in December, signaling persistent price pressures. The combination of slowing growth and stubborn inflation creates a challenging policy environment, prompting a market sell-off with futures declining and safe-haven assets like gold and silver rallying.",
+        "article_url": "https://www.benzinga.com/markets/economic-data/26/02/50747075/us-gdp-q4-report-pce-inflation-update?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Piero Cingari",
+        "tickers": [
+          "META",
+          "NVDA"
+        ],
+        "keywords": [
+          "GDP growth",
+          "Q4 2025",
+          "PCE inflation",
+          "core inflation",
+          "economic slowdown",
+          "Federal Reserve",
+          "market decline",
+          "safe-haven assets"
+        ]
+      },
+      {
+        "published_utc": "2026-02-20T15:30:00Z",
+        "title": "Time to Buy the Dip on Vistra Stock?",
+        "description": "Vistra Energy, an independent power producer, has declined 22% from its September peak following regulatory proposals to cap electricity prices in the PJM region. Despite near-term headwinds, the company is well-positioned to benefit from growing energy demand from AI data centers, with a diversified asset portfolio, contracted revenue, and a 20-year power purchase agreement with Meta. Analysts project strong earnings growth, valuing the stock at 19.4x forward 2026 earnings.",
+        "article_url": "https://www.fool.com/investing/2026/02/20/time-to-buy-the-dip-on-vistra-stock/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Courtney Carlsen",
+        "tickers": [
+          "VST",
+          "META",
+          "CEG"
+        ],
+        "keywords": [
+          "independent power producer",
+          "data center energy demand",
+          "PJM price cap",
+          "power generation assets",
+          "electricity costs",
+          "AI infrastructure"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-02-20T13:56:04Z",
+          "title": "Stock Market Today: Dow Jones, S&P 500 Futures  Slip After Weaker-Than-Expected GDP Report\u2014Grail, Candel Therapeutics, Copart In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Friday ahead of Q4 GDP data and PCE inflation gauge releases. Markets are pricing in a 94% likelihood of unchanged Fed rates in March. Notable movers include Copart missing earnings expectations, Comfort Systems raising dividends, Grail plunging 47% on weak earnings, Candel Therapeutics declining on stock offering announcement, and Dropbox falling despite beating earnings. Wells Fargo strategist recommends leaning into growth-sensitive sectors like Financials and Industrials rather than defensive positioning.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50743289/stock-market-today-dow-jones-sp-500-futures-rise-ahead-of-q4-gdp-numbers-grail-candel-therapeuti?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "CPRT",
+            "FIX",
+            "GRAL",
+            "CADL",
+            "DBX",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "Q4 GDP",
+            "Federal Reserve",
+            "stock futures",
+            "earnings",
+            "PCE inflation",
+            "AI infrastructure",
+            "market sentiment"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-02-20T13:56:04Z",
+          "title": "Stock Market Today: Dow Jones, S&P 500 Futures  Slip After Weaker-Than-Expected GDP Report\u2014Grail, Candel Therapeutics, Copart In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Friday ahead of Q4 GDP data and PCE inflation gauge releases. Markets are pricing in a 94% likelihood of unchanged Fed rates in March. Notable movers include Copart missing earnings expectations, Comfort Systems raising dividends, Grail plunging 47% on weak earnings, Candel Therapeutics declining on stock offering announcement, and Dropbox falling despite beating earnings. Wells Fargo strategist recommends leaning into growth-sensitive sectors like Financials and Industrials rather than defensive positioning.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50743289/stock-market-today-dow-jones-sp-500-futures-rise-ahead-of-q4-gdp-numbers-grail-candel-therapeuti?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "CPRT",
+            "FIX",
+            "GRAL",
+            "CADL",
+            "DBX",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "Q4 GDP",
+            "Federal Reserve",
+            "stock futures",
+            "earnings",
+            "PCE inflation",
+            "AI infrastructure",
+            "market sentiment"
+          ]
+        }
+      ]
+    }
+  }
+}

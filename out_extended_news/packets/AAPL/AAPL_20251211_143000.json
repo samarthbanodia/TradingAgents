@@ -1,0 +1,47 @@
+{
+  "event": {
+    "event_id": "AAPL_20251211_143000",
+    "ticker": "AAPL",
+    "t0_utc": "2025-12-11 14:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-12-11T11:30:00+00:00",
+      "end": "2025-12-11T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-12-11T13:15:00Z",
+        "title": "Why the VIG ETF Is a Buy in 2026",
+        "description": "The Vanguard Dividend Appreciation ETF (VIG) presents an attractive investment opportunity in 2026, offering a balanced approach to dividend growth with significant tech exposure and potential resilience against economic uncertainties.",
+        "article_url": "https://www.fool.com/investing/2025/12/11/why-the-vig-etf-is-a-buy-in-2026/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "David Dierking",
+        "tickers": [
+          "VIG",
+          "AAPL",
+          "MSFT",
+          "AVGO"
+        ],
+        "keywords": [
+          "dividend",
+          "ETF",
+          "tech stocks",
+          "inflation",
+          "investment strategy"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "event": {
+    "event_id": "MSFT_20241212_142500",
+    "ticker": "MSFT",
+    "t0_utc": "2024-12-12 14:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-12-12T11:25:00+00:00",
+      "end": "2024-12-12T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-12-12T12:30:00Z",
+        "title": "4 Brilliant Reasons Why Apple Should Buy Bitcoin",
+        "description": "The article argues that Apple should invest in Bitcoin, as the cryptocurrency has seen significant price appreciation and could be a value-accretive asset for the company's balance sheet.",
+        "article_url": "https://www.fool.com/investing/2024/12/12/brilliant-reasons-why-apple-should-buy-bitcoin/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Neil Patel",
+        "tickers": [
+          "AAPL",
+          "MSFT"
+        ],
+        "keywords": [
+          "Apple",
+          "Bitcoin",
+          "investment",
+          "cash reserves"
+        ]
+      },
+      {
+        "published_utc": "2024-12-12T12:40:00Z",
+        "title": "Broadcom Q4 Preview: Bullish Setup Hinges on Positive Earnings and Guidance",
+        "description": "Broadcom's Q4 earnings are expected to be a catalyst for the stock, with a bullish setup hinging on positive earnings and guidance. The company's focus on shifting VMware products to a subscription-based model and its strong partner base, including Apple, Alphabet, and Meta, suggest potential for growth.",
+        "article_url": "https://www.investing.com/analysis/broadcom-q4-preview-bullish-setup-hinges-on-positive-earnings-and-guidance-200655194",
+        "publisher": "Investing.com",
+        "author": "Ali Merchant",
+        "tickers": [
+          "AVGO",
+          "AAPL",
+          "GOOG",
+          "GOOGL",
+          "META",
+          "MSFT",
+          "ANET",
+          "DELL",
+          "JNPR"
+        ],
+        "keywords": [
+          "Broadcom",
+          "Earnings",
+          "Guidance",
+          "VMware",
+          "Apple",
+          "Alphabet",
+          "Meta"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

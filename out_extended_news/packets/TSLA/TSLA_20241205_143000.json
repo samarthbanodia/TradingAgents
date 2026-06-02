@@ -1,0 +1,81 @@
+{
+  "event": {
+    "event_id": "TSLA_20241205_143000",
+    "ticker": "TSLA",
+    "t0_utc": "2024-12-05 14:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-12-05T11:30:00+00:00",
+      "end": "2024-12-05T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-12-05T11:36:06Z",
+          "title": "US Stocks Likely To See Tepid Opening As Bitcoin Blasts Through $103,000: Investors Eye Jobless Claims Data While BlackRock Expects 'US Exceptionalism' To Power Earnings In 2025",
+          "description": "U.S. stock futures are trading lower on Thursday as investors await jobless claims data and digest comments from Federal Reserve Chair Jerome Powell. Bitcoin surged past $103,000 for the first time, boosting shares of MicroStrategy and Coinbase.",
+          "article_url": "https://www.benzinga.com/news/earnings/24/12/42334954/us-stocks-likely-to-see-tepid-opening-as-bitcoin-blasts-through-103000-investors-eye-jobless-claims",
+          "publisher": "Benzinga",
+          "author": "Rounak Jain",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "MSTR",
+            "COIN",
+            "S",
+            "SNPS",
+            "FIVE"
+          ],
+          "keywords": [
+            "US stocks",
+            "Federal Reserve",
+            "Bitcoin",
+            "MicroStrategy",
+            "Coinbase",
+            "SentinelOne",
+            "Synopsys",
+            "Five Below"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2024-12-05T11:36:06Z",
+          "title": "US Stocks Likely To See Tepid Opening As Bitcoin Blasts Through $103,000: Investors Eye Jobless Claims Data While BlackRock Expects 'US Exceptionalism' To Power Earnings In 2025",
+          "description": "U.S. stock futures are trading lower on Thursday as investors await jobless claims data and digest comments from Federal Reserve Chair Jerome Powell. Bitcoin surged past $103,000 for the first time, boosting shares of MicroStrategy and Coinbase.",
+          "article_url": "https://www.benzinga.com/news/earnings/24/12/42334954/us-stocks-likely-to-see-tepid-opening-as-bitcoin-blasts-through-103000-investors-eye-jobless-claims",
+          "publisher": "Benzinga",
+          "author": "Rounak Jain",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "MSTR",
+            "COIN",
+            "S",
+            "SNPS",
+            "FIVE"
+          ],
+          "keywords": [
+            "US stocks",
+            "Federal Reserve",
+            "Bitcoin",
+            "MicroStrategy",
+            "Coinbase",
+            "SentinelOne",
+            "Synopsys",
+            "Five Below"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "event": {
+    "event_id": "META_20250428_133000",
+    "ticker": "META",
+    "t0_utc": "2025-04-28 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-04-28T10:30:00+00:00",
+      "end": "2025-04-28T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-04-28T12:45:00Z",
+        "title": "Want to Avoid the \"Magnificent Seven\" and Generate Passive Income? This Vanguard ETF May Be for You",
+        "description": "The article discusses the Vanguard High Dividend Yield ETF (VYM) as an alternative to the 'Magnificent Seven' tech stocks that have underperformed the market in 2025. The ETF offers exposure to value and income-generating stocks across various sectors, providing a balanced and potentially more stable investment option.",
+        "article_url": "https://www.fool.com/investing/2025/04/28/magnificent-seven-passive-income-vanguard-etf/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "AAPL",
+          "MSFT",
+          "NVDA",
+          "AMZN",
+          "GOOG",
+          "GOOGL",
+          "META",
+          "TSLA",
+          "VYM"
+        ],
+        "keywords": [
+          "Vanguard High Dividend Yield ETF",
+          "Magnificent Seven",
+          "passive income",
+          "value stocks",
+          "dividend stocks"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

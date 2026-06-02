@@ -1,0 +1,63 @@
+{
+  "event": {
+    "event_id": "GOOGL_20250911_132500",
+    "ticker": "GOOGL",
+    "t0_utc": "2025-09-11 13:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-09-11T10:25:00+00:00",
+      "end": "2025-09-11T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-09-11T14:21:00Z",
+        "title": "Opinion: The Stock Market Is on Shakier Ground Than Wall Street Seems to Think",
+        "description": "An analysis suggesting the stock market might be more precarious than Wall Street analysts indicate, with high valuations, potential recession risks, and overly optimistic stock recommendations.",
+        "article_url": "https://www.fool.com/investing/2025/09/11/opinion-the-stock-market-is-on-shakier-ground-than/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Keith Speights",
+        "tickers": [
+          "AMJB",
+          "JPM",
+          "JPMpC",
+          "JPMpD",
+          "JPMpJ",
+          "JPMpK",
+          "JPMpL",
+          "JPMpM",
+          "VYLD",
+          "GS",
+          "GSpA",
+          "GSpC",
+          "GSpD",
+          "SCHW",
+          "SCHWpD",
+          "SCHWpJ",
+          "GOOG",
+          "GOOGL",
+          "BRK.A",
+          "BRK.B"
+        ],
+        "keywords": [
+          "stock market",
+          "recession",
+          "Wall Street",
+          "stock valuations",
+          "economic risks"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

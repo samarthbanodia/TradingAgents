@@ -1,0 +1,62 @@
+{
+  "event": {
+    "event_id": "NVDA_20250507_194000",
+    "ticker": "NVDA",
+    "t0_utc": "2025-05-07 19:40:00+00:00",
+    "direction": 1,
+    "label_proxy": "unclear",
+    "window": {
+      "start": "2025-05-07T16:40:00+00:00",
+      "end": "2025-05-07T20:40:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-05-07T20:13:41Z",
+        "title": "Powell Flags Sharp Tariff Shock, Elevated Uncertainty: Fed Sticks To  'Wait-And-See' Mode",
+        "description": "Federal Reserve Chair Jerome Powell warned that tariff increases have introduced uncertainty into the U.S. economic outlook. The Fed is taking a 'wait-and-see' approach, as inflation above its 2% target limits its flexibility to cut rates as it did in 2019.",
+        "article_url": "https://www.benzinga.com/government/regulations/25/05/45266366/powell-flags-sharp-tariff-shock-elevated-uncertainty-fed-sticks-to-wait-and-see-mode",
+        "publisher": "Benzinga",
+        "author": "Piero Cingari",
+        "tickers": [
+          "NVDA"
+        ],
+        "keywords": [
+          "Federal Reserve",
+          "tariffs",
+          "monetary policy",
+          "inflation"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-05-07T18:13:04Z",
+          "title": "Fed Keeps Rates Steady, Warns Of Rising 'Uncertainty About The Economic Outlook'",
+          "description": "The Federal Reserve kept interest rates steady at 4.25%-4.50% for the third consecutive meeting, but warned of increased uncertainty about the economic outlook, citing risks of higher unemployment and inflation.",
+          "article_url": "https://www.benzinga.com/economics/macro-economic-events/25/05/45263291/fed-keeps-rates-steady-warns-of-rising-uncertainty-about-the-economic-outlook",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "interest rates",
+            "economic outlook",
+            "unemployment",
+            "inflation"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "event": {
+    "event_id": "COIN_20250211_142500",
+    "ticker": "COIN",
+    "t0_utc": "2025-02-11 14:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-02-11T11:25:00+00:00",
+      "end": "2025-02-11T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-02-11T13:28:07Z",
+          "title": "Warren Buffett Indicator Tops 205% Amid Skyrocketing S&P 500 Valuations As Billionaire Who Predicted Dot-Com Crash 25 Years Ago Warns Of Brewing Trouble",
+          "description": "The Warren Buffett Indicator has surged to 205%, indicating high market valuations. Veteran investor Howard Marks, who predicted the dot-com crash, is warning of cautionary signs in the market, including high S&P 500 valuations and reliance on a few stocks.",
+          "article_url": "https://www.benzinga.com/25/02/43622036/warren-buffett-indicator-tops-205-amid-skyrocketing-sp-500-valuations-as-this-billionaire-dot-com-crash-predictor",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "Warren Buffett Indicator",
+            "S&P 500",
+            "Howard Marks",
+            "Dot-com crash",
+            "Market valuations"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-02-11T13:28:07Z",
+          "title": "Warren Buffett Indicator Tops 205% Amid Skyrocketing S&P 500 Valuations As Billionaire Who Predicted Dot-Com Crash 25 Years Ago Warns Of Brewing Trouble",
+          "description": "The Warren Buffett Indicator has surged to 205%, indicating high market valuations. Veteran investor Howard Marks, who predicted the dot-com crash, is warning of cautionary signs in the market, including high S&P 500 valuations and reliance on a few stocks.",
+          "article_url": "https://www.benzinga.com/25/02/43622036/warren-buffett-indicator-tops-205-amid-skyrocketing-sp-500-valuations-as-this-billionaire-dot-com-crash-predictor",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "Warren Buffett Indicator",
+            "S&P 500",
+            "Howard Marks",
+            "Dot-com crash",
+            "Market valuations"
+          ]
+        },
+        {
+          "published_utc": "2025-02-11T15:15:00Z",
+          "title": "The Best Index ETF to Invest $1,000 in Right Now",
+          "description": "The article discusses the Invesco Nasdaq 100 ETF (QQQ) as a potential investment option, highlighting its strong performance history and exposure to leading technology companies. It suggests that investing in this ETF, along with a consistent dollar-cost averaging strategy, can be an effective way to build wealth over the long term.",
+          "article_url": "https://www.fool.com/investing/2025/02/11/the-best-index-etf-to-invest-1000-in-right-now/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "The Motley Fool",
+          "tickers": [
+            "QQQ"
+          ],
+          "keywords": [
+            "Invesco Nasdaq 100 ETF",
+            "S&P 500",
+            "technology companies",
+            "dollar-cost averaging"
+          ]
+        }
+      ]
+    }
+  }
+}

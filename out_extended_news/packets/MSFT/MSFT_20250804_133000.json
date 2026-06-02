@@ -1,0 +1,71 @@
+{
+  "event": {
+    "event_id": "MSFT_20250804_133000",
+    "ticker": "MSFT",
+    "t0_utc": "2025-08-04 13:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-08-04T10:30:00+00:00",
+      "end": "2025-08-04T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-08-04T12:20:00Z",
+        "title": "Down More Than 7% After Reporting Earnings, This Top Dividend Stock Is a Screaming Buy",
+        "description": "Brookfield Renewable reported strong Q2 earnings with 10% year-over-year FFO growth, securing significant renewable energy deals with Google and Microsoft, and remains optimistic about future growth and dividend increases.",
+        "article_url": "https://www.fool.com/investing/2025/08/04/down-more-than-7-after-reporting-earnings-this-top/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Matt Dilallo",
+        "tickers": [
+          "BEPC",
+          "GOOG",
+          "GOOGL",
+          "MSFT"
+        ],
+        "keywords": [
+          "renewable energy",
+          "hydropower",
+          "dividend stock",
+          "earnings",
+          "clean energy"
+        ]
+      },
+      {
+        "published_utc": "2025-08-04T13:15:00Z",
+        "title": "Is Nvidia Stock Still a Buy?",
+        "description": "Nvidia continues to be a pivotal player in the AI infrastructure market, with significant growth in data center revenue and a strategic advantage in chip technology. Recent policy changes allowing chip exports to China have further enhanced its market position and revenue outlook.",
+        "article_url": "https://www.fool.com/investing/2025/08/04/is-nvidia-stock-still-a-buy/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "George Budwell",
+        "tickers": [
+          "NVDA",
+          "MSFT",
+          "AMZN",
+          "GOOG",
+          "GOOGL",
+          "AMD",
+          "META"
+        ],
+        "keywords": [
+          "AI",
+          "semiconductors",
+          "GPU",
+          "data center",
+          "technology infrastructure"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

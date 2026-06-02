@@ -1,0 +1,65 @@
+{
+  "event": {
+    "event_id": "AAPL_20250402_200000",
+    "ticker": "AAPL",
+    "t0_utc": "2025-04-02 20:00:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-04-02T17:00:00+00:00",
+      "end": "2025-04-02T21:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-04-02T19:08:31Z",
+        "title": "Trump's 'Liberation Day' Tariff Reveal Set For 4PM: What's At Stake",
+        "description": "President Trump is expected to announce sweeping new trade tariffs of up to 20% on a wide range of imported goods, in a push to tackle the U.S. trade deficit. This move could trigger retaliation from trading partners, leading to increased market volatility and recession risks.",
+        "article_url": "https://www.benzinga.com/25/04/44613907/tariff-shock-incoming-as-trump-prepares-sweeping-trade-duties-what-traders-need-to-know",
+        "publisher": "Benzinga",
+        "author": "Piero Cingari",
+        "tickers": [
+          "AAPL",
+          "AMZN"
+        ],
+        "keywords": [
+          "trade tariffs",
+          "trade deficit",
+          "market volatility",
+          "recession"
+        ]
+      },
+      {
+        "published_utc": "2025-04-02T19:24:00Z",
+        "title": "Liberation Day Tariffs: Potential Impact on the US Stock Market",
+        "description": "The article discusses the potential impact of the Trump administration's tariff plans, known as 'Liberation Day Tariffs', on the US stock market. It highlights the uncertainty and volatility in the markets as investors try to gauge the effects of these tariffs on corporate profits, global growth, inflation, and Federal Reserve interest rate decisions.",
+        "article_url": "https://www.investing.com/analysis/liberation-day-tariffs-potential-impact-on-the-us-stock-market-200659005",
+        "publisher": "Investing.com",
+        "author": "Zain Vawda",
+        "tickers": [
+          "AAPL",
+          "MSFT",
+          "NVDA"
+        ],
+        "keywords": [
+          "tariffs",
+          "trade war",
+          "stock market",
+          "S&P 500",
+          "Dow Jones",
+          "technology stocks"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

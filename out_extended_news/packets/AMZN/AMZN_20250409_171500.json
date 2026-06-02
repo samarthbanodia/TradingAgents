@@ -1,0 +1,63 @@
+{
+  "event": {
+    "event_id": "AMZN_20250409_171500",
+    "ticker": "AMZN",
+    "t0_utc": "2025-04-09 17:15:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-04-09T14:15:00+00:00",
+      "end": "2025-04-09T18:15:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-04-09T16:58:00Z",
+        "title": "Your End-All, Be-All Playbook on the Road to Success: How A Truck Driver Became A VP of a Fortune 500 Company",
+        "description": "Dan Leonardi, a former truck driver, shares his journey to becoming a Vice President at a Fortune 500 company without a college degree. His new book, 'Be the CEO of Your Life,' provides a roadmap for readers to seize control of their lives and achieve their goals.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/04/09/3058775/0/en/Your-End-All-Be-All-Playbook-on-the-Road-to-Success-How-A-Truck-Driver-Became-A-VP-of-a-Fortune-500-Company.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Dan Leonardi",
+        "tickers": [
+          "AMZN"
+        ],
+        "keywords": [
+          "success",
+          "career",
+          "self-improvement",
+          "leadership",
+          "entrepreneurship"
+        ]
+      },
+      {
+        "published_utc": "2025-04-09T18:00:00Z",
+        "title": "New Book THE TIME DOCTORS Unravels the Mystery of True Work-Life Balance",
+        "description": "Husband-and-wife physicians Rachel and Christopher Domarew have published a new book, 'The Time Doctors,' which shares their strategies for managing professional and personal responsibilities efficiently and maintaining a healthy work-life balance.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/04/09/3058802/0/en/New-Book-THE-TIME-DOCTORS-Unravels-the-Mystery-of-True-Work-Life-Balance.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Rachel Domarew And Christopher Domarew",
+        "tickers": [
+          "AMZN"
+        ],
+        "keywords": [
+          "time management",
+          "work-life balance",
+          "efficiency",
+          "lifestyle changes",
+          "professional careers",
+          "homeschooling"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

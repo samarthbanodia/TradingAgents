@@ -1,0 +1,118 @@
+{
+  "event": {
+    "event_id": "AAPL_20250507_145000",
+    "ticker": "AAPL",
+    "t0_utc": "2025-05-07 14:50:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-05-07T11:50:00+00:00",
+      "end": "2025-05-07T15:50:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-05-07T13:09:32Z",
+        "title": "Technical Analysis For Trading SPY And Top Tech Stocks, As Market Braces For Fed Rate Decision",
+        "description": "The article provides technical analysis and price levels for trading SPY, QQQ, and top tech stocks like Apple, Microsoft, NVIDIA, Alphabet, Meta, and Tesla. It highlights key support and resistance levels, as well as potential bullish and bearish scenarios for each stock, ahead of the upcoming Federal Reserve interest rate decision.",
+        "article_url": "https://www.benzinga.com/markets/equities/25/05/45252145/technical-analysis-for-trading-spy-and-top-tech-stocks-as-market-braces-for-fed-rate-decision",
+        "publisher": "Benzinga",
+        "author": "Rips Benzinga Contributor",
+        "tickers": [
+          "SPY",
+          "QQQ",
+          "AAPL",
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "META",
+          "TSLA"
+        ],
+        "keywords": [
+          "SPY",
+          "QQQ",
+          "AAPL",
+          "MSFT",
+          "NVDA",
+          "GOOGL",
+          "META",
+          "TSLA",
+          "Federal Reserve",
+          "technical analysis"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-05-07T13:09:32Z",
+          "title": "Technical Analysis For Trading SPY And Top Tech Stocks, As Market Braces For Fed Rate Decision",
+          "description": "The article provides technical analysis and price levels for trading SPY, QQQ, and top tech stocks like Apple, Microsoft, NVIDIA, Alphabet, Meta, and Tesla. It highlights key support and resistance levels, as well as potential bullish and bearish scenarios for each stock, ahead of the upcoming Federal Reserve interest rate decision.",
+          "article_url": "https://www.benzinga.com/markets/equities/25/05/45252145/technical-analysis-for-trading-spy-and-top-tech-stocks-as-market-braces-for-fed-rate-decision",
+          "publisher": "Benzinga",
+          "author": "Rips Benzinga Contributor",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "AAPL",
+            "MSFT",
+            "GOOG",
+            "GOOGL",
+            "META",
+            "TSLA"
+          ],
+          "keywords": [
+            "SPY",
+            "QQQ",
+            "AAPL",
+            "MSFT",
+            "NVDA",
+            "GOOGL",
+            "META",
+            "TSLA",
+            "Federal Reserve",
+            "technical analysis"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-05-07T13:09:32Z",
+          "title": "Technical Analysis For Trading SPY And Top Tech Stocks, As Market Braces For Fed Rate Decision",
+          "description": "The article provides technical analysis and price levels for trading SPY, QQQ, and top tech stocks like Apple, Microsoft, NVIDIA, Alphabet, Meta, and Tesla. It highlights key support and resistance levels, as well as potential bullish and bearish scenarios for each stock, ahead of the upcoming Federal Reserve interest rate decision.",
+          "article_url": "https://www.benzinga.com/markets/equities/25/05/45252145/technical-analysis-for-trading-spy-and-top-tech-stocks-as-market-braces-for-fed-rate-decision",
+          "publisher": "Benzinga",
+          "author": "Rips Benzinga Contributor",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "AAPL",
+            "MSFT",
+            "GOOG",
+            "GOOGL",
+            "META",
+            "TSLA"
+          ],
+          "keywords": [
+            "SPY",
+            "QQQ",
+            "AAPL",
+            "MSFT",
+            "NVDA",
+            "GOOGL",
+            "META",
+            "TSLA",
+            "Federal Reserve",
+            "technical analysis"
+          ]
+        }
+      ]
+    }
+  }
+}

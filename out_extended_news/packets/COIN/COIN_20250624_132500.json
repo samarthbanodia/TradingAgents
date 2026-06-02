@@ -1,0 +1,44 @@
+{
+  "event": {
+    "event_id": "COIN_20250624_132500",
+    "ticker": "COIN",
+    "t0_utc": "2025-06-24 13:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-06-24T10:25:00+00:00",
+      "end": "2025-06-24T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-06-24T12:40:00Z",
+        "title": "3 Blockchain Stocks to Profit in a Decentralized World",
+        "description": "The article discusses how the centralized internet is on the brink of collapse and how blockchain technology could be the solution. It highlights three blockchain-related stocks that could benefit from this shift: NVIDIA, Coinbase, and Riot Platforms.",
+        "article_url": "https://www.investing.com/analysis/3-blockchain-stocks-to-profit-in-a-decentralized-world-200662691",
+        "publisher": "Investing.com",
+        "author": "Marketbeat.Com",
+        "tickers": [
+          "COIN"
+        ],
+        "keywords": [
+          "blockchain",
+          "decentralization",
+          "NVIDIA",
+          "Coinbase",
+          "Riot Platforms"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

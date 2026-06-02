@@ -1,0 +1,134 @@
+{
+  "event": {
+    "event_id": "GOOGL_20251030_130500",
+    "ticker": "GOOGL",
+    "t0_utc": "2025-10-30 13:05:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-10-30T10:05:00+00:00",
+      "end": "2025-10-30T14:05:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-10-30T11:50:00Z",
+        "title": "S&P 500 Steady on Mixed Tech Earnings, Fed Cautions and Expected Trump\u2013Xi Meeting",
+        "description": "The S&P 500 remained steady amid mixed tech earnings, cautionary Federal Reserve statements, and an anticipated Trump-Xi meeting. Tech companies showed varied performance, with some experiencing significant stock movements, while hopes for improved US-China trade relations provided market optimism.",
+        "article_url": "https://www.investing.com/analysis/sp-500-steady-on-mixed-tech-earnings-fed-cautions-and-expected-trumpxi-meeting-200669367",
+        "publisher": "Investing.com",
+        "author": "Fawad Razaqzada",
+        "tickers": [
+          "META",
+          "GOOG",
+          "GOOGL",
+          "MSFT",
+          "AMZN",
+          "AAPL"
+        ],
+        "keywords": [
+          "tech earnings",
+          "Federal Reserve",
+          "US-China relations",
+          "stock market",
+          "AI spending"
+        ]
+      },
+      {
+        "published_utc": "2025-10-30T12:40:12Z",
+        "title": "Stock Market Today: Dow Futures Decline, S&P 500, Nasdaq Swing Following Fed Rate Cuts, Trump-Xi Meet\u2014Amazon, Apple Earnings In Focus (UPDATED)",
+        "description": "Stock futures were mixed as big tech companies reported quarterly earnings. Alphabet and Apple showed positive results, while Meta and Microsoft experienced declines. The market awaits further economic data and Fed commentary.",
+        "article_url": "https://www.benzinga.com/markets/equities/25/10/48520595/stock-market-today-dow-jones-futures-slip-nasdaq-gains-following-fed-rate-cuts-big-tech-earnings?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Rishabh Mishra",
+        "tickers": [
+          "GOOG",
+          "GOOGL",
+          "META",
+          "MSFT",
+          "AMZN",
+          "AAPL"
+        ],
+        "keywords": [
+          "stock market",
+          "Fed rate cuts",
+          "tech earnings",
+          "futures",
+          "economic outlook"
+        ]
+      },
+      {
+        "published_utc": "2025-10-30T13:26:00Z",
+        "title": "Broadcom: The Hidden Winner in Google's Anthropic Chip Deal?",
+        "description": "Broadcom could benefit from Google's expanded partnership with Anthropic, which involves deploying up to one million Tensor Processing Units (TPUs) and potentially increasing external TPU usage, which may generate more revenue for Broadcom as a TPU co-developer.",
+        "article_url": "https://www.investing.com/analysis/broadcom-the-hidden-winner-in-googles-anthropic-chip-deal-200669374",
+        "publisher": "Investing.com",
+        "author": "Leo Miller",
+        "tickers": [
+          "AVGO",
+          "GOOG",
+          "GOOGL",
+          "AMZN",
+          "MRVL"
+        ],
+        "keywords": [
+          "AI",
+          "chips",
+          "TPUs",
+          "cloud computing",
+          "technology partnership"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-10-30T12:07:12Z",
+          "title": "Trump Loyalist Stephen Miran's 'Utterly Incoherent Case For Rate Cuts' Convinces 'No-One,' Says Economist After His Dissent",
+          "description": "The Federal Reserve cut interest rates by 0.25%, with internal dissent from Governor Stephen Miran who wanted a larger 0.5% cut. Economist Justin Wolfers criticized Miran's stance, and markets reacted nervously to the uncertainty around future rate cuts.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/25/10/48524312/trump-loyalist-stephen-mirans-utterly-incoherent-case-for-rate-cuts-convinces-no-one-says-e?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "interest rates",
+            "monetary policy",
+            "rate cuts",
+            "Stephen Miran"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-10-30T12:07:12Z",
+          "title": "Trump Loyalist Stephen Miran's 'Utterly Incoherent Case For Rate Cuts' Convinces 'No-One,' Says Economist After His Dissent",
+          "description": "The Federal Reserve cut interest rates by 0.25%, with internal dissent from Governor Stephen Miran who wanted a larger 0.5% cut. Economist Justin Wolfers criticized Miran's stance, and markets reacted nervously to the uncertainty around future rate cuts.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/25/10/48524312/trump-loyalist-stephen-mirans-utterly-incoherent-case-for-rate-cuts-convinces-no-one-says-e?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "interest rates",
+            "monetary policy",
+            "rate cuts",
+            "Stephen Miran"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "event": {
+    "event_id": "AAPL_20250310_133000",
+    "ticker": "AAPL",
+    "t0_utc": "2025-03-10 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-03-10T10:30:00+00:00",
+      "end": "2025-03-10T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-03-10T11:48:00Z",
+        "title": "United States Podcasting Market Report 2025: Growth Trends and Opportunities to 2030 Featuring Analysis of Amazon, Apple, iHeartMedia, Pandora Media, Audacy & More",
+        "description": "The United States podcasting market is expected to grow significantly, driven by factors like high internet penetration, smartphone adoption, and a thriving creator community. However, legal and copyright issues pose challenges. The involvement of celebrities and influencers is a key trend, boosting listenership and monetization opportunities.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/03/10/3039649/28124/en/United-States-Podcasting-Market-Report-2025-Growth-Trends-and-Opportunities-to-2030-Featuring-Analysis-of-Amazon-Apple-iHeartMedia-Pandora-Media-Audacy-More.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Researchandmarkets.Com",
+        "tickers": [
+          "AMZN",
+          "AAPL",
+          "IHRT"
+        ],
+        "keywords": [
+          "podcasting",
+          "United States",
+          "market growth",
+          "legal challenges",
+          "celebrity involvement"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

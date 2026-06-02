@@ -1,0 +1,180 @@
+{
+  "event": {
+    "event_id": "AMD_20260325_133000",
+    "ticker": "AMD",
+    "t0_utc": "2026-03-25 13:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-03-25T10:30:00+00:00",
+      "end": "2026-03-25T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-03-25T14:12:43Z",
+        "title": "SK Hynix Targets Massive US IPO To Fuel Global AI Chip Expansion",
+        "description": "SK Hynix plans a confidential U.S. IPO in H2 2026, potentially raising up to $14 billion by selling 2-3% of shares to fund new chip factories in South Korea and Indiana. The move aims to improve valuation and meet rising AI data center demand, though analysts warn of shareholder dilution. The company is also investing $7.97 billion in EUV machines from ASML amid intensifying competition from Samsung and TSMC in the AI chip market.",
+        "article_url": "https://www.benzinga.com/markets/tech/26/03/51457755/sk-hynix-targets-massive-us-ipo-to-fuel-global-ai-chip-expansion?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Anusuya Lahiri",
+        "tickers": [
+          "ASML",
+          "MU",
+          "NVDA",
+          "AMD",
+          "TSM"
+        ],
+        "keywords": [
+          "SK Hynix",
+          "IPO",
+          "AI chips",
+          "capital raise",
+          "semiconductor manufacturing",
+          "shareholder dilution",
+          "competition"
+        ]
+      },
+      {
+        "published_utc": "2026-03-25T14:30:00Z",
+        "title": "1 Tech Stock I'm Adding to My Portfolio While Everyone Is Panicking",
+        "description": "Geoffrey Seiler recommends buying Advanced Micro Devices (AMD) during market volatility, citing strong growth opportunities from agentic AI demand for CPUs and recent GPU partnerships with OpenAI and Meta worth over $200 billion in orders. AMD's position as the CPU market leader and its new PC processors designed for AI workloads position it as an underrated AI stock.",
+        "article_url": "https://www.fool.com/investing/2026/03/25/tech-stock-add-my-portfolio-everyone-panic-amd/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Geoffrey Seiler",
+        "tickers": [
+          "AMD",
+          "NVDA",
+          "META"
+        ],
+        "keywords": [
+          "agentic AI",
+          "CPUs",
+          "GPUs",
+          "data centers",
+          "ROCm software platform",
+          "market volatility",
+          "AI infrastructure"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-03-25T10:38:46Z",
+          "title": "Trump Administration Should 'Stop Spending' Amid An 'Insolvent' Treasury, Says Rand Paul, Pushes 'Six Penny' Plan To Rescue Economy",
+          "description": "Senator Rand Paul warns that the U.S. government is insolvent, citing Treasury liabilities of $47.78 trillion against assets of $6.06 trillion. He proposes a 'Six Penny' plan to cut 6% of spending annually over five years to balance the budget. When including unfunded Social Security and Medicare obligations, total federal liabilities exceed $136 trillion. Markets declined year-to-date with the S&P 500 down 4.40%, Nasdaq down 6.34%, and Dow Jones down 4.67%.",
+          "article_url": "https://www.benzinga.com/news/politics/26/03/51451515/trump-administration-should-stop-spending-amid-an-insolvent-treasury-rand-paul?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "federal insolvency",
+            "budget deficit",
+            "spending cuts",
+            "national debt",
+            "fiscal crisis",
+            "Six Penny Plan",
+            "Treasury liabilities",
+            "market decline"
+          ]
+        },
+        {
+          "published_utc": "2026-03-25T12:40:05Z",
+          "title": "Stock Market Today: Dow, Nasdaq Futures Jump Even As Iran Dismisses Trump Talks\u2014Robinhood, Circle, Arm Holdings In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Wednesday with the S&P 500, Dow, and Nasdaq 100 all gaining over 1% in premarket trading. Despite Iran's dismissive comments on ceasefire negotiations, markets remained positive. Key movers included Robinhood Markets (up 3.81% after approving a $1.5B stock buyback), Arm Holdings (surged 10.23% on $15B chip sales targets), and Circle Internet Group (gained 3.09% after Tuesday's 20% decline). Crude oil fell 5.87% to $86.93/barrel, while Bitcoin traded slightly higher at $71,238.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/03/51450215/stock-market-today-sp-500-dow-futures-surge-despite-iran-saying-trump-admin-is-negotiating-with-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "HOOD",
+            "ARM",
+            "CRCL",
+            "AIR",
+            "NVO",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "S&P 500",
+            "futures",
+            "Iran",
+            "geopolitical tensions",
+            "stock buyback",
+            "chip sales",
+            "stablecoin",
+            "crude oil",
+            "Bitcoin",
+            "Federal Reserve",
+            "interest rates"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-03-25T10:38:46Z",
+          "title": "Trump Administration Should 'Stop Spending' Amid An 'Insolvent' Treasury, Says Rand Paul, Pushes 'Six Penny' Plan To Rescue Economy",
+          "description": "Senator Rand Paul warns that the U.S. government is insolvent, citing Treasury liabilities of $47.78 trillion against assets of $6.06 trillion. He proposes a 'Six Penny' plan to cut 6% of spending annually over five years to balance the budget. When including unfunded Social Security and Medicare obligations, total federal liabilities exceed $136 trillion. Markets declined year-to-date with the S&P 500 down 4.40%, Nasdaq down 6.34%, and Dow Jones down 4.67%.",
+          "article_url": "https://www.benzinga.com/news/politics/26/03/51451515/trump-administration-should-stop-spending-amid-an-insolvent-treasury-rand-paul?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "federal insolvency",
+            "budget deficit",
+            "spending cuts",
+            "national debt",
+            "fiscal crisis",
+            "Six Penny Plan",
+            "Treasury liabilities",
+            "market decline"
+          ]
+        },
+        {
+          "published_utc": "2026-03-25T12:40:05Z",
+          "title": "Stock Market Today: Dow, Nasdaq Futures Jump Even As Iran Dismisses Trump Talks\u2014Robinhood, Circle, Arm Holdings In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Wednesday with the S&P 500, Dow, and Nasdaq 100 all gaining over 1% in premarket trading. Despite Iran's dismissive comments on ceasefire negotiations, markets remained positive. Key movers included Robinhood Markets (up 3.81% after approving a $1.5B stock buyback), Arm Holdings (surged 10.23% on $15B chip sales targets), and Circle Internet Group (gained 3.09% after Tuesday's 20% decline). Crude oil fell 5.87% to $86.93/barrel, while Bitcoin traded slightly higher at $71,238.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/03/51450215/stock-market-today-sp-500-dow-futures-surge-despite-iran-saying-trump-admin-is-negotiating-with-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "HOOD",
+            "ARM",
+            "CRCL",
+            "AIR",
+            "NVO",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "S&P 500",
+            "futures",
+            "Iran",
+            "geopolitical tensions",
+            "stock buyback",
+            "chip sales",
+            "stablecoin",
+            "crude oil",
+            "Bitcoin",
+            "Federal Reserve",
+            "interest rates"
+          ]
+        }
+      ]
+    }
+  }
+}

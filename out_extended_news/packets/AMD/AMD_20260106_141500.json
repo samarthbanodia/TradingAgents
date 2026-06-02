@@ -1,0 +1,85 @@
+{
+  "event": {
+    "event_id": "AMD_20260106_141500",
+    "ticker": "AMD",
+    "t0_utc": "2026-01-06 14:15:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2026-01-06T11:15:00+00:00",
+      "end": "2026-01-06T15:15:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-01-06T13:28:49Z",
+          "title": "Stock Market Today: Nasdaq Futures Pare Losses, Dow Drops After Scaling Record Highs\u2014 CoreWeave, Vistra, Microchip Technology In Focus (UPDATED)",
+          "description": "U.S. stock futures were mixed on Tuesday following Monday's rally that saw the Dow Jones jump nearly 600 points to an all-time high, driven by geopolitical developments in Venezuela. Key movers include CoreWeave rising on Nvidia partnership plans, Vistra gaining on a $4.7 billion acquisition, and Microchip Technology advancing on better-than-expected guidance. Treasury yields held steady at 4.17% for the 10-year bond, with markets pricing in an 83.9% probability of unchanged Fed rates in January.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/49715834/stock-market-today-dow-jones-futures-drop-after-scaling-record-highs-coreweave-vistra-microchip-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "CRWV",
+            "VST",
+            "MCHP",
+            "MCHPP",
+            "GLPG",
+            "AIR",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "Dow Jones",
+            "futures",
+            "Venezuela",
+            "oil",
+            "Federal Reserve",
+            "interest rates",
+            "earnings guidance",
+            "acquisitions"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-01-06T13:28:49Z",
+          "title": "Stock Market Today: Nasdaq Futures Pare Losses, Dow Drops After Scaling Record Highs\u2014 CoreWeave, Vistra, Microchip Technology In Focus (UPDATED)",
+          "description": "U.S. stock futures were mixed on Tuesday following Monday's rally that saw the Dow Jones jump nearly 600 points to an all-time high, driven by geopolitical developments in Venezuela. Key movers include CoreWeave rising on Nvidia partnership plans, Vistra gaining on a $4.7 billion acquisition, and Microchip Technology advancing on better-than-expected guidance. Treasury yields held steady at 4.17% for the 10-year bond, with markets pricing in an 83.9% probability of unchanged Fed rates in January.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/49715834/stock-market-today-dow-jones-futures-drop-after-scaling-record-highs-coreweave-vistra-microchip-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "CRWV",
+            "VST",
+            "MCHP",
+            "MCHPP",
+            "GLPG",
+            "AIR",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "Dow Jones",
+            "futures",
+            "Venezuela",
+            "oil",
+            "Federal Reserve",
+            "interest rates",
+            "earnings guidance",
+            "acquisitions"
+          ]
+        }
+      ]
+    }
+  }
+}

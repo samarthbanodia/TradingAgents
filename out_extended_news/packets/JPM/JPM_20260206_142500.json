@@ -1,0 +1,128 @@
+{
+  "event": {
+    "event_id": "JPM_20260206_142500",
+    "ticker": "JPM",
+    "t0_utc": "2026-02-06 14:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-02-06T11:25:00+00:00",
+      "end": "2026-02-06T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-02-06T14:58:00Z",
+        "title": "Valuables Custody Service Business Research Report 2026: $35.79 Bn Market Opportunities, Trends, Competitive Landscape, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F",
+        "description": "The valuables custody service market is projected to grow from $26.4 billion in 2025 to $38.53 billion by 2030, with a 7.8% CAGR. Growth drivers include rising crime rates, increasing high-net-worth populations, demand for digital custody solutions, smart vault technology adoption, and regulatory compliance pressures. Key innovations include automated vault systems with biometric authentication and robotic retrieval.",
+        "article_url": "https://www.globenewswire.com/news-release/2026/02/06/3233928/28124/en/Valuables-Custody-Service-Business-Research-Report-2026-35-79-Bn-Market-Opportunities-Trends-Competitive-Landscape-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Researchandmarkets.Com",
+        "tickers": [
+          "AMJB",
+          "JPM",
+          "JPMpC",
+          "JPMpD",
+          "JPMpJ",
+          "JPMpK",
+          "JPMpL",
+          "JPMpM",
+          "VYLD",
+          "C",
+          "CpN",
+          "CpR",
+          "HSBC",
+          "DB",
+          "DGP",
+          "DGZ",
+          "DZZ"
+        ],
+        "keywords": [
+          "valuables custody service",
+          "digital custody solutions",
+          "smart vault technology",
+          "asset protection",
+          "high-net-worth individuals",
+          "regulatory compliance",
+          "automated vault systems",
+          "biometric authentication",
+          "cryptocurrency custody"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-02-06T13:37:30Z",
+          "title": "Stock Market Today: Dow Jones, Nasdaq, S&P 500 Futures Advance After Sharp Sell-Off\u2014 Roblox, Amazon, Reddit, Strategy In Focus (UPDATED)",
+          "description": "U.S. stock futures advanced on Friday following Thursday's sharp sell-off, with major indices showing gains. Amazon dropped 8.39% after mixed Q4 results, while Reddit surged 11.22% on strong earnings and guidance. Roblox jumped 14.41% and Strategy Inc. gained 6.98% after beating estimates. The January jobs report was delayed to next Wednesday due to a government shutdown. Markets are pricing an 81.3% likelihood of the Fed keeping rates unchanged in March.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50439534/stock-market-today-dow-jones-sp-500-futures-advance-after-sharp-sell-off-roblox-amazon-reddit-st?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AMZN",
+            "RDDT",
+            "RBLX",
+            "MSTR",
+            "STRC",
+            "STRD",
+            "STRF",
+            "STRK",
+            "AFRM",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "sell-off",
+            "earnings",
+            "Federal Reserve",
+            "interest rates",
+            "employment report",
+            "cryptocurrency"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-02-06T13:37:30Z",
+          "title": "Stock Market Today: Dow Jones, Nasdaq, S&P 500 Futures Advance After Sharp Sell-Off\u2014 Roblox, Amazon, Reddit, Strategy In Focus (UPDATED)",
+          "description": "U.S. stock futures advanced on Friday following Thursday's sharp sell-off, with major indices showing gains. Amazon dropped 8.39% after mixed Q4 results, while Reddit surged 11.22% on strong earnings and guidance. Roblox jumped 14.41% and Strategy Inc. gained 6.98% after beating estimates. The January jobs report was delayed to next Wednesday due to a government shutdown. Markets are pricing an 81.3% likelihood of the Fed keeping rates unchanged in March.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50439534/stock-market-today-dow-jones-sp-500-futures-advance-after-sharp-sell-off-roblox-amazon-reddit-st?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AMZN",
+            "RDDT",
+            "RBLX",
+            "MSTR",
+            "STRC",
+            "STRD",
+            "STRF",
+            "STRK",
+            "AFRM",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "sell-off",
+            "earnings",
+            "Federal Reserve",
+            "interest rates",
+            "employment report",
+            "cryptocurrency"
+          ]
+        }
+      ]
+    }
+  }
+}

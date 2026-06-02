@@ -1,0 +1,83 @@
+{
+  "event": {
+    "event_id": "GOOGL_20250821_131000",
+    "ticker": "GOOGL",
+    "t0_utc": "2025-08-21 13:10:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-08-21T10:10:00+00:00",
+      "end": "2025-08-21T14:10:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-08-21T11:08:56Z",
+          "title": "Fed Minutes Reveal Hawkish Officials Still In Control: Economist Says 16% Effective Tariffs Put Inflation 'On The Front Burner'",
+          "description": "Federal Reserve minutes show officials maintaining a hawkish stance on inflation, with tariffs and potential price pressures keeping interest rates steady. The committee believes inflation risks outweigh unemployment risks, with a potential rate cut unlikely in the near term.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/25/08/47254796/fed-minutes-reveal-hawkish-officials-still-in-control-economist-says-16-effective-tariffs-p",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "inflation",
+            "tariffs",
+            "interest rates",
+            "monetary policy"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-08-21T11:08:56Z",
+          "title": "Fed Minutes Reveal Hawkish Officials Still In Control: Economist Says 16% Effective Tariffs Put Inflation 'On The Front Burner'",
+          "description": "Federal Reserve minutes show officials maintaining a hawkish stance on inflation, with tariffs and potential price pressures keeping interest rates steady. The committee believes inflation risks outweigh unemployment risks, with a potential rate cut unlikely in the near term.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/25/08/47254796/fed-minutes-reveal-hawkish-officials-still-in-control-economist-says-16-effective-tariffs-p",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "inflation",
+            "tariffs",
+            "interest rates",
+            "monetary policy"
+          ]
+        },
+        {
+          "published_utc": "2025-08-21T13:19:00Z",
+          "title": "If You'd Invested $1,000 in Bitcoin (BTC) 5 Years Ago, Here's How Much You'd Have Today",
+          "description": "A $1,000 investment in Bitcoin in August 2020 would be worth $9,784 today, significantly outperforming traditional index funds like Vanguard 500 and Invesco QQQ, despite experiencing high volatility.",
+          "article_url": "https://www.fool.com/investing/2025/08/21/if-you-invested-1000-in-bitcoin-btc-5-years-ago/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Anders Bylund",
+          "tickers": [
+            "QQQ"
+          ],
+          "keywords": [
+            "Bitcoin",
+            "cryptocurrency",
+            "investment",
+            "ETF",
+            "volatility"
+          ]
+        }
+      ]
+    }
+  }
+}

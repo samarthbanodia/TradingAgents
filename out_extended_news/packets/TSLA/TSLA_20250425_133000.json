@@ -1,0 +1,90 @@
+{
+  "event": {
+    "event_id": "TSLA_20250425_133000",
+    "ticker": "TSLA",
+    "t0_utc": "2025-04-25 13:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-04-25T10:30:00+00:00",
+      "end": "2025-04-25T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-04-25T13:04:00Z",
+        "title": "Tesla Stock's 50% Crash: 1 Metric Suggests More Pain Is Ahead for the Electric Vehicle Giant",
+        "description": "Tesla's stock has crashed by 50% from its all-time high, and one key metric suggests more pain is ahead. The company's margins are eroding, it's losing market share, and its earnings power is declining, making the stock's high valuation unsustainable.",
+        "article_url": "https://www.fool.com/investing/2025/04/25/tesla-stocks-50-crash-1-metric-suggests-more-pain/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "TSLA"
+        ],
+        "keywords": [
+          "Tesla",
+          "electric vehicles",
+          "stock price",
+          "earnings",
+          "margins",
+          "market share"
+        ]
+      },
+      {
+        "published_utc": "2025-04-25T14:15:00Z",
+        "title": "Here's Why Lucid Group Stock Is a Buy Before May 6",
+        "description": "Lucid Group (LCID) is expected to report earnings on May 6, with a lot at stake. The company recently experienced leadership changes, and the new CEO will need to provide updates on the Gravity SUV sales trajectory and new mass market vehicles. There are two reasons to consider buying LCID shares before the announcement: the company's revenue growth is expected to pick up, and the valuation is attractive compared to competitors. However, there are also risks, including the CEO departure, liquidity concerns, and execution challenges.",
+        "article_url": "https://www.fool.com/investing/2025/04/25/heres-why-lucid-group-stock-is-a-buy-before-may/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Ryan Vanzo",
+        "tickers": [
+          "LCID",
+          "TSLA",
+          "RIVN"
+        ],
+        "keywords": [
+          "Lucid Group",
+          "Gravity SUV",
+          "EV manufacturers",
+          "revenue growth",
+          "valuation"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-04-25T13:27:51Z",
+          "title": "'Stay BIG, Sell Rips': Hartnett Doubts Bull Market Without 3 Key Catalysts",
+          "description": "Hartnett remains a buyer of dips in bonds, international stocks and gold, while selling into rallies in U.S. stocks and the dollar. He identifies three key conditions for a sustained bull market: lower Treasury yields, reduced U.S.-China tariffs, and robust consumer spending.",
+          "article_url": "https://www.benzinga.com/analyst-ratings/analyst-color/25/04/45007990/stay-big-sell-rips-hartnett-doubts-bull-market-without-3-key-catalysts",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "DG",
+            "RACE",
+            "SPY"
+          ],
+          "keywords": [
+            "bull market",
+            "bonds",
+            "international stocks",
+            "gold",
+            "U.S. stocks",
+            "dollar",
+            "Treasury yields",
+            "U.S.-China tariffs",
+            "consumer spending"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

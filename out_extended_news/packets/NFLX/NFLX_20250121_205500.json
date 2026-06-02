@@ -1,0 +1,71 @@
+{
+  "event": {
+    "event_id": "NFLX_20250121_205500",
+    "ticker": "NFLX",
+    "t0_utc": "2025-01-21 20:55:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-01-21T17:55:00+00:00",
+      "end": "2025-01-21T21:55:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-01-21T19:04:11Z",
+          "title": "Small Caps Soar, Apple Slips, Treasury Yields Fall On Trump Day 2: What's Driving Markets Tuesday?",
+          "description": "The Russell 2000 index led the market, rallying 1.7%, while other large-cap indices trailed behind. Apple Inc. plunged 4.3% after a downgrade, and Treasury yields fell as investors were convinced by Trump's pledges on inflation control and lower federal spending.",
+          "article_url": "https://www.benzinga.com/news/global/25/01/43109835/small-caps-soar-apple-slips-treasury-yields-fall-on-trump-day-2-whats-driving-markets-tuesday",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "AAPL",
+            "IWM",
+            "DIA",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "small caps",
+            "Apple",
+            "Treasury yields",
+            "Trump",
+            "market"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-01-21T19:04:11Z",
+          "title": "Small Caps Soar, Apple Slips, Treasury Yields Fall On Trump Day 2: What's Driving Markets Tuesday?",
+          "description": "The Russell 2000 index led the market, rallying 1.7%, while other large-cap indices trailed behind. Apple Inc. plunged 4.3% after a downgrade, and Treasury yields fell as investors were convinced by Trump's pledges on inflation control and lower federal spending.",
+          "article_url": "https://www.benzinga.com/news/global/25/01/43109835/small-caps-soar-apple-slips-treasury-yields-fall-on-trump-day-2-whats-driving-markets-tuesday",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "AAPL",
+            "IWM",
+            "DIA",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "small caps",
+            "Apple",
+            "Treasury yields",
+            "Trump",
+            "market"
+          ]
+        }
+      ]
+    }
+  }
+}

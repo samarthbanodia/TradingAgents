@@ -1,0 +1,47 @@
+{
+  "event": {
+    "event_id": "PLTR_20250627_195000",
+    "ticker": "PLTR",
+    "t0_utc": "2025-06-27 19:50:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-06-27T16:50:00+00:00",
+      "end": "2025-06-27T20:50:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-06-27T19:20:11Z",
+        "title": "Trump Flips On Canada Trade Deal, Sending Shivers Through Wall Street",
+        "description": "President Trump halted trade negotiations with Canada over a new digital tax on U.S. tech firms, causing market volatility and sending the S&P 500 down from record highs.",
+        "article_url": "https://www.benzinga.com/news/politics/25/06/46150909/trump-canada-tariffs-dollar-deal",
+        "publisher": "Benzinga",
+        "author": "Piero Cingari",
+        "tickers": [
+          "COIN",
+          "ENPH",
+          "PLTR",
+          "EWC"
+        ],
+        "keywords": [
+          "trade",
+          "tariffs",
+          "digital tax",
+          "market volatility",
+          "Canada"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

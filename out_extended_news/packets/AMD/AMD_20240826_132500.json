@@ -1,0 +1,82 @@
+{
+  "event": {
+    "event_id": "AMD_20240826_132500",
+    "ticker": "AMD",
+    "t0_utc": "2024-08-26 13:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2024-08-26T10:25:00+00:00",
+      "end": "2024-08-26T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-08-26T10:30:00Z",
+        "title": "Here's Why Nvidia Surpasses AMD as the Optimal Choice for Artificial Intelligence (AI) Investors",
+        "description": "The article compares AMD and Nvidia in the AI market, concluding that Nvidia is the better investment choice due to its significant lead over AMD in data center revenue and established relationships with customers.",
+        "article_url": "https://www.fool.com/investing/2024/08/26/heres-why-nvidia-surpasses-amd-as-the-optimal-choi/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "NVDA",
+          "AMD"
+        ],
+        "keywords": [
+          "Nvidia",
+          "AMD",
+          "AI",
+          "data center",
+          "investment"
+        ]
+      },
+      {
+        "published_utc": "2024-08-26T12:50:00Z",
+        "title": "Should You Buy Nvidia Stock Before Second-Quarter Earnings?",
+        "description": "Nvidia's journey from a niche gaming hardware company to a tech behemoth has been impressive, but the company may face challenges in maintaining its growth and high valuation. Factors like competition, margin pressure, and a potential recession could impact Nvidia's performance going forward.",
+        "article_url": "https://www.fool.com/investing/2024/08/26/buy-nvidia-stock-before-second-quarter-earning/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "NVDA",
+          "AMD",
+          "TSM"
+        ],
+        "keywords": [
+          "Nvidia",
+          "AI",
+          "Recession",
+          "Margins"
+        ]
+      },
+      {
+        "published_utc": "2024-08-26T13:49:27Z",
+        "title": "Best AI Stock? Nvidia Stock vs. AMD Stock",
+        "description": "The article compares Nvidia and AMD as AI stocks, predicting that Nvidia will exceed Wall Street's expectations on August 28th, but notes there is a catch for the AI stock.",
+        "article_url": "https://www.fool.com/investing/2024/08/26/best-ai-stock-nvidia-stock-vs-amd-stock/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Parkev Tatevosian, Cfa",
+        "tickers": [
+          "NVDA",
+          "AMD"
+        ],
+        "keywords": [
+          "Nvidia",
+          "AMD",
+          "AI",
+          "stock comparison"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

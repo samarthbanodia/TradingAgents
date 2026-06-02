@@ -1,0 +1,151 @@
+{
+  "event": {
+    "event_id": "TSLA_20241010_133000",
+    "ticker": "TSLA",
+    "t0_utc": "2024-10-10 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-10-10T10:30:00+00:00",
+      "end": "2024-10-10T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-10-10T11:00:00Z",
+        "title": "Electric Vehicle Sound Generator Market Size Expected to Hit US$ 739.3 Million by 2034, exhibiting 18.6% CAGR: Fact.MR Analysis",
+        "description": "The global electric vehicle sound generator market is expected to reach a valuation of US$ 739.3 million by 2034, driven by increasing adoption of electric vehicles and stringent pedestrian safety regulations. Manufacturers are focusing on enhancing their products with customizable sounds, adjustable volumes, and directional audio capabilities.",
+        "article_url": "https://www.globenewswire.com/news-release/2024/10/10/2961151/0/en/Electric-Vehicle-Sound-Generator-Market-Size-Expected-to-Hit-US-739-3-Million-by-2034-exhibiting-18-6-CAGR-Fact-MR-Analysis.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Fact.Mr",
+        "tickers": [
+          "TSLA",
+          "VWAGY"
+        ],
+        "keywords": [
+          "electric vehicles",
+          "sound generators",
+          "pedestrian safety",
+          "market growth",
+          "product innovation"
+        ]
+      },
+      {
+        "published_utc": "2024-10-10T14:07:13Z",
+        "title": "This Cathie Wood Stock Is Outperforming Tesla by a Wide Margin. Is It Too Late to Buy?",
+        "description": "The article discusses Robinhood (HOOD) stock, which has surged 100% this year, and compares its performance to Tesla. It suggests that high interest rates have helped Robinhood, and questions whether the opposite will happen now that rates are coming down.",
+        "article_url": "https://www.fool.com/investing/2024/10/10/this-cathie-wood-stock-is-outperforming-tesla-by-a/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "HOOD",
+          "TSLA"
+        ],
+        "keywords": [
+          "Robinhood",
+          "Tesla"
+        ]
+      },
+      {
+        "published_utc": "2024-10-10T14:22:35Z",
+        "title": "Tech, Consumer Discretionary Stocks Fall, Utilities Sector Outperforms On Surprisingly High Inflation, Jobless Claims Data",
+        "description": "Tech and consumer discretionary stocks declined due to higher-than-expected inflation and a spike in jobless claims, while the utilities sector outperformed.",
+        "article_url": "https://www.benzinga.com/markets/equities/24/10/41273615/tech-consumer-discretionary-stocks-fall-utilities-sector-outperforms-on-surprisingly-high-inflat",
+        "publisher": "Benzinga",
+        "author": "Piero Cingari, Benzinga Staff Writer",
+        "tickers": [
+          "XLU",
+          "FSLR",
+          "SMCI",
+          "ENPH",
+          "TSLA",
+          "ROST",
+          "LULU"
+        ],
+        "keywords": [
+          "inflation",
+          "jobless claims",
+          "tech stocks",
+          "consumer discretionary stocks",
+          "utilities sector"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-10-10T10:49:42Z",
+          "title": "Nasdaq, S&P 500 Futures Slip As September CPI Data Looms, Tesla On Radar Ahead Of Robotaxi Event: Strategist Offers Stock Tips Aligned With Presidential Candidates' Trade Policies",
+          "description": "The S&P 500 and Dow Jones Industrial Average are at record highs, but futures indicate a potential pullback. Factors like the September CPI report, economic performance, and corporate earnings are key catalysts in the near term.",
+          "article_url": "https://www.benzinga.com/news/earnings/24/10/41268133/nasdaq-s-p-500-futures-slip-as-september-cpi-data-looms-tesla-on-radar-ahead-of-robotaxi-event-stra",
+          "publisher": "Benzinga",
+          "author": "Benzinga Editor",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "GXO",
+            "DAL",
+            "DPZ",
+            "TLRY"
+          ],
+          "keywords": [
+            "S&P 500",
+            "Dow Jones Industrial Average",
+            "CPI",
+            "economic performance",
+            "corporate earnings"
+          ]
+        },
+        {
+          "published_utc": "2024-10-10T13:12:13Z",
+          "title": "September Inflation Hotter Than Expected, Jobless Claims Spike The Most In Over A Year, Clouding Fed's Interest Rate Outlook (UPDATED)",
+          "description": "U.S. inflation fell for the sixth straight month in September, but the decline was slower than expected. Core inflation unexpectedly rose, complicating the outlook for interest rates. Jobless claims also spiked, signaling a setback for the labor market.",
+          "article_url": "https://www.benzinga.com/economics/macro-economic-events/24/10/41270761/september-inflation-hotter-than-expected-jobless-claims-spike-the-most-in-over-a-",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "DIA",
+            "SPY"
+          ],
+          "keywords": [
+            "inflation",
+            "jobless claims",
+            "interest rates",
+            "Federal Reserve"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2024-10-10T10:49:42Z",
+          "title": "Nasdaq, S&P 500 Futures Slip As September CPI Data Looms, Tesla On Radar Ahead Of Robotaxi Event: Strategist Offers Stock Tips Aligned With Presidential Candidates' Trade Policies",
+          "description": "The S&P 500 and Dow Jones Industrial Average are at record highs, but futures indicate a potential pullback. Factors like the September CPI report, economic performance, and corporate earnings are key catalysts in the near term.",
+          "article_url": "https://www.benzinga.com/news/earnings/24/10/41268133/nasdaq-s-p-500-futures-slip-as-september-cpi-data-looms-tesla-on-radar-ahead-of-robotaxi-event-stra",
+          "publisher": "Benzinga",
+          "author": "Benzinga Editor",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "GXO",
+            "DAL",
+            "DPZ",
+            "TLRY"
+          ],
+          "keywords": [
+            "S&P 500",
+            "Dow Jones Industrial Average",
+            "CPI",
+            "economic performance",
+            "corporate earnings"
+          ]
+        }
+      ]
+    }
+  }
+}

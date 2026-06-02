@@ -1,0 +1,244 @@
+{
+  "event": {
+    "event_id": "MSFT_20250129_205500",
+    "ticker": "MSFT",
+    "t0_utc": "2025-01-29 20:55:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-01-29T17:55:00+00:00",
+      "end": "2025-01-29T21:55:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-01-29T18:04:24Z",
+        "title": "Stocks Tick Down Ahead Of Fed Meeting, Nvidia Jitters Resume, Trump Media Rallies: What's Driving Markets Wednesday?",
+        "description": "Stocks are little changed ahead of the Federal Reserve's policy decision, with tech stocks under pressure as Nvidia weighs on the sector. Investors are focused on any signals from the Fed regarding future rate cuts.",
+        "article_url": "https://www.benzinga.com/25/01/43313939/stocks-tick-down-ahead-of-fed-meeting-nvidia-jitters-resume-trump-media-rallies-whats-driving-markets-wednesday",
+        "publisher": "Benzinga",
+        "author": "Piero Cingari",
+        "tickers": [
+          "NVDA",
+          "MSFT",
+          "META",
+          "XLF",
+          "XLC",
+          "XLK"
+        ],
+        "keywords": [
+          "Federal Reserve",
+          "interest rates",
+          "tech stocks",
+          "Nvidia"
+        ]
+      },
+      {
+        "published_utc": "2025-01-29T18:50:50Z",
+        "title": "AI ETFs In Focus As Alibaba Challenges DeepSeek With New Model",
+        "description": "The ongoing AI arms race, with disruptive developments from DeepSeek and Alibaba's new Qwen 2.5-Max model, has thrust AI-focused ETFs into the spotlight. This escalating competition opens opportunities for investors to capitalize on the AI trend.",
+        "article_url": "https://www.benzinga.com/news/global/25/01/43315374/ai-etfs-in-focus-as-alibaba-challenges-deepseek-with-new-model",
+        "publisher": "Benzinga",
+        "author": "Chandrima Sanyal",
+        "tickers": [
+          "AAPL",
+          "AIQ",
+          "AMZN",
+          "ARKQ",
+          "BABA",
+          "BIDU",
+          "GOOG",
+          "GOOGL",
+          "MSFT",
+          "NVDA",
+          "QQQ",
+          "TSLA"
+        ],
+        "keywords": [
+          "AI",
+          "ETFs",
+          "Alibaba",
+          "DeepSeek"
+        ]
+      },
+      {
+        "published_utc": "2025-01-29T19:16:48Z",
+        "title": "Why C3.ai Stock Is Sinking Today",
+        "description": "C3.ai's stock is falling as investors try to understand the impact of DeepSeek's new AI model, which is said to be more efficient than ChatGPT. Proposed legislation to limit US-China AI cooperation is also weighing on the stock. The implications for C3.ai are unclear, as the new AI model could either benefit or hurt the company.",
+        "article_url": "https://www.fool.com/investing/2025/01/29/why-c3ai-stock-is-sinking-today/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Keith Noonan",
+        "tickers": [
+          "AI",
+          "MSFT",
+          "NVDA"
+        ],
+        "keywords": [
+          "C3.ai",
+          "DeepSeek",
+          "AI",
+          "ChatGPT",
+          "US-China relations"
+        ]
+      },
+      {
+        "published_utc": "2025-01-29T19:19:00Z",
+        "title": "O Tecnol\u00f3gico de Monterrey Cria Uma Rede Global e Compartilha Sua Plataforma TECgpt Para Promover a Ado\u00e7\u00e3o da IA na Educa\u00e7\u00e3o",
+        "description": "Tecnol\u00f3gico de Monterrey, in collaboration with Microsoft, launched the TECgpt initiative and the AI Global Education Network (AIGEN) to support the adoption of AI in higher education institutions worldwide. A pilot program will be implemented in 10 universities to integrate the TECgpt platform.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/01/29/3017531/0/pt/O-Tecnol%C3%B3gico-de-Monterrey-Cria-Uma-Rede-Global-e-Compartilha-Sua-Plataforma-TECgpt-Para-Promover-a-Ado%C3%A7%C3%A3o-da-IA-na-Educa%C3%A7%C3%A3o.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "N/A",
+        "tickers": [
+          "MSFT"
+        ],
+        "keywords": [
+          "Tecnol\u00f3gico de Monterrey",
+          "Microsoft",
+          "AI",
+          "education",
+          "AIGEN",
+          "TECgpt"
+        ]
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-01-29T19:44:59Z",
+          "title": "Fed Holds Interest Rates Steady, Halts Streak Of Consecutive Cuts, Says Inflation Remains 'Elevated' (UPDATED)",
+          "description": "The Federal Reserve kept interest rates unchanged at 4.25%-4.5%, ending a streak of three consecutive rate cuts. The central bank acknowledged that inflation remains elevated, but said the risks to its employment and inflation goals are balanced.",
+          "article_url": "https://www.benzinga.com/25/01/43316048/fed-holds-interest-rates-steady-halts-streak-of-consecutive-cuts-as-inflation-remains-elevated",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "SPY",
+            "XLRE",
+            "NVDA"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "interest rates",
+            "inflation",
+            "monetary policy"
+          ]
+        },
+        {
+          "published_utc": "2025-01-29T21:11:24Z",
+          "title": "First Interest Rate Cut May Not Come Until June 'If At All,' Economist Warns As Fed Holds Steady",
+          "description": "The Federal Reserve held interest rates steady, with economists noting a slightly more hawkish tone in the policy statement. Experts suggest the first potential rate cut may not come until June or later, if at all, as the Fed waits to see the impact of policy changes.",
+          "article_url": "https://www.benzinga.com/25/01/43319060/first-rate-cut-in-june-if-at-all-in-2025-economist-says-as-federal-reserve-holds-rates-steady",
+          "publisher": "Benzinga",
+          "author": "Erica Kollmann",
+          "tickers": [
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "interest rates",
+            "rate cuts",
+            "inflation",
+            "economic policy"
+          ]
+        },
+        {
+          "published_utc": "2025-01-29T21:41:34Z",
+          "title": "Bitcoin Flies Above $104,000 After Powell Remarks, Stocks Remain Stunned By AI Concerns",
+          "description": "Bitcoin jumped 3% to $104,000 after Fed Chair Powell took a surprisingly open stance on crypto assets, while Nvidia stock dropped 6% due to reports of stricter chip export curbs to China.",
+          "article_url": "https://www.benzinga.com/economics/macro-economic-events/25/01/43321077/bitcoin-flies-above-104000-after-powell-remarks-stocks-remain-stunned-by-ai-conce",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "NVDA",
+            "SPY",
+            "QQQ",
+            "XLC"
+          ],
+          "keywords": [
+            "Bitcoin",
+            "Nvidia",
+            "Federal Reserve",
+            "Cryptocurrency",
+            "Chip Exports"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-01-29T18:50:50Z",
+          "title": "AI ETFs In Focus As Alibaba Challenges DeepSeek With New Model",
+          "description": "The ongoing AI arms race, with disruptive developments from DeepSeek and Alibaba's new Qwen 2.5-Max model, has thrust AI-focused ETFs into the spotlight. This escalating competition opens opportunities for investors to capitalize on the AI trend.",
+          "article_url": "https://www.benzinga.com/news/global/25/01/43315374/ai-etfs-in-focus-as-alibaba-challenges-deepseek-with-new-model",
+          "publisher": "Benzinga",
+          "author": "Chandrima Sanyal",
+          "tickers": [
+            "AAPL",
+            "AIQ",
+            "AMZN",
+            "ARKQ",
+            "BABA",
+            "BIDU",
+            "GOOG",
+            "GOOGL",
+            "MSFT",
+            "NVDA",
+            "QQQ",
+            "TSLA"
+          ],
+          "keywords": [
+            "AI",
+            "ETFs",
+            "Alibaba",
+            "DeepSeek"
+          ]
+        },
+        {
+          "published_utc": "2025-01-29T21:11:24Z",
+          "title": "First Interest Rate Cut May Not Come Until June 'If At All,' Economist Warns As Fed Holds Steady",
+          "description": "The Federal Reserve held interest rates steady, with economists noting a slightly more hawkish tone in the policy statement. Experts suggest the first potential rate cut may not come until June or later, if at all, as the Fed waits to see the impact of policy changes.",
+          "article_url": "https://www.benzinga.com/25/01/43319060/first-rate-cut-in-june-if-at-all-in-2025-economist-says-as-federal-reserve-holds-rates-steady",
+          "publisher": "Benzinga",
+          "author": "Erica Kollmann",
+          "tickers": [
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "interest rates",
+            "rate cuts",
+            "inflation",
+            "economic policy"
+          ]
+        },
+        {
+          "published_utc": "2025-01-29T21:41:34Z",
+          "title": "Bitcoin Flies Above $104,000 After Powell Remarks, Stocks Remain Stunned By AI Concerns",
+          "description": "Bitcoin jumped 3% to $104,000 after Fed Chair Powell took a surprisingly open stance on crypto assets, while Nvidia stock dropped 6% due to reports of stricter chip export curbs to China.",
+          "article_url": "https://www.benzinga.com/economics/macro-economic-events/25/01/43321077/bitcoin-flies-above-104000-after-powell-remarks-stocks-remain-stunned-by-ai-conce",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "NVDA",
+            "SPY",
+            "QQQ",
+            "XLC"
+          ],
+          "keywords": [
+            "Bitcoin",
+            "Nvidia",
+            "Federal Reserve",
+            "Cryptocurrency",
+            "Chip Exports"
+          ]
+        }
+      ]
+    }
+  }
+}

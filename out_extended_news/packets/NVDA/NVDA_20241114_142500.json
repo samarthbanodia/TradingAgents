@@ -1,0 +1,206 @@
+{
+  "event": {
+    "event_id": "NVDA_20241114_142500",
+    "ticker": "NVDA",
+    "t0_utc": "2024-11-14 14:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-11-14T11:25:00+00:00",
+      "end": "2024-11-14T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-11-14T11:45:00Z",
+        "title": "Got $1,000? A Top Artificial Intelligence (AI) Stock Is On Sale Right Now",
+        "description": "ASML, a critical company in the chip value chain, has seen its stock price drop around 40% from its all-time high due to reduced guidance for 2025. While this is a short-term headwind, the long-term trends for ASML remain strong as the need for more chip capacity continues to grow.",
+        "article_url": "https://www.fool.com/investing/2024/11/14/got-1000-a-top-artificial-intelligence-ai-stock-is/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Keithen Drury",
+        "tickers": [
+          "ASML",
+          "NVDA",
+          "TSM"
+        ],
+        "keywords": [
+          "ASML",
+          "AI",
+          "chip industry",
+          "semiconductor",
+          "China"
+        ]
+      },
+      {
+        "published_utc": "2024-11-14T12:00:00Z",
+        "title": "The Future of AI PC: Market Segmentation, Growth Projections, Opportunities and Forecast to 2030",
+        "description": "The AI PC market is projected to grow from $50.61 billion in 2024 to $231.30 billion by 2030, driven by the integration of high-processing NPUs and growing demand for AI-based gaming PCs. Asia Pacific is expected to see the highest CAGR, while desktops/notebooks and Windows OS are expected to dominate the market.",
+        "article_url": "https://www.globenewswire.com/news-release/2024/11/14/2980993/0/en/The-Future-of-AI-PC-Market-Segmentation-Growth-Projections-Opportunities-and-Forecast-to-2030.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Globe Newswire",
+        "tickers": [
+          "AAPL",
+          "DELL",
+          "HPEpC",
+          "HPQ",
+          "LNVGY",
+          "INTC",
+          "AMD",
+          "NVDA",
+          "MSFT",
+          "ASUUY"
+        ],
+        "keywords": [
+          "AI PC market",
+          "NPUs",
+          "AI-based gaming PCs",
+          "Asia Pacific",
+          "desktops/notebooks",
+          "Windows OS"
+        ]
+      },
+      {
+        "published_utc": "2024-11-14T13:03:00Z",
+        "title": "Microchip to Accelerate Real-time Edge AI with NVIDIA Holoscan",
+        "description": "Microchip Technology has released its PolarFire\u00ae FPGA Ethernet Sensor Bridge, which works with the NVIDIA Holoscan sensor processing platform. The platform enables developers to create innovative, real-time solutions for AI-driven edge applications in various industries.",
+        "article_url": "https://www.globenewswire.com/news-release/2024/11/14/2981161/0/en/Microchip-to-Accelerate-Real-time-Edge-AI-with-NVIDIA-Holoscan.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Microchip Technology",
+        "tickers": [
+          "MCHP",
+          "NVDA"
+        ],
+        "keywords": [
+          "FPGA",
+          "Ethernet",
+          "Sensor",
+          "NVIDIA",
+          "Edge AI",
+          "Microchip Technology"
+        ]
+      },
+      {
+        "published_utc": "2024-11-14T14:11:00Z",
+        "title": "The INX Digital Company Reports Q3 2024 Financial Results",
+        "description": "The INX Digital Company reported its Q3 2024 financial results, highlighting a strong balance sheet, strategic partnerships, and U.S. expansion. The company maintained a reserve fund and reduced operational losses compared to the previous year.",
+        "article_url": "https://www.benzinga.com/pressreleases/24/11/n41973605/the-inx-digital-company-reports-q3-2024-financial-results",
+        "publisher": "Benzinga",
+        "author": "Prnewswire",
+        "tickers": [
+          "NVDA",
+          "TSLA",
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "GME"
+        ],
+        "keywords": [
+          "INX Digital Company",
+          "financial results",
+          "balance sheet",
+          "strategic partnerships",
+          "U.S. expansion"
+        ]
+      },
+      {
+        "published_utc": "2024-11-14T14:38:00Z",
+        "title": "1 Wall Street Analyst Thinks Nvidia Stock Is Going to $178. Is It a Buy?",
+        "description": "Nvidia's stock is nearing new highs ahead of its upcoming earnings report, but one analyst believes investors should wait until after the report to decide whether to buy the shares. The article discusses Nvidia's strong data center performance and the potential for volatility around earnings releases.",
+        "article_url": "https://www.fool.com/investing/2024/11/14/wall-street-analyst-nvidia-stock-178-buy/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "John Ballard",
+        "tickers": [
+          "NVDA"
+        ],
+        "keywords": [
+          "Nvidia",
+          "earnings",
+          "data center",
+          "AI"
+        ]
+      },
+      {
+        "published_utc": "2024-11-14T14:45:00Z",
+        "title": "Is Coca-Cola a Buy, Sell, or Hold in 2025?",
+        "description": "The article discusses the challenges facing Coca-Cola, including slowing revenue growth, declining operating margins, and a weak outlook for the broader soda industry. The author believes Coca-Cola's stock is not an attractive investment compared to other options and rates it a sell for 2025.",
+        "article_url": "https://www.fool.com/investing/2024/11/14/is-coca-cola-a-buy-sell-or-hold-in-2025/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "David Butler",
+        "tickers": [
+          "KO",
+          "NVDA",
+          "MSFT",
+          "CMG"
+        ],
+        "keywords": [
+          "Coca-Cola",
+          "Soft drinks",
+          "Stock performance",
+          "Valuation"
+        ]
+      }
+    ],
+    "ticker_news_count": 6,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-11-14T11:28:44Z",
+          "title": "US Futures Marginally Up As Investors Process Inflation Data Ahead Of Jerome Powell's Speech On Economy: Expert Says Fed Should 'Continue Recalibrating To Neutral' On Softer Inflation",
+          "description": "US stock futures are slightly up as investors digest the latest inflation data and await Fed Chair Jerome Powell's speech on the economic outlook. Experts suggest the Fed should continue recalibrating policy as inflation softens.",
+          "article_url": "https://www.benzinga.com/news/earnings/24/11/41966815/us-futures-marginally-up-as-investors-process-inflation-data-ahead-of-jerome-powells-speech-on-econ",
+          "publisher": "Benzinga",
+          "author": "Rounak Jain",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "AAP",
+            "SMCI",
+            "ASML",
+            "MSTR",
+            "HOOD",
+            "CSCO"
+          ],
+          "keywords": [
+            "US stocks",
+            "inflation",
+            "Federal Reserve",
+            "Jerome Powell",
+            "economic outlook"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2024-11-14T11:28:44Z",
+          "title": "US Futures Marginally Up As Investors Process Inflation Data Ahead Of Jerome Powell's Speech On Economy: Expert Says Fed Should 'Continue Recalibrating To Neutral' On Softer Inflation",
+          "description": "US stock futures are slightly up as investors digest the latest inflation data and await Fed Chair Jerome Powell's speech on the economic outlook. Experts suggest the Fed should continue recalibrating policy as inflation softens.",
+          "article_url": "https://www.benzinga.com/news/earnings/24/11/41966815/us-futures-marginally-up-as-investors-process-inflation-data-ahead-of-jerome-powells-speech-on-econ",
+          "publisher": "Benzinga",
+          "author": "Rounak Jain",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "AAP",
+            "SMCI",
+            "ASML",
+            "MSTR",
+            "HOOD",
+            "CSCO"
+          ],
+          "keywords": [
+            "US stocks",
+            "inflation",
+            "Federal Reserve",
+            "Jerome Powell",
+            "economic outlook"
+          ]
+        }
+      ]
+    }
+  }
+}

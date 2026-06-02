@@ -1,0 +1,110 @@
+{
+  "event": {
+    "event_id": "TSLA_20250404_100500",
+    "ticker": "TSLA",
+    "t0_utc": "2025-04-04 10:05:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-04-04T07:05:00+00:00",
+      "end": "2025-04-04T11:05:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-04-04T08:27:00Z",
+        "title": "Jensen Huang Recently Delivered Incredible News for Nvidia Investors",
+        "description": "Nvidia's new Blackwell GPU architecture is designed to power the growing demand for AI reasoning models, which require significantly more computing power. This could be a significant tailwind for Nvidia's GPU sales, as the top cloud providers have already ordered 3.6 million Blackwell GPUs.",
+        "article_url": "https://www.fool.com/investing/2025/04/04/jensen-huang-delivered-news-nvidia-stock-investors/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Anthony Di Pizio",
+        "tickers": [
+          "NVDA",
+          "MSFT",
+          "META",
+          "TSLA"
+        ],
+        "keywords": [
+          "Nvidia",
+          "GPU",
+          "AI",
+          "Reasoning models",
+          "Cloud providers"
+        ]
+      },
+      {
+        "published_utc": "2025-04-04T09:45:00Z",
+        "title": "The Best Stock to Buy Now in April (2025)",
+        "description": "Uber is trading at a relatively cheap valuation because the threat from Tesla's driverless car technology is overstated.",
+        "article_url": "https://www.fool.com/investing/2025/04/04/the-best-stock-to-buy-now-in-april-2025/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Parkev Tatevosian, Cfa",
+        "tickers": [
+          "UBER",
+          "TSLA"
+        ],
+        "keywords": [
+          "Uber",
+          "Tesla",
+          "driverless car"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-04-04T10:18:40Z",
+          "title": "US Stocks Likely To Open Lower After The Worst Selloff Since 2020: Tariff Announcement Was '100% Smoot Hawley Disguised As Thoughtful Policy,' Says Expert",
+          "description": "U.S. stock futures declined on Friday after a broad market selloff on Thursday following the introduction of President Trump's tariffs. Experts criticized the tariffs as a 'Smoot Hawley disguised as thoughtful policy', which caused the market to plummet.",
+          "article_url": "https://www.benzinga.com/25/04/44643100/us-stocks-likely-to-open-lower-after-the-worst-selloff-since-2020-tariff-announcement-was-100-smoot-hawley-disgui",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AAPL",
+            "AMS",
+            "AMZN",
+            "SPY",
+            "QQQ",
+            "NVDA"
+          ],
+          "keywords": [
+            "US stocks",
+            "tariffs",
+            "market selloff",
+            "Smoot Hawley"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-04-04T10:18:40Z",
+          "title": "US Stocks Likely To Open Lower After The Worst Selloff Since 2020: Tariff Announcement Was '100% Smoot Hawley Disguised As Thoughtful Policy,' Says Expert",
+          "description": "U.S. stock futures declined on Friday after a broad market selloff on Thursday following the introduction of President Trump's tariffs. Experts criticized the tariffs as a 'Smoot Hawley disguised as thoughtful policy', which caused the market to plummet.",
+          "article_url": "https://www.benzinga.com/25/04/44643100/us-stocks-likely-to-open-lower-after-the-worst-selloff-since-2020-tariff-announcement-was-100-smoot-hawley-disgui",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AAPL",
+            "AMS",
+            "AMZN",
+            "SPY",
+            "QQQ",
+            "NVDA"
+          ],
+          "keywords": [
+            "US stocks",
+            "tariffs",
+            "market selloff",
+            "Smoot Hawley"
+          ]
+        }
+      ]
+    }
+  }
+}

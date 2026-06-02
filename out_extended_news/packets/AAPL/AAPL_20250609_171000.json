@@ -1,0 +1,81 @@
+{
+  "event": {
+    "event_id": "AAPL_20250609_171000",
+    "ticker": "AAPL",
+    "t0_utc": "2025-06-09 17:10:00+00:00",
+    "direction": -1,
+    "label_proxy": "unclear",
+    "window": {
+      "start": "2025-06-09T14:10:00+00:00",
+      "end": "2025-06-09T18:10:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-06-09T17:31:52Z",
+          "title": "Silver Breaks Past 13-Year Highs, Small Caps Rise, Bitcoin Tops $108,000: What's Driving Markets Monday?",
+          "description": "Silver surges to 13-year highs, outperforming gold and other metals. Small-cap stocks continue to outperform, while Bitcoin tops $108,000. Investors await potential trade breakthroughs during U.S.-China talks in London.",
+          "article_url": "https://www.benzinga.com/markets/equities/25/06/45843882/silver-breaks-past-13-year-highs-small-caps-rise-bitcoin-tops-108000-whats-driving-markets-monda",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "ACHR",
+            "ACHR.WS",
+            "JOBY",
+            "JOBY.WS",
+            "EVTL",
+            "CCJ",
+            "ARM",
+            "IWM",
+            "SPY",
+            "QQQ",
+            "XLB"
+          ],
+          "keywords": [
+            "silver",
+            "small caps",
+            "bitcoin",
+            "trade talks"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-06-09T17:31:52Z",
+          "title": "Silver Breaks Past 13-Year Highs, Small Caps Rise, Bitcoin Tops $108,000: What's Driving Markets Monday?",
+          "description": "Silver surges to 13-year highs, outperforming gold and other metals. Small-cap stocks continue to outperform, while Bitcoin tops $108,000. Investors await potential trade breakthroughs during U.S.-China talks in London.",
+          "article_url": "https://www.benzinga.com/markets/equities/25/06/45843882/silver-breaks-past-13-year-highs-small-caps-rise-bitcoin-tops-108000-whats-driving-markets-monda",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "ACHR",
+            "ACHR.WS",
+            "JOBY",
+            "JOBY.WS",
+            "EVTL",
+            "CCJ",
+            "ARM",
+            "IWM",
+            "SPY",
+            "QQQ",
+            "XLB"
+          ],
+          "keywords": [
+            "silver",
+            "small caps",
+            "bitcoin",
+            "trade talks"
+          ]
+        }
+      ]
+    }
+  }
+}

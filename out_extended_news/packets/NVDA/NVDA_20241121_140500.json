@@ -1,0 +1,121 @@
+{
+  "event": {
+    "event_id": "NVDA_20241121_140500",
+    "ticker": "NVDA",
+    "t0_utc": "2024-11-21 14:05:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2024-11-21T11:05:00+00:00",
+      "end": "2024-11-21T15:05:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-11-21T11:20:00Z",
+        "title": "1 Unstoppable Artificial Intelligence (AI) Stock to Buy Before 2024 Ends",
+        "description": "Oracle's cloud infrastructure business has received a significant boost from the growing demand for AI services, leading to a 74% jump in its stock price so far this year. The company's revenue growth is expected to accelerate in the coming years, driven by strong demand for its cloud infrastructure and AI-related services.",
+        "article_url": "https://www.fool.com/investing/2024/11/21/1-unstoppable-artificial-intelligence-ai-stock-to/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Harsh Chauhan",
+        "tickers": [
+          "ORCL",
+          "NVDA"
+        ],
+        "keywords": [
+          "Oracle",
+          "AI",
+          "cloud infrastructure",
+          "revenue growth"
+        ]
+      },
+      {
+        "published_utc": "2024-11-21T11:22:00Z",
+        "title": "S&P 500 to at Open Pivotal Zone as Nvidia Fails to Meet Lofty Revenue Expectations",
+        "description": "The S&P 500 is consolidating gains, facing global investor caution and profit-taking pressures. Nvidia's shares fell despite beating earnings and revenue estimates, as the company forecast the weakest revenue growth in 7 quarters.",
+        "article_url": "https://www.investing.com/analysis/sp-500-to-at-open-pivotal-zone-as-nvidia-fails-to-meet-lofty-revenue-expectations-200654417",
+        "publisher": "Investing.com",
+        "author": "Fawad Razaqzada",
+        "tickers": [
+          "NVDA"
+        ],
+        "keywords": [
+          "S&P 500",
+          "Nvidia",
+          "revenue expectations"
+        ]
+      },
+      {
+        "published_utc": "2024-11-21T11:43:00Z",
+        "title": "Nvidia: At Which Levels Should You Buy the Stock in Light of Yesterday's Report?",
+        "description": "Nvidia reported strong Q3 results, but its forward guidance disappointed the market, leading to concerns about a potential correction. The article analyzes the company's financials and suggests levels to watch for potential buying opportunities.",
+        "article_url": "https://www.investing.com/analysis/nvidia-at-which-levels-should-you-buy-the-stock-in-light-of-yesterdays-report-200654399",
+        "publisher": "Investing.com",
+        "author": "Damian Nowiszewski",
+        "tickers": [
+          "NVDA"
+        ],
+        "keywords": [
+          "Nvidia",
+          "stock",
+          "earnings",
+          "guidance",
+          "valuation"
+        ]
+      },
+      {
+        "published_utc": "2024-11-21T13:30:00Z",
+        "title": "Artificial General Intelligence Is Coming: 1 Unstoppable Vanguard ETF to Buy Now",
+        "description": "The article discusses the potential of artificial general intelligence (AGI) and how the Vanguard Information Technology ETF (VGT) provides exposure to companies at the forefront of AI development, including Microsoft, Apple, and Nvidia. The ETF offers broad diversification across the AI ecosystem and has delivered strong returns, making it a compelling investment option for those who believe in AGI's transformative potential.",
+        "article_url": "https://www.fool.com/investing/2024/11/21/artificial-general-intelligence-is-coming-1-unstop/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "George Budwell",
+        "tickers": [
+          "MSFT",
+          "AAPL",
+          "NVDA",
+          "VGT"
+        ],
+        "keywords": [
+          "artificial general intelligence",
+          "AI",
+          "Vanguard Information Technology ETF",
+          "Microsoft",
+          "Apple",
+          "Nvidia"
+        ]
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-11-21T14:15:00Z",
+          "title": "Worried About Buying Stocks Right Now? Follow This Advice from Warren Buffett.",
+          "description": "The article discusses Warren Buffett's advice for investing in uncertain times, highlighting his recommendation to invest in S&P 500 index funds as a low-risk, long-term strategy. It also notes that while the overall market may appear expensive, some individual stocks still represent good value.",
+          "article_url": "https://www.fool.com/investing/2024/11/21/worried-about-buying-stocks-now-follow-buffett/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Adria Cimino",
+          "tickers": [
+            "AXP",
+            "KO",
+            "SPY"
+          ],
+          "keywords": [
+            "Warren Buffett",
+            "S&P 500",
+            "index funds",
+            "stock market",
+            "investing"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

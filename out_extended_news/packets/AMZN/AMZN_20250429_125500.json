@@ -1,0 +1,116 @@
+{
+  "event": {
+    "event_id": "AMZN_20250429_125500",
+    "ticker": "AMZN",
+    "t0_utc": "2025-04-29 12:55:00+00:00",
+    "direction": -1,
+    "label_proxy": "unclear",
+    "window": {
+      "start": "2025-04-29T09:55:00+00:00",
+      "end": "2025-04-29T13:55:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-04-29T10:30:00Z",
+        "title": "Pay Close Attention to This Crucial Revenue Source for Artificial Intelligence (AI) Giant Nvidia",
+        "description": "Nvidia's data center sales have been a major driver of its success, but investors should watch for potential risks from tariffs and economic slowdown that could impact this crucial revenue source.",
+        "article_url": "https://www.fool.com/investing/2025/04/29/pay-close-attention-to-this-crucial-revenue-source/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "NVDA",
+          "IBM",
+          "AMZN",
+          "GOOG",
+          "GOOGL",
+          "MSFT",
+          "META"
+        ],
+        "keywords": [
+          "Nvidia",
+          "data center",
+          "AI",
+          "tariffs",
+          "economic slowdown"
+        ]
+      },
+      {
+        "published_utc": "2025-04-29T10:43:35Z",
+        "title": "Elon Musk, Warren Buffett, Jeff Bezos, And 16 US Households Gained $1 Trillion In 2024\u2014An Amount Larger Than Switzerland's Entire Economy",
+        "description": "A small group of ultra-wealthy individuals, including Elon Musk, Warren Buffett, and Jeff Bezos, gained $1 trillion in net worth in 2024, an amount larger than Switzerland's entire economy. This highlights the growing wealth inequality in the United States.",
+        "article_url": "https://www.benzinga.com/news/global/25/04/45061885/elon-musk-warren-buffett-jeff-bezos-and-16-us-households-gained-1-trillion-in-2024-an-amount-larger-t",
+        "publisher": "Benzinga",
+        "author": "Proiti Seal Acharya",
+        "tickers": [
+          "TSLA",
+          "BRK.A",
+          "BRK.B",
+          "AMZN"
+        ],
+        "keywords": [
+          "wealth inequality",
+          "billionaires",
+          "economic growth"
+        ]
+      },
+      {
+        "published_utc": "2025-04-29T11:30:00Z",
+        "title": "The S&P 500 Is Doing Something That Hasn't Been Seen in Nearly 100 Years. Here Are the 10 Most Important Stocks to Keep an Eye On.",
+        "description": "The S&P 500 is experiencing high concentration levels, with the top 10 stocks by market cap underperforming the index. However, these companies are positioned to dominate their respective sectors in the long run.",
+        "article_url": "https://www.fool.com/investing/2025/04/29/the-sp-500-is-doing-something-that-hasnt-been-seen/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "GOOG",
+          "GOOGL",
+          "AMZN",
+          "AAPL",
+          "BRK.A",
+          "BRK.B",
+          "AVGO",
+          "LLY",
+          "META",
+          "MSFT",
+          "NVDA",
+          "TSLA"
+        ],
+        "keywords": [
+          "S&P 500",
+          "stock market",
+          "concentration",
+          "top 10 stocks"
+        ]
+      },
+      {
+        "published_utc": "2025-04-29T13:00:00Z",
+        "title": "Amazon and SunPower Executive Kumar Brahnmath Joins Measurabl as Chief Product & Technology Officer to Accelerate Innovation in Data-Driven Sustainability",
+        "description": "Measurabl, a sustainability data management platform for real estate, has appointed Kumar Brahnmath as its new Chief Product & Technology Officer. Brahnmath, with experience from Amazon and SunPower, will lead Measurabl's global product and technology strategy to drive innovation and scale the platform.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/04/29/3070264/0/en/Amazon-and-SunPower-Executive-Kumar-Brahnmath-Joins-Measurabl-as-Chief-Product-Technology-Officer-to-Accelerate-Innovation-in-Data-Driven-Sustainability.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "N/A",
+        "tickers": [
+          "AMZN"
+        ],
+        "keywords": [
+          "Measurabl",
+          "Kumar Brahnmath",
+          "Amazon",
+          "SunPower",
+          "sustainability",
+          "real estate"
+        ]
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

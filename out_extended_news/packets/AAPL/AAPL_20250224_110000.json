@@ -1,0 +1,76 @@
+{
+  "event": {
+    "event_id": "AAPL_20250224_110000",
+    "ticker": "AAPL",
+    "t0_utc": "2025-02-24 11:00:00+00:00",
+    "direction": -1,
+    "label_proxy": "unclear",
+    "window": {
+      "start": "2025-02-24T08:00:00+00:00",
+      "end": "2025-02-24T12:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-02-24T08:34:00Z",
+        "title": "Prediction: 2 AI Stocks Will Be Worth More Than Apple Stock by the Year's End in 2025",
+        "description": "Nvidia and Microsoft are predicted to surpass Apple's current market value of $3.6 trillion by the end of 2025, driven by their dominance in the AI market. Nvidia's AI accelerator sales and Microsoft's AI-powered enterprise software are expected to drive their growth.",
+        "article_url": "https://www.fool.com/investing/2025/02/24/2-ai-stocks-worth-more-than-apple-stock-in-2025/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "NVDA",
+          "MSFT",
+          "AAPL"
+        ],
+        "keywords": [
+          "AI",
+          "Nvidia",
+          "Microsoft",
+          "Apple",
+          "market value"
+        ]
+      },
+      {
+        "published_utc": "2025-02-24T10:26:00Z",
+        "title": "The Smartest Vanguard ETF to Buy With $500 Right Now",
+        "description": "The article discusses the Vanguard S&P 500 Value ETF (VOOV) as a complement to the standard S&P 500 or growth-focused portfolios. It highlights the ETF's value-focused approach and more balanced sector exposure compared to the broader S&P 500.",
+        "article_url": "https://www.fool.com/investing/2025/02/24/the-smartest-vanguard-etf-to-buy-with-500-right-no/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Stefon Walters",
+        "tickers": [
+          "VOOV",
+          "AAPL",
+          "MSFT",
+          "AMZN",
+          "UNH",
+          "PG",
+          "AMJB",
+          "JPM",
+          "JPMpC",
+          "JPMpD",
+          "JPMpJ",
+          "JPMpK",
+          "JPMpL",
+          "JPMpM"
+        ],
+        "keywords": [
+          "Vanguard S&P 500 Value ETF",
+          "S&P 500",
+          "value investing",
+          "sector diversification"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "event": {
+    "event_id": "AMD_20260107_142500",
+    "ticker": "AMD",
+    "t0_utc": "2026-01-07 14:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-01-07T11:25:00+00:00",
+      "end": "2026-01-07T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-01-07T11:30:00Z",
+        "title": "If I Could Only Buy and Hold a Single Stock in 2026, This Would Be It",
+        "description": "The article argues that Taiwan Semiconductor Manufacturing (TSMC) is the single best stock to hold in 2026, positioning it as a neutral investment in the AI and tech buildout. TSMC dominates the contract chip manufacturing space with limited competition, benefits from continued AI infrastructure spending projected to reach $3-4 trillion annually, and maintains technological leadership with its latest 2nm chip nodes. Key risks include potential slowdown in AI spending and geopolitical tensions with China.",
+        "article_url": "https://www.fool.com/investing/2026/01/07/if-i-could-only-buy-a-single-stock-in-2026-this/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Keithen Drury",
+        "tickers": [
+          "TSM",
+          "NVDA",
+          "AMD",
+          "INTC"
+        ],
+        "keywords": [
+          "semiconductor manufacturing",
+          "artificial intelligence",
+          "chip foundry",
+          "data center capital expenditures",
+          "contract manufacturing",
+          "technology nodes",
+          "geopolitical risk"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-01-07T14:06:57Z",
+          "title": "Stock Market Today: Dow Futures Up, S&P 500 And Nasdaq Slip As ADP Jobs Data Signals Modest Rebound\u2014 Mobileye, Penguin Solutions In Focus (UPDATED)",
+          "description": "U.S. stock futures were mixed on Wednesday following a strong Tuesday close. ADP reported private-sector job additions of 41,000 in December, signaling modest labor market stabilization. The Dow Jones futures rose 0.04% while S&P 500 and Nasdaq futures declined slightly. Key movers included Mobileye jumping 11% on a $900M robotics acquisition, Ventyx surging 68% on Eli Lilly acquisition talks, and AAR Corp rising 5% on better-than-expected earnings.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/49746784/stock-market-today-dow-futures-rise-sp-500-nasdaq-drops-as-street-awaits-slew-of-economic-releas?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "MBLY",
+            "VTYX",
+            "AIR",
+            "PENG",
+            "STZ",
+            "LLY"
+          ],
+          "keywords": [
+            "stock market",
+            "ADP jobs data",
+            "futures",
+            "labor market",
+            "acquisitions",
+            "earnings",
+            "Federal Reserve",
+            "AI",
+            "robotics"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-01-07T14:06:57Z",
+          "title": "Stock Market Today: Dow Futures Up, S&P 500 And Nasdaq Slip As ADP Jobs Data Signals Modest Rebound\u2014 Mobileye, Penguin Solutions In Focus (UPDATED)",
+          "description": "U.S. stock futures were mixed on Wednesday following a strong Tuesday close. ADP reported private-sector job additions of 41,000 in December, signaling modest labor market stabilization. The Dow Jones futures rose 0.04% while S&P 500 and Nasdaq futures declined slightly. Key movers included Mobileye jumping 11% on a $900M robotics acquisition, Ventyx surging 68% on Eli Lilly acquisition talks, and AAR Corp rising 5% on better-than-expected earnings.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/49746784/stock-market-today-dow-futures-rise-sp-500-nasdaq-drops-as-street-awaits-slew-of-economic-releas?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "MBLY",
+            "VTYX",
+            "AIR",
+            "PENG",
+            "STZ",
+            "LLY"
+          ],
+          "keywords": [
+            "stock market",
+            "ADP jobs data",
+            "futures",
+            "labor market",
+            "acquisitions",
+            "earnings",
+            "Federal Reserve",
+            "AI",
+            "robotics"
+          ]
+        }
+      ]
+    }
+  }
+}

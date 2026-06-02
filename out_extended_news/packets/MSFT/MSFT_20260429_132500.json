@@ -1,0 +1,148 @@
+{
+  "event": {
+    "event_id": "MSFT_20260429_132500",
+    "ticker": "MSFT",
+    "t0_utc": "2026-04-29 13:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "unclear",
+    "window": {
+      "start": "2026-04-29T10:25:00+00:00",
+      "end": "2026-04-29T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-04-29T10:53:42Z",
+        "title": "Microsoft, Amazon, Alphabet, Meta Set To Report Earnings After Market Close Today\u2014Here's What Polymarket and Kalshi Traders Expect",
+        "description": "Four of the 'Magnificent Seven' tech giants\u2014Microsoft, Amazon, Alphabet, and Meta\u2014are reporting Q1 earnings on Wednesday after market close. Prediction market traders are showing strong optimism, with Meta, Microsoft, and Alphabet carrying earnings beat probabilities of 94%, 92%, and 96% respectively. Amazon has a 96% probability of beating consensus EPS estimates of $1.65.",
+        "article_url": "https://www.benzinga.com/markets/prediction-markets/26/04/52122142/microsoft-amazon-alphabet-meta-set-to-report-q1-earnings-after-market-close-today-here?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Aniket Verma",
+        "tickers": [
+          "MSFT",
+          "AMZN",
+          "GOOG",
+          "GOOGL",
+          "META",
+          "MAGS"
+        ],
+        "keywords": [
+          "Q1 earnings",
+          "Magnificent Seven",
+          "prediction markets",
+          "earnings beat",
+          "tech giants",
+          "Polymarket",
+          "Kalshi"
+        ]
+      },
+      {
+        "published_utc": "2026-04-29T12:56:23Z",
+        "title": "Stock Market Today: Dow Futures Drop, Nasdaq Gains Ahead Of Powell's Last Speech As Fed Chair\u2014 Robinhood, Starbucks, Alphabet In Focus (UPDATED)",
+        "description": "U.S. stock futures rose on Wednesday ahead of the Federal Reserve's interest rate decision and Jerome Powell's final press conference as Fed Chair. Markets are pricing in a 100% likelihood of unchanged rates. Key earnings reports from major tech companies and mixed results from Booking Holdings, Robinhood, and Starbucks dominated market focus, while crude oil prices climbed amid geopolitical tensions.",
+        "article_url": "https://www.benzinga.com/markets/equities/26/04/52119481/stock-market-today-dow-jones-nasdaq-futures-gain-ahead-of-powells-last-speech-as-fed-chair-robin?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Rishabh Mishra",
+        "tickers": [
+          "AMZN",
+          "GOOG",
+          "GOOGL",
+          "MSFT",
+          "META",
+          "BKNG",
+          "PCLN",
+          "HOOD",
+          "SBUX"
+        ],
+        "keywords": [
+          "Federal Reserve",
+          "Jerome Powell",
+          "interest rates",
+          "earnings season",
+          "stock futures",
+          "crude oil",
+          "AI investments"
+        ]
+      },
+      {
+        "published_utc": "2026-04-29T13:18:02Z",
+        "title": "Microsoft Heads Into 'Biggest Earnings Day Ever' Near The Bottom Of The Mag 7",
+        "description": "Microsoft is reporting earnings alongside three other Magnificent 7 stocks (Meta, Alphabet, Amazon) on Wednesday. The software giant has fallen 22% from its 52-week high and faces investor scrutiny on AI capacity constraints and capital expenditure deployment. Microsoft has guided to $80 billion in AI data center spending this fiscal year, with analysts watching whether the company can overcome capacity limitations that have hampered recent growth.",
+        "article_url": "https://www.benzinga.com/markets/tech/26/04/52127329/microsoft-biggest-earnings-day-ever-near-the-bottom-of-the-mag-7?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Erica Kollmann",
+        "tickers": [
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "META",
+          "AMZN"
+        ],
+        "keywords": [
+          "earnings",
+          "Magnificent 7",
+          "AI capacity",
+          "data center spending",
+          "capex",
+          "Azure",
+          "AI infrastructure"
+        ]
+      },
+      {
+        "published_utc": "2026-04-29T14:15:00Z",
+        "title": "Is Microsoft the Greatest Bargain in Tech?",
+        "description": "Microsoft's stock trades at a discount to peers despite strong financial performance, with revenue up 17% and Azure cloud computing growing 39% in Q2 2026. The stock remains 20% below its all-time high while competitors reach new highs. Analyst suggests Microsoft could see a 20% upside if it reaches a 30x forward earnings multiple, positioning it as a solid bargain in tech.",
+        "article_url": "https://www.fool.com/investing/2026/04/29/is-microsoft-the-greatest-bargain-in-tech/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Keithen Drury",
+        "tickers": [
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "AMZN",
+          "AAPL"
+        ],
+        "keywords": [
+          "cloud computing",
+          "Azure",
+          "AI growth",
+          "valuation discount",
+          "earnings growth",
+          "tech stocks",
+          "forward P/E ratio"
+        ]
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-04-29T12:30:00Z",
+          "title": "Here's Why I'm Avoiding SpaceX Stock After the IPO",
+          "description": "The Motley Fool advises caution on SpaceX's anticipated IPO, citing concerns about its $2 trillion valuation (P/S ratio of 129 vs. S&P 500 average of 3.5), slowing revenue growth (18% in 2025 vs. 89% in 2023), and a risky pivot into AI through the acquisition of xAI. The company posted a $5 billion loss in 2025 due to AI spending, and large IPOs historically underperform the market in the 3-5 years following listing.",
+          "article_url": "https://www.fool.com/investing/2026/04/29/heres-why-im-avoiding-spacex-stock-after-the-ipo/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Will Ebiefung",
+          "tickers": [
+            "SPY"
+          ],
+          "keywords": [
+            "IPO",
+            "valuation risk",
+            "slowing growth",
+            "AI acquisition",
+            "market underperformance",
+            "xAI merger",
+            "generative AI"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

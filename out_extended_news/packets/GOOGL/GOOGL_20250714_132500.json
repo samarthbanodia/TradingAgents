@@ -1,0 +1,44 @@
+{
+  "event": {
+    "event_id": "GOOGL_20250714_132500",
+    "ticker": "GOOGL",
+    "t0_utc": "2025-07-14 13:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-07-14T10:25:00+00:00",
+      "end": "2025-07-14T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-07-14T13:23:00Z",
+          "title": "Will Tariffs Derail the Bull Run in Global Equities Outside the US?",
+          "description": "President Trump's proposed tariffs on multiple countries, including the EU, Mexico, Canada, and Japan, could potentially disrupt global equity markets and international trade dynamics in 2025.",
+          "article_url": "https://www.investing.com/analysis/will-tariffs-derail-the-bull-run-in-global-equities-outside-the-us-200663637",
+          "publisher": "Investing.com",
+          "author": "James Picerno",
+          "tickers": [
+            "SPY"
+          ],
+          "keywords": [
+            "tariffs",
+            "trade policy",
+            "global equities",
+            "international markets",
+            "economic impact"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

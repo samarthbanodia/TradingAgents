@@ -1,0 +1,48 @@
+{
+  "event": {
+    "event_id": "TSLA_20251209_142500",
+    "ticker": "TSLA",
+    "t0_utc": "2025-12-09 14:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-12-09T11:25:00+00:00",
+      "end": "2025-12-09T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-12-09T13:24:24Z",
+        "title": "Stock Market Today: Dow Futures Rise, Nasdaq Slips As Fed Begins 2-Day Meet\u2014 Ares Management, Nvidia, Paramount In Focus  (UPDATED)",
+        "description": "U.S. stock futures fluctuated as the Federal Reserve begins its two-day meeting, with markets anticipating a potential interest rate cut. Key companies like Nvidia, Ares Management, and Paramount made notable moves amid market activity.",
+        "article_url": "https://www.benzinga.com/markets/equities/25/12/49275054/stock-market-today-dow-nasdaq-futures-rise-as-fed-begins-its-2-day-meet-ares-management-nvidia-p?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Rishabh Mishra",
+        "tickers": [
+          "ARES",
+          "ARESpB",
+          "NVDA",
+          "TSLA",
+          "TOL"
+        ],
+        "keywords": [
+          "Federal Reserve",
+          "interest rates",
+          "stock futures",
+          "market sentiment",
+          "tech stocks"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

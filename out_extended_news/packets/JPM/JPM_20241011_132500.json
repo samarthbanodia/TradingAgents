@@ -1,0 +1,48 @@
+{
+  "event": {
+    "event_id": "JPM_20241011_132500",
+    "ticker": "JPM",
+    "t0_utc": "2024-10-11 13:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-10-11T10:25:00+00:00",
+      "end": "2024-10-11T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-10-11T11:30:00Z",
+          "title": "Palantir Just Joined the S&P 500. History Says the Artificial Intelligence (AI) Stock Will Do This Next.",
+          "description": "Palantir, an AI company, has recently joined the S&P 500 index. While this may lead to increased investment, research suggests that any direct effect is short-lived, and a stock's performance is more likely due to pre-existing momentum. The article analyzes Palantir's financial metrics and growth potential, but expresses concerns about its high valuation.",
+          "article_url": "https://www.fool.com/investing/2024/10/11/palantir-just-joined-the-sp-500-history-says/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "The Motley Fool",
+          "tickers": [
+            "PLTR",
+            "NVDA",
+            "GOOG",
+            "GOOGL",
+            "SPY"
+          ],
+          "keywords": [
+            "Palantir",
+            "S&P 500",
+            "Artificial Intelligence",
+            "Nvidia",
+            "Alphabet"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

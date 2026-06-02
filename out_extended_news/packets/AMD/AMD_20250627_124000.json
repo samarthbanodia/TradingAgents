@@ -1,0 +1,63 @@
+{
+  "event": {
+    "event_id": "AMD_20250627_124000",
+    "ticker": "AMD",
+    "t0_utc": "2025-06-27 12:40:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-06-27T09:40:00+00:00",
+      "end": "2025-06-27T13:40:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-06-27T11:03:00Z",
+        "title": "Got $5,000? 2 Tech Stocks to Buy and Hold for the Long Term",
+        "description": "Despite market volatility in 2025, Netflix and AMD present compelling investment opportunities. Netflix has shown remarkable growth and strategic adaptation, while AMD is emerging as a competitive player in the AI chip market, challenging Nvidia's dominance.",
+        "article_url": "https://www.fool.com/investing/2025/06/27/got-5000-2-tech-stocks-to-buy-and-hold/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Anders Bylund",
+        "tickers": [
+          "AMD"
+        ],
+        "keywords": [
+          "tech stocks",
+          "AI",
+          "market volatility",
+          "investing",
+          "streaming services"
+        ]
+      },
+      {
+        "published_utc": "2025-06-27T11:30:00Z",
+        "title": "Prediction: 1 Stock That Will Be Worth More Than Palantir Technologies 2 Years From Now",
+        "description": "The article compares Palantir Technologies and Advanced Micro Devices (AMD), suggesting that AMD could potentially overtake Palantir's market value in two years due to its diverse AI-related growth opportunities and more attractive valuation.",
+        "article_url": "https://www.fool.com/investing/2025/06/27/prediction-1-stock-that-will-be-worth-more-than-pa/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Harsh Chauhan",
+        "tickers": [
+          "AMD"
+        ],
+        "keywords": [
+          "AI",
+          "stocks",
+          "market cap",
+          "technology",
+          "chips",
+          "data centers"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

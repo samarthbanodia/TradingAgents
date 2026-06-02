@@ -1,0 +1,68 @@
+{
+  "event": {
+    "event_id": "GOOGL_20251016_132500",
+    "ticker": "GOOGL",
+    "t0_utc": "2025-10-16 13:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-10-16T10:25:00+00:00",
+      "end": "2025-10-16T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-10-16T12:32:00Z",
+        "title": "What Is One of the Best Quantum Computing Stocks to Buy Right Now?",
+        "description": "Quantum computing shows promise but faces significant challenges in commercialization. While pure-play quantum stocks have surged, Alphabet stands out for its patient, long-term approach to quantum research and development.",
+        "article_url": "https://www.fool.com/investing/2025/10/16/what-is-one-of-the-best-quantum-computing-stocks/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Johnny Rice",
+        "tickers": [
+          "QBTS",
+          "QBTS.WS",
+          "GOOG",
+          "GOOGL",
+          "RGTI",
+          "RGTIW"
+        ],
+        "keywords": [
+          "quantum computing",
+          "technology investment",
+          "research and development"
+        ]
+      },
+      {
+        "published_utc": "2025-10-16T14:15:00Z",
+        "title": "Prediction: 1 Stock That'll Be Worth More Than Nvidia 5 Years From Now",
+        "description": "The article discusses how Alphabet could potentially surpass Nvidia in market value within five years, citing Alphabet's diverse business model, AI capabilities, and undervalued stock, while highlighting potential challenges for Nvidia's continued dominance in the AI chip market.",
+        "article_url": "https://www.fool.com/investing/2025/10/16/prediction-stock-thatll-be-worth-more-than-nvidia/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "David Jagielski",
+        "tickers": [
+          "NVDA",
+          "GOOG",
+          "GOOGL",
+          "AMD"
+        ],
+        "keywords": [
+          "AI",
+          "market capitalization",
+          "technology stocks",
+          "investment",
+          "stock valuation"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

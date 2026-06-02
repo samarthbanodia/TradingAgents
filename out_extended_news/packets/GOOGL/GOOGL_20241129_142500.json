@@ -1,0 +1,121 @@
+{
+  "event": {
+    "event_id": "GOOGL_20241129_142500",
+    "ticker": "GOOGL",
+    "t0_utc": "2024-11-29 14:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-11-29T11:25:00+00:00",
+      "end": "2024-11-29T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-11-29T11:35:00Z",
+        "title": "Is Broadcom Stock a Buy?",
+        "description": "Broadcom is well-positioned to benefit from the AI infrastructure buildout through its networking portfolio and custom chip development for AI workloads. While its non-AI semiconductor businesses have struggled, a recovery in these areas and continued growth in AI-related revenue could make Broadcom a solid investment option.",
+        "article_url": "https://www.fool.com/investing/2024/11/29/is-broadcom-stock-a-buy/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "AVGO",
+          "NVDA",
+          "INTC",
+          "GOOG",
+          "GOOGL",
+          "META"
+        ],
+        "keywords": [
+          "Broadcom",
+          "AI",
+          "Nvidia",
+          "Intel",
+          "Ethernet",
+          "ASIC",
+          "custom chips"
+        ]
+      },
+      {
+        "published_utc": "2024-11-29T12:15:00Z",
+        "title": "Nvidia Stock: Buy, Sell, or Hold?",
+        "description": "The article discusses the bull and sell cases for Nvidia (NVDA) stock. The sell case revolves around future chip demand dropping as AI models become more advanced, while the bull case points to strong continued demand as Nvidia's customers seek to be the biggest AI winners. The article concludes that Nvidia remains attractively priced despite its recent stock price surge.",
+        "article_url": "https://www.fool.com/investing/2024/11/29/nvidia-stock-buy-sell-or-hold/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "NVDA",
+          "AMD",
+          "AVGO",
+          "GOOG",
+          "GOOGL",
+          "ORCL"
+        ],
+        "keywords": [
+          "Nvidia",
+          "AI",
+          "chip demand",
+          "stock valuation"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-11-29T11:46:40Z",
+          "title": "US Stocks Likely To Open In The Green To End November On A High: Are Markets Set For A Santa Claus Rally In December? Analysts Decode",
+          "description": "US stock futures are pointing to a higher open on Friday as investors look to end November on a positive note. Analysts suggest that December has historically been a strong month for markets, with only one instance of it being the worst month in the last 95 years.",
+          "article_url": "https://www.benzinga.com/24/11/42241785/us-futures-signal-gains-on-the-truncated-trading-day-will-december-witness-a-santa-claus-rally-analysts-decode",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "CABA",
+            "FRO",
+            "RGTI",
+            "RGTIW",
+            "BTDR",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "US stocks",
+            "market outlook",
+            "Santa Claus rally",
+            "December performance"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2024-11-29T11:46:40Z",
+          "title": "US Stocks Likely To Open In The Green To End November On A High: Are Markets Set For A Santa Claus Rally In December? Analysts Decode",
+          "description": "US stock futures are pointing to a higher open on Friday as investors look to end November on a positive note. Analysts suggest that December has historically been a strong month for markets, with only one instance of it being the worst month in the last 95 years.",
+          "article_url": "https://www.benzinga.com/24/11/42241785/us-futures-signal-gains-on-the-truncated-trading-day-will-december-witness-a-santa-claus-rally-analysts-decode",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "CABA",
+            "FRO",
+            "RGTI",
+            "RGTIW",
+            "BTDR",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "US stocks",
+            "market outlook",
+            "Santa Claus rally",
+            "December performance"
+          ]
+        }
+      ]
+    }
+  }
+}

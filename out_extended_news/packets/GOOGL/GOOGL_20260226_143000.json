@@ -1,0 +1,193 @@
+{
+  "event": {
+    "event_id": "GOOGL_20260226_143000",
+    "ticker": "GOOGL",
+    "t0_utc": "2026-02-26 14:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-02-26T11:30:00+00:00",
+      "end": "2026-02-26T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-02-26T12:02:05Z",
+        "title": "Hidden AI Costs? Big Tech Hyperscalers Hold $662 Billion In Off-Balance-Sheet Data Center Leases: Report",
+        "description": "Major tech hyperscalers have accumulated $662 billion in off-balance-sheet data center lease obligations that don't appear on their balance sheets under GAAP accounting. As AI infrastructure leases commence in coming years, over half a trillion dollars in assets will appear on corporate balance sheets, pressuring accounting metrics. Critics including Michael Burry allege companies are using aggressive accounting to mask true AI infrastructure costs and overstate hardware useful life.",
+        "article_url": "https://www.benzinga.com/markets/tech/26/02/50881924/hidden-ai-costs-big-tech-hyperscalers-hold-662-billion-in-off-balance-sheet-data-center-leases-repor?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "AMZN",
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "META",
+          "ORCL",
+          "ORCLpD",
+          "BX"
+        ],
+        "keywords": [
+          "AI infrastructure",
+          "data center leases",
+          "off-balance-sheet liabilities",
+          "accounting concerns",
+          "hyperscalers",
+          "depreciation",
+          "GAAP accounting"
+        ]
+      },
+      {
+        "published_utc": "2026-02-26T13:00:51Z",
+        "title": "HSBC Dismisses 'SaaSpocalypse' Fears Amid $1 Trillion Sell-Off, Says 'Software Is Already Eating AI'",
+        "description": "HSBC has downplayed concerns about AI replacing the SaaS sector, arguing that software will benefit from AI's development rather than be disrupted by it. The bank maintains that companies won't abandon established software vendors due to high switching costs and long-term contracts. Analysts including Wedbush's Dan Ives and Nvidia CEO Jensen Huang agree that AI will enhance rather than replace enterprise software, contradicting the recent $1 trillion market sell-off in software stocks.",
+        "article_url": "https://www.benzinga.com/markets/tech/26/02/50884745/hsbc-dismisses-saaspocalypse-fears-amid-1-trillion-sell-off-says-software-is-already-eating-ai?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "CRM",
+          "CRWD",
+          "NOW",
+          "ORCL",
+          "ORCLpD",
+          "NVDA",
+          "GOOG",
+          "GOOGL",
+          "TEAM",
+          "WDAY",
+          "ZS"
+        ],
+        "keywords": [
+          "SaaS",
+          "AI disruption",
+          "software stocks",
+          "enterprise software",
+          "market valuation reset",
+          "AI integration"
+        ]
+      },
+      {
+        "published_utc": "2026-02-26T13:14:00Z",
+        "title": "Playing the SaaS Selloff for Income and Long-Term Gains",
+        "description": "The article argues that the current SaaS selloff presents a buying opportunity despite market fears. Three tech-focused CEFs (BSTZ, BST, STK) have outperformed the XLK ETF over three months. The author contends that AI will create jobs rather than eliminate them, citing historical precedent from the 1990s computer revolution, and that SaaS companies remain valuable due to their proprietary infrastructure and expertise that individual developers cannot replicate.",
+        "article_url": "https://www.investing.com/analysis/playing-the-saas-selloff-for-income-and-longterm-gains-200675709",
+        "publisher": "Investing.com",
+        "author": "Michael Foster",
+        "tickers": [
+          "XLK",
+          "MSFT",
+          "CRM",
+          "NVDA",
+          "AVGO",
+          "MRVL",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "SaaS selloff",
+          "AI job creation",
+          "tech CEFs",
+          "contrarian investing",
+          "software stocks",
+          "hardware vs software rotation",
+          "managed funds vs ETFs"
+        ]
+      },
+      {
+        "published_utc": "2026-02-26T14:29:00Z",
+        "title": "PayPal Stock Halted on Stripe Rumor: Why the Narrative Just Changed",
+        "description": "PayPal stock surged 6.72% after a Bloomberg report indicated Stripe is in preliminary talks to acquire the company. The trading halt triggered by massive buy orders signals a fundamental shift in market sentiment, transforming PayPal from a turnaround story into a high-stakes arbitrage play. At a $43 billion market cap versus Stripe's $159 billion valuation, the potential merger would create an end-to-end payments behemoth combining Stripe's merchant infrastructure with PayPal's 400+ million consumer accounts.",
+        "article_url": "https://www.investing.com/analysis/paypal-stock-halted-on-stripe-rumor-why-the-narrative-just-changed-200675728",
+        "publisher": "Investing.com",
+        "author": "Jeffrey Neal Johnson",
+        "tickers": [
+          "PYPL",
+          "AAPL",
+          "GOOG",
+          "GOOGL",
+          "META"
+        ],
+        "keywords": [
+          "PayPal acquisition",
+          "Stripe merger",
+          "fintech deal",
+          "M&A arbitrage",
+          "circuit breaker halt",
+          "strategic value",
+          "payments industry"
+        ]
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-02-26T13:39:50Z",
+          "title": "Stock Market Today: Dow, S&P 500 Futures Gain As Jobless Claims Edge Up To 212K; Nasdaq Drops \u2014 Nvidia, Salesforce, Trade Desk In Focus (UPDATED)",
+          "description": "U.S. stock futures showed mixed performance on Thursday with the S&P 500 and Nasdaq gaining slightly while Dow futures declined. Markets await weekly jobless claims data and January producer price index. Key movers included Nvidia rising on strong earnings, Salesforce falling despite upbeat results due to weak guidance, and Trade Desk tumbling 16.69% on disappointing Q1 guidance. BlackRock remains overweight on U.S. equities citing favorable macro conditions and strong corporate earnings.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50878659/stock-market-today-dow-futures-slide-sp-500-nasdaq-gain-ahead-of-weekly-jobless-claims-nvidia-sa?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "NVDA",
+            "CRM",
+            "TTD",
+            "DELL",
+            "DRVN",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "jobless claims",
+            "earnings",
+            "guidance",
+            "Federal Reserve",
+            "interest rates",
+            "technology stocks",
+            "AI",
+            "corporate earnings"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-02-26T13:39:50Z",
+          "title": "Stock Market Today: Dow, S&P 500 Futures Gain As Jobless Claims Edge Up To 212K; Nasdaq Drops \u2014 Nvidia, Salesforce, Trade Desk In Focus (UPDATED)",
+          "description": "U.S. stock futures showed mixed performance on Thursday with the S&P 500 and Nasdaq gaining slightly while Dow futures declined. Markets await weekly jobless claims data and January producer price index. Key movers included Nvidia rising on strong earnings, Salesforce falling despite upbeat results due to weak guidance, and Trade Desk tumbling 16.69% on disappointing Q1 guidance. BlackRock remains overweight on U.S. equities citing favorable macro conditions and strong corporate earnings.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50878659/stock-market-today-dow-futures-slide-sp-500-nasdaq-gain-ahead-of-weekly-jobless-claims-nvidia-sa?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "NVDA",
+            "CRM",
+            "TTD",
+            "DELL",
+            "DRVN",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "jobless claims",
+            "earnings",
+            "guidance",
+            "Federal Reserve",
+            "interest rates",
+            "technology stocks",
+            "AI",
+            "corporate earnings"
+          ]
+        }
+      ]
+    }
+  }
+}

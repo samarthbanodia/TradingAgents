@@ -1,0 +1,128 @@
+{
+  "event": {
+    "event_id": "AAPL_20260204_142500",
+    "ticker": "AAPL",
+    "t0_utc": "2026-02-04 14:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-02-04T11:25:00+00:00",
+      "end": "2026-02-04T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-02-04T12:39:28Z",
+        "title": "DOJ Reignites Antitrust Fight Against Google, Challenges Court's Refusal To Force Chrome Sale",
+        "description": "The U.S. Department of Justice filed a cross-appeal challenging a court ruling that refused to mandate Google's sale of its Chrome browser or termination of its search deal with Apple. The DOJ continues pushing for Chrome divestment, AdX ad exchange separation, and restrictions on Google's exclusive distribution agreements following an August 2024 antitrust ruling.",
+        "article_url": "https://www.benzinga.com/news/legal/26/02/50369400/doj-reignites-antitrust-fight-against-google-challenges-courts-refusal-to-force-chrome-sale?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "GOOG",
+          "GOOGL",
+          "AAPL"
+        ],
+        "keywords": [
+          "antitrust",
+          "Google",
+          "Chrome browser",
+          "DOJ appeal",
+          "search monopoly",
+          "Apple default search",
+          "AdX ad exchange",
+          "digital advertising"
+        ]
+      },
+      {
+        "published_utc": "2026-02-04T14:11:00Z",
+        "title": "1 Unstoppable Stock to Buy Before It Joins Nvidia, Apple, Microsoft, and Alphabet in the $3 Trillion Club",
+        "description": "Meta Platforms is positioned to join the exclusive $3 trillion market cap club within the next couple of years, driven by AI-powered engagement strategies on Facebook and Instagram. With a current valuation of $1.8 trillion and strong earnings growth forecasts, the company could reach $3 trillion by 2028 if it maintains modest earnings growth, representing a potential 67% return for current investors.",
+        "article_url": "https://www.fool.com/investing/2026/02/04/1-stock-buy-nvidia-microsoft-alphabet-3-trillion/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Anthony Di Pizio",
+        "tickers": [
+          "META",
+          "NVDA",
+          "AAPL",
+          "MSFT",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "artificial intelligence",
+          "market capitalization",
+          "social media",
+          "capital expenditures",
+          "earnings growth",
+          "AI recommendations",
+          "user engagement"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-02-04T13:53:10Z",
+          "title": "Stock Market Today: Dow Futures Gain, Nasdaq Drops As Trump Signs Bill To End Partial Shutdown\u2014 AMD, SMCI, LLY In Focus (UPDATED)",
+          "description": "U.S. stock futures were mixed on Wednesday following Tuesday's negative close. President Trump signed a funding deal to end a four-day partial government shutdown. The Fed is expected to hold rates steady in March with 91.1% probability. Key movers included AMD declining 7.63% despite beating earnings, Super Micro Computer surging 12.27% on strong results, and Enphase Energy jumping 23.39% after beating estimates. Eli Lilly and Alphabet were awaiting earnings releases.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50364308/stock-market-today-dow-futures-gain-nasdaq-drops-as-trump-signs-bill-to-end-partial-shutdown-amd?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AMD",
+            "SMCI",
+            "ENPH",
+            "LLY",
+            "GOOG",
+            "GOOGL",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "government shutdown",
+            "earnings",
+            "Fed policy",
+            "technology stocks",
+            "premarket trading"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-02-04T13:53:10Z",
+          "title": "Stock Market Today: Dow Futures Gain, Nasdaq Drops As Trump Signs Bill To End Partial Shutdown\u2014 AMD, SMCI, LLY In Focus (UPDATED)",
+          "description": "U.S. stock futures were mixed on Wednesday following Tuesday's negative close. President Trump signed a funding deal to end a four-day partial government shutdown. The Fed is expected to hold rates steady in March with 91.1% probability. Key movers included AMD declining 7.63% despite beating earnings, Super Micro Computer surging 12.27% on strong results, and Enphase Energy jumping 23.39% after beating estimates. Eli Lilly and Alphabet were awaiting earnings releases.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50364308/stock-market-today-dow-futures-gain-nasdaq-drops-as-trump-signs-bill-to-end-partial-shutdown-amd?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AMD",
+            "SMCI",
+            "ENPH",
+            "LLY",
+            "GOOG",
+            "GOOGL",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "government shutdown",
+            "earnings",
+            "Fed policy",
+            "technology stocks",
+            "premarket trading"
+          ]
+        }
+      ]
+    }
+  }
+}

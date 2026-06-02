@@ -1,0 +1,132 @@
+{
+  "event": {
+    "event_id": "GOOGL_20260107_142500",
+    "ticker": "GOOGL",
+    "t0_utc": "2026-01-07 14:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2026-01-07T11:25:00+00:00",
+      "end": "2026-01-07T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-01-07T12:05:20Z",
+        "title": "Red Spruce Capital Nets $3.7 Million by Dumping One-Third of BSCR Shares",
+        "description": "Red Spruce Capital sold 185,157 shares of Invesco BulletShares 2027 Corporate Bond ETF (BSCR) for approximately $3.65 million on January 5, 2026. The firm reduced its stake across multiple Invesco corporate bond ETFs with varying maturity dates, potentially locking in gains ahead of anticipated interest rate cuts in 2026 or seeking better opportunities elsewhere.",
+        "article_url": "https://www.fool.com/coverage/filings/2026/01/07/red-spruce-capital-nets-usd3-7-million-by-dumping-one-third-of-bscr-shares/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Sarah Sidlow",
+        "tickers": [
+          "BSCR",
+          "GOOG",
+          "GOOGL",
+          "ABBV",
+          "AVGO"
+        ],
+        "keywords": [
+          "corporate bond ETF",
+          "share sale",
+          "institutional investment",
+          "fixed income",
+          "interest rates",
+          "bond ladder strategy"
+        ]
+      },
+      {
+        "published_utc": "2026-01-07T12:15:00Z",
+        "title": "This Was the Best Performing \"Magnificent Seven\" Stock in 2025 (Hint: Not Nvidia)",
+        "description": "Alphabet outperformed Nvidia among the Magnificent Seven stocks in 2025, gaining 65% compared to Nvidia's 39%. Alphabet's strong performance was driven by resolution of antitrust concerns, successful AI integration through Gemini, and competitive positioning in search and cloud services. The stock trades at a reasonable 28x forward earnings with analyst consensus expecting continued growth in 2026.",
+        "article_url": "https://www.fool.com/investing/2026/01/07/this-was-the-best-performing-magnificent-seven-sto/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Danny Vena, Cpa",
+        "tickers": [
+          "GOOG",
+          "GOOGL",
+          "NVDA"
+        ],
+        "keywords": [
+          "Magnificent Seven",
+          "Alphabet",
+          "Nvidia",
+          "AI",
+          "antitrust",
+          "Gemini",
+          "stock performance",
+          "2025"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-01-07T14:06:57Z",
+          "title": "Stock Market Today: Dow Futures Up, S&P 500 And Nasdaq Slip As ADP Jobs Data Signals Modest Rebound\u2014 Mobileye, Penguin Solutions In Focus (UPDATED)",
+          "description": "U.S. stock futures were mixed on Wednesday following a strong Tuesday close. ADP reported private-sector job additions of 41,000 in December, signaling modest labor market stabilization. The Dow Jones futures rose 0.04% while S&P 500 and Nasdaq futures declined slightly. Key movers included Mobileye jumping 11% on a $900M robotics acquisition, Ventyx surging 68% on Eli Lilly acquisition talks, and AAR Corp rising 5% on better-than-expected earnings.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/49746784/stock-market-today-dow-futures-rise-sp-500-nasdaq-drops-as-street-awaits-slew-of-economic-releas?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "MBLY",
+            "VTYX",
+            "AIR",
+            "PENG",
+            "STZ",
+            "LLY"
+          ],
+          "keywords": [
+            "stock market",
+            "ADP jobs data",
+            "futures",
+            "labor market",
+            "acquisitions",
+            "earnings",
+            "Federal Reserve",
+            "AI",
+            "robotics"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-01-07T14:06:57Z",
+          "title": "Stock Market Today: Dow Futures Up, S&P 500 And Nasdaq Slip As ADP Jobs Data Signals Modest Rebound\u2014 Mobileye, Penguin Solutions In Focus (UPDATED)",
+          "description": "U.S. stock futures were mixed on Wednesday following a strong Tuesday close. ADP reported private-sector job additions of 41,000 in December, signaling modest labor market stabilization. The Dow Jones futures rose 0.04% while S&P 500 and Nasdaq futures declined slightly. Key movers included Mobileye jumping 11% on a $900M robotics acquisition, Ventyx surging 68% on Eli Lilly acquisition talks, and AAR Corp rising 5% on better-than-expected earnings.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/49746784/stock-market-today-dow-futures-rise-sp-500-nasdaq-drops-as-street-awaits-slew-of-economic-releas?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "MBLY",
+            "VTYX",
+            "AIR",
+            "PENG",
+            "STZ",
+            "LLY"
+          ],
+          "keywords": [
+            "stock market",
+            "ADP jobs data",
+            "futures",
+            "labor market",
+            "acquisitions",
+            "earnings",
+            "Federal Reserve",
+            "AI",
+            "robotics"
+          ]
+        }
+      ]
+    }
+  }
+}

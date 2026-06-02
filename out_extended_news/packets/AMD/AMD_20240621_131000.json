@@ -1,0 +1,169 @@
+{
+  "event": {
+    "event_id": "AMD_20240621_131000",
+    "ticker": "AMD",
+    "t0_utc": "2024-06-21 13:10:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2024-06-21T10:10:00+00:00",
+      "end": "2024-06-21T14:10:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-06-21T12:40:00Z",
+        "title": "Micron's (MU) Q3 Earnings to Gain From Rising Investments in AI",
+        "description": "Micron (MU) is set to experience significant growth in its third-quarter fiscal 2024 earnings, fueled by the rising investments in AI and the growing demand for AI hardware.",
+        "article_url": "https://www.zacks.com/stock/news/2291312/microns-mu-q3-earnings-to-gain-from-rising-investments-in-ai",
+        "publisher": "Zacks Investment Research",
+        "author": "Zacks Equity Research",
+        "tickers": [
+          "QCOM",
+          "AMD",
+          "MU",
+          "NVDA"
+        ],
+        "keywords": []
+      },
+      {
+        "published_utc": "2024-06-21T13:00:14Z",
+        "title": "Is Trending Stock Advanced Micro Devices, Inc. (AMD) a Buy Now?",
+        "description": "Zacks.com users have recently been watching Advanced Micro (AMD) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+        "article_url": "https://www.zacks.com/stock/news/2291360/is-trending-stock-advanced-micro-devices-inc-amd-a-buy-now",
+        "publisher": "Zacks Investment Research",
+        "author": "Zacks Equity Research",
+        "tickers": [
+          "AMD"
+        ],
+        "keywords": []
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-06-21T12:07:00Z",
+          "title": "Zacks Investment Ideas feature highlights: QQQ, SPY, Nvidia, Microsoft, Apple and QQQE",
+          "description": "QQQ, SPY, Nvidia, Microsoft, Apple and QQQE are part of the Zacks Investment Ideas article.",
+          "article_url": "https://www.zacks.com/stock/news/2291381/zacks-investment-ideas-feature-highlights-qqq-spy-nvidia-microsoft-apple-and-qqqe",
+          "publisher": "Zacks Investment Research",
+          "author": "Zacks Equity Research",
+          "tickers": [
+            "AAPL",
+            "MSFT",
+            "NVDA",
+            "QQQ",
+            "SPY",
+            "QQQE"
+          ],
+          "keywords": []
+        },
+        {
+          "published_utc": "2024-06-21T12:31:09Z",
+          "title": "World's Biggest S&P 500 ETF Bleeds Outflows: Why Isn't The Market Crashing? (CORRECTED)",
+          "description": "Editor\u2019s Note: This article has been updated to correct the spelling of the analyst\u2019s name and the associated website.\nThe world\u2019s largest exchange-traded fund by assets under management is experiencing significant capital outflows, yet this trend is not minimally disrupting the U.S. stock market\u2019s performance.\nThe SPDR S&P 500 ETF Trust (NYSE:SPY), with over $526 billion in AUM, is undergoing a substantial outflow that could dethrone it as the leading S&P 500 ETF.\nYear-to-date, outflows have exceeded $40 billion, while in June 2024 only, the SPY ETF experienced $26.6 billion in outflows.\nWith seven trading days remaining, this could be its second-worst month for outflows, surpassed only by January 2015. \n\nSumit Roy, senior ETF analyst at etf.com, remarked, ...Full story available on Benzinga.com",
+          "article_url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/06/39423623/worlds-biggest-s-p-500-etf-bleeds-outflows-why-isnt-the-market-crashing-corrected",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "IVV",
+            "SPY",
+            "VOO"
+          ],
+          "keywords": [
+            "Analyst Color",
+            "Equities",
+            "Broad U.S. Equity ETFs",
+            "Top Stories",
+            "ETFs"
+          ]
+        },
+        {
+          "published_utc": "2024-06-21T12:45:00Z",
+          "title": "You Can Lose a Surprising Amount of Money by Not Investing",
+          "description": "Some have left millions of dollars on the table -- you might have lost a lot in possible savings, too.",
+          "article_url": "https://www.fool.com/investing/2024/06/21/you-can-lose-a-lot-of-money-by-not-investing/",
+          "publisher": "The Motley Fool",
+          "author": "newsfeedback@fool.com (Selena Maranjian)",
+          "tickers": [
+            "VOO",
+            "SPY"
+          ],
+          "keywords": [
+            "investing"
+          ]
+        },
+        {
+          "published_utc": "2024-06-21T12:58:21Z",
+          "title": "5 Charts Expose Troubling Weaknesses In Record-High Stock Market: 'This Is Not Normal'",
+          "description": "As the S&P 500 and Nasdaq 100 indices continue to notch new all-time highs, it\u2019s clear that the rising tide has not lifted all boats.\nSharp-eyed analysts and investors have noted some discordant features in a stock market at its peak, raising questions about the euphoria that currently reigns supreme on Wall Street.\nMega-Cap Dominance Unprecedented Since Late 2008\nThe dominance of mega-cap stocks hasn\u2019t been this pronounced in nearly sixteen years. \nThe top 100 U.S. stocks by market capitalization, monitored through the iShares S&P 100 ETF (NYSE:OEF), have never been stronger against the Russell 1000 Index, as tracked by the iShares Russell 1000 ETF (NYSE:IWB), since December 2008-.\n\nDavid Morrison, senior market Analyst at Trade Nation, commented, \u201cThere are concerns about the US market's lack of breadth with so much of the overall performance concentrated in the stock price of a few corporations. In fact, the five biggest companies by market capitalization in the S&P 500 account for nearly 30% of its value. The size and ...Full story available on Benzinga.com",
+          "article_url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/06/39431836/5-charts-expose-troubling-weaknesses-in-record-high-stock-market-this-is-not-normal",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "IWB",
+            "OEF",
+            "RSP",
+            "SPY"
+          ],
+          "keywords": [
+            "Sector ETFs",
+            "Analyst Color",
+            "Equities",
+            "Large Cap",
+            "Mid Cap",
+            "Broad U.S. Equity ETFs",
+            "Currency ETFs",
+            "Small Cap",
+            "Top Stories",
+            "Markets",
+            "Tech",
+            "ETFs"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2024-06-21T12:07:00Z",
+          "title": "Zacks Investment Ideas feature highlights: QQQ, SPY, Nvidia, Microsoft, Apple and QQQE",
+          "description": "QQQ, SPY, Nvidia, Microsoft, Apple and QQQE are part of the Zacks Investment Ideas article.",
+          "article_url": "https://www.zacks.com/stock/news/2291381/zacks-investment-ideas-feature-highlights-qqq-spy-nvidia-microsoft-apple-and-qqqe",
+          "publisher": "Zacks Investment Research",
+          "author": "Zacks Equity Research",
+          "tickers": [
+            "AAPL",
+            "MSFT",
+            "NVDA",
+            "QQQ",
+            "SPY",
+            "QQQE"
+          ],
+          "keywords": []
+        },
+        {
+          "published_utc": "2024-06-21T14:00:00Z",
+          "title": "Nasdaq ETFs Set for Further Growth in 2024",
+          "description": "The expansion of AI applications holds the promise of ushering in fresh growth opportunities.",
+          "article_url": "https://www.zacks.com/stock/news/2291556/nasdaq-etfs-set-for-further-growth-in-2024",
+          "publisher": "Zacks Investment Research",
+          "author": "Sweta Killa",
+          "tickers": [
+            "NVDA",
+            "QQQ",
+            "QQEW",
+            "QQQE",
+            "QQQJ",
+            "QQQM"
+          ],
+          "keywords": []
+        }
+      ]
+    }
+  }
+}

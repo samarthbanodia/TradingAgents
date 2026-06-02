@@ -1,0 +1,121 @@
+{
+  "event": {
+    "event_id": "AAPL_20260227_143000",
+    "ticker": "AAPL",
+    "t0_utc": "2026-02-27 14:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-02-27T11:30:00+00:00",
+      "end": "2026-02-27T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-02-27T13:00:00Z",
+        "title": "Ghacks Technology News Removes All Ads and Launches New Dutch and German Editions",
+        "description": "Ghacks, a technology news website established in 2005, has removed all display advertising and launched dedicated Dutch and German language editions. The updates include a technical overhaul to improve loading speeds and expanded editorial coverage of AI, gaming, and blockchain. The publication aims to provide an ad-free, reader-focused experience while expanding its reach in the European market.",
+        "article_url": "https://www.globenewswire.com/news-release/2026/02/27/3246477/0/en/Ghacks-Technology-News-Removes-All-Ads-and-Launches-New-Dutch-and-German-Editions.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Arthur Kay (Editorial Lead)",
+        "tickers": [
+          "GOOG",
+          "GOOGL",
+          "AAPL",
+          "UBSFY"
+        ],
+        "keywords": [
+          "ad-free publishing",
+          "technology news",
+          "European expansion",
+          "Dutch edition",
+          "German edition",
+          "website redesign",
+          "AI coverage",
+          "gaming news",
+          "cybersecurity"
+        ]
+      },
+      {
+        "published_utc": "2026-02-27T15:10:17Z",
+        "title": "Pool Stock Is Down 35% This Past Year, and One Fund Recently Disclosed Dumping a $10 Million Stake",
+        "description": "Wedgewood Partners exited its entire $10 million stake in Pool Corporation (POOL) during Q4 2025. Pool's stock has declined 35% over the past year as the company navigates a normalization phase following pandemic-era demand. Despite solid fundamentals with $5.3B in 2025 revenue and steady 29.7% gross margins, the fund's exit reflects a preference for secular tech compounders over cyclical distributors.",
+        "article_url": "https://www.fool.com/coverage/filings/2026/02/27/pool-stock-is-down-35-this-past-year-and-one-fund-recently-disclosed-dumping-a-usd10-million-stake/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jonathan Ponciano",
+        "tickers": [
+          "POOL",
+          "TSM",
+          "GOOG",
+          "GOOGL",
+          "META",
+          "AAPL",
+          "MSFT"
+        ],
+        "keywords": [
+          "Pool Corporation",
+          "fund exit",
+          "stock decline",
+          "pandemic normalization",
+          "cyclical distributor",
+          "discretionary demand"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-02-27T15:13:44Z",
+          "title": "Trump's America Is Losing The Crown: A New Market Order Is Rising",
+          "description": "Bank of America's Chief Investment Strategist Michael Hartnett predicts international stocks will outperform the U.S. in the second half of the 2020s, ending a decade of American market dominance. International stocks' share of global market capitalization has rebounded to 38%, and emerging markets ETFs are posting their longest winning streaks in years. AI disruption may hurt U.S. services-heavy economy and tech-dominated markets more than manufacturing-focused emerging markets.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50930242/trumps-america-is-losing-the-crown-a-new-market-order-is-rising?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "ACWX",
+            "EEM",
+            "EMXC",
+            "SPY"
+          ],
+          "keywords": [
+            "international stocks",
+            "emerging markets",
+            "U.S. market dominance",
+            "AI disruption",
+            "market rotation",
+            "global equity markets"
+          ]
+        },
+        {
+          "published_utc": "2026-02-27T15:30:00Z",
+          "title": "S&P 500 ETF Holds Structure as TRIN Signals Limit Risk of a Deep Pullback",
+          "description": "The S&P 500 ETF (SPY) is holding its technical structure with support at the February 2 weekly low. The TRIN indicator suggests limited risk of a deep pullback, with the 100-day and 50-day TRIN levels indicating only minor pullbacks of 5% or less are likely. The next resistance target is the 696 SPY range from the February 9 weekly high. The broader market momentum remains bullish with GDX showing strength through new highs in multiple momentum indicators.",
+          "article_url": "https://www.investing.com/analysis/sp-500-etf-holds-structure-as-trin-signals-limit-risk-of-a-deep-pullback-200675812",
+          "publisher": "Investing.com",
+          "author": "Tim Ord",
+          "tickers": [
+            "SPY",
+            "GDX"
+          ],
+          "keywords": [
+            "S&P 500",
+            "SPY",
+            "TRIN indicator",
+            "technical analysis",
+            "market support",
+            "GDX",
+            "momentum indicators",
+            "weekly resistance"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

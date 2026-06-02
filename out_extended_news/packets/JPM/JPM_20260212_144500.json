@@ -1,0 +1,79 @@
+{
+  "event": {
+    "event_id": "JPM_20260212_144500",
+    "ticker": "JPM",
+    "t0_utc": "2026-02-12 14:45:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-02-12T11:45:00+00:00",
+      "end": "2026-02-12T15:45:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-02-12T13:31:15Z",
+          "title": "Stock Market Today: Dow Jones, S&P 500 Futures Gain After Strong Jobs Report\u2014Micron, Novocure, Fastly In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Thursday following a strong January jobs report showing 130,000 jobs added, exceeding expectations. The report dampened rate cut expectations, with markets pricing in only a 6% chance of a March rate cut. Key movers include Micron (up 3.3%), Novocure (up 33% on FDA approval), and Fastly (up 43% on strong earnings), while AppLovin fell 4.95% despite beating expectations.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50569460/stock-market-today-dow-jones-sp-500-futures-gain-after-strong-job-report-micron-novocure-fastly-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rounak Jain",
+          "tickers": [
+            "MU",
+            "NVCR",
+            "FSLY",
+            "MCD",
+            "APP",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "jobs report",
+            "Federal Reserve",
+            "interest rates",
+            "earnings",
+            "FDA approval",
+            "market futures"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-02-12T13:31:15Z",
+          "title": "Stock Market Today: Dow Jones, S&P 500 Futures Gain After Strong Jobs Report\u2014Micron, Novocure, Fastly In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Thursday following a strong January jobs report showing 130,000 jobs added, exceeding expectations. The report dampened rate cut expectations, with markets pricing in only a 6% chance of a March rate cut. Key movers include Micron (up 3.3%), Novocure (up 33% on FDA approval), and Fastly (up 43% on strong earnings), while AppLovin fell 4.95% despite beating expectations.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50569460/stock-market-today-dow-jones-sp-500-futures-gain-after-strong-job-report-micron-novocure-fastly-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rounak Jain",
+          "tickers": [
+            "MU",
+            "NVCR",
+            "FSLY",
+            "MCD",
+            "APP",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "jobs report",
+            "Federal Reserve",
+            "interest rates",
+            "earnings",
+            "FDA approval",
+            "market futures"
+          ]
+        }
+      ]
+    }
+  }
+}

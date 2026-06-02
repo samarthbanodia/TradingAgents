@@ -1,0 +1,48 @@
+{
+  "event": {
+    "event_id": "META_20251204_140000",
+    "ticker": "META",
+    "t0_utc": "2025-12-04 14:00:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-12-04T11:00:00+00:00",
+      "end": "2025-12-04T15:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-12-04T11:17:00Z",
+        "title": "4 Trillion Reasons to Buy Nvidia Stock Right Now",
+        "description": "Nvidia is positioned for significant growth in AI computing hardware, with management projecting global data center capital expenditures reaching $3-4 trillion by 2030. Despite recent market share concerns, the company remains a key player in AI infrastructure development.",
+        "article_url": "https://www.fool.com/investing/2025/12/04/4-trillion-reasons-to-buy-nvidia-stock-right-now/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Keithen Drury",
+        "tickers": [
+          "NVDA",
+          "META",
+          "GOOG",
+          "GOOGL",
+          "AMD"
+        ],
+        "keywords": [
+          "Nvidia",
+          "AI",
+          "data centers",
+          "computing hardware",
+          "GPUs"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "event": {
+    "event_id": "META_20250402_132000",
+    "ticker": "META",
+    "t0_utc": "2025-04-02 13:20:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-04-02T10:20:00+00:00",
+      "end": "2025-04-02T14:20:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-04-02T10:45:00Z",
+        "title": "Down 28%, Should You Buy the Dip on Nvidia?",
+        "description": "Nvidia's dominance in the AI GPU market continues, driven by its CUDA platform and ability to outspend rivals. However, challenges lie ahead, including the need for AI to deliver returns and the risk of disruption from upstart chip firms or major clients developing their own chips.",
+        "article_url": "https://www.fool.com/investing/2025/04/02/down-28-should-you-buy-the-dip-on-nvidia/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Johnny Rice",
+        "tickers": [
+          "NVDA",
+          "GOOG",
+          "GOOGL",
+          "META",
+          "AMD"
+        ],
+        "keywords": [
+          "Nvidia",
+          "AI",
+          "GPU",
+          "CUDA",
+          "Alphabet",
+          "Meta",
+          "Advanced Micro Devices"
+        ]
+      },
+      {
+        "published_utc": "2025-04-02T12:00:00Z",
+        "title": "Billionaire Israel Englander Jettisoned Shares of Nvidia and Microsoft and Is Piling Into 2 High-Growth Tech Stocks",
+        "description": "Billionaire investor Israel Englander's Millennium Management hedge fund has trimmed its positions in Nvidia and Microsoft, while increasing stakes in Broadcom and Meta Platforms. The article analyzes the reasons behind these moves and why these two tech stocks could be smart buys for retail investors.",
+        "article_url": "https://www.fool.com/investing/2025/04/02/billionaire-israel-englander-jettisoned-shares-of/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "NVDA",
+          "MSFT",
+          "AVGO",
+          "META"
+        ],
+        "keywords": [
+          "Nvidia",
+          "Microsoft",
+          "Broadcom",
+          "Meta Platforms",
+          "hedge fund",
+          "tech stocks"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

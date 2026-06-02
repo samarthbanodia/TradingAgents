@@ -1,0 +1,134 @@
+{
+  "event": {
+    "event_id": "AMD_20260115_131000",
+    "ticker": "AMD",
+    "t0_utc": "2026-01-15 13:10:00+00:00",
+    "direction": 1,
+    "label_proxy": "unclear",
+    "window": {
+      "start": "2026-01-15T10:10:00+00:00",
+      "end": "2026-01-15T14:10:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-01-15T12:02:17Z",
+        "title": "Top Analyst Says AMD's 2026 Success Depends On These 3 Factors\u2014 And It Doesn't 'Need To Beat' Nvidia",
+        "description": "Shay Boloor, Chief Market Strategist at Futurum Equities, identifies three key factors for AMD's 2026 success: strong CPU growth as a cash engine, successful Helios platform deployment, and adoption by major customers like Microsoft, Meta, Oracle, and Tesla to avoid single-vendor AI infrastructure. AMD doesn't need to beat Nvidia but rather become part of default architecture. The analysis comes as Trump's 25% tariff on high-end AI chips impacts the sector, though AMD continues advancing in AI hardware.",
+        "article_url": "https://www.benzinga.com/markets/tech/26/01/49929972/top-analyst-says-amds-2026-success-depends-on-these-3-factors-and-it-doesnt-need-to-beat-nvidia?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "AMD",
+          "NVDA",
+          "MSFT",
+          "META",
+          "ORCL"
+        ],
+        "keywords": [
+          "AMD",
+          "data center CPUs",
+          "AI chips",
+          "Nvidia competition",
+          "platform vendor",
+          "tariffs",
+          "hyperscalers"
+        ]
+      },
+      {
+        "published_utc": "2026-01-15T12:03:00Z",
+        "title": "How AMD Stock Beat the Market (and Nvidia) in 2025",
+        "description": "AMD stock surged 77.3% in 2025, significantly outperforming the S&P 500's 16.4% gain and Nvidia's 38.9% return. The major catalyst was OpenAI's October announcement of a multi-year deal to purchase 6 gigawatts of AMD Instinct AI accelerators, representing a $120 billion revenue opportunity over 5 years. The deal demonstrates AMD's competitive capability in high-end AI workloads and signals potential for other hyperscalers to adopt AMD chips.",
+        "article_url": "https://www.fool.com/investing/2026/01/15/how-amd-stock-beat-the-market-and-nvidia-in-2025/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Anders Bylund",
+        "tickers": [
+          "AMD",
+          "NVDA"
+        ],
+        "keywords": [
+          "AMD stock performance",
+          "AI accelerators",
+          "OpenAI partnership",
+          "Instinct chips",
+          "semiconductor competition",
+          "hyperscaler demand"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-01-15T13:40:07Z",
+          "title": "Stock Market Today: Dow Jones Futures Drop, Nasdaq 100 Gains As Tech Stocks Rebound\u2014 Goldman Sachs, Taiwan Semiconductor, ASML In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Thursday following Wednesday's decline, with tech stocks rebounding. Taiwan Semiconductor reported a 35% profit surge in Q4, while Applied Materials received an analyst upgrade. Goldman Sachs is set to report earnings. Tariff uncertainty and Supreme Court delays on framework legality continue to weigh on markets. The Fed is expected to hold rates steady in January.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/49928015/stock-market-today-sp-500-nasdaq-100-futures-gain-as-tech-stocks-rebound-taiwan-semiconductor-as?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "TSM",
+            "ASML",
+            "AMAT",
+            "GS",
+            "GSpA",
+            "GSpC",
+            "GSpD",
+            "AMZN",
+            "CVGW",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "tech stocks",
+            "semiconductor",
+            "tariffs",
+            "earnings",
+            "Federal Reserve",
+            "futures",
+            "analyst upgrade"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-01-15T13:40:07Z",
+          "title": "Stock Market Today: Dow Jones Futures Drop, Nasdaq 100 Gains As Tech Stocks Rebound\u2014 Goldman Sachs, Taiwan Semiconductor, ASML In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Thursday following Wednesday's decline, with tech stocks rebounding. Taiwan Semiconductor reported a 35% profit surge in Q4, while Applied Materials received an analyst upgrade. Goldman Sachs is set to report earnings. Tariff uncertainty and Supreme Court delays on framework legality continue to weigh on markets. The Fed is expected to hold rates steady in January.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/49928015/stock-market-today-sp-500-nasdaq-100-futures-gain-as-tech-stocks-rebound-taiwan-semiconductor-as?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "TSM",
+            "ASML",
+            "AMAT",
+            "GS",
+            "GSpA",
+            "GSpC",
+            "GSpD",
+            "AMZN",
+            "CVGW",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "tech stocks",
+            "semiconductor",
+            "tariffs",
+            "earnings",
+            "Federal Reserve",
+            "futures",
+            "analyst upgrade"
+          ]
+        }
+      ]
+    }
+  }
+}

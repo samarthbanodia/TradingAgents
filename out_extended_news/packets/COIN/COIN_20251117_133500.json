@@ -1,0 +1,44 @@
+{
+  "event": {
+    "event_id": "COIN_20251117_133500",
+    "ticker": "COIN",
+    "t0_utc": "2025-11-17 13:35:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-11-17T10:35:00+00:00",
+      "end": "2025-11-17T14:35:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-11-17T11:25:00Z",
+        "title": "Coinbase's $375 Million Echo Deal Is Part of an Acquisition Spree. Here's What Investors Need to Know.",
+        "description": "Coinbase acquired Echo for $375 million, expanding its crypto services by providing a platform for early-stage Web3 companies to raise capital. This is part of a broader strategy to diversify revenue streams beyond cryptocurrency trading.",
+        "article_url": "https://www.fool.com/investing/2025/11/17/coinbases-375-million-echo-deal-is-part-of-acquisi/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Emma Newbery",
+        "tickers": [
+          "COIN"
+        ],
+        "keywords": [
+          "cryptocurrency",
+          "blockchain",
+          "acquisition",
+          "Web3",
+          "capital raising"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

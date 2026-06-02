@@ -36,7 +36,10 @@ import pandas as pd
 # Configuration
 # ---------------------------------------------------------------------------
 
-STOCK_TICKERS = ["AAPL", "MSFT", "NVDA", "TSLA", "META", "AMD", "NFLX", "PLTR"]
+STOCK_TICKERS = [
+    "AAPL", "MSFT", "NVDA", "TSLA", "META", "AMD", "NFLX", "PLTR",
+    "AMZN", "GOOGL", "JPM", "COIN",  # extended universe
+]
 ETF_TICKERS = ["SPY", "QQQ", "XLK"]
 ALL_TICKERS = STOCK_TICKERS + ETF_TICKERS
 

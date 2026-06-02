@@ -1,0 +1,66 @@
+{
+  "event": {
+    "event_id": "AAPL_20250721_133500",
+    "ticker": "AAPL",
+    "t0_utc": "2025-07-21 13:35:00+00:00",
+    "direction": 1,
+    "label_proxy": "unclear",
+    "window": {
+      "start": "2025-07-21T10:35:00+00:00",
+      "end": "2025-07-21T14:35:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": [
+        {
+          "published_utc": "2025-07-21T13:13:54Z",
+          "title": "Redhawk Loads Up on 7,181 QQQ Shares in Q2 Filing",
+          "description": "Redhawk Wealth Advisors purchased 7,181 shares of QQQ, valued at $3.57 million, increasing its total QQQ position to 18,597 shares. The investment comes during a period of economic uncertainty, with the NASDAQ-100 index underperforming the S&P 500.",
+          "article_url": "https://www.fool.com/coverage/filings/2025/07/21/redhawk-loads-up-on-7181-qqq-shares-in-q2-filing/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Anders Bylund",
+          "tickers": [
+            "QQQ"
+          ],
+          "keywords": [
+            "QQQ",
+            "ETF",
+            "NASDAQ-100",
+            "investment",
+            "market uncertainty"
+          ]
+        },
+        {
+          "published_utc": "2025-07-21T14:15:00Z",
+          "title": "5 Simple ETFs to Buy With $1,000 and Hold for a Lifetime",
+          "description": "The article discusses five recommended ETFs for long-term investors, focusing on diversification, growth, and income across different market segments including U.S. large-cap, technology, dividend, and international stocks.",
+          "article_url": "https://www.fool.com/investing/2025/07/21/5-simple-etfs-to-buy-with-1000-and-hold-for-a-life/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Geoffrey Seiler",
+          "tickers": [
+            "VOO",
+            "VUG",
+            "QQQ",
+            "SCHD",
+            "VYMI"
+          ],
+          "keywords": [
+            "ETFs",
+            "investing",
+            "long-term wealth",
+            "stock market",
+            "diversification"
+          ]
+        }
+      ]
+    }
+  }
+}

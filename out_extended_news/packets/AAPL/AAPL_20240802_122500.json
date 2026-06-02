@@ -1,0 +1,108 @@
+{
+  "event": {
+    "event_id": "AAPL_20240802_122500",
+    "ticker": "AAPL",
+    "t0_utc": "2024-08-02 12:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2024-08-02T09:25:00+00:00",
+      "end": "2024-08-02T13:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-08-02T10:20:07Z",
+        "title": "Should Invesco NASDAQ 100 ETF (QQQM) Be on Your Investing Radar?",
+        "description": "The Invesco NASDAQ 100 ETF (QQQM) is a passively managed ETF that provides broad exposure to the Large Cap Growth segment of the US equity market. It has a low expense ratio of 0.15% and has performed well, gaining around 12.65% so far this year and 20.95% in the last one year.",
+        "article_url": "https://www.zacks.com/stock/news/2314906/should-invesco-nasdaq-100-etf-qqqm-be-on-your-investing-radar?cid=CS-ZC-FT-style_box_etf-2314906",
+        "publisher": "Zacks Investment Research",
+        "author": "Zacks Investment Research",
+        "tickers": [
+          "AAPL",
+          "MSFT",
+          "NVDA",
+          "QQQ",
+          "VUG",
+          "QQQM"
+        ],
+        "keywords": [
+          "Invesco NASDAQ 100 ETF",
+          "Large Cap Growth",
+          "ETF"
+        ]
+      },
+      {
+        "published_utc": "2024-08-02T12:30:00Z",
+        "title": "These 5 Dividend Stocks Account for 74% of Warren Buffett's $399 Billion Portfolio",
+        "description": "The article discusses Berkshire Hathaway's top holdings, which include Apple, Bank of America, American Express, Coca-Cola, and Chevron. These stocks are considered good dividend stocks to hold for long-term investors due to their strong financials, consistent dividend payments, and growth potential.",
+        "article_url": "https://www.fool.com/investing/2024/08/02/these-5-dividend-stocks-account-for-74-of-warren/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "David Jagielski",
+        "tickers": [
+          "AAPL",
+          "BAC",
+          "BACpB",
+          "BACpE",
+          "BACpK",
+          "BACpL",
+          "BACpM",
+          "BACpN",
+          "BACpO",
+          "BACpP",
+          "BACpQ",
+          "BACpS",
+          "BMLpG",
+          "BMLpH",
+          "BMLpJ",
+          "BMLpL",
+          "MERpK",
+          "AXP",
+          "KO",
+          "CVX"
+        ],
+        "keywords": [
+          "Berkshire Hathaway",
+          "dividend stocks",
+          "Apple",
+          "Bank of America",
+          "American Express",
+          "Coca-Cola",
+          "Chevron"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": [
+        {
+          "published_utc": "2024-08-02T10:20:07Z",
+          "title": "Should Invesco NASDAQ 100 ETF (QQQM) Be on Your Investing Radar?",
+          "description": "The Invesco NASDAQ 100 ETF (QQQM) is a passively managed ETF that provides broad exposure to the Large Cap Growth segment of the US equity market. It has a low expense ratio of 0.15% and has performed well, gaining around 12.65% so far this year and 20.95% in the last one year.",
+          "article_url": "https://www.zacks.com/stock/news/2314906/should-invesco-nasdaq-100-etf-qqqm-be-on-your-investing-radar?cid=CS-ZC-FT-style_box_etf-2314906",
+          "publisher": "Zacks Investment Research",
+          "author": "Zacks Investment Research",
+          "tickers": [
+            "AAPL",
+            "MSFT",
+            "NVDA",
+            "QQQ",
+            "VUG",
+            "QQQM"
+          ],
+          "keywords": [
+            "Invesco NASDAQ 100 ETF",
+            "Large Cap Growth",
+            "ETF"
+          ]
+        }
+      ]
+    }
+  }
+}

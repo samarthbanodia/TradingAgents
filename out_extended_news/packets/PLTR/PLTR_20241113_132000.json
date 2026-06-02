@@ -1,0 +1,43 @@
+{
+  "event": {
+    "event_id": "PLTR_20241113_132000",
+    "ticker": "PLTR",
+    "t0_utc": "2024-11-13 13:20:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-11-13T10:20:00+00:00",
+      "end": "2024-11-13T14:20:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-11-13T10:30:00Z",
+        "title": "What's Going On With Palantir Stock?",
+        "description": "The article discusses Palantir, an AI software company, as a top stock to buy due to its strong revenue and earnings growth, as well as other reasons. Two Wall Street analysts are cited as believing the stock still has significant upside potential.",
+        "article_url": "https://www.fool.com/investing/2024/11/13/whats-going-on-with-palantir-stock/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Parkev Tatevosian, Cfa",
+        "tickers": [
+          "PLTR"
+        ],
+        "keywords": [
+          "Palantir",
+          "AI",
+          "software",
+          "stock recommendation"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

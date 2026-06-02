@@ -1,0 +1,65 @@
+{
+  "event": {
+    "event_id": "AMZN_20250408_125500",
+    "ticker": "AMZN",
+    "t0_utc": "2025-04-08 12:55:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-04-08T09:55:00+00:00",
+      "end": "2025-04-08T13:55:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-04-08T11:00:00Z",
+        "title": "Is C3.ai a Top AI Stock to Buy on the Dip?",
+        "description": "C3.ai, an AI software company, has seen its stock price drop significantly from its all-time highs. While the company's revenue is growing, it is struggling to become profitable due to excessive stock-based compensation and huge losses. The author believes investors should look for a different AI stock to invest in.",
+        "article_url": "https://www.fool.com/investing/2025/04/08/is-c3ai-a-top-ai-stock-to-buy-on-the-dip/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "AI",
+          "AMZN",
+          "MSFT"
+        ],
+        "keywords": [
+          "C3.ai",
+          "AI",
+          "software",
+          "profitability",
+          "stock-based compensation"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": [
+        {
+          "published_utc": "2025-04-08T13:12:00Z",
+          "title": "PayPal Stock: Too Cheap to Ignore, Too Strong to Miss",
+          "description": "PayPal is a cash flow powerhouse, generating $6.8 billion in free cash flow in 2024. Despite a bearish market, the company raised its forward guidance for 2025 and has a strong valuation with a P/E ratio of 14.58 and a forward P/E of 11.6.",
+          "article_url": "https://www.investing.com/analysis/paypal-stock-too-cheap-to-ignore-too-strong-to-miss-200659227",
+          "publisher": "Investing.com",
+          "author": "Marketbeat.Com",
+          "tickers": [
+            "PYPL",
+            "QQQ"
+          ],
+          "keywords": [
+            "PayPal",
+            "cash flow",
+            "valuation",
+            "guidance"
+          ]
+        }
+      ]
+    }
+  }
+}

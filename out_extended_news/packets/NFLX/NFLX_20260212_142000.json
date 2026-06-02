@@ -1,0 +1,154 @@
+{
+  "event": {
+    "event_id": "NFLX_20260212_142000",
+    "ticker": "NFLX",
+    "t0_utc": "2026-02-12 14:20:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2026-02-12T11:20:00+00:00",
+      "end": "2026-02-12T15:20:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-02-12T13:30:00Z",
+        "title": "5 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade",
+        "description": "The article identifies five AI-focused stocks suitable for long-term investment: Netflix (leveraging AI algorithms for content recommendations), Nvidia (dominant in AI chip manufacturing), Alphabet (comprehensive AI stack with search and cloud services), Amazon (investing $200B in AI infrastructure and robotics), and Palantir Technologies (custom AI software development). All five companies are positioned to benefit from the AI boom over the next decade.",
+        "article_url": "https://www.fool.com/investing/2026/02/12/artificial-intelligence-stocks-buy-hold-decade/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Justin Pope",
+        "tickers": [
+          "NFLX",
+          "NVDA",
+          "GOOG",
+          "GOOGL",
+          "AMZN",
+          "PLTR"
+        ],
+        "keywords": [
+          "artificial intelligence",
+          "AI stocks",
+          "long-term investment",
+          "GPU chips",
+          "cloud services",
+          "AI infrastructure",
+          "machine learning"
+        ]
+      },
+      {
+        "published_utc": "2026-02-12T14:34:00Z",
+        "title": "Could Netflix Stock Help You Become a Millionaire?",
+        "description": "Netflix is expanding beyond streaming into experiences and video podcasts, following Disney's profitable model. The company opened Netflix House locations in Dallas and Philadelphia in 2025 with plans for Las Vegas expansion in 2027. Video podcasts could help Netflix tap into YouTube's 2.5 billion users and expand its advertising business. However, the company faces near-term headwinds from a potential $82 billion Warner Bros. acquisition and paused share buybacks, requiring investor conviction through volatility.",
+        "article_url": "https://www.fool.com/investing/2026/02/12/could-netflix-stock-help-you-become-a-millionaire/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jack Delaney",
+        "tickers": [
+          "NFLX",
+          "DIS",
+          "WBD"
+        ],
+        "keywords": [
+          "Netflix expansion",
+          "experiences business",
+          "video podcasts",
+          "Warner Bros acquisition",
+          "streaming growth",
+          "advertising revenue",
+          "intellectual property monetization"
+        ]
+      },
+      {
+        "published_utc": "2026-02-12T14:43:00Z",
+        "title": "8 High-Yield Dividend Stocks to Buy and Hold for Reliable Passive Income",
+        "description": "As market volatility increases and tech valuations stretch, investors are rotating toward dividend stocks for reliable income. The article outlines criteria for selecting quality dividend stocks\u2014including yields of 6.1% to 15.4%, undervaluation of 28.5% to 51.7%, and strong dividend track records\u2014using Investing.com's stock screener and Fair Value estimates.",
+        "article_url": "https://www.investing.com/analysis/8-highyield-dividend-stocks-to-buy-and-hold-for-reliable-passive-income-200674902",
+        "publisher": "Investing.com",
+        "author": "David Wagner",
+        "tickers": [
+          "AAPL",
+          "TSLA",
+          "MSFT",
+          "NVDA",
+          "AMZN",
+          "META",
+          "NFLX"
+        ],
+        "keywords": [
+          "dividend stocks",
+          "passive income",
+          "market rotation",
+          "dividend yield",
+          "undervalued stocks",
+          "market volatility",
+          "tech valuations",
+          "stock screening"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-02-12T13:31:15Z",
+          "title": "Stock Market Today: Dow Jones, S&P 500 Futures Gain After Strong Jobs Report\u2014Micron, Novocure, Fastly In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Thursday following a strong January jobs report showing 130,000 jobs added, exceeding expectations. The report dampened rate cut expectations, with markets pricing in only a 6% chance of a March rate cut. Key movers include Micron (up 3.3%), Novocure (up 33% on FDA approval), and Fastly (up 43% on strong earnings), while AppLovin fell 4.95% despite beating expectations.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50569460/stock-market-today-dow-jones-sp-500-futures-gain-after-strong-job-report-micron-novocure-fastly-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rounak Jain",
+          "tickers": [
+            "MU",
+            "NVCR",
+            "FSLY",
+            "MCD",
+            "APP",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "jobs report",
+            "Federal Reserve",
+            "interest rates",
+            "earnings",
+            "FDA approval",
+            "market futures"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-02-12T13:31:15Z",
+          "title": "Stock Market Today: Dow Jones, S&P 500 Futures Gain After Strong Jobs Report\u2014Micron, Novocure, Fastly In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Thursday following a strong January jobs report showing 130,000 jobs added, exceeding expectations. The report dampened rate cut expectations, with markets pricing in only a 6% chance of a March rate cut. Key movers include Micron (up 3.3%), Novocure (up 33% on FDA approval), and Fastly (up 43% on strong earnings), while AppLovin fell 4.95% despite beating expectations.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50569460/stock-market-today-dow-jones-sp-500-futures-gain-after-strong-job-report-micron-novocure-fastly-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rounak Jain",
+          "tickers": [
+            "MU",
+            "NVCR",
+            "FSLY",
+            "MCD",
+            "APP",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "jobs report",
+            "Federal Reserve",
+            "interest rates",
+            "earnings",
+            "FDA approval",
+            "market futures"
+          ]
+        }
+      ]
+    }
+  }
+}

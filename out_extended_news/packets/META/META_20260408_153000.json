@@ -1,0 +1,159 @@
+{
+  "event": {
+    "event_id": "META_20260408_153000",
+    "ticker": "META",
+    "t0_utc": "2026-04-08 15:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2026-04-08T12:30:00+00:00",
+      "end": "2026-04-08T16:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-04-08T12:43:41Z",
+        "title": "Google's AI Ad Machine Rewrites Search Rules As Brands See Up To 80% Revenue Boost: 'Not Some Zero-Sum Game'",
+        "description": "Google's AI-powered ad tools like AI Max and Performance Max are driving significant revenue growth for brands, with Canadian retailer Aritzia reporting an 80% revenue increase. Google's ad revenue reached $82.28 billion in Q4 2025, up 13.5% year-over-year, with new features like 'direct offers' and 'business agent' tools expanding AI ad capabilities. Meanwhile, competitors like Amazon, Meta, and OpenAI are experimenting with their own AI ad formats with mixed results.",
+        "article_url": "https://www.benzinga.com/news/retail-sales/26/04/51701525/googles-ai-ad-machine-rewrites-search-rules-as-brands-see-up-to-80-revenue-boost-not-some-zero-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "GOOG",
+          "GOOGL",
+          "AMZN",
+          "META",
+          "ELF",
+          "CHWY"
+        ],
+        "keywords": [
+          "AI advertising",
+          "Google Gemini",
+          "Performance Max",
+          "AI Max",
+          "retail ads",
+          "search advertising",
+          "AI-powered tools",
+          "personalized promotions"
+        ]
+      },
+      {
+        "published_utc": "2026-04-08T13:26:33Z",
+        "title": "Mag 7 Stocks Melt Up After Ceasefire\u2014Wall Street Cheers Truce as Mega Caps Rally",
+        "description": "The Magnificent Seven tech stocks surged Wednesday morning following a ceasefire agreement between Iran and President Trump, easing geopolitical tensions. Meta led gains with a 5% jump, while Tesla, Alphabet, Amazon, Nvidia, and Microsoft all climbed 3-4.5%. The Nasdaq futures rose 3.55% as investors rotated back into growth stocks, though analysts caution the ceasefire remains fragile.",
+        "article_url": "https://www.benzinga.com/markets/tech/26/04/51702691/mag-7-stocks-melt-up-after-ceasefire-wall-street-cheers-truce-as-mega-caps-rally?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Erica Kollmann",
+        "tickers": [
+          "META",
+          "TSLA",
+          "GOOG",
+          "GOOGL",
+          "AMZN",
+          "NVDA",
+          "MSFT",
+          "AAPL"
+        ],
+        "keywords": [
+          "ceasefire",
+          "Magnificent Seven",
+          "tech stocks",
+          "geopolitical risk",
+          "Nasdaq rally",
+          "risk-on sentiment"
+        ]
+      },
+      {
+        "published_utc": "2026-04-08T16:30:00Z",
+        "title": "2 Monster Stocks to Hold for the Next 10 Years",
+        "description": "Bloom Energy and Vistra are positioned as long-term AI beneficiaries due to growing data center power demands. Bloom Energy provides on-site fuel cells with a $6 billion backlog but remains unprofitable with high volatility. Vistra operates a diversified energy fleet and has secured agreements with Meta and Amazon for nuclear power, though recent earnings disappointed investors.",
+        "article_url": "https://www.fool.com/investing/2026/04/08/2-monster-stocks-to-hold-for-the-next-10-years/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jack Delaney",
+        "tickers": [
+          "BE",
+          "VST",
+          "META",
+          "AMZN",
+          "EQIX"
+        ],
+        "keywords": [
+          "AI power demand",
+          "data centers",
+          "energy stocks",
+          "fuel cells",
+          "nuclear power",
+          "long-term investment"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-04-08T12:58:59Z",
+          "title": "Stock Market Today: S&P 500, Nasdaq Futures Surge As Trump Declares Ceasefire On Iran Strikes\u2014 SoFi, Uber, Levi Strauss In Focus  (UPDATED)",
+          "description": "U.S. stock futures surged on Wednesday following President Trump's announcement of a two-week ceasefire on Iran strikes. Major indices posted strong gains with the S&P 500 up 2.46%, Nasdaq 100 up 3.25%, and Russell 2000 up 3.59%. However, analyst Jeremy Siegel warns of near-term caution despite long-term bullish outlook, citing labor strength, inflationary pressures, and earnings risks. Several stocks gained significantly on company-specific news.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/04/51697591/stock-market-today-sp-500-dow-futures-surge-as-trump-declares-ceasefire-on-iran-strikes-sofi-tec?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SOFI",
+            "UBER",
+            "BABA",
+            "LEVI",
+            "AMZN",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "ceasefire",
+            "Iran",
+            "stock market",
+            "futures",
+            "S&P 500",
+            "geopolitical tensions",
+            "Federal Reserve",
+            "interest rates",
+            "earnings"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-04-08T12:58:59Z",
+          "title": "Stock Market Today: S&P 500, Nasdaq Futures Surge As Trump Declares Ceasefire On Iran Strikes\u2014 SoFi, Uber, Levi Strauss In Focus  (UPDATED)",
+          "description": "U.S. stock futures surged on Wednesday following President Trump's announcement of a two-week ceasefire on Iran strikes. Major indices posted strong gains with the S&P 500 up 2.46%, Nasdaq 100 up 3.25%, and Russell 2000 up 3.59%. However, analyst Jeremy Siegel warns of near-term caution despite long-term bullish outlook, citing labor strength, inflationary pressures, and earnings risks. Several stocks gained significantly on company-specific news.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/04/51697591/stock-market-today-sp-500-dow-futures-surge-as-trump-declares-ceasefire-on-iran-strikes-sofi-tec?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SOFI",
+            "UBER",
+            "BABA",
+            "LEVI",
+            "AMZN",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "ceasefire",
+            "Iran",
+            "stock market",
+            "futures",
+            "S&P 500",
+            "geopolitical tensions",
+            "Federal Reserve",
+            "interest rates",
+            "earnings"
+          ]
+        }
+      ]
+    }
+  }
+}

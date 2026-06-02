@@ -1,0 +1,49 @@
+{
+  "event": {
+    "event_id": "AMD_20260416_131500",
+    "ticker": "AMD",
+    "t0_utc": "2026-04-16 13:15:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-04-16T10:15:00+00:00",
+      "end": "2026-04-16T14:15:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-04-16T11:20:00Z",
+        "title": "Prediction: 1 Artificial Intelligence (AI) Stock That Will Be Worth More Than Palantir and Micron Combined by 2028",
+        "description": "Advanced Micro Devices (AMD) is positioned to outperform Palantir and Micron Technologies by 2028 due to major data center GPU deals with OpenAI and Meta Platforms. AMD's forward earnings multiple of 39 is significantly cheaper than Palantir's 108, while Micron faces concerns about AI-driven memory demand sustainability. AMD could reach a market cap of $868 billion by 2028, surpassing the combined $854 billion market cap of Palantir and Micron.",
+        "article_url": "https://www.fool.com/investing/2026/04/16/prediction-1-artificial-intelligence-ai-stock-that/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Harsh Chauhan",
+        "tickers": [
+          "AMD",
+          "PLTR",
+          "MU",
+          "META"
+        ],
+        "keywords": [
+          "AI semiconductors",
+          "data center GPUs",
+          "AMD Instinct",
+          "OpenAI partnership",
+          "Meta partnership",
+          "valuation comparison",
+          "earnings growth"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

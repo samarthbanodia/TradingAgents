@@ -1,0 +1,105 @@
+{
+  "event": {
+    "event_id": "AAPL_20260224_143000",
+    "ticker": "AAPL",
+    "t0_utc": "2026-02-24 14:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "unclear",
+    "window": {
+      "start": "2026-02-24T11:30:00+00:00",
+      "end": "2026-02-24T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-02-24T12:35:00Z",
+        "title": "5 Warren Buffett Stocks to Hold Forever",
+        "description": "The article highlights five stocks from Warren Buffett's portfolio recommended for long-term holding: Apple, Coca-Cola, Chevron, Visa, and Domino's Pizza. These companies are praised for their strong brand power, dividend growth histories, competitive advantages, and ability to generate steady cash flows over decades.",
+        "article_url": "https://www.fool.com/investing/2026/02/24/5-warren-buffett-stocks-to-hold-forever/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Justin Pope",
+        "tickers": [
+          "AAPL",
+          "KO",
+          "CVX",
+          "V",
+          "DPZ"
+        ],
+        "keywords": [
+          "Warren Buffett",
+          "long-term investing",
+          "dividend stocks",
+          "consumer brands",
+          "Berkshire Hathaway",
+          "hold forever strategy"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-02-24T13:31:53Z",
+          "title": "Stock Market Today: S&P 500 Futures Slip As Dow, Nasdaq 100 Gain Following Trump's Tariff Threat \u2014 Whirlpool, Uber, HP In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Tuesday following Monday's sell-off triggered by AI-related economic concerns and a viral 'Global Intelligence Crisis' report. Market sentiment remains cautious amid Trump's tariff threats and geopolitical tensions. Key movers include Keysight Technologies surging 16% on strong earnings, Vir Biotechnology jumping 63% on revenue beat, and Whirlpool plunging 7.46% after announcing an $800 million capital raise.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50806573/stock-market-today-dow-jones-nasdaq-100-futures-gain-amid-ai-led-sell-off-trumps-threat-to-tradi?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "KEYS",
+            "VIR",
+            "WHR",
+            "HPQ",
+            "UBER",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "AI sell-off",
+            "tariffs",
+            "earnings",
+            "Federal Reserve",
+            "Treasury yields",
+            "market sentiment"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-02-24T13:31:53Z",
+          "title": "Stock Market Today: S&P 500 Futures Slip As Dow, Nasdaq 100 Gain Following Trump's Tariff Threat \u2014 Whirlpool, Uber, HP In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Tuesday following Monday's sell-off triggered by AI-related economic concerns and a viral 'Global Intelligence Crisis' report. Market sentiment remains cautious amid Trump's tariff threats and geopolitical tensions. Key movers include Keysight Technologies surging 16% on strong earnings, Vir Biotechnology jumping 63% on revenue beat, and Whirlpool plunging 7.46% after announcing an $800 million capital raise.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50806573/stock-market-today-dow-jones-nasdaq-100-futures-gain-amid-ai-led-sell-off-trumps-threat-to-tradi?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "KEYS",
+            "VIR",
+            "WHR",
+            "HPQ",
+            "UBER",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "AI sell-off",
+            "tariffs",
+            "earnings",
+            "Federal Reserve",
+            "Treasury yields",
+            "market sentiment"
+          ]
+        }
+      ]
+    }
+  }
+}

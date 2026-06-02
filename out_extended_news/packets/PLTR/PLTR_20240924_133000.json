@@ -1,0 +1,48 @@
+{
+  "event": {
+    "event_id": "PLTR_20240924_133000",
+    "ticker": "PLTR",
+    "t0_utc": "2024-09-24 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-09-24T10:30:00+00:00",
+      "end": "2024-09-24T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-09-24T11:12:00Z",
+        "title": "Forget BigBear.ai and C3.ai: Buy This Artificial Intelligence (AI) Defense Stock Instead",
+        "description": "The article recommends Palantir Technologies as the top choice for investors looking to invest in AI and defense, citing its strong financial performance and significant contracts with the U.S. military compared to competitors BigBear.ai and C3.ai.",
+        "article_url": "https://www.fool.com/investing/2024/09/24/forget-bigbearai-and-c3ai-buy-this-artificial-inte/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "PLTR",
+          "BBAI",
+          "BBAI.WS",
+          "AI"
+        ],
+        "keywords": [
+          "Palantir Technologies",
+          "BigBear.ai",
+          "C3.ai",
+          "AI",
+          "Defense",
+          "U.S. Military"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

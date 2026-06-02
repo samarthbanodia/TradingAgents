@@ -1,0 +1,49 @@
+{
+  "event": {
+    "event_id": "AMZN_20260102_142500",
+    "ticker": "AMZN",
+    "t0_utc": "2026-01-02 14:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-01-02T11:25:00+00:00",
+      "end": "2026-01-02T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-01-02T14:00:00Z",
+        "title": "HERE Technologies retains #1 ranking in Omdia\u2019s 2025 Location Platform Index, setting the pace for software-defined vehicles and AI innovation",
+        "description": "HERE Technologies has been ranked #1 in Omdia's 2025 Location Platform Index, ahead of competitors Google, TomTom, and Mapbox. The ranking recognizes HERE's innovation in AI-powered mapping, strategic partnerships with AWS and automotive leaders, and advancements in software-defined vehicles. Key achievements include a $1B AWS partnership for the SDV Accelerator and expansion into fleet management and IoT solutions.",
+        "article_url": "https://www.globenewswire.com/news-release/2026/01/02/3212137/0/en/HERE-Technologies-retains-1-ranking-in-Omdia-s-2025-Location-Platform-Index-setting-the-pace-for-software-defined-vehicles-and-AI-innovation.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Na",
+        "tickers": [
+          "AMZN",
+          "GOOG",
+          "GOOGL",
+          "TMOAY"
+        ],
+        "keywords": [
+          "location platform",
+          "software-defined vehicles",
+          "AI innovation",
+          "mapping technology",
+          "AWS partnership",
+          "automotive",
+          "fleet management"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

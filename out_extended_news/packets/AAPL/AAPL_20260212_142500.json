@@ -1,0 +1,163 @@
+{
+  "event": {
+    "event_id": "AAPL_20260212_142500",
+    "ticker": "AAPL",
+    "t0_utc": "2026-02-12 14:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2026-02-12T11:25:00+00:00",
+      "end": "2026-02-12T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-02-12T12:12:00Z",
+        "title": "Can S&P 500 Finally Break 7,000 Barrier?",
+        "description": "The S&P 500 futures have been consolidating below the 7,000 resistance level for several days despite a strong jobs report. While the underlying trend remains bullish with the index holding above its 200-day moving average, momentum has stalled. Key support levels are between 6,900-6,935, with potential downside to 6,771-6,815 if broken. A clean break above 7,000 could open the door to new record highs around 7,122-7,223. Market direction depends on Friday's inflation data and upcoming retail earnings.",
+        "article_url": "https://www.investing.com/analysis/can-sp-500-finally-break-7000-barrier-200674922",
+        "publisher": "Investing.com",
+        "author": "Fawad Razaqzada",
+        "tickers": [
+          "AAPL",
+          "NVDA",
+          "TSLA"
+        ],
+        "keywords": [
+          "S&P 500",
+          "7000 resistance level",
+          "technical analysis",
+          "market consolidation",
+          "Fed rate cuts",
+          "jobs report",
+          "inflation data",
+          "support levels",
+          "bullish trend",
+          "momentum loss"
+        ]
+      },
+      {
+        "published_utc": "2026-02-12T14:43:00Z",
+        "title": "8 High-Yield Dividend Stocks to Buy and Hold for Reliable Passive Income",
+        "description": "As market volatility increases and tech valuations stretch, investors are rotating toward dividend stocks for reliable income. The article outlines criteria for selecting quality dividend stocks\u2014including yields of 6.1% to 15.4%, undervaluation of 28.5% to 51.7%, and strong dividend track records\u2014using Investing.com's stock screener and Fair Value estimates.",
+        "article_url": "https://www.investing.com/analysis/8-highyield-dividend-stocks-to-buy-and-hold-for-reliable-passive-income-200674902",
+        "publisher": "Investing.com",
+        "author": "David Wagner",
+        "tickers": [
+          "AAPL",
+          "TSLA",
+          "MSFT",
+          "NVDA",
+          "AMZN",
+          "META",
+          "NFLX"
+        ],
+        "keywords": [
+          "dividend stocks",
+          "passive income",
+          "market rotation",
+          "dividend yield",
+          "undervalued stocks",
+          "market volatility",
+          "tech valuations",
+          "stock screening"
+        ]
+      },
+      {
+        "published_utc": "2026-02-12T15:16:00Z",
+        "title": "The Great Distortion: 1,500 Stocks Vs. The Magnificent 7 In Norway's Massive U.S. Equity Portfolio",
+        "description": "Norway's Government Pension Fund Global, the world's largest sovereign wealth fund, holds 1,577 U.S. stocks but concentrates nearly 30% ($280 billion) of its $935 billion portfolio in just seven mega-cap tech companies. Nvidia leads with a $62 billion position, while Apple and Microsoft each exceed $50 billion. This extreme concentration reveals how market leadership has narrowed dramatically, with institutional capital crowding into AI and cloud giants while traditional sectors like energy and consumer staples lag significantly in influence.",
+        "article_url": "https://www.benzinga.com/markets/hedge-funds/26/02/50579794/magnificent-7-stocks-norway-wealth-fund-portfolio?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Surbhi Jain",
+        "tickers": [
+          "NVDA",
+          "AAPL",
+          "MSFT",
+          "AMZN",
+          "GOOG",
+          "GOOGL",
+          "META",
+          "TSLA",
+          "XOM",
+          "WMT",
+          "COST"
+        ],
+        "keywords": [
+          "Magnificent 7",
+          "concentration risk",
+          "sovereign wealth fund",
+          "mega-cap tech",
+          "market dominance",
+          "diversification",
+          "AI stocks",
+          "13F filing"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-02-12T13:31:15Z",
+          "title": "Stock Market Today: Dow Jones, S&P 500 Futures Gain After Strong Jobs Report\u2014Micron, Novocure, Fastly In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Thursday following a strong January jobs report showing 130,000 jobs added, exceeding expectations. The report dampened rate cut expectations, with markets pricing in only a 6% chance of a March rate cut. Key movers include Micron (up 3.3%), Novocure (up 33% on FDA approval), and Fastly (up 43% on strong earnings), while AppLovin fell 4.95% despite beating expectations.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50569460/stock-market-today-dow-jones-sp-500-futures-gain-after-strong-job-report-micron-novocure-fastly-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rounak Jain",
+          "tickers": [
+            "MU",
+            "NVCR",
+            "FSLY",
+            "MCD",
+            "APP",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "jobs report",
+            "Federal Reserve",
+            "interest rates",
+            "earnings",
+            "FDA approval",
+            "market futures"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-02-12T13:31:15Z",
+          "title": "Stock Market Today: Dow Jones, S&P 500 Futures Gain After Strong Jobs Report\u2014Micron, Novocure, Fastly In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Thursday following a strong January jobs report showing 130,000 jobs added, exceeding expectations. The report dampened rate cut expectations, with markets pricing in only a 6% chance of a March rate cut. Key movers include Micron (up 3.3%), Novocure (up 33% on FDA approval), and Fastly (up 43% on strong earnings), while AppLovin fell 4.95% despite beating expectations.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50569460/stock-market-today-dow-jones-sp-500-futures-gain-after-strong-job-report-micron-novocure-fastly-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rounak Jain",
+          "tickers": [
+            "MU",
+            "NVCR",
+            "FSLY",
+            "MCD",
+            "APP",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "jobs report",
+            "Federal Reserve",
+            "interest rates",
+            "earnings",
+            "FDA approval",
+            "market futures"
+          ]
+        }
+      ]
+    }
+  }
+}

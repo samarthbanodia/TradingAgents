@@ -1,0 +1,115 @@
+{
+  "event": {
+    "event_id": "QQQ_20260226_151000",
+    "ticker": "QQQ",
+    "t0_utc": "2026-02-26 15:10:00+00:00",
+    "direction": -1,
+    "label_proxy": "unclear",
+    "window": {
+      "start": "2026-02-26T12:10:00+00:00",
+      "end": "2026-02-26T16:10:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-02-26T13:39:50Z",
+        "title": "Stock Market Today: Dow, S&P 500 Futures Gain As Jobless Claims Edge Up To 212K; Nasdaq Drops \u2014 Nvidia, Salesforce, Trade Desk In Focus (UPDATED)",
+        "description": "U.S. stock futures showed mixed performance on Thursday with the S&P 500 and Nasdaq gaining slightly while Dow futures declined. Markets await weekly jobless claims data and January producer price index. Key movers included Nvidia rising on strong earnings, Salesforce falling despite upbeat results due to weak guidance, and Trade Desk tumbling 16.69% on disappointing Q1 guidance. BlackRock remains overweight on U.S. equities citing favorable macro conditions and strong corporate earnings.",
+        "article_url": "https://www.benzinga.com/markets/equities/26/02/50878659/stock-market-today-dow-futures-slide-sp-500-nasdaq-gain-ahead-of-weekly-jobless-claims-nvidia-sa?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Rishabh Mishra",
+        "tickers": [
+          "NVDA",
+          "CRM",
+          "TTD",
+          "DELL",
+          "DRVN",
+          "SPY",
+          "QQQ"
+        ],
+        "keywords": [
+          "stock market",
+          "futures",
+          "jobless claims",
+          "earnings",
+          "guidance",
+          "Federal Reserve",
+          "interest rates",
+          "technology stocks",
+          "AI",
+          "corporate earnings"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-02-26T13:39:50Z",
+          "title": "Stock Market Today: Dow, S&P 500 Futures Gain As Jobless Claims Edge Up To 212K; Nasdaq Drops \u2014 Nvidia, Salesforce, Trade Desk In Focus (UPDATED)",
+          "description": "U.S. stock futures showed mixed performance on Thursday with the S&P 500 and Nasdaq gaining slightly while Dow futures declined. Markets await weekly jobless claims data and January producer price index. Key movers included Nvidia rising on strong earnings, Salesforce falling despite upbeat results due to weak guidance, and Trade Desk tumbling 16.69% on disappointing Q1 guidance. BlackRock remains overweight on U.S. equities citing favorable macro conditions and strong corporate earnings.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50878659/stock-market-today-dow-futures-slide-sp-500-nasdaq-gain-ahead-of-weekly-jobless-claims-nvidia-sa?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "NVDA",
+            "CRM",
+            "TTD",
+            "DELL",
+            "DRVN",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "jobless claims",
+            "earnings",
+            "guidance",
+            "Federal Reserve",
+            "interest rates",
+            "technology stocks",
+            "AI",
+            "corporate earnings"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-02-26T13:39:50Z",
+          "title": "Stock Market Today: Dow, S&P 500 Futures Gain As Jobless Claims Edge Up To 212K; Nasdaq Drops \u2014 Nvidia, Salesforce, Trade Desk In Focus (UPDATED)",
+          "description": "U.S. stock futures showed mixed performance on Thursday with the S&P 500 and Nasdaq gaining slightly while Dow futures declined. Markets await weekly jobless claims data and January producer price index. Key movers included Nvidia rising on strong earnings, Salesforce falling despite upbeat results due to weak guidance, and Trade Desk tumbling 16.69% on disappointing Q1 guidance. BlackRock remains overweight on U.S. equities citing favorable macro conditions and strong corporate earnings.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50878659/stock-market-today-dow-futures-slide-sp-500-nasdaq-gain-ahead-of-weekly-jobless-claims-nvidia-sa?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "NVDA",
+            "CRM",
+            "TTD",
+            "DELL",
+            "DRVN",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "jobless claims",
+            "earnings",
+            "guidance",
+            "Federal Reserve",
+            "interest rates",
+            "technology stocks",
+            "AI",
+            "corporate earnings"
+          ]
+        }
+      ]
+    }
+  }
+}

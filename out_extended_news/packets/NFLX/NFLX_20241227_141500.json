@@ -1,0 +1,69 @@
+{
+  "event": {
+    "event_id": "NFLX_20241227_141500",
+    "ticker": "NFLX",
+    "t0_utc": "2024-12-27 14:15:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2024-12-27T11:15:00+00:00",
+      "end": "2024-12-27T15:15:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-12-27T12:35:24Z",
+          "title": "US Stocks To Open Lower As Index Future Decline: Analysts Remain Upbeat About Santa Rally",
+          "description": "U.S. stock futures declined in premarket trading on Friday, with the S&P 500 and Nasdaq Composite dipping slightly. Analysts remain upbeat about the Santa Claus Rally, noting that the final six days of the rally have been higher five out of seven times.",
+          "article_url": "https://www.benzinga.com/markets/futures/24/12/42699993/us-stocks-to-open-lower-as-index-future-decline-analysts-remain-upbeat-about-santa-rally",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AAPL",
+            "EVAX",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "US stocks",
+            "index futures",
+            "Santa Claus Rally",
+            "S&P 500",
+            "Nasdaq Composite"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2024-12-27T12:35:24Z",
+          "title": "US Stocks To Open Lower As Index Future Decline: Analysts Remain Upbeat About Santa Rally",
+          "description": "U.S. stock futures declined in premarket trading on Friday, with the S&P 500 and Nasdaq Composite dipping slightly. Analysts remain upbeat about the Santa Claus Rally, noting that the final six days of the rally have been higher five out of seven times.",
+          "article_url": "https://www.benzinga.com/markets/futures/24/12/42699993/us-stocks-to-open-lower-as-index-future-decline-analysts-remain-upbeat-about-santa-rally",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AAPL",
+            "EVAX",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "US stocks",
+            "index futures",
+            "Santa Claus Rally",
+            "S&P 500",
+            "Nasdaq Composite"
+          ]
+        }
+      ]
+    }
+  }
+}

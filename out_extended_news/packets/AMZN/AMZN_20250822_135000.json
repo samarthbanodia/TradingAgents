@@ -1,0 +1,50 @@
+{
+  "event": {
+    "event_id": "AMZN_20250822_135000",
+    "ticker": "AMZN",
+    "t0_utc": "2025-08-22 13:50:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-08-22T10:50:00+00:00",
+      "end": "2025-08-22T14:50:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-08-22T13:15:00Z",
+        "title": "The Trade Desk Just Had Its Worst Day Ever. What Comes Next?",
+        "description": "The Trade Desk experienced a significant stock drop of 39% after reporting slower growth and management changes, raising concerns about its competitive position in digital advertising. Despite short-term challenges, the company remains a leader in demand-side platforms with potential in AI and emerging advertising markets.",
+        "article_url": "https://www.fool.com/investing/2025/08/22/trade-desk-just-had-its-worst-day-what-comes-next/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Lawrence Nga",
+        "tickers": [
+          "TTD",
+          "AMZN",
+          "GOOG",
+          "GOOGL",
+          "META",
+          "NFLX",
+          "ROKU"
+        ],
+        "keywords": [
+          "digital advertising",
+          "AI",
+          "programmatic advertising",
+          "connected TV",
+          "stock performance"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

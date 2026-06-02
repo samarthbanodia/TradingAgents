@@ -1,0 +1,236 @@
+{
+  "event": {
+    "event_id": "META_20260226_143500",
+    "ticker": "META",
+    "t0_utc": "2026-02-26 14:35:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2026-02-26T11:35:00+00:00",
+      "end": "2026-02-26T15:35:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-02-26T12:02:05Z",
+        "title": "Hidden AI Costs? Big Tech Hyperscalers Hold $662 Billion In Off-Balance-Sheet Data Center Leases: Report",
+        "description": "Major tech hyperscalers have accumulated $662 billion in off-balance-sheet data center lease obligations that don't appear on their balance sheets under GAAP accounting. As AI infrastructure leases commence in coming years, over half a trillion dollars in assets will appear on corporate balance sheets, pressuring accounting metrics. Critics including Michael Burry allege companies are using aggressive accounting to mask true AI infrastructure costs and overstate hardware useful life.",
+        "article_url": "https://www.benzinga.com/markets/tech/26/02/50881924/hidden-ai-costs-big-tech-hyperscalers-hold-662-billion-in-off-balance-sheet-data-center-leases-repor?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "AMZN",
+          "MSFT",
+          "GOOG",
+          "GOOGL",
+          "META",
+          "ORCL",
+          "ORCLpD",
+          "BX"
+        ],
+        "keywords": [
+          "AI infrastructure",
+          "data center leases",
+          "off-balance-sheet liabilities",
+          "accounting concerns",
+          "hyperscalers",
+          "depreciation",
+          "GAAP accounting"
+        ]
+      },
+      {
+        "published_utc": "2026-02-26T12:07:00Z",
+        "title": "Prediction: The \"Trough of Disillusionment\" Will Create the Best Buying Opportunity for Artificial Intelligence (AI) Stocks in 2026",
+        "description": "The article predicts that AI stocks are currently in the 'Trough of Disillusionment' phase of Gartner's hype cycle, presenting a buying opportunity for long-term investors. The author identifies Meta, Amazon, Microsoft, ServiceNow, Salesforce, and AMD as well-positioned companies to benefit from AI adoption, as they have demonstrated concrete applications of AI technology to drive growth and profitability.",
+        "article_url": "https://www.fool.com/investing/2026/02/26/predict-trough-of-disillusionment-ai-stock/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Geoffrey Seiler",
+        "tickers": [
+          "META",
+          "AMZN",
+          "MSFT",
+          "NOW",
+          "CRM",
+          "AMD",
+          "IT"
+        ],
+        "keywords": [
+          "artificial intelligence",
+          "hype cycle",
+          "trough of disillusionment",
+          "AI stocks",
+          "buying opportunity",
+          "technology investment",
+          "GPU",
+          "CPU",
+          "agentic AI"
+        ]
+      },
+      {
+        "published_utc": "2026-02-26T12:11:38Z",
+        "title": "Magnificent Risk: Why Nvidia And Microsoft Are At The Center Of El-Erian's 'Rational Bubble'",
+        "description": "Economist Mohamed El-Erian warns of a 'rational bubble' in AI where overinvestment is rampant, with many companies merely attaching 'AI labels' to attract capital. While the potential payoff justifies some overinvestment, the market is dangerously concentrated in a few hyperscalers like Nvidia. Combined with surging corporate debt and 'circular financing' among tech giants, a slowdown in AI adoption could trigger a significant sell-off and contaminate the broader economy, particularly impacting lower-income households already burdened by high debt.",
+        "article_url": "https://www.benzinga.com/markets/equities/26/02/50882786/magnificent-risk-why-nvidia-and-microsoft-are-at-the-center-of-el-erians-rational-bubble?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Rishabh Mishra",
+        "tickers": [
+          "NVDA",
+          "MSFT",
+          "META",
+          "ORCL",
+          "ORCLpD"
+        ],
+        "keywords": [
+          "AI bubble",
+          "rational bubble",
+          "overvaluation",
+          "corporate debt",
+          "GPU concentration",
+          "hyperscalers",
+          "market risk",
+          "tech sector",
+          "circular financing"
+        ]
+      },
+      {
+        "published_utc": "2026-02-26T13:05:00Z",
+        "title": "Artificial Intelligence (AI) Agents Are Crashing the Internet, and This Stock Is Profiting From Every Request in 2026",
+        "description": "AI agents are expected to see massive adoption growth, with IDC forecasting a 10x increase by 2027 and a 1,000x surge in inference demands. Nvidia is positioned to capitalize on this trend through its GPU chips, CUDA platform, and agentic AI toolkit. The company's upcoming Vera Rubin accelerators promise 90% cost reductions in inference compared to Blackwell processors, potentially driving strong demand and earnings growth in 2026.",
+        "article_url": "https://www.fool.com/investing/2026/02/26/artificial-intelligence-ai-agents-are-crashing-the/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Harsh Chauhan",
+        "tickers": [
+          "NVDA",
+          "META",
+          "CRM",
+          "PLTR"
+        ],
+        "keywords": [
+          "AI agents",
+          "agentic AI",
+          "GPU chips",
+          "inference demand",
+          "Vera Rubin accelerators",
+          "enterprise productivity",
+          "AI adoption"
+        ]
+      },
+      {
+        "published_utc": "2026-02-26T14:08:00Z",
+        "title": "Cracking the Chip Monopoly: Meta Invests in AMD Chips",
+        "description": "Meta Platforms announced a multi-year agreement to deploy up to 6 gigawatts of AMD Instinct GPUs, with initial shipments beginning in H2 2026. The deal includes performance-based warrants allowing Meta to purchase up to 160 million AMD shares (potential 10% stake). This signals a major shift in the semiconductor market as hyperscalers diversify away from single-supplier dependency, creating significant growth opportunities for AMD despite NVIDIA's dominant market position.",
+        "article_url": "https://www.investing.com/analysis/cracking-the-chip-monopoly-meta-invests-in-amd-chips-200675725",
+        "publisher": "Investing.com",
+        "author": "Jeffrey Neal Johnson",
+        "tickers": [
+          "META",
+          "AMD",
+          "NVDA"
+        ],
+        "keywords": [
+          "AI infrastructure",
+          "semiconductor supply chain diversification",
+          "data center GPUs",
+          "capital expenditure",
+          "hardware deployment",
+          "equity warrants",
+          "hyperscaler competition"
+        ]
+      },
+      {
+        "published_utc": "2026-02-26T14:29:00Z",
+        "title": "PayPal Stock Halted on Stripe Rumor: Why the Narrative Just Changed",
+        "description": "PayPal stock surged 6.72% after a Bloomberg report indicated Stripe is in preliminary talks to acquire the company. The trading halt triggered by massive buy orders signals a fundamental shift in market sentiment, transforming PayPal from a turnaround story into a high-stakes arbitrage play. At a $43 billion market cap versus Stripe's $159 billion valuation, the potential merger would create an end-to-end payments behemoth combining Stripe's merchant infrastructure with PayPal's 400+ million consumer accounts.",
+        "article_url": "https://www.investing.com/analysis/paypal-stock-halted-on-stripe-rumor-why-the-narrative-just-changed-200675728",
+        "publisher": "Investing.com",
+        "author": "Jeffrey Neal Johnson",
+        "tickers": [
+          "PYPL",
+          "AAPL",
+          "GOOG",
+          "GOOGL",
+          "META"
+        ],
+        "keywords": [
+          "PayPal acquisition",
+          "Stripe merger",
+          "fintech deal",
+          "M&A arbitrage",
+          "circuit breaker halt",
+          "strategic value",
+          "payments industry"
+        ]
+      }
+    ],
+    "ticker_news_count": 6,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-02-26T13:39:50Z",
+          "title": "Stock Market Today: Dow, S&P 500 Futures Gain As Jobless Claims Edge Up To 212K; Nasdaq Drops \u2014 Nvidia, Salesforce, Trade Desk In Focus (UPDATED)",
+          "description": "U.S. stock futures showed mixed performance on Thursday with the S&P 500 and Nasdaq gaining slightly while Dow futures declined. Markets await weekly jobless claims data and January producer price index. Key movers included Nvidia rising on strong earnings, Salesforce falling despite upbeat results due to weak guidance, and Trade Desk tumbling 16.69% on disappointing Q1 guidance. BlackRock remains overweight on U.S. equities citing favorable macro conditions and strong corporate earnings.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50878659/stock-market-today-dow-futures-slide-sp-500-nasdaq-gain-ahead-of-weekly-jobless-claims-nvidia-sa?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "NVDA",
+            "CRM",
+            "TTD",
+            "DELL",
+            "DRVN",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "jobless claims",
+            "earnings",
+            "guidance",
+            "Federal Reserve",
+            "interest rates",
+            "technology stocks",
+            "AI",
+            "corporate earnings"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-02-26T13:39:50Z",
+          "title": "Stock Market Today: Dow, S&P 500 Futures Gain As Jobless Claims Edge Up To 212K; Nasdaq Drops \u2014 Nvidia, Salesforce, Trade Desk In Focus (UPDATED)",
+          "description": "U.S. stock futures showed mixed performance on Thursday with the S&P 500 and Nasdaq gaining slightly while Dow futures declined. Markets await weekly jobless claims data and January producer price index. Key movers included Nvidia rising on strong earnings, Salesforce falling despite upbeat results due to weak guidance, and Trade Desk tumbling 16.69% on disappointing Q1 guidance. BlackRock remains overweight on U.S. equities citing favorable macro conditions and strong corporate earnings.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50878659/stock-market-today-dow-futures-slide-sp-500-nasdaq-gain-ahead-of-weekly-jobless-claims-nvidia-sa?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "NVDA",
+            "CRM",
+            "TTD",
+            "DELL",
+            "DRVN",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "jobless claims",
+            "earnings",
+            "guidance",
+            "Federal Reserve",
+            "interest rates",
+            "technology stocks",
+            "AI",
+            "corporate earnings"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "event": {
+    "event_id": "AMZN_20240723_132500",
+    "ticker": "AMZN",
+    "t0_utc": "2024-07-23 13:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-07-23T10:25:00+00:00",
+      "end": "2024-07-23T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-07-23T11:15:14Z",
+        "title": "Broadcom To Challenge Nvidia Dominance? Analyst Says Jensen Huang-Led Chip Giant's Competitor Is 'Catching Up' - Benzinga",
+        "description": "Broadcom is making significant strides in the AI chip market, posing a challenge to Nvidia's dominance. Broadcom's specialized AI business is gaining traction, with cloud giants like Alphabet and Amazon using its customized AI chips. While Broadcom's stock still lags behind Nvidia's, the shift in investor sentiment towards Broadcom is notable.",
+        "article_url": "https://www.benzinga.com/news/24/07/39902838/broadcom-to-challenge-nvidia-dominance-analyst-says-jensen-huang-led-chip-giants-competitor-is-catch",
+        "publisher": "Benzinga",
+        "author": "Benzinga Neuro, Benzinga Staff Writer",
+        "tickers": [
+          "AVGO",
+          "NVDA",
+          "GOOG",
+          "GOOGL",
+          "AMZN"
+        ],
+        "keywords": [
+          "Broadcom",
+          "Nvidia",
+          "AI",
+          "semiconductor",
+          "cloud computing"
+        ]
+      },
+      {
+        "published_utc": "2024-07-23T11:17:00Z",
+        "title": "Nvidia vs. Amazon: Which \"Magnificent Seven\" Stock Could Be the Better Buy Over the Next 5 Years? - The Motley Fool",
+        "description": "Nvidia and Amazon are both members of the \"Magnificent Seven\" tech giants, and the article compares their potential as long-term investments. Nvidia is a leader in AI-powered chips, but faces competition and industry cyclicality. Amazon has made significant investments in AI and is diversifying its business, suggesting it may have more upside potential in the long run.",
+        "article_url": "https://www.fool.com/investing/2024/07/23/nvidia-vs-amazon-which-magnificent-seven-stock-cou/",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "NVDA",
+          "AMZN"
+        ],
+        "keywords": [
+          "Nvidia",
+          "Amazon",
+          "AI",
+          "Semiconductor",
+          "Diversification"
+        ]
+      },
+      {
+        "published_utc": "2024-07-23T12:10:50Z",
+        "title": "Long-only funds reduced active exposure to US, European equities in June - BofA - Investing.com",
+        "description": "According to Bank of America, long-only funds decreased their active exposure to US and European equities in June, while increasing exposure to Asia Pacific and Japan. The funds also reduced their holdings in the Technology and Energy sectors.",
+        "article_url": "https://www.investing.com/news/stock-market-news/longonly-funds-reduced-active-exposure-to-us-european-equities-in-june--bofa-432SI-3530878",
+        "publisher": "Investing.com",
+        "author": "Sam Bougheddaa",
+        "tickers": [
+          "NVDA",
+          "AAPL",
+          "MSFT",
+          "MELI",
+          "HDB",
+          "AMZN",
+          "SONY"
+        ],
+        "keywords": [
+          "long-only funds",
+          "equity exposure",
+          "US",
+          "Europe",
+          "Asia Pacific",
+          "Japan",
+          "Technology",
+          "Energy"
+        ]
+      },
+      {
+        "published_utc": "2024-07-23T13:47:28Z",
+        "title": "Sui Builders Now to Run on AWS Blockchain Node Runners By Chainwire - Investing.com",
+        "description": "Sui Foundation announced the integration of Amazon Web Service's (AWS) Blockchain Node Runners on Sui, allowing developers to easily set up and deploy Sui full nodes within the AWS environment. This integration aims to simplify the process of running blockchain nodes and provide builders on Sui with enhanced infrastructure support.",
+        "article_url": "https://www.investing.com/news/cryptocurrency-news/sui-builders-now-to-run-on-aws-blockchain-node-runners-3531141",
+        "publisher": "Investing.com",
+        "author": "Chainwireinvesting.Com",
+        "tickers": [
+          "AMZN"
+        ],
+        "keywords": [
+          "Sui",
+          "AWS",
+          "blockchain",
+          "node runners",
+          "infrastructure"
+        ]
+      },
+      {
+        "published_utc": "2024-07-23T14:08:26Z",
+        "title": "2 Stocks to Buy Immediately, 1 Stock to Sell - The Motley Fool",
+        "description": "The article discusses a financial services company, The Motley Fool, and its dedication to making the world smarter, happier, and richer. It also mentions the author's investment strategy and a recommendation for a specific AI stock.",
+        "article_url": "https://www.fool.com/investing/2024/07/23/2-stocks-to-buy-immediately-1-stock-to-sell/",
+        "publisher": "The Motley Fool",
+        "author": "Mark Roussin, Cpa",
+        "tickers": [
+          "AMZN",
+          "IRM",
+          "SBUX"
+        ],
+        "keywords": [
+          "The Motley Fool",
+          "investing",
+          "AI",
+          "Warren Buffett",
+          "Cathie Wood"
+        ]
+      }
+    ],
+    "ticker_news_count": 5,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

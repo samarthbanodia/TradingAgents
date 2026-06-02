@@ -1,0 +1,94 @@
+{
+  "event": {
+    "event_id": "PLTR_20250819_133000",
+    "ticker": "PLTR",
+    "t0_utc": "2025-08-19 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-08-19T10:30:00+00:00",
+      "end": "2025-08-19T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-08-19T13:40:10Z",
+          "title": "Fed Rate Cuts Won't Trigger Stock Market Boom Investors Are Hoping For, Warns Goldman Sachs",
+          "description": "Goldman Sachs strategist Tony Pasquariello warns that potential Federal Reserve rate cuts in September are unlikely to trigger a massive shift of money market funds into stocks, contrary to some market expectations.",
+          "article_url": "https://www.benzinga.com/markets/macro-economic-events/25/08/47208372/fed-rate-cuts-wont-trigger-stock-market-boom-investors-are-hoping-for-warns-goldman",
+          "publisher": "Benzinga",
+          "author": "Namrata Sen",
+          "tickers": [
+            "QQQ",
+            "PMMF",
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "rate cuts",
+            "money market funds",
+            "stock market",
+            "investment strategy"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-08-19T13:40:10Z",
+          "title": "Fed Rate Cuts Won't Trigger Stock Market Boom Investors Are Hoping For, Warns Goldman Sachs",
+          "description": "Goldman Sachs strategist Tony Pasquariello warns that potential Federal Reserve rate cuts in September are unlikely to trigger a massive shift of money market funds into stocks, contrary to some market expectations.",
+          "article_url": "https://www.benzinga.com/markets/macro-economic-events/25/08/47208372/fed-rate-cuts-wont-trigger-stock-market-boom-investors-are-hoping-for-warns-goldman",
+          "publisher": "Benzinga",
+          "author": "Namrata Sen",
+          "tickers": [
+            "QQQ",
+            "PMMF",
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "rate cuts",
+            "money market funds",
+            "stock market",
+            "investment strategy"
+          ]
+        },
+        {
+          "published_utc": "2025-08-19T14:15:00Z",
+          "title": "A New Era of Investing: Can These ETFs Outperform the Market?",
+          "description": "Two ETFs, Vanguard Growth and Invesco QQQ, show strong market-beating potential by investing in leading tech companies with significant cloud computing, AI infrastructure, and digital ecosystem dominance.",
+          "article_url": "https://www.fool.com/investing/2025/08/19/a-new-era-of-investing-can-these-etfs-outperform/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Stefon Walters",
+          "tickers": [
+            "VUG",
+            "QQQ",
+            "AMZN",
+            "MSFT",
+            "GOOG",
+            "GOOGL",
+            "NVDA",
+            "AAPL",
+            "META",
+            "AVGO"
+          ],
+          "keywords": [
+            "ETF",
+            "investing",
+            "technology",
+            "growth",
+            "market performance"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "event": {
+    "event_id": "AMD_20241211_142500",
+    "ticker": "AMD",
+    "t0_utc": "2024-12-11 14:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-12-11T11:25:00+00:00",
+      "end": "2024-12-11T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-12-11T12:00:00Z",
+        "title": "Computer Hardware Manufacturing Market Set to Reach US$ 765.64 Billion with a Robust 10% CAGR by 2034 | Fact.MR Report",
+        "description": "The global computer hardware manufacturing market is projected to reach US$ 765.64 billion by 2034, driven by advancements in processor power, memory, storage, and the growing demand for advanced hardware to manage complex applications of emerging technologies like 5G, AI, and machine learning.",
+        "article_url": "https://www.globenewswire.com/news-release/2024/12/11/2995238/0/en/Computer-Hardware-Manufacturing-Market-Set-to-Reach-US-765-64-Billion-with-a-Robust-10-CAGR-by-2034-Fact-MR-Report.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Fact.Mr",
+        "tickers": [
+          "AAPL",
+          "DELL",
+          "HPQ",
+          "MSFT",
+          "INTC",
+          "AMD",
+          "NVDA"
+        ],
+        "keywords": [
+          "computer hardware manufacturing",
+          "5G",
+          "machine learning",
+          "artificial intelligence",
+          "semiconductors",
+          "gaming"
+        ]
+      },
+      {
+        "published_utc": "2024-12-11T15:05:00Z",
+        "title": "Super Micro Computer Has Soared Over 65% in the Last Month. Is It Too Late to Buy?",
+        "description": "Supermicro, a leading server and storage systems manufacturer, faced financial reporting issues and a Nasdaq delisting risk in recent months. However, an independent investigation found no evidence of misconduct, and the company is now focused on filing pending financial reports. With strong demand for AI infrastructure, Supermicro could be poised for a recovery, though risks remain.",
+        "article_url": "https://www.fool.com/investing/2024/12/11/super-micro-computer-has-soared-over-65-in-the-las/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Manali Pradhan",
+        "tickers": [
+          "SMCI",
+          "NVDA",
+          "AMD",
+          "INTC",
+          "DELL",
+          "HPE",
+          "HPEpC"
+        ],
+        "keywords": [
+          "Supermicro",
+          "server",
+          "storage",
+          "AI",
+          "financial reporting",
+          "Nasdaq delisting"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

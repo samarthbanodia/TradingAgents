@@ -1,0 +1,104 @@
+{
+  "event": {
+    "event_id": "NVDA_20250312_132500",
+    "ticker": "NVDA",
+    "t0_utc": "2025-03-12 13:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-03-12T10:25:00+00:00",
+      "end": "2025-03-12T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-03-12T10:30:00Z",
+        "title": "Nasdaq Correction: 5 Reasons Nvidia Stock Is Still a Top Artificial Intelligence (AI) Stock to Buy Right Now",
+        "description": "Despite the recent sell-off in AI stocks, including Nvidia, the article argues that Nvidia is still a top AI stock to buy due to the continued growth in AI adoption, Nvidia's technological advancements, and its attractive valuation.",
+        "article_url": "https://www.fool.com/investing/2025/03/12/nasdaq-correction-5-reasons-nvidia-stock-is-still/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "The Motley Fool",
+        "tickers": [
+          "NVDA"
+        ],
+        "keywords": [
+          "Nvidia",
+          "AI",
+          "Artificial Intelligence",
+          "Nasdaq Correction"
+        ]
+      },
+      {
+        "published_utc": "2025-03-12T13:26:59Z",
+        "title": "Wall Street Rockets As February Inflation Cools More Than Expected",
+        "description": "Major U.S. indices surged as cooling inflation strengthened the case for Fed rate cuts. Tech stocks like Tesla, Palantir, and NVIDIA led the premarket gains.",
+        "article_url": "https://www.benzinga.com/economics/macro-economic-events/25/03/44275575/wall-street-rockets-as-february-inflation-cools-more-than-expected",
+        "publisher": "Benzinga",
+        "author": "Piero Cingari",
+        "tickers": [
+          "AMZN",
+          "TSLA",
+          "PLTR",
+          "NVDA",
+          "IWM"
+        ],
+        "keywords": [
+          "inflation",
+          "Federal Reserve",
+          "rate cuts",
+          "tech stocks"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-03-12T12:40:28Z",
+          "title": "Inflation Cools More Than Expected In February, Strengthens The Case For Fed Rate Cuts",
+          "description": "Inflation eased in February, coming in lower than expected and reinforcing the Federal Reserve's path toward interest rate cuts. The headline Consumer Price Index fell to 2.8% year-over-year, and core inflation slowed to 3.1%, strengthening the case for Fed rate cuts in 2025.",
+          "article_url": "https://www.benzinga.com/economics/macro-economic-events/25/03/44274165/inflation-cools-more-than-expected-in-february-strengthens-the-case-for-fed-rate-",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "SPY"
+          ],
+          "keywords": [
+            "inflation",
+            "federal reserve",
+            "interest rates",
+            "consumer price index"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-03-12T13:22:00Z",
+          "title": "Nasdaq Sell-Off: Don't Panic; Use This Strategy Instead",
+          "description": "The article discusses the recent Nasdaq correction and suggests using a dollar-cost averaging strategy to invest in the Invesco Nasdaq 100 ETF (QQQ) as a way to take advantage of the market downturn.",
+          "article_url": "https://www.fool.com/investing/2025/03/12/nasdaq-sell-off-dont-panic-use-this-strategy-inste/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "The Motley Fool",
+          "tickers": [
+            "QQQ",
+            "GOOG",
+            "GOOGL",
+            "AMZN",
+            "META",
+            "TSLA"
+          ],
+          "keywords": [
+            "Nasdaq correction",
+            "dollar-cost averaging",
+            "Invesco Nasdaq 100 ETF"
+          ]
+        }
+      ]
+    }
+  }
+}

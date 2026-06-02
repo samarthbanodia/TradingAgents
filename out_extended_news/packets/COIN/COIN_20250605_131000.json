@@ -1,0 +1,65 @@
+{
+  "event": {
+    "event_id": "COIN_20250605_131000",
+    "ticker": "COIN",
+    "t0_utc": "2025-06-05 13:10:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-06-05T10:10:00+00:00",
+      "end": "2025-06-05T14:10:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-06-05T10:28:19Z",
+          "title": "Debt Ceiling: How The Fed Fuels Washington's Spending Spree, 'Ending It Is Probably A Good Thing,' Says Expert",
+          "description": "The article discusses how the Federal Reserve's interventions in the bond market have enabled unchecked government spending by ensuring stable market function for U.S. Treasuries, removing market discipline. The expert suggests that ending the debt ceiling could be a good thing, but it won't stop the spending in Washington unless the Fed's role as an enabler is addressed.",
+          "article_url": "https://www.benzinga.com/markets/equities/25/06/45788260/debt-ceiling-how-the-fed-fuels-washingtons-spending-spree-ending-it-is-probably-a-good-thing-say",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "debt ceiling",
+            "federal reserve",
+            "government spending",
+            "bond market",
+            "fiscal policy"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-06-05T10:28:19Z",
+          "title": "Debt Ceiling: How The Fed Fuels Washington's Spending Spree, 'Ending It Is Probably A Good Thing,' Says Expert",
+          "description": "The article discusses how the Federal Reserve's interventions in the bond market have enabled unchecked government spending by ensuring stable market function for U.S. Treasuries, removing market discipline. The expert suggests that ending the debt ceiling could be a good thing, but it won't stop the spending in Washington unless the Fed's role as an enabler is addressed.",
+          "article_url": "https://www.benzinga.com/markets/equities/25/06/45788260/debt-ceiling-how-the-fed-fuels-washingtons-spending-spree-ending-it-is-probably-a-good-thing-say",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "debt ceiling",
+            "federal reserve",
+            "government spending",
+            "bond market",
+            "fiscal policy"
+          ]
+        }
+      ]
+    }
+  }
+}

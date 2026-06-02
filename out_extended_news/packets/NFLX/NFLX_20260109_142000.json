@@ -1,0 +1,126 @@
+{
+  "event": {
+    "event_id": "NFLX_20260109_142000",
+    "ticker": "NFLX",
+    "t0_utc": "2026-01-09 14:20:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-01-09T11:20:00+00:00",
+      "end": "2026-01-09T15:20:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-01-09T12:06:00Z",
+        "title": "Why the Warner Bros. Deal Will Likely Make or Break Netflix's Stock Performance in 2026",
+        "description": "Netflix's planned $82.7 billion acquisition of Warner Bros. faces significant challenges including antitrust concerns, competition from Paramount's hostile bid, and the need to take on substantial debt. While the deal could expand Netflix's library and brands, investors are skeptical as the company would need to integrate struggling Warner Bros. assets. Netflix's stock has declined 30% in six months, and the deal's success in 2026 will likely determine the company's stock performance.",
+        "article_url": "https://www.fool.com/investing/2026/01/09/why-the-warner-bros-deal-will-likely-make-or-break/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "David Jagielski, Cpa",
+        "tickers": [
+          "NFLX",
+          "WBD"
+        ],
+        "keywords": [
+          "Netflix acquisition",
+          "Warner Bros. deal",
+          "antitrust concerns",
+          "streaming industry",
+          "debt financing",
+          "stock performance",
+          "Paramount hostile bid",
+          "integration challenges"
+        ]
+      },
+      {
+        "published_utc": "2026-01-09T12:17:00Z",
+        "title": "Why Is Paramount Stock Up Today?",
+        "description": "Paramount Skydance (PSKY) shares jumped 2.69% in premarket trading on January 9, 2026, after reaffirming its $30 per share all-cash offer to acquire Warner Bros Discovery (WBD). Paramount argues its bid provides greater value than WBD's existing Netflix agreement, citing Netflix's declining stock price and questionable value of the Discovery Global spinoff. Despite WBD's board unanimously rejecting the offer, major shareholders remain divided on which deal offers better value.",
+        "article_url": "https://www.investing.com/analysis/why-is-paramount-stock-up-today-200672988",
+        "publisher": "Investing.com",
+        "author": "Timothy Fries",
+        "tickers": [
+          "PSKY",
+          "WBD",
+          "NFLX"
+        ],
+        "keywords": [
+          "hostile takeover",
+          "acquisition bid",
+          "shareholder dispute",
+          "media consolidation",
+          "antitrust concerns"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-01-09T13:54:36Z",
+          "title": "Stock Market Today: Dow, Nasdaq 100 And S&P 500 Futures Gain After December Jobs Data\u2014 General Motors, Tilray In Focus (UPDATED)",
+          "description": "U.S. stock futures advanced on Friday as investors awaited the December jobs report and the Supreme Court's ruling on Trump's tariffs. Major indices showed modest gains with SPY and QQQ trading higher in premarket. Key movers included General Motors facing EV investment losses, Tilray surging on earnings beats, Offerpad jumping on Trump's housing proposal, and Rio Tinto declining amid merger talks with Glencore.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/49807204/stock-market-today-nasdaq-100-sp-500-futures-gain-as-investors-await-december-jobs-report-genera?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "GM",
+            "RIO",
+            "TLRY",
+            "OPAD",
+            "KALV",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "jobs report",
+            "tariffs",
+            "earnings",
+            "Federal Reserve",
+            "interest rates",
+            "Iran tensions",
+            "crude oil"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-01-09T13:54:36Z",
+          "title": "Stock Market Today: Dow, Nasdaq 100 And S&P 500 Futures Gain After December Jobs Data\u2014 General Motors, Tilray In Focus (UPDATED)",
+          "description": "U.S. stock futures advanced on Friday as investors awaited the December jobs report and the Supreme Court's ruling on Trump's tariffs. Major indices showed modest gains with SPY and QQQ trading higher in premarket. Key movers included General Motors facing EV investment losses, Tilray surging on earnings beats, Offerpad jumping on Trump's housing proposal, and Rio Tinto declining amid merger talks with Glencore.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/49807204/stock-market-today-nasdaq-100-sp-500-futures-gain-as-investors-await-december-jobs-report-genera?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "GM",
+            "RIO",
+            "TLRY",
+            "OPAD",
+            "KALV",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "jobs report",
+            "tariffs",
+            "earnings",
+            "Federal Reserve",
+            "interest rates",
+            "Iran tensions",
+            "crude oil"
+          ]
+        }
+      ]
+    }
+  }
+}

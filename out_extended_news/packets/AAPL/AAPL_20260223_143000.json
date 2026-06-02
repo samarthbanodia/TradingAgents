@@ -1,0 +1,55 @@
+{
+  "event": {
+    "event_id": "AAPL_20260223_143000",
+    "ticker": "AAPL",
+    "t0_utc": "2026-02-23 14:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-02-23T11:30:00+00:00",
+      "end": "2026-02-23T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-02-23T12:22:44Z",
+        "title": "'Trust Me': CEO Jamie Dimon Reportedly Set To Defend $2 Billion Weekly Spending Plan At JPMorgan",
+        "description": "JPMorgan Chase CEO Jamie Dimon will defend the bank's $2 billion weekly spending plan at an investor day meeting. The spending increase to $105 billion by 2026 comes despite a 7% year-over-year drop in Q4 2025 net income, though managed net revenue exceeded expectations. Dimon argues the capital deployment strategy will drive future growth and is preferable to share buybacks.",
+        "article_url": "https://www.benzinga.com/markets/large-cap/26/02/50775604/trust-me-ceo-jamie-dimon-reportedly-set-to-defend-2-billion-weekly-spending-plan-at-jpmorgan?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Namrata Sen",
+        "tickers": [
+          "AMJB",
+          "JPM",
+          "JPMpC",
+          "JPMpD",
+          "JPMpJ",
+          "JPMpK",
+          "JPMpL",
+          "JPMpM",
+          "VYLD",
+          "AAPL"
+        ],
+        "keywords": [
+          "JPMorgan Chase",
+          "capital spending",
+          "investor day",
+          "Jamie Dimon",
+          "earnings",
+          "capital deployment",
+          "return on equity"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

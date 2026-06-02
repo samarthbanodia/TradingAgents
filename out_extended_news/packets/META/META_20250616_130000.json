@@ -1,0 +1,56 @@
+{
+  "event": {
+    "event_id": "META_20250616_130000",
+    "ticker": "META",
+    "t0_utc": "2025-06-16 13:00:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-06-16T10:00:00+00:00",
+      "end": "2025-06-16T14:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-06-16T10:27:00Z",
+        "title": "This AI Fund Offers 7.3% but the Trade-Off Is Too High",
+        "description": "The article discusses the Virtus Artificial Intelligence & Technology Opportunities Fund (AIO), which offers a 7.3% yield but has a high valuation premium that makes it unattractive to buy currently. The fund has a strong portfolio and performance, but the author believes the premium is unsustainable and recommends waiting for a market correction to buy the fund at a better price.",
+        "article_url": "https://www.investing.com/analysis/this-ai-fund-offers-73-but-the-tradeoff-is-too-high-200662264",
+        "publisher": "Investing.com",
+        "author": "Contrarian Outlook",
+        "tickers": [
+          "NVDA",
+          "META",
+          "AMJB",
+          "JPM",
+          "JPMpC",
+          "JPMpD",
+          "JPMpJ",
+          "JPMpK",
+          "JPMpL",
+          "JPMpM",
+          "VYLD",
+          "PGR"
+        ],
+        "keywords": [
+          "Virtus Artificial Intelligence & Technology Opportunities Fund",
+          "AI",
+          "technology",
+          "fund",
+          "valuation",
+          "premium"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

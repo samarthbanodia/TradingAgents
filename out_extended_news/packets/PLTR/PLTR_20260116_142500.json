@@ -1,0 +1,135 @@
+{
+  "event": {
+    "event_id": "PLTR_20260116_142500",
+    "ticker": "PLTR",
+    "t0_utc": "2026-01-16 14:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2026-01-16T11:25:00+00:00",
+      "end": "2026-01-16T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-01-16T12:22:00Z",
+        "title": "This Artificial Intelligence (AI) Stock Has Jumped 328% in 1 Year. It Can Soar Higher After Feb. 3. (Hint: It's Not Palantir.)",
+        "description": "Lumentum Holdings has surged 328% over the past year, outperforming Palantir Technologies. The networking components supplier is benefiting from strong demand for optical and photonic components used in AI data centers. With an upcoming earnings report on Feb. 3 and a more attractive valuation (forward P/E of 58) compared to Palantir (117x sales), analysts expect Lumentum to continue its momentum driven by robust cloud and AI infrastructure investments.",
+        "article_url": "https://www.fool.com/investing/2026/01/16/this-artificial-intelligence-ai-stock-has-jumped-3/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Harsh Chauhan",
+        "tickers": [
+          "LITE",
+          "PLTR"
+        ],
+        "keywords": [
+          "artificial intelligence",
+          "AI data centers",
+          "networking components",
+          "optical and photonic components",
+          "earnings report",
+          "valuation",
+          "hyperscalers",
+          "cloud infrastructure",
+          "manufacturing capacity"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-01-16T13:45:29Z",
+          "title": "Stock Market Today: Dow Futures Slip, S&P 500 Gains Following Stellar Chipmaker Rally\u2014 Chevron, Paysafe, J.B. Hunt Transport In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Friday following Thursday's positive close, with chip stocks leading gains after Taiwan Semiconductor Manufacturing Co. posted record quarterly results. Financial stocks also rallied with Goldman Sachs and Morgan Stanley posting strong earnings. Key movers included Chevron expanding gas production, Paysafe forming a strategic partnership, J.B. Hunt reporting mixed results, ImmunityBio surging on strong product revenue, and QXO declining after announcing a stock offering.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/49959070/stock-market-today-dow-jones-sp-500-futures-gain-following-stellar-chipmaker-rally-chevron-paysa?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "TSM",
+            "GS",
+            "GSpA",
+            "GSpC",
+            "GSpD",
+            "MS",
+            "MSpA",
+            "MSpE",
+            "MSpF",
+            "MSpI",
+            "MSpK",
+            "MSpL",
+            "MSpO",
+            "MSpP",
+            "MSpQ",
+            "CVX",
+            "PSFE",
+            "JBHT",
+            "QXO",
+            "QXOpB",
+            "IBRX",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "chipmakers",
+            "earnings",
+            "semiconductor",
+            "financial stocks",
+            "premarket trading"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-01-16T13:45:29Z",
+          "title": "Stock Market Today: Dow Futures Slip, S&P 500 Gains Following Stellar Chipmaker Rally\u2014 Chevron, Paysafe, J.B. Hunt Transport In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Friday following Thursday's positive close, with chip stocks leading gains after Taiwan Semiconductor Manufacturing Co. posted record quarterly results. Financial stocks also rallied with Goldman Sachs and Morgan Stanley posting strong earnings. Key movers included Chevron expanding gas production, Paysafe forming a strategic partnership, J.B. Hunt reporting mixed results, ImmunityBio surging on strong product revenue, and QXO declining after announcing a stock offering.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/01/49959070/stock-market-today-dow-jones-sp-500-futures-gain-following-stellar-chipmaker-rally-chevron-paysa?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "TSM",
+            "GS",
+            "GSpA",
+            "GSpC",
+            "GSpD",
+            "MS",
+            "MSpA",
+            "MSpE",
+            "MSpF",
+            "MSpI",
+            "MSpK",
+            "MSpL",
+            "MSpO",
+            "MSpP",
+            "MSpQ",
+            "CVX",
+            "PSFE",
+            "JBHT",
+            "QXO",
+            "QXOpB",
+            "IBRX",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "chipmakers",
+            "earnings",
+            "semiconductor",
+            "financial stocks",
+            "premarket trading"
+          ]
+        }
+      ]
+    }
+  }
+}

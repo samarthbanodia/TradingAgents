@@ -1,0 +1,110 @@
+{
+  "event": {
+    "event_id": "TSLA_20251224_143000",
+    "ticker": "TSLA",
+    "t0_utc": "2025-12-24 14:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-12-24T11:30:00+00:00",
+      "end": "2025-12-24T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-12-24T13:38:00Z",
+        "title": "Rivian Stock: The EV Recovery Play to Watch",
+        "description": "Rivian's stock has surged 67% in 2025, reaching levels not seen since early 2024. The company's future hinges on the R2 SUV launching in 2026 at $45,000, which will compete against Toyota's bZ4X, Tesla's Model Y, and Honda's Prologue. Despite recent gains, Rivian faces challenges with declining R1 sales and a negative gross margin, making the R2 launch critical for long-term recovery.",
+        "article_url": "https://www.fool.com/investing/2025/12/24/rivian-stock-the-ev-recovery-play-to-watch/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Ad\u00e9 Hennis",
+        "tickers": [
+          "RIVN",
+          "TSLA",
+          "HMC"
+        ],
+        "keywords": [
+          "Rivian",
+          "electric vehicles",
+          "R2 SUV",
+          "EV market",
+          "stock recovery",
+          "2026 launch",
+          "competition"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-12-24T14:04:15Z",
+          "title": "Stock Market Today: Dow Jones, Nasdaq Futures Slip On Christmas Eve Despite Strong Q3 GDP Report\u2014 UiPath, AST SpaceMobile, Ramaco In Focus (UPDATED)",
+          "description": "U.S. stock futures declined slightly on Christmas Eve despite a strong Q3 GDP report showing 4.3% annualized growth. Major indices ended higher on Tuesday, with communication services, IT, and energy stocks leading gains. Several stocks gained attention: UiPath jumped 7% after joining the S&P Midcap 400, Citius Pharmaceuticals rose 8.65% on better-than-expected earnings, Ramaco Resources gained 8% after announcing a $100M buyback, and Multi Ways Holdings surged 62.86% on strong revenue growth.",
+          "article_url": "https://www.benzinga.com/markets/equities/25/12/49579893/stock-market-today-dow-jones-sp-500-futures-drop-on-christmas-eve-despite-strong-q3-gdp-report-u?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "PATH",
+            "CTXR",
+            "METC",
+            "METCB",
+            "METCI",
+            "METCZ",
+            "ASTS",
+            "MWG",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "GDP report",
+            "Christmas Eve",
+            "S&P 500",
+            "Nasdaq",
+            "stock buyback",
+            "earnings"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-12-24T14:04:15Z",
+          "title": "Stock Market Today: Dow Jones, Nasdaq Futures Slip On Christmas Eve Despite Strong Q3 GDP Report\u2014 UiPath, AST SpaceMobile, Ramaco In Focus (UPDATED)",
+          "description": "U.S. stock futures declined slightly on Christmas Eve despite a strong Q3 GDP report showing 4.3% annualized growth. Major indices ended higher on Tuesday, with communication services, IT, and energy stocks leading gains. Several stocks gained attention: UiPath jumped 7% after joining the S&P Midcap 400, Citius Pharmaceuticals rose 8.65% on better-than-expected earnings, Ramaco Resources gained 8% after announcing a $100M buyback, and Multi Ways Holdings surged 62.86% on strong revenue growth.",
+          "article_url": "https://www.benzinga.com/markets/equities/25/12/49579893/stock-market-today-dow-jones-sp-500-futures-drop-on-christmas-eve-despite-strong-q3-gdp-report-u?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "PATH",
+            "CTXR",
+            "METC",
+            "METCB",
+            "METCI",
+            "METCZ",
+            "ASTS",
+            "MWG",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "futures",
+            "GDP report",
+            "Christmas Eve",
+            "S&P 500",
+            "Nasdaq",
+            "stock buyback",
+            "earnings"
+          ]
+        }
+      ]
+    }
+  }
+}

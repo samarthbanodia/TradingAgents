@@ -1,0 +1,67 @@
+{
+  "event": {
+    "event_id": "AAPL_20260407_133000",
+    "ticker": "AAPL",
+    "t0_utc": "2026-04-07 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-04-07T10:30:00+00:00",
+      "end": "2026-04-07T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-04-07T12:30:00Z",
+        "title": "Should You Buy MP Materials Stock While It's Below $50?",
+        "description": "MP Materials, America's rare-earth mining champion, trades 50% below its 52-week high at $50/share. The company benefits from a $400 million U.S. government partnership and a guaranteed price floor, with plans to open a second magnet factory by 2028 that could produce half of U.S. magnet consumption. While the stock carries a premium valuation (1,430x forward earnings), analysts suggest it has long-term growth potential for patient investors over the next decade.",
+        "article_url": "https://www.fool.com/investing/2026/04/07/should-you-buy-mp-stock-while-its-below-50/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Steven Porrello",
+        "tickers": [
+          "MP",
+          "AAPL"
+        ],
+        "keywords": [
+          "rare earth elements",
+          "neodymium-iron-boron magnets",
+          "supply chain",
+          "government partnership",
+          "magnet manufacturing",
+          "China dominance",
+          "electric vehicles"
+        ]
+      },
+      {
+        "published_utc": "2026-04-07T12:32:52Z",
+        "title": "Xiao-I Gains Upper Hand Over Apple In China AI Patent Showdown",
+        "description": "Xiao-I Corporation (NASDAQ: AIXI) shares surged 32.50% to $1.06 in premarket trading on Tuesday following a significant legal victory. China's Supreme People's Court rejected Apple's appeal to invalidate Xiao-I's core AI patents in their ongoing patent infringement lawsuit. The ruling reinforces Xiao-I's intellectual property position and strengthens its credibility in the competitive AI landscape.",
+        "article_url": "https://www.benzinga.com/trading-ideas/movers/26/04/51677198/xiao-i-gains-upper-hand-over-apple-in-china-ai-patent-showdown?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Lekha Gupta",
+        "tickers": [
+          "AIXI",
+          "AAPL"
+        ],
+        "keywords": [
+          "patent infringement",
+          "AI technology",
+          "Supreme People's Court",
+          "intellectual property",
+          "legal victory",
+          "stock surge"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

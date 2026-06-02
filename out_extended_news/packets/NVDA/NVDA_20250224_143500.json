@@ -1,0 +1,104 @@
+{
+  "event": {
+    "event_id": "NVDA_20250224_143500",
+    "ticker": "NVDA",
+    "t0_utc": "2025-02-24 14:35:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-02-24T11:35:00+00:00",
+      "end": "2025-02-24T15:35:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-02-24T13:15:00Z",
+        "title": "5 Top AI Stocks I'm Buying on the Dip",
+        "description": "AI stocks experienced a significant sell-off last week due to a combination of factors, including rising inflation, geopolitical tensions, and concerns about valuation levels. However, the author believes these pullbacks present attractive buying opportunities for long-term investors in several high-quality AI companies.",
+        "article_url": "https://www.fool.com/investing/2025/02/24/5-top-ai-stocks-im-buying-on-the-dip/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "George Budwell",
+        "tickers": [
+          "NVDA",
+          "PLTR",
+          "POET",
+          "SOUN",
+          "SOUNW",
+          "SERV"
+        ],
+        "keywords": [
+          "AI stocks",
+          "inflation",
+          "geopolitical tensions",
+          "valuation concerns",
+          "buying opportunities"
+        ]
+      },
+      {
+        "published_utc": "2025-02-24T14:32:17Z",
+        "title": "8 Numbers You Must See in Nvidia's Feb. 26 Earnings Results",
+        "description": "Nvidia's highly anticipated earnings release is likely to have significant implications for Nvidia stock investors. Billionaire Philippe Laffont sold 77% of Coatue's stake in Nvidia in 2024 in favor of a polarizing artificial intelligence (AI) stock that's up 6,700% since its IPO.",
+        "article_url": "https://www.fool.com/investing/2025/02/24/8-numbers-you-must-see-in-nvidias-feb-26-earnings/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Parkev Tatevosian, Cfa",
+        "tickers": [
+          "NVDA"
+        ],
+        "keywords": [
+          "Nvidia",
+          "earnings release",
+          "stock investors",
+          "Coatue",
+          "artificial intelligence",
+          "AI stock"
+        ]
+      },
+      {
+        "published_utc": "2025-02-24T14:56:24Z",
+        "title": "Everything Nvidia Stock Investors Should Know Before Feb. 26",
+        "description": "The article discusses recent updates affecting semiconductor giant Nvidia, including a billionaire's decision to sell a significant portion of their stake in favor of a polarizing artificial intelligence (AI) stock that has seen a substantial increase in its share price since its IPO.",
+        "article_url": "https://www.fool.com/investing/2025/02/24/everything-nvidia-stock-investors-should-know-befo/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jose Najarro",
+        "tickers": [
+          "NVDA"
+        ],
+        "keywords": [
+          "Nvidia",
+          "Artificial Intelligence",
+          "Stock Investments"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-02-24T12:29:59Z",
+          "title": "Zelensky Says Ukraine Won't Trade Minerals For Debt, Seeks 'Win-Win' Deal With US",
+          "description": "Ukraine's President Zelensky remains focused on security guarantees as the country negotiates a deal with the US over its rare earth minerals. Zelensky is committed to a 'win-win' agreement and has disputed the financial claims made by the Trump administration.",
+          "article_url": "https://www.benzinga.com/news/global/25/02/43909360/zelensky-says-ukraine-wont-trade-minerals-for-debt-seeks-win-win-deal-with-us",
+          "publisher": "Benzinga",
+          "author": "Stjepan Kalinic",
+          "tickers": [
+            "IEV",
+            "SPY"
+          ],
+          "keywords": [
+            "Ukraine",
+            "US",
+            "rare earth minerals",
+            "security guarantees",
+            "negotiations"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

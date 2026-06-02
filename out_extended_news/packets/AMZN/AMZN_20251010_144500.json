@@ -1,0 +1,45 @@
+{
+  "event": {
+    "event_id": "AMZN_20251010_144500",
+    "ticker": "AMZN",
+    "t0_utc": "2025-10-10 14:45:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-10-10T11:45:00+00:00",
+      "end": "2025-10-10T15:45:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-10-10T12:17:00Z",
+        "title": "Why Amazon\u2019s Prime Day May Be the Catalyst for a Year-End Rally",
+        "description": "Amazon's Prime Day event could potentially trigger a stock breakout, with analysts optimistic about the company's Q4 performance and potential to surpass the $240 resistance level, driven by strong fundamentals and improving technical momentum.",
+        "article_url": "https://www.investing.com/analysis/why-amazons-prime-day-may-be-the-catalyst-for-a-yearend-rally-200668338",
+        "publisher": "Investing.com",
+        "author": "Sam Quirke",
+        "tickers": [
+          "AMZN"
+        ],
+        "keywords": [
+          "Prime Day",
+          "Amazon",
+          "stock breakout",
+          "Q4 performance",
+          "tech stocks",
+          "holiday shopping"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

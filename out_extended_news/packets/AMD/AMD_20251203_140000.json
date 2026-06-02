@@ -1,0 +1,46 @@
+{
+  "event": {
+    "event_id": "AMD_20251203_140000",
+    "ticker": "AMD",
+    "t0_utc": "2025-12-03 14:00:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-12-03T11:00:00+00:00",
+      "end": "2025-12-03T15:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-12-03T12:30:49Z",
+        "title": "What's Going On With Hewlett Packard Stock Wednesday?",
+        "description": "Hewlett Packard Enterprise expanded its GreenLake cloud platform and announced AI-focused innovations, including partnerships with Nvidia and AMD to enhance AI workload management and networking capabilities.",
+        "article_url": "https://www.benzinga.com/markets/tech/25/12/49180917/whats-going-on-with-hewlett-packard-stock-wednesday?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Lekha Gupta",
+        "tickers": [
+          "HPE",
+          "HPEpC",
+          "NVDA",
+          "AMD"
+        ],
+        "keywords": [
+          "AI",
+          "cloud platform",
+          "networking",
+          "enterprise technology"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "event": {
+    "event_id": "AMD_20250514_121000",
+    "ticker": "AMD",
+    "t0_utc": "2025-05-14 12:10:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-05-14T09:10:00+00:00",
+      "end": "2025-05-14T13:10:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-05-14T10:49:20Z",
+          "title": "US Stock Futures Trade Lower On Wednesday: S&P 500 Is Flashing 'Quite Rare And Rather Bullish' Signal, Says Expert",
+          "description": "US stock futures traded lower on Wednesday, but the S&P 500 and Nasdaq 100 indices turned positive for the year after Tuesday's advance. Analysts noted a bullish signal in the market, with over 60% of S&P 500 components reaching new 20-day highs, which has historically been followed by strong performance.",
+          "article_url": "https://www.benzinga.com/25/05/45401873/us-stock-futures-waver-after-a-mixed-close-sp-500-is-flashing-quite-rare-and-rather-bullish-signal-says-expert",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AEO",
+            "CSCO",
+            "DAVA",
+            "DT",
+            "NVDA",
+            "LUCY",
+            "LUCYW",
+            "ASNS",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "US stock futures",
+            "S&P 500",
+            "Nasdaq 100",
+            "bullish signal",
+            "market performance"
+          ]
+        },
+        {
+          "published_utc": "2025-05-14T12:04:01Z",
+          "title": "US Stock Futures Trade Higher On Wednesday: S&P 500 Is Flashing 'Quite Rare And Rather Bullish' Signal, Says Expert (UPDATED)",
+          "description": "US stock futures traded higher on Wednesday, with the S&P 500 and Nasdaq 100 indices turning positive for the year. Analysts noted a bullish signal in the market, with over 60% of S&P 500 components reaching new 20-day highs, which has historically been followed by strong performance.",
+          "article_url": "https://www.benzinga.com/government/regulations/25/05/45401873/us-stock-futures-trade-lower-on-wednesday-sp-500-is-flashing-quite-rare-and-rather-bullish",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AEO",
+            "ASNS",
+            "CSCO",
+            "DAVA",
+            "DT",
+            "NVDA",
+            "LUCY",
+            "LUCYW",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "US stock futures",
+            "S&P 500",
+            "Nasdaq 100",
+            "bullish signal",
+            "market performance"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-05-14T10:49:20Z",
+          "title": "US Stock Futures Trade Lower On Wednesday: S&P 500 Is Flashing 'Quite Rare And Rather Bullish' Signal, Says Expert",
+          "description": "US stock futures traded lower on Wednesday, but the S&P 500 and Nasdaq 100 indices turned positive for the year after Tuesday's advance. Analysts noted a bullish signal in the market, with over 60% of S&P 500 components reaching new 20-day highs, which has historically been followed by strong performance.",
+          "article_url": "https://www.benzinga.com/25/05/45401873/us-stock-futures-waver-after-a-mixed-close-sp-500-is-flashing-quite-rare-and-rather-bullish-signal-says-expert",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AEO",
+            "CSCO",
+            "DAVA",
+            "DT",
+            "NVDA",
+            "LUCY",
+            "LUCYW",
+            "ASNS",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "US stock futures",
+            "S&P 500",
+            "Nasdaq 100",
+            "bullish signal",
+            "market performance"
+          ]
+        },
+        {
+          "published_utc": "2025-05-14T12:04:01Z",
+          "title": "US Stock Futures Trade Higher On Wednesday: S&P 500 Is Flashing 'Quite Rare And Rather Bullish' Signal, Says Expert (UPDATED)",
+          "description": "US stock futures traded higher on Wednesday, with the S&P 500 and Nasdaq 100 indices turning positive for the year. Analysts noted a bullish signal in the market, with over 60% of S&P 500 components reaching new 20-day highs, which has historically been followed by strong performance.",
+          "article_url": "https://www.benzinga.com/government/regulations/25/05/45401873/us-stock-futures-trade-lower-on-wednesday-sp-500-is-flashing-quite-rare-and-rather-bullish",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "AEO",
+            "ASNS",
+            "CSCO",
+            "DAVA",
+            "DT",
+            "NVDA",
+            "LUCY",
+            "LUCYW",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "US stock futures",
+            "S&P 500",
+            "Nasdaq 100",
+            "bullish signal",
+            "market performance"
+          ]
+        }
+      ]
+    }
+  }
+}

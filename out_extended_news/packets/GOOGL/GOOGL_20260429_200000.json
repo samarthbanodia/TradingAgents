@@ -1,0 +1,115 @@
+{
+  "event": {
+    "event_id": "GOOGL_20260429_200000",
+    "ticker": "GOOGL",
+    "t0_utc": "2026-04-29 20:00:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-04-29T17:00:00+00:00",
+      "end": "2026-04-29T21:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-04-29T19:06:00Z",
+        "title": "The Best 2 Renewable Energy Stocks to Buy and Hold for Decades",
+        "description": "The article recommends two renewable energy stocks for long-term investors: Nextpower, a solar infrastructure company offering trackers, balance-of-systems solutions, and AI software, and Brookfield Renewable, a diversified green energy company with hydroelectric, wind, and solar projects. Both are positioned to benefit from the global renewable energy market's expected 14.7% CAGR growth through 2033, driven by decarbonization initiatives and expanding cloud/AI markets.",
+        "article_url": "https://www.fool.com/investing/2026/04/29/the-best-x-renewable-energy-stocks-to-buy-and-hold/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Leo Sun",
+        "tickers": [
+          "NXT",
+          "BEPC",
+          "MSFT",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "renewable energy",
+          "solar energy",
+          "long-term investing",
+          "decarbonization",
+          "green energy",
+          "sustainable infrastructure"
+        ]
+      },
+      {
+        "published_utc": "2026-04-29T20:23:34Z",
+        "title": "Alphabet Stock Climbs After Q1 EPS Blows Past Estimates: Details",
+        "description": "Alphabet reported Q1 earnings of $5.11 per share, significantly beating analyst estimates of $2.62 by 95%. Revenue reached $109.9 billion, exceeding expectations of $106.93 billion. Google Services grew 16% to $89.6 billion while Google Cloud surged 63% to $20 billion. The company expanded operating margins to 36.1% and increased its dividend by 5%. CEO Sundar Pichai highlighted strong performance in consumer AI through Gemini App with 350 million paid subscriptions, 40% quarter-on-quarter growth in Gemini Enterprise, and Waymo surpassing 500,000 autonomous rides weekly.",
+        "article_url": "https://www.benzinga.com/markets/earnings/26/04/52152134/alphabet-stock-climbs-after-q1-eps-blows-past-estimates-details?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Erica Kollmann",
+        "tickers": [
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "Q1 earnings",
+          "EPS beat",
+          "revenue growth",
+          "Google Cloud",
+          "Gemini AI",
+          "operating margin",
+          "dividend increase",
+          "Waymo autonomous vehicles"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-04-29T18:39:50Z",
+          "title": "Fed Holds Rates Unchanged: Traders Brace For Powell's Likely Final Presser (UPDATED)",
+          "description": "The Federal Reserve maintained the benchmark federal funds rate at 3.50-3.75% in what is expected to be Chair Jerome Powell's final policy decision before Kevin Warsh takes over on May 15. The Fed adopted a more hawkish stance, noting elevated inflation and Middle East uncertainty. Markets repriced expectations, nearly erasing rate cut probabilities for 2026 and implying a 25% chance of a hike by April 2027. The S&P 500 declined 0.3% while crude oil surged over 7% to $107 amid geopolitical tensions.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/26/04/52144038/fed-holds-rates-unchanged-traders-brace-for-powells-likely-final-presser?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "interest rates",
+            "Jerome Powell",
+            "Kevin Warsh",
+            "inflation",
+            "Middle East tensions",
+            "monetary policy",
+            "market reaction"
+          ]
+        },
+        {
+          "published_utc": "2026-04-29T20:17:23Z",
+          "title": "Powell's Last Stand Killed The Rate-Cut Trade: What's The Risk Of A Hike Now?",
+          "description": "Federal Reserve Chair Jerome Powell signaled an unexpectedly hawkish stance, announcing he will remain as a Governor after his term ends on May 15, effectively killing market expectations for rate cuts in 2026. With four dissents from the FOMC\u2014the largest split since October 1992\u2014Powell emphasized inflation is moving in the wrong direction and the Fed is moving toward a neutral policy stance. Markets now price zero probability of rate cuts by December 2026 and assign a 44.5% chance of a rate hike by April 2027.",
+          "article_url": "https://www.benzinga.com/markets/macro-economic-events/26/04/52151393/powell-last-stand-killed-rate-cut-trade-fed-hike-risk-2026?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "Jerome Powell",
+            "interest rates",
+            "monetary policy",
+            "rate cuts",
+            "inflation",
+            "FOMC dissent",
+            "Fed independence",
+            "Kevin Warsh"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

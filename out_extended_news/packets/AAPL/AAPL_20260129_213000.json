@@ -1,0 +1,101 @@
+{
+  "event": {
+    "event_id": "AAPL_20260129_213000",
+    "ticker": "AAPL",
+    "t0_utc": "2026-01-29 21:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2026-01-29T18:30:00+00:00",
+      "end": "2026-01-29T22:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-01-29T18:45:00Z",
+        "title": "Microsoft-Led Pullback Triggers a Broader Market Correction",
+        "description": "Microsoft's earnings disappointment on Azure cloud business and higher-than-expected capital expenditures triggered a sharp 12% stock decline, dragging down the broader tech sector. The NASDAQ fell 2.3%, S&P 500 dropped 1.3%, and the Magnificent 7 declined 1.6%. However, Meta surged 10% on strong earnings, while energy commodities rallied on Iran conflict concerns. The author views this as a buying opportunity despite increased volatility.",
+        "article_url": "https://www.investing.com/analysis/microsoftled-pullback-triggers-a-broader-market-correction-200674126",
+        "publisher": "Investing.com",
+        "author": "Louis Navellier",
+        "tickers": [
+          "MSFT",
+          "META",
+          "NVDA",
+          "TSLA",
+          "AMZN",
+          "AAPL",
+          "GOOG",
+          "GOOGL",
+          "NFLX"
+        ],
+        "keywords": [
+          "market correction",
+          "Microsoft earnings",
+          "Azure cloud",
+          "capital expenditures",
+          "tech sector decline",
+          "Meta earnings",
+          "volatility",
+          "buying opportunity"
+        ]
+      },
+      {
+        "published_utc": "2026-01-29T19:08:59Z",
+        "title": "Why Taiwan Semiconductor's Capacity Nightmare Is Intel's Foundry Dream",
+        "description": "Intel is emerging as a beneficiary of Taiwan Semiconductor's capacity constraints, as Apple and Nvidia redirect chip orders to Intel's foundry services. This shift supports Intel's foundry ambitions and U.S. government efforts to bring semiconductor manufacturing domestically, while potentially complicating Samsung's foundry market recovery.",
+        "article_url": "https://www.benzinga.com/markets/tech/26/01/50244148/why-taiwan-semiconductors-capacity-nightmare-is-intels-foundry-dream?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "publisher": "Benzinga",
+        "author": "Anusuya Lahiri",
+        "tickers": [
+          "INTC",
+          "TSM",
+          "AAPL",
+          "NVDA"
+        ],
+        "keywords": [
+          "semiconductor capacity",
+          "foundry services",
+          "AI chip demand",
+          "supply chain",
+          "manufacturing",
+          "chip orders"
+        ]
+      },
+      {
+        "published_utc": "2026-01-29T19:45:00Z",
+        "title": "Nvidia's Next-Gen GPU Could be Coming to Intel Foundry",
+        "description": "DigiTimes reported that Nvidia is considering using Intel Foundry for manufacturing and advanced packaging of its Feynman generation GPUs starting in 2028. While unconfirmed, the deal could be worth over $1 billion to Intel and would validate its foundry strategy. Intel would handle the I/O die using Intel 18A or 14A processes and provide advanced packaging services, while TSMC would continue manufacturing the GPU compute die.",
+        "article_url": "https://www.fool.com/investing/2026/01/29/nvidias-next-gen-gpu-could-be-coming-to-intel-foun/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Timothy Green",
+        "tickers": [
+          "INTC",
+          "NVDA",
+          "TSM",
+          "AAPL"
+        ],
+        "keywords": [
+          "Intel Foundry",
+          "Nvidia GPU manufacturing",
+          "advanced packaging",
+          "Feynman generation",
+          "TSMC competition",
+          "semiconductor manufacturing",
+          "Intel 18A process",
+          "Intel 14A process"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

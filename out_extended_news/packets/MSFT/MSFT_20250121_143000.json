@@ -1,0 +1,122 @@
+{
+  "event": {
+    "event_id": "MSFT_20250121_143000",
+    "ticker": "MSFT",
+    "t0_utc": "2025-01-21 14:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-01-21T11:30:00+00:00",
+      "end": "2025-01-21T15:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-01-21T12:30:00Z",
+        "title": "What Nvidia Stock Investors Should Know About the Latest AI Regulations",
+        "description": "The article discusses Nvidia's recent updates and the potential of quantum computing in 2025. It also promotes The Motley Fool's premium investing services.",
+        "article_url": "https://www.fool.com/investing/2025/01/21/what-nvidia-stock-investors-should-know-about-late/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jose Najarro",
+        "tickers": [
+          "NVDA",
+          "GOOG",
+          "GOOGL",
+          "MSFT",
+          "ORCL",
+          "QUBT"
+        ],
+        "keywords": [
+          "Nvidia",
+          "Quantum Computing",
+          "Investing"
+        ]
+      },
+      {
+        "published_utc": "2025-01-21T13:05:00Z",
+        "title": "Clickstream Analytics Market Projected to Exceed USD\u00a01.71\u00a0Billion by 2025 | Straits Research",
+        "description": "The global clickstream analytics market is projected to grow from $1.71 billion in 2025 to $4.84 billion by 2033, driven by the rise of e-commerce and the trend of predictive marketing. North America and Europe are expected to be the key regional markets.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/01/21/3012633/0/en/Clickstream-Analytics-Market-Projected-to-Exceed-USD-1-71-Billion-by-2025-Straits-Research.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "N/A",
+        "tickers": [
+          "GOOG",
+          "GOOGL",
+          "HPE",
+          "HPEpC",
+          "IBM",
+          "MSFT",
+          "ORCL",
+          "SAP"
+        ],
+        "keywords": [
+          "clickstream analytics",
+          "e-commerce",
+          "predictive marketing",
+          "North America",
+          "Europe"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-01-21T12:11:43Z",
+          "title": "US Stocks Set To Open On A Positive Note As Trump's Second White House Term Kicks Off: Tesla, Apple, Netflix Among Stocks In Focus",
+          "description": "US stocks are expected to open on a positive note as Donald Trump begins his second term as president. Key stocks in focus include Tesla, Apple, Netflix, and others. The market is optimistic about earnings growth prospects for US companies compared to their European counterparts.",
+          "article_url": "https://www.benzinga.com/markets/futures/25/01/43093520/us-stocks-set-to-open-on-a-positive-note-as-trumps-second-white-house-term-kicks-off-tesla-apple-",
+          "publisher": "Benzinga",
+          "author": "Rounak Jain",
+          "tickers": [
+            "TSLA",
+            "AAPL",
+            "NFLX",
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "US stocks",
+            "Donald Trump",
+            "Tesla",
+            "Apple",
+            "Netflix",
+            "earnings growth",
+            "European stocks"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-01-21T12:11:43Z",
+          "title": "US Stocks Set To Open On A Positive Note As Trump's Second White House Term Kicks Off: Tesla, Apple, Netflix Among Stocks In Focus",
+          "description": "US stocks are expected to open on a positive note as Donald Trump begins his second term as president. Key stocks in focus include Tesla, Apple, Netflix, and others. The market is optimistic about earnings growth prospects for US companies compared to their European counterparts.",
+          "article_url": "https://www.benzinga.com/markets/futures/25/01/43093520/us-stocks-set-to-open-on-a-positive-note-as-trumps-second-white-house-term-kicks-off-tesla-apple-",
+          "publisher": "Benzinga",
+          "author": "Rounak Jain",
+          "tickers": [
+            "TSLA",
+            "AAPL",
+            "NFLX",
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "US stocks",
+            "Donald Trump",
+            "Tesla",
+            "Apple",
+            "Netflix",
+            "earnings growth",
+            "European stocks"
+          ]
+        }
+      ]
+    }
+  }
+}

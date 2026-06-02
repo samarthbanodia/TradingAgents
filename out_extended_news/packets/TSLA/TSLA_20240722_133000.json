@@ -1,0 +1,130 @@
+{
+  "event": {
+    "event_id": "TSLA_20240722_133000",
+    "ticker": "TSLA",
+    "t0_utc": "2024-07-22 13:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "unclear",
+    "window": {
+      "start": "2024-07-22T10:30:00+00:00",
+      "end": "2024-07-22T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-07-22T11:46:36Z",
+        "title": "Nvidia, Tesla, Goodyear rise premarket; Verizon, CrowdStrike fall By Investing.com - Investing.com Canada",
+        "description": "U.S. stock futures rebounded after last week's losses, with Nvidia, Tesla, and Goodyear rising in premarket trading, while Verizon and CrowdStrike fell.",
+        "article_url": "https://ca.investing.com/news/stock-market-news/nvidia-tesla-goodyear-rise-premarket-verizon-crowdstrike-fall-3507805",
+        "publisher": "Investing.com",
+        "author": "Peter Nurse",
+        "tickers": [
+          "NVDA",
+          "VZ",
+          "TSLA",
+          "CRWD",
+          "GT"
+        ],
+        "keywords": [
+          "Nvidia",
+          "Tesla",
+          "Goodyear",
+          "Verizon",
+          "CrowdStrike"
+        ]
+      },
+      {
+        "published_utc": "2024-07-22T11:51:42Z",
+        "title": "Nasdaq Futures Outperforms After Last Week's Swoon: What's Going On - Invesco QQQ Trust, Series 1 (NASDAQ:QQQ), SPDR S&P 500 (ARCA:SPY) - Benzinga",
+        "description": "U.S. stocks are expected to rebound this week, driven by strong earnings expectations, the Federal Reserve's rate cut, and the rising odds of a victory for former President Donald Trump in the upcoming election. Bargain hunting in beaten-down stocks could also lend support.",
+        "article_url": "https://www.benzinga.com/news/earnings/24/07/39880691/wall-street-set-to-rebound-amid-hopes-of-strong-earnings-political-uncertainty-caused-by-biden-step",
+        "publisher": "Benzinga",
+        "author": "Shanthi Rexaline",
+        "tickers": [
+          "NVDA",
+          "TSLA",
+          "GOOG",
+          "GOOGL",
+          "CRWD",
+          "VZ"
+        ],
+        "keywords": [
+          "Nasdaq",
+          "S&P 500",
+          "Dow",
+          "Russell 2000",
+          "earnings",
+          "Federal Reserve",
+          "Donald Trump",
+          "Biden"
+        ]
+      },
+      {
+        "published_utc": "2024-07-22T12:04:43Z",
+        "title": "Musk says Tesla will have humanoid robots for internal use in 2025 - Investing.com",
+        "description": "Tesla CEO Elon Musk announced that the company plans to introduce humanoid robots, known as Optimus, for internal use in 2025 and potentially for external customers by 2026.",
+        "article_url": "https://www.investing.com/news/stock-market-news/musk-says-tesla-will-have-humanoid-robots-for-internal-use-in-2025-432SI-3528812",
+        "publisher": "Investing.com",
+        "author": "Sam Bougheddaa",
+        "tickers": [
+          "TSLA"
+        ],
+        "keywords": [
+          "Tesla",
+          "Elon Musk",
+          "Optimus",
+          "humanoid robots"
+        ]
+      },
+      {
+        "published_utc": "2024-07-22T13:12:59Z",
+        "title": "RBC Capital sees Elon Musk's robotaxi plans reshaping Tesla stock narrative - Investing.com",
+        "description": "RBC Capital maintained its Outperform rating on Tesla stock, noting that the anticipation surrounding Tesla's upcoming robotaxi event could be driving recent stock performance and potentially reshaping the company's narrative.",
+        "article_url": "https://www.investing.com/news/company-news/rbc-capital-sees-elon-musks-robotaxi-plans-reshaping-tesla-stock-narrative-93CH-3528941",
+        "publisher": "Investing.com",
+        "author": "Emilio Ghigini",
+        "tickers": [
+          "TSLA"
+        ],
+        "keywords": [
+          "Tesla",
+          "robotaxi",
+          "stock performance"
+        ]
+      },
+      {
+        "published_utc": "2024-07-22T13:31:27Z",
+        "title": "Ford (F) Q2 Earnings Preview: Time to Buy the Stock Now? - Zacks Investment Research",
+        "description": "Ford is set to release its Q2 2024 results on July 24. The company's earnings and revenue are expected to decline year-over-year, but its electric vehicle sales have been strong, with Ford being the second-largest EV brand in the US. The company's growth prospects are driven by its popular vehicle lineup and robust EV offerings, though its electric vehicle unit is expected to post losses this year.",
+        "article_url": "https://www.zacks.com/stock/news/2306104/ford-f-q2-earnings-preview-time-to-buy-the-stock-now",
+        "publisher": "Zacks Investment Research",
+        "author": "Zacks Investment Research",
+        "tickers": [
+          "F",
+          "FpB",
+          "FpC",
+          "FpD",
+          "TSLA",
+          "GM"
+        ],
+        "keywords": [
+          "Ford",
+          "earnings",
+          "electric vehicles",
+          "trucks",
+          "SUVs"
+        ]
+      }
+    ],
+    "ticker_news_count": 5,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "event": {
+    "event_id": "COIN_20251002_131500",
+    "ticker": "COIN",
+    "t0_utc": "2025-10-02 13:15:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-10-02T10:15:00+00:00",
+      "end": "2025-10-02T14:15:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-10-02T11:26:40Z",
+          "title": "Recession Odds 'Not At 0%,' Says Economist As Small And Medium Businesses Drive Job Losses In ADP Report Amid BLS Shutdown",
+          "description": "ADP Employment report shows private payrolls unexpectedly lost 32,000 jobs in September, with small and medium businesses driving job losses. Economists warn recession risks are increasing, potentially prompting Federal Reserve to consider rate cuts.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/25/10/47990357/recession-odds-not-at-0-says-economist-as-small-and-medium-businesses-drive-job-losses-in-a",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "recession",
+            "job losses",
+            "ADP report",
+            "labor market",
+            "monetary policy"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-10-02T11:26:40Z",
+          "title": "Recession Odds 'Not At 0%,' Says Economist As Small And Medium Businesses Drive Job Losses In ADP Report Amid BLS Shutdown",
+          "description": "ADP Employment report shows private payrolls unexpectedly lost 32,000 jobs in September, with small and medium businesses driving job losses. Economists warn recession risks are increasing, potentially prompting Federal Reserve to consider rate cuts.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/25/10/47990357/recession-odds-not-at-0-says-economist-as-small-and-medium-businesses-drive-job-losses-in-a",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "recession",
+            "job losses",
+            "ADP report",
+            "labor market",
+            "monetary policy"
+          ]
+        }
+      ]
+    }
+  }
+}

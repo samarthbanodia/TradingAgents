@@ -1,0 +1,113 @@
+{
+  "event": {
+    "event_id": "XLK_20250521_171500",
+    "ticker": "XLK",
+    "t0_utc": "2025-05-21 17:15:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-05-21T14:15:00+00:00",
+      "end": "2025-05-21T18:15:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-05-21T17:14:49Z",
+          "title": "Wall Street Stalls As Yields Rise, Bitcoin Breaks Records Above $109,000: What's Driving Markets Wednesday?",
+          "description": "U.S. stocks traded mixed as investors weighed fiscal concerns, sending Treasury yields higher and the dollar lower. Bitcoin surged past $109,000 after JPMorgan announced it will allow client purchases without custody services.",
+          "article_url": "https://www.benzinga.com/economics/macro-economic-events/25/05/45549510/wall-street-stalls-as-yields-rise-bitcoin-breaks-records-above-109000-whats-drivi",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "DIA",
+            "DOMO",
+            "FLNG",
+            "GOOG",
+            "GOOGL",
+            "IWM",
+            "AMJB",
+            "JPM",
+            "JPMpC",
+            "JPMpD",
+            "JPMpJ",
+            "JPMpK",
+            "JPMpL",
+            "JPMpM",
+            "VYLD",
+            "KEYS",
+            "LOW",
+            "MDT",
+            "QQQ",
+            "SNOW",
+            "SPY",
+            "TGT",
+            "TJX",
+            "URBN",
+            "VFC",
+            "XLC",
+            "XLV"
+          ],
+          "keywords": [
+            "stocks",
+            "bonds",
+            "bitcoin",
+            "commodities"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-05-21T17:14:49Z",
+          "title": "Wall Street Stalls As Yields Rise, Bitcoin Breaks Records Above $109,000: What's Driving Markets Wednesday?",
+          "description": "U.S. stocks traded mixed as investors weighed fiscal concerns, sending Treasury yields higher and the dollar lower. Bitcoin surged past $109,000 after JPMorgan announced it will allow client purchases without custody services.",
+          "article_url": "https://www.benzinga.com/economics/macro-economic-events/25/05/45549510/wall-street-stalls-as-yields-rise-bitcoin-breaks-records-above-109000-whats-drivi",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "DIA",
+            "DOMO",
+            "FLNG",
+            "GOOG",
+            "GOOGL",
+            "IWM",
+            "AMJB",
+            "JPM",
+            "JPMpC",
+            "JPMpD",
+            "JPMpJ",
+            "JPMpK",
+            "JPMpL",
+            "JPMpM",
+            "VYLD",
+            "KEYS",
+            "LOW",
+            "MDT",
+            "QQQ",
+            "SNOW",
+            "SPY",
+            "TGT",
+            "TJX",
+            "URBN",
+            "VFC",
+            "XLC",
+            "XLV"
+          ],
+          "keywords": [
+            "stocks",
+            "bonds",
+            "bitcoin",
+            "commodities"
+          ]
+        }
+      ]
+    }
+  }
+}

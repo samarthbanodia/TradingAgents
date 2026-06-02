@@ -1,0 +1,45 @@
+{
+  "event": {
+    "event_id": "AAPL_20251215_142500",
+    "ticker": "AAPL",
+    "t0_utc": "2025-12-15 14:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-12-15T11:25:00+00:00",
+      "end": "2025-12-15T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-12-15T13:09:00Z",
+        "title": "1 Reason I'm Watching Apple Heading Into 2026",
+        "description": "Apple is showing promising signs of growth with double-digit iPhone revenue forecasted for Q1 2026, driven by robust demand for the iPhone 17 models. Despite challenges like tariffs and slow AI feature rollout, the company remains a significant market player.",
+        "article_url": "https://www.fool.com/investing/2025/12/15/1-reason-im-watching-apple-heading-into-2026/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Neil Patel",
+        "tickers": [
+          "AAPL"
+        ],
+        "keywords": [
+          "Apple",
+          "iPhone",
+          "revenue growth",
+          "market cap",
+          "AI",
+          "Magnificent Seven"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "event": {
+    "event_id": "NVDA_20250929_133000",
+    "ticker": "NVDA",
+    "t0_utc": "2025-09-29 13:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-09-29T10:30:00+00:00",
+      "end": "2025-09-29T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-09-29T12:30:00Z",
+        "title": "The Ultimate Growth ETFs to Buy With $1,000 Right Now",
+        "description": "The article discusses growth ETFs as an effective investment strategy for capitalizing on the AI trend, highlighting several ETFs that provide exposure to technology and AI-driven companies with strong historical performance.",
+        "article_url": "https://www.fool.com/investing/2025/09/29/the-ultimate-growth-etfs-to-buy-with-1000-now/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Geoffrey Seiler",
+        "tickers": [
+          "NVDA",
+          "MSFT",
+          "QQQ",
+          "VUG",
+          "AIQ"
+        ],
+        "keywords": [
+          "ETF",
+          "growth stocks",
+          "AI",
+          "technology",
+          "investing"
+        ]
+      },
+      {
+        "published_utc": "2025-09-29T13:00:00Z",
+        "title": "Computer Vision in Healthcare Market to see 27.36% CAGR and Cross USD 14B by 2030, Says Mordor Intelligence",
+        "description": "The computer vision in healthcare market is projected to grow from USD 4.22 billion in 2025 to USD 14.14 billion by 2030, with a 27.36% CAGR, driven by AI-powered imaging tools and technological advancements in medical diagnostics.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/09/29/3157754/0/en/Computer-Vision-in-Healthcare-Market-to-see-27-36-CAGR-and-Cross-USD-14B-by-2030-Says-Mordor-Intelligence.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Mordor Intelligence",
+        "tickers": [
+          "NVDA",
+          "INTC",
+          "MSFT",
+          "IBM",
+          "SMMNY"
+        ],
+        "keywords": [
+          "computer vision",
+          "healthcare",
+          "AI",
+          "medical imaging",
+          "diagnostics"
+        ]
+      },
+      {
+        "published_utc": "2025-09-29T13:02:00Z",
+        "title": "Nvidia Has Invested in These 6 Companies. Should You Follow Suit?",
+        "description": "Nvidia has invested stakes in multiple tech companies across AI, data centers, and emerging technologies, with most investments performing well, particularly in core AI infrastructure sectors.",
+        "article_url": "https://www.fool.com/investing/2025/09/29/nvidia-has-invested-in-these-6-companies-should-yo/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Matthew Benjamin",
+        "tickers": [
+          "NVDA",
+          "CRWV",
+          "ARM",
+          "APLD",
+          "RXRX",
+          "WRD",
+          "INTC"
+        ],
+        "keywords": [
+          "Nvidia",
+          "AI",
+          "investments",
+          "tech stocks",
+          "semiconductor"
+        ]
+      },
+      {
+        "published_utc": "2025-09-29T13:25:00Z",
+        "title": "Prediction: Investing in These 2 Unstoppable Vanguard ETFs Could Set You Up for Life",
+        "description": "The article recommends two Vanguard ETFs for long-term investment: the S&P 500 Growth ETF and the Information Technology ETF. Both offer diversification and potential high returns, though they come with varying levels of risk.",
+        "article_url": "https://www.fool.com/investing/2025/09/29/prediction-investing-in-these-2-unstoppable-vangua/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jennifer Saibil",
+        "tickers": [
+          "VOOG",
+          "VGT",
+          "NVDA",
+          "MSFT"
+        ],
+        "keywords": [
+          "ETF",
+          "investment",
+          "technology",
+          "growth stocks",
+          "Vanguard"
+        ]
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": [
+        {
+          "published_utc": "2025-09-29T12:30:00Z",
+          "title": "The Ultimate Growth ETFs to Buy With $1,000 Right Now",
+          "description": "The article discusses growth ETFs as an effective investment strategy for capitalizing on the AI trend, highlighting several ETFs that provide exposure to technology and AI-driven companies with strong historical performance.",
+          "article_url": "https://www.fool.com/investing/2025/09/29/the-ultimate-growth-etfs-to-buy-with-1000-now/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Geoffrey Seiler",
+          "tickers": [
+            "NVDA",
+            "MSFT",
+            "QQQ",
+            "VUG",
+            "AIQ"
+          ],
+          "keywords": [
+            "ETF",
+            "growth stocks",
+            "AI",
+            "technology",
+            "investing"
+          ]
+        }
+      ]
+    }
+  }
+}

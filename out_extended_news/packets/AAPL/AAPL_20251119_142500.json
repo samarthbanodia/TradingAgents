@@ -1,0 +1,92 @@
+{
+  "event": {
+    "event_id": "AAPL_20251119_142500",
+    "ticker": "AAPL",
+    "t0_utc": "2025-11-19 14:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-11-19T11:25:00+00:00",
+      "end": "2025-11-19T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-11-19T12:10:00Z",
+        "title": "If You'd Invested $1,000 in the Invesco QQQ Trust ETF 5 Years Ago, Here's How Much You'd Have Today",
+        "description": "The Invesco QQQ Trust ETF has delivered a 114% total return over five years, outperforming the S&P 500's 100% return, driven by top technology companies and AI potential.",
+        "article_url": "https://www.fool.com/investing/2025/11/19/you-invest-1000-invesco-qqq-trust-etf-5-years/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Neil Patel",
+        "tickers": [
+          "NVDA",
+          "AAPL",
+          "MSFT",
+          "QQQ"
+        ],
+        "keywords": [
+          "ETF",
+          "technology",
+          "investment",
+          "AI",
+          "stock market"
+        ]
+      },
+      {
+        "published_utc": "2025-11-19T13:14:00Z",
+        "title": "Billionaire Warren Buffett Sold 74% of Berkshire's Stake in Apple and Has Piled More Than $4 Billion Into a \"Magnificent\" Stock That's Up Over 11,000% Since Its IPO",
+        "description": "Warren Buffett's Berkshire Hathaway sold 74% of its Apple stake while investing over $4 billion in Alphabet, citing Apple's stagnant growth and Alphabet's strong market position in search and cloud services.",
+        "article_url": "https://www.fool.com/investing/2025/11/19/billionaire-warren-buffett-sold-74-berkshire-apple/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Sean Williams",
+        "tickers": [
+          "AAPL",
+          "GOOG",
+          "GOOGL",
+          "BRK.A",
+          "BRK.B"
+        ],
+        "keywords": [
+          "Warren Buffett",
+          "Apple",
+          "Alphabet",
+          "investment",
+          "stock market",
+          "13F filing"
+        ]
+      }
+    ],
+    "ticker_news_count": 2,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": [
+        {
+          "published_utc": "2025-11-19T12:10:00Z",
+          "title": "If You'd Invested $1,000 in the Invesco QQQ Trust ETF 5 Years Ago, Here's How Much You'd Have Today",
+          "description": "The Invesco QQQ Trust ETF has delivered a 114% total return over five years, outperforming the S&P 500's 100% return, driven by top technology companies and AI potential.",
+          "article_url": "https://www.fool.com/investing/2025/11/19/you-invest-1000-invesco-qqq-trust-etf-5-years/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Neil Patel",
+          "tickers": [
+            "NVDA",
+            "AAPL",
+            "MSFT",
+            "QQQ"
+          ],
+          "keywords": [
+            "ETF",
+            "technology",
+            "investment",
+            "AI",
+            "stock market"
+          ]
+        }
+      ]
+    }
+  }
+}

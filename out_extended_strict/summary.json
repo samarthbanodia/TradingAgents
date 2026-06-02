@@ -1,0 +1,52 @@
+{
+  "total_bars_loaded": 1247559,
+  "trading_hours": "extended (04:00-20:00 ET)",
+  "stage1_candidate_bars": 142527,
+  "stage1_candidate_clusters": 39461,
+  "stage2_confirmed_events": 3372,
+  "per_ticker_event_counts": {
+    "AAPL": 280,
+    "AMD": 315,
+    "AMZN": 290,
+    "COIN": 255,
+    "GOOGL": 291,
+    "JPM": 119,
+    "META": 257,
+    "MSFT": 198,
+    "NFLX": 179,
+    "NVDA": 307,
+    "PLTR": 334,
+    "QQQ": 104,
+    "SPY": 46,
+    "TSLA": 338,
+    "XLK": 59
+  },
+  "label_distribution": {
+    "continuation": 1613,
+    "reversal": 1086,
+    "unclear": 673
+  },
+  "distribution_stats": {
+    "peak_abs_ret_3_bp": {
+      "median": 137.68134426736967,
+      "p95": 384.8764953960574,
+      "max": 2365.7657657657614
+    },
+    "peak_volume_mult": {
+      "median": 251.45219773841578,
+      "p95": 938.0897132176215,
+      "max": 7913.481093659104
+    },
+    "peak_z_ret_3": {
+      "median": 4.889869603359072,
+      "p95": 6.641540953044608,
+      "max": 8.428456230588251
+    }
+  },
+  "thresholds": {
+    "cand_ret_z": 3.0,
+    "cand_vol_mult": 4.0,
+    "confirm_abs_bp": 60.0,
+    "confirm_ret_z": 4.0
+  }
+}

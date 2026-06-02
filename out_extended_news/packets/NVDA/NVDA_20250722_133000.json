@@ -1,0 +1,108 @@
+{
+  "event": {
+    "event_id": "NVDA_20250722_133000",
+    "ticker": "NVDA",
+    "t0_utc": "2025-07-22 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-07-22T10:30:00+00:00",
+      "end": "2025-07-22T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-07-22T11:25:00Z",
+        "title": "Top 10 Stocks Best Positioned to Break Out This Earnings Season",
+        "description": "The article discusses using Investing.com's stock screener to identify high-potential stocks for the second-quarter earnings season, focusing on companies with consistent earnings growth and potential for significant performance.",
+        "article_url": "https://www.investing.com/analysis/top-10-stocks-best-positioned-to-break-out-this-earnings-season-200664086",
+        "publisher": "Investing.com",
+        "author": "David Wagner",
+        "tickers": [
+          "AAPL",
+          "TSLA",
+          "AMZN",
+          "MSFT",
+          "NVDA"
+        ],
+        "keywords": [
+          "earnings season",
+          "stock screening",
+          "investment strategy",
+          "earnings growth"
+        ]
+      },
+      {
+        "published_utc": "2025-07-22T13:42:00Z",
+        "title": "Analysts Are Backing Qualcomm: Is a Breakout Coming?",
+        "description": "JPMorgan upgraded Qualcomm with an Overweight rating and raised its price target to $190, suggesting potential 25% upside based on strong cloud-related spending expectations and the company's historically low P/E ratio.",
+        "article_url": "https://www.investing.com/analysis/analysts-are-backing-qualcomm-is-a-breakout-coming-200664117",
+        "publisher": "Investing.com",
+        "author": "Sam Quirke",
+        "tickers": [
+          "QCOM",
+          "NVDA",
+          "AMD"
+        ],
+        "keywords": [
+          "semiconductor",
+          "valuation",
+          "cloud spending",
+          "earnings",
+          "stock analysis"
+        ]
+      },
+      {
+        "published_utc": "2025-07-22T14:18:00Z",
+        "title": "D-Wave Surges 26% in July as Quantum Hype Collides With Lofty Valuation",
+        "description": "D-Wave Quantum Inc saw a 26% stock surge in mid-July 2025, driven by technological achievements in quantum computing and investor speculation, despite ongoing challenges in achieving profitability.",
+        "article_url": "https://www.investing.com/analysis/dwave-surges-26-in-july-as-quantum-hype-collides-with-lofty-valuation-200664120",
+        "publisher": "Investing.com",
+        "author": "Nathan Reiff",
+        "tickers": [
+          "QBTS",
+          "QBTS.WS",
+          "RGTI",
+          "RGTIW",
+          "NVDA"
+        ],
+        "keywords": [
+          "quantum computing",
+          "stock surge",
+          "technological achievement",
+          "investor speculation"
+        ]
+      },
+      {
+        "published_utc": "2025-07-22T14:30:00Z",
+        "title": "Up 1,590%, Should You Buy Nvidia at Its All-Time High?",
+        "description": "Nvidia continues to be a leading AI technology company with remarkable financial performance, experiencing significant stock growth and establishing a dominant position in AI chip manufacturing despite potential geopolitical and economic risks.",
+        "article_url": "https://www.fool.com/investing/2025/07/22/up-1590-should-you-buy-nvidia-at-its-all-time-high/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Neil Patel",
+        "tickers": [
+          "NVDA",
+          "GOOG",
+          "GOOGL"
+        ],
+        "keywords": [
+          "AI",
+          "GPUs",
+          "technology",
+          "stock market",
+          "investment"
+        ]
+      }
+    ],
+    "ticker_news_count": 4,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

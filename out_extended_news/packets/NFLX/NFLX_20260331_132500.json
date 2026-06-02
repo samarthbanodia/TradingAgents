@@ -1,0 +1,129 @@
+{
+  "event": {
+    "event_id": "NFLX_20260331_132500",
+    "ticker": "NFLX",
+    "t0_utc": "2026-03-31 13:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-03-31T10:25:00+00:00",
+      "end": "2026-03-31T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-03-31T12:12:20Z",
+          "title": "S&P 500 Correction Amid Iran War Isn't Typical Bear Market, It Lacks 'Quick Drop' Signature, Says Strategist",
+          "description": "The S&P 500's 9.4% decline is defying typical bear market patterns, taking 35 trading days to reach a 5% drop compared to the historical average of 14.5 days. Strategists suggest this slower pace may indicate a 'growth scare' rather than a prolonged collapse. Morgan Stanley believes the correction is nearing its end stages, with geopolitical risks already priced in, though interest rate sensitivity and Middle East tensions remain headwinds.",
+          "article_url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/03/51564286/sp-500-correction-amid-iran-war-isnt-typical-bear-market-it-lacks-quick-drop-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "S&P 500 correction",
+            "bear market",
+            "market volatility",
+            "Iran war",
+            "geopolitical risk",
+            "growth scare",
+            "interest rates",
+            "Brent crude",
+            "Morgan Stanley",
+            "Carson Group"
+          ]
+        },
+        {
+          "published_utc": "2026-03-31T13:24:34Z",
+          "title": "Stock Market Today: S&P 500, Nasdaq Futures Up As Trump Hints At Iran War End Even If Hormuz Remains Closed\u2014 Allbirds, Rocket Labs, In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Tuesday following Trump's hints at ending the Iran military campaign, boosting market sentiment. Major indices showed gains with the Dow up 0.92% and S&P 500 up 0.89%. Key movers included Allbirds surging 19.4% after announcing an asset sale, Rocket Lab up 2.33% on German regulatory approval, and Virgin Galactic jumping 6.45% despite mixed earnings. Analysts maintain a constructive outlook for 2026 driven by AI investment and fiscal stimulus.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/03/51560112/stock-market-today-sp-500-dow-futures-jump-as-trump-hints-at-ending-iran-war-even-if-hormuz-rema?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "BIRD",
+            "SPCE",
+            "NBIS",
+            "RKLB",
+            "NKE",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "S&P 500",
+            "Dow futures",
+            "Iran conflict",
+            "AI investment",
+            "earnings growth",
+            "Treasury yields",
+            "Federal Reserve"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-03-31T12:12:20Z",
+          "title": "S&P 500 Correction Amid Iran War Isn't Typical Bear Market, It Lacks 'Quick Drop' Signature, Says Strategist",
+          "description": "The S&P 500's 9.4% decline is defying typical bear market patterns, taking 35 trading days to reach a 5% drop compared to the historical average of 14.5 days. Strategists suggest this slower pace may indicate a 'growth scare' rather than a prolonged collapse. Morgan Stanley believes the correction is nearing its end stages, with geopolitical risks already priced in, though interest rate sensitivity and Middle East tensions remain headwinds.",
+          "article_url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/03/51564286/sp-500-correction-amid-iran-war-isnt-typical-bear-market-it-lacks-quick-drop-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "S&P 500 correction",
+            "bear market",
+            "market volatility",
+            "Iran war",
+            "geopolitical risk",
+            "growth scare",
+            "interest rates",
+            "Brent crude",
+            "Morgan Stanley",
+            "Carson Group"
+          ]
+        },
+        {
+          "published_utc": "2026-03-31T13:24:34Z",
+          "title": "Stock Market Today: S&P 500, Nasdaq Futures Up As Trump Hints At Iran War End Even If Hormuz Remains Closed\u2014 Allbirds, Rocket Labs, In Focus (UPDATED)",
+          "description": "U.S. stock futures rose on Tuesday following Trump's hints at ending the Iran military campaign, boosting market sentiment. Major indices showed gains with the Dow up 0.92% and S&P 500 up 0.89%. Key movers included Allbirds surging 19.4% after announcing an asset sale, Rocket Lab up 2.33% on German regulatory approval, and Virgin Galactic jumping 6.45% despite mixed earnings. Analysts maintain a constructive outlook for 2026 driven by AI investment and fiscal stimulus.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/03/51560112/stock-market-today-sp-500-dow-futures-jump-as-trump-hints-at-ending-iran-war-even-if-hormuz-rema?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "BIRD",
+            "SPCE",
+            "NBIS",
+            "RKLB",
+            "NKE",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market",
+            "S&P 500",
+            "Dow futures",
+            "Iran conflict",
+            "AI investment",
+            "earnings growth",
+            "Treasury yields",
+            "Federal Reserve"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "event": {
+    "event_id": "AAPL_20250801_130500",
+    "ticker": "AAPL",
+    "t0_utc": "2025-08-01 13:05:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-08-01T10:05:00+00:00",
+      "end": "2025-08-01T14:05:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-08-01T14:03:00Z",
+        "title": "S&P 500: Is This a Major Reversal?",
+        "description": "The S&P 500 experienced a pullback after reaching a new all-time high, with lower-than-expected jobs data and potential market consolidation. Investors are advised to be cautious and consider defensive positioning.",
+        "article_url": "https://www.investing.com/analysis/sp-500-is-this-a-major-reversal-200664719",
+        "publisher": "Investing.com",
+        "author": "Paul Rejczak",
+        "tickers": [
+          "CVX",
+          "AAPL",
+          "AMZN"
+        ],
+        "keywords": [
+          "S&P 500",
+          "market reversal",
+          "jobs data",
+          "tariffs",
+          "volatility"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

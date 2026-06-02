@@ -1,0 +1,81 @@
+{
+  "event": {
+    "event_id": "PLTR_20250214_142500",
+    "ticker": "PLTR",
+    "t0_utc": "2025-02-14 14:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-02-14T11:25:00+00:00",
+      "end": "2025-02-14T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-02-14T11:55:00Z",
+        "title": "Where Will Palantir Stock Be in 3 Years?",
+        "description": "Palantir Technologies (PLTR) has seen its stock price surge 48% so far this year, outperforming the broader market. While the company's financial performance has been strong, the author argues that Palantir's valuation has become disconnected from reality and may be overvalued.",
+        "article_url": "https://www.fool.com/investing/2025/02/14/where-will-palantir-stock-be-in-3-years/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Adam Spatacco",
+        "tickers": [
+          "PLTR"
+        ],
+        "keywords": [
+          "Palantir Technologies",
+          "data analytics",
+          "AI",
+          "valuation"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-02-14T15:01:13Z",
+          "title": "Explosion Rocks Chernobyl Nuclear Site As Zelenskyy Signals Readiness For Peace Talks",
+          "description": "A drone attack on the Chernobyl nuclear site has raised concerns about the ongoing war in Ukraine, even as President Zelenskyy signals readiness for peace talks with Russia.",
+          "article_url": "https://www.benzinga.com/news/global/25/02/43732115/explosion-rocks-chernobyl-nuclear-site-as-zelenskyy-signals-readiness-for-peace-talks",
+          "publisher": "Benzinga",
+          "author": "Erica Kollmann",
+          "tickers": [
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "Chernobyl",
+            "Ukraine",
+            "Russia",
+            "Peace talks"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-02-14T15:01:13Z",
+          "title": "Explosion Rocks Chernobyl Nuclear Site As Zelenskyy Signals Readiness For Peace Talks",
+          "description": "A drone attack on the Chernobyl nuclear site has raised concerns about the ongoing war in Ukraine, even as President Zelenskyy signals readiness for peace talks with Russia.",
+          "article_url": "https://www.benzinga.com/news/global/25/02/43732115/explosion-rocks-chernobyl-nuclear-site-as-zelenskyy-signals-readiness-for-peace-talks",
+          "publisher": "Benzinga",
+          "author": "Erica Kollmann",
+          "tickers": [
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "Chernobyl",
+            "Ukraine",
+            "Russia",
+            "Peace talks"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "event": {
+    "event_id": "NFLX_20260225_142500",
+    "ticker": "NFLX",
+    "t0_utc": "2026-02-25 14:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-02-25T11:25:00+00:00",
+      "end": "2026-02-25T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-02-25T12:42:00Z",
+        "title": "Paramount Skydance Moving Higher as Warner Bros Revisits $31 Per Share Offer",
+        "description": "Paramount Skydance raised its acquisition offer for Warner Bros Discovery to $31 per share in cash, prompting WBD's board to reconsider the previously preferred Netflix deal. The improved bid includes increased regulatory termination fees and a daily ticking fee, throwing the March 20 Netflix shareholder vote into doubt. PSKY stock rose in premarket trading following the announcement.",
+        "article_url": "https://www.investing.com/analysis/paramount-skydance-moving-higher-as-warner-bros-revisits-31-per-share-offer-200675636",
+        "publisher": "Investing.com",
+        "author": "Timothy Fries",
+        "tickers": [
+          "PSKY",
+          "WBD",
+          "NFLX"
+        ],
+        "keywords": [
+          "acquisition",
+          "bidding war",
+          "merger agreement",
+          "streaming",
+          "Hollywood studios",
+          "M&A uncertainty"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-02-25T13:37:26Z",
+          "title": "Stock Market Today: S&P 500, Dow, Nasdaq Futures Rise After Trump's State Of The Union Address\u2014 Nvidia, HSBC, Workday In Focus  (UPDATED)",
+          "description": "U.S. stock futures rose on Wednesday following Trump's State of the Union address, where he touted 53 all-time stock market highs and proposed replacing income tax with foreign tariffs. Key movers included Workday plunging 9.51% despite strong earnings due to weak forward guidance, HSBC rising 4.43% on increased net interest income, and Nvidia holding steady ahead of earnings. Treasury yields remained stable at 4.05% for 10-year bonds, with markets pricing a 98% likelihood of unchanged Fed rates in March.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50842124/stock-market-today-dow-jones-nasdaq-100-futures-rise-after-trumps-state-of-the-union-address-nvi?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "WDAY",
+            "HSBC",
+            "NVDA",
+            "SHEL",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market futures",
+            "Trump State of the Union",
+            "tariffs",
+            "earnings",
+            "Federal Reserve",
+            "Treasury yields",
+            "market sentiment"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-02-25T13:37:26Z",
+          "title": "Stock Market Today: S&P 500, Dow, Nasdaq Futures Rise After Trump's State Of The Union Address\u2014 Nvidia, HSBC, Workday In Focus  (UPDATED)",
+          "description": "U.S. stock futures rose on Wednesday following Trump's State of the Union address, where he touted 53 all-time stock market highs and proposed replacing income tax with foreign tariffs. Key movers included Workday plunging 9.51% despite strong earnings due to weak forward guidance, HSBC rising 4.43% on increased net interest income, and Nvidia holding steady ahead of earnings. Treasury yields remained stable at 4.05% for 10-year bonds, with markets pricing a 98% likelihood of unchanged Fed rates in March.",
+          "article_url": "https://www.benzinga.com/markets/equities/26/02/50842124/stock-market-today-dow-jones-nasdaq-100-futures-rise-after-trumps-state-of-the-union-address-nvi?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "WDAY",
+            "HSBC",
+            "NVDA",
+            "SHEL",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market futures",
+            "Trump State of the Union",
+            "tariffs",
+            "earnings",
+            "Federal Reserve",
+            "Treasury yields",
+            "market sentiment"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "event": {
+    "event_id": "TSLA_20240605_133000",
+    "ticker": "TSLA",
+    "t0_utc": "2024-06-05 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2024-06-05T10:30:00+00:00",
+      "end": "2024-06-05T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-06-05T10:47:00Z",
+        "title": "Tesla Analyst Warns Shareholders AI Investments Could Slow If Elon Musk Doesn't Get 25% Voting Stake",
+        "description": "Morgan Stanley\u00a0analyst\u00a0Adam Jonas thinks Tesla Inc (NASDAQ:TSLA) shareholders must be prepared for the EV company to slow down or curtail direct investments in advanced AI efforts if its billionaire CEO Elon Musk does not achieve a 25% voting stake in the company.\nWhat Happened: Musk has previously expressed discomfort with advancing Tesla in AI without having 25% voting. Unless Musk gets this, shareholders must be prepared for the company slowing down AI investments, Jonas wrote in a note on Tuesday.\n\u201cWhile Tesla may still be in a position to benefit indirectly from AI advancements, we believe that most of the adjacent AI efforts could be concentrated within non-Tesla entities where Elon Musk has control in the event Mr. Musk does not reach a 25% voting share of Tesla,\u201d Jonas wrote. \nIn April, Musk ...Full story available on Benzinga.com",
+        "article_url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/06/39179873/tesla-analyst-warns-shareholders-ai-investments-could-slow-if-elon-musk-doesnt-get-",
+        "publisher": "Benzinga",
+        "author": "Anan Ashraf",
+        "tickers": [
+          "TSLA"
+        ],
+        "keywords": [
+          "News",
+          "Analyst Color",
+          "Top Stories",
+          "Tech"
+        ]
+      },
+      {
+        "published_utc": "2024-06-05T12:30:00Z",
+        "title": "4 Stocks to Sell Right Now",
+        "description": "Losing money with no sign of profit is a bad start for these stocks.",
+        "article_url": "https://www.fool.com/investing/2024/06/05/4-stocks-to-sell-right-now/",
+        "publisher": "The Motley Fool",
+        "author": "newsfeedback@fool.com (Travis Hoium)",
+        "tickers": [
+          "RIVN",
+          "F",
+          "TSLA",
+          "GM",
+          "PLUG",
+          "RACE",
+          "CHPT",
+          "DJT"
+        ],
+        "keywords": [
+          "investing"
+        ]
+      },
+      {
+        "published_utc": "2024-06-05T13:00:15Z",
+        "title": "Investors Heavily Search Tesla, Inc. (TSLA): Here is What You Need to Know",
+        "description": "Zacks.com users have recently been watching Tesla (TSLA) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+        "article_url": "https://www.zacks.com/stock/news/2283814/investors-heavily-search-tesla-inc-tsla-here-is-what-you-need-to-know",
+        "publisher": "Zacks Investment Research",
+        "author": "Zacks Equity Research",
+        "tickers": [
+          "TSLA"
+        ],
+        "keywords": []
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-06-05T11:24:25Z",
+          "title": "Wall Street Looks To Extend Gains As Traders Eye More Jobs Data: Why This Analyst Sees 4% S&P 500 Rise In June",
+          "description": "U.S. stocks are gearing up for a cautiously optimistic start on Wednesday after a late-session recovery led to a positive close in the previous session. Labor market data and service sector activity reading could set the tempo for the day\u2019s trading direction. A soft private payroll number could prove to be a double-edged sword, depending on what traders choose to focus on. Bond yields remain subdued and but could see some volatility post the data. Positive reactions to earnings, specifically from the tech sector, could provide a lift to the space.\n\n\n\n\nFutures\nPerformance (+/-)\n\n\nNasdaq 100\n+0.39%\n\n\nS&P 500\n+0.20%\n\n\nDow\n+0.13%\n\n\nR2K\n+0.05%\n\n\n\nIn premarket trading on Wednesday,\u00a0the SPDR S&P 500 ETF Trust (NYSE:SPY) slumped 0.20% to $529.44, and the\u00a0Invesco QQQ ETF (NASDAQ:QQQ) traded up 0.42% at $456.21, according to\u00a0Benzinga Pro data.\nCues From Previous Session:\nU.S. stocks moved about in a lackluster manner for the bulk of Tuesday\u2019s session but managed to close the day higher. After the Labor Department\u2019s JOLTS survey, showing job openings slumping to their lowest level since 2021 jolted the market early on, the indices stayed mostly below the unchanged. Stocks experienced volatility in the late session but came back up to end firmer.\nSmall-cap stocks ended with notable losses amid the meme stock volatility.\n\n\n\n\nIndex\nPerformance   ...Full story available on Benzinga.com",
+          "article_url": "https://www.benzinga.com/news/earnings/24/06/39180770/wall-street-looks-to-extend-gains-as-traders-eye-more-jobs-data-why-this-analyst-sees-4-s-p-500-ris",
+          "publisher": "Benzinga",
+          "author": "Shanthi Rexaline",
+          "tickers": [
+            "CRWD",
+            "SPY",
+            "VSCO",
+            "DLTR",
+            "HIBB",
+            "LULU",
+            "SMTC",
+            "UNFI",
+            "CPB",
+            "QQQ",
+            "CHPT",
+            "FIVE",
+            "OLLI",
+            "HPE",
+            "SFIX",
+            "SMAR"
+          ],
+          "keywords": [
+            "News",
+            "Earnings",
+            "Equities",
+            "Futures",
+            "Previews",
+            "Top Stories",
+            "Economics",
+            "Federal Reserve",
+            "Pre-Market Outlook",
+            "Markets",
+            "Movers",
+            "Trading Ideas"
+          ]
+        },
+        {
+          "published_utc": "2024-06-05T12:35:39Z",
+          "title": "152,000 New Jobs Added In May, Missing Expectations: 'Notable Pockets Of Weakness'",
+          "description": "The rate of job creation in the U.S. private sector fell short of expectations in May, signaling a potential cooling in the labor market.\nU.S. private employers added 152,000 new jobs last month. That\u2019s down from 192,000 in April, according to the latest ADP National Employment Report. The outcome missed market consensus estimates compiled by Econoday which expected a rise to 173,000.\nThe ADP report provides an early glimpse of the Bureau of Labor Statistics\u2019 May jobs report, which is set to be released this Friday.\nEconomists anticipate an increase in nonfarm payrolls from 175,000 in April to 195,000 in May. They also expect the unemployment rate to remain steady at 3.9%, with average hourly earnings projected to increase ...Full story available on Benzinga.com",
+          "article_url": "https://www.benzinga.com/economics/macro-economic-events/24/06/39182923/152-000-new-jobs-added-in-may-missing-expectations-notable-pockets-of-weakness",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "SPY",
+            "UUP",
+            "QQQ"
+          ],
+          "keywords": [
+            "Macro Economic Events",
+            "Broad U.S. Equity ETFs",
+            "Currency ETFs",
+            "Econ #s",
+            "Economics",
+            "ETFs"
+          ]
+        },
+        {
+          "published_utc": "2024-06-05T14:15:00Z",
+          "title": "ADP Payrolls Depict Cooling Labor Market",
+          "description": "ADP numbers for May came down for the second month in a row to 152K from a downwardly revised 188K for March.",
+          "article_url": "https://www.zacks.com/stock/news/2284026/adp-payrolls-depict-cooling-labor-market",
+          "publisher": "Zacks Investment Research",
+          "author": "Mark Vickery",
+          "tickers": [
+            "ADP",
+            "QQQ",
+            "SPY",
+            "DIA"
+          ],
+          "keywords": []
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2024-06-05T11:24:25Z",
+          "title": "Wall Street Looks To Extend Gains As Traders Eye More Jobs Data: Why This Analyst Sees 4% S&P 500 Rise In June",
+          "description": "U.S. stocks are gearing up for a cautiously optimistic start on Wednesday after a late-session recovery led to a positive close in the previous session. Labor market data and service sector activity reading could set the tempo for the day\u2019s trading direction. A soft private payroll number could prove to be a double-edged sword, depending on what traders choose to focus on. Bond yields remain subdued and but could see some volatility post the data. Positive reactions to earnings, specifically from the tech sector, could provide a lift to the space.\n\n\n\n\nFutures\nPerformance (+/-)\n\n\nNasdaq 100\n+0.39%\n\n\nS&P 500\n+0.20%\n\n\nDow\n+0.13%\n\n\nR2K\n+0.05%\n\n\n\nIn premarket trading on Wednesday,\u00a0the SPDR S&P 500 ETF Trust (NYSE:SPY) slumped 0.20% to $529.44, and the\u00a0Invesco QQQ ETF (NASDAQ:QQQ) traded up 0.42% at $456.21, according to\u00a0Benzinga Pro data.\nCues From Previous Session:\nU.S. stocks moved about in a lackluster manner for the bulk of Tuesday\u2019s session but managed to close the day higher. After the Labor Department\u2019s JOLTS survey, showing job openings slumping to their lowest level since 2021 jolted the market early on, the indices stayed mostly below the unchanged. Stocks experienced volatility in the late session but came back up to end firmer.\nSmall-cap stocks ended with notable losses amid the meme stock volatility.\n\n\n\n\nIndex\nPerformance   ...Full story available on Benzinga.com",
+          "article_url": "https://www.benzinga.com/news/earnings/24/06/39180770/wall-street-looks-to-extend-gains-as-traders-eye-more-jobs-data-why-this-analyst-sees-4-s-p-500-ris",
+          "publisher": "Benzinga",
+          "author": "Shanthi Rexaline",
+          "tickers": [
+            "CRWD",
+            "SPY",
+            "VSCO",
+            "DLTR",
+            "HIBB",
+            "LULU",
+            "SMTC",
+            "UNFI",
+            "CPB",
+            "QQQ",
+            "CHPT",
+            "FIVE",
+            "OLLI",
+            "HPE",
+            "SFIX",
+            "SMAR"
+          ],
+          "keywords": [
+            "News",
+            "Earnings",
+            "Equities",
+            "Futures",
+            "Previews",
+            "Top Stories",
+            "Economics",
+            "Federal Reserve",
+            "Pre-Market Outlook",
+            "Markets",
+            "Movers",
+            "Trading Ideas"
+          ]
+        },
+        {
+          "published_utc": "2024-06-05T12:35:39Z",
+          "title": "152,000 New Jobs Added In May, Missing Expectations: 'Notable Pockets Of Weakness'",
+          "description": "The rate of job creation in the U.S. private sector fell short of expectations in May, signaling a potential cooling in the labor market.\nU.S. private employers added 152,000 new jobs last month. That\u2019s down from 192,000 in April, according to the latest ADP National Employment Report. The outcome missed market consensus estimates compiled by Econoday which expected a rise to 173,000.\nThe ADP report provides an early glimpse of the Bureau of Labor Statistics\u2019 May jobs report, which is set to be released this Friday.\nEconomists anticipate an increase in nonfarm payrolls from 175,000 in April to 195,000 in May. They also expect the unemployment rate to remain steady at 3.9%, with average hourly earnings projected to increase ...Full story available on Benzinga.com",
+          "article_url": "https://www.benzinga.com/economics/macro-economic-events/24/06/39182923/152-000-new-jobs-added-in-may-missing-expectations-notable-pockets-of-weakness",
+          "publisher": "Benzinga",
+          "author": "Piero Cingari",
+          "tickers": [
+            "SPY",
+            "UUP",
+            "QQQ"
+          ],
+          "keywords": [
+            "Macro Economic Events",
+            "Broad U.S. Equity ETFs",
+            "Currency ETFs",
+            "Econ #s",
+            "Economics",
+            "ETFs"
+          ]
+        },
+        {
+          "published_utc": "2024-06-05T14:15:00Z",
+          "title": "ADP Payrolls Depict Cooling Labor Market",
+          "description": "ADP numbers for May came down for the second month in a row to 152K from a downwardly revised 188K for March.",
+          "article_url": "https://www.zacks.com/stock/news/2284026/adp-payrolls-depict-cooling-labor-market",
+          "publisher": "Zacks Investment Research",
+          "author": "Mark Vickery",
+          "tickers": [
+            "ADP",
+            "QQQ",
+            "SPY",
+            "DIA"
+          ],
+          "keywords": []
+        }
+      ]
+    }
+  }
+}

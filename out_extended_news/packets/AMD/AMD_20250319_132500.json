@@ -1,0 +1,67 @@
+{
+  "event": {
+    "event_id": "AMD_20250319_132500",
+    "ticker": "AMD",
+    "t0_utc": "2025-03-19 13:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2025-03-19T10:25:00+00:00",
+      "end": "2025-03-19T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-03-19T10:25:38Z",
+          "title": "US Stocks Likely To Open Higher Ahead Of FOMC Decision: 'Tariffs Remain The Dominant Market Force' Amid Rising Economic Uncertainty, Says Expert",
+          "description": "U.S. stock futures are expected to open higher ahead of the Federal Reserve's interest rate decision. Experts believe tariffs remain the dominant market force, and the path forward depends on how trade policy evolves.",
+          "article_url": "https://www.benzinga.com/25/03/44393620/us-stocks-likely-to-open-higher-ahead-of-fomc-decision-tariffs-remain-the-dominant-market-force-amid-rising-econo",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "FIVE",
+            "FEAM",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "US stocks",
+            "FOMC decision",
+            "tariffs",
+            "economic uncertainty"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-03-19T10:25:38Z",
+          "title": "US Stocks Likely To Open Higher Ahead Of FOMC Decision: 'Tariffs Remain The Dominant Market Force' Amid Rising Economic Uncertainty, Says Expert",
+          "description": "U.S. stock futures are expected to open higher ahead of the Federal Reserve's interest rate decision. Experts believe tariffs remain the dominant market force, and the path forward depends on how trade policy evolves.",
+          "article_url": "https://www.benzinga.com/25/03/44393620/us-stocks-likely-to-open-higher-ahead-of-fomc-decision-tariffs-remain-the-dominant-market-force-amid-rising-econo",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "FIVE",
+            "FEAM",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "US stocks",
+            "FOMC decision",
+            "tariffs",
+            "economic uncertainty"
+          ]
+        }
+      ]
+    }
+  }
+}

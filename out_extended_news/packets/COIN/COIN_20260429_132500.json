@@ -1,0 +1,46 @@
+{
+  "event": {
+    "event_id": "COIN_20260429_132500",
+    "ticker": "COIN",
+    "t0_utc": "2026-04-29 13:25:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-04-29T10:25:00+00:00",
+      "end": "2026-04-29T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-04-29T12:30:00Z",
+          "title": "Here's Why I'm Avoiding SpaceX Stock After the IPO",
+          "description": "The Motley Fool advises caution on SpaceX's anticipated IPO, citing concerns about its $2 trillion valuation (P/S ratio of 129 vs. S&P 500 average of 3.5), slowing revenue growth (18% in 2025 vs. 89% in 2023), and a risky pivot into AI through the acquisition of xAI. The company posted a $5 billion loss in 2025 due to AI spending, and large IPOs historically underperform the market in the 3-5 years following listing.",
+          "article_url": "https://www.fool.com/investing/2026/04/29/heres-why-im-avoiding-spacex-stock-after-the-ipo/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Will Ebiefung",
+          "tickers": [
+            "SPY"
+          ],
+          "keywords": [
+            "IPO",
+            "valuation risk",
+            "slowing growth",
+            "AI acquisition",
+            "market underperformance",
+            "xAI merger",
+            "generative AI"
+          ]
+        }
+      ],
+      "QQQ": []
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "event": {
+    "event_id": "TSLA_20240904_132500",
+    "ticker": "TSLA",
+    "t0_utc": "2024-09-04 13:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-09-04T10:25:00+00:00",
+      "end": "2024-09-04T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-09-04T10:30:00Z",
+        "title": "NIO's Secret Weapon Is About to Take On Tesla",
+        "description": "Nio is launching its more affordable Onvo brand to compete with Tesla's Model Y in China. The Onvo L60 will be priced around $4,000 cheaper than the Model Y. Nio is hoping the mainstream Onvo brand can help improve its profitability, which has been impacted by its growth phase and the weak Chinese economy.",
+        "article_url": "https://www.fool.com/investing/2024/09/04/nios-secret-weapon-is-about-to-take-on-tesla/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Daniel Miller",
+        "tickers": [
+          "NIO",
+          "TSLA"
+        ],
+        "keywords": [
+          "Nio",
+          "Onvo",
+          "Tesla",
+          "electric vehicles",
+          "China"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-09-04T11:01:39Z",
+          "title": "No Respite For US Stocks As Futures Sag, VIX Spikes 10%, Bitcoin Slides: Strategist Warns Of Further Pain In September, But Recommends Buying Dip",
+          "description": "US stock futures are pointing to further losses as investors react to weak economic data and concerns about the Federal Reserve's monetary policy. The tech-heavy Nasdaq and S&P 500 indices fell sharply on Tuesday, with the sell-off continuing in premarket trading on Wednesday.",
+          "article_url": "https://www.benzinga.com/news/earnings/24/09/40703532/no-respite-for-us-stocks-as-futures-sag-vix-spikes-10-bitcoin-slides-strategist-warns-of-further-pa",
+          "publisher": "Benzinga",
+          "author": "Benzinga",
+          "tickers": [
+            "QQQ",
+            "SPY",
+            "NVDA",
+            "GTLB",
+            "PD",
+            "ZS"
+          ],
+          "keywords": [
+            "US stocks",
+            "Nasdaq",
+            "S&P 500",
+            "Federal Reserve",
+            "economic data"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2024-09-04T11:01:39Z",
+          "title": "No Respite For US Stocks As Futures Sag, VIX Spikes 10%, Bitcoin Slides: Strategist Warns Of Further Pain In September, But Recommends Buying Dip",
+          "description": "US stock futures are pointing to further losses as investors react to weak economic data and concerns about the Federal Reserve's monetary policy. The tech-heavy Nasdaq and S&P 500 indices fell sharply on Tuesday, with the sell-off continuing in premarket trading on Wednesday.",
+          "article_url": "https://www.benzinga.com/news/earnings/24/09/40703532/no-respite-for-us-stocks-as-futures-sag-vix-spikes-10-bitcoin-slides-strategist-warns-of-further-pa",
+          "publisher": "Benzinga",
+          "author": "Benzinga",
+          "tickers": [
+            "QQQ",
+            "SPY",
+            "NVDA",
+            "GTLB",
+            "PD",
+            "ZS"
+          ],
+          "keywords": [
+            "US stocks",
+            "Nasdaq",
+            "S&P 500",
+            "Federal Reserve",
+            "economic data"
+          ]
+        }
+      ]
+    }
+  }
+}

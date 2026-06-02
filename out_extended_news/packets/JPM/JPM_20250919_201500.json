@@ -1,0 +1,53 @@
+{
+  "event": {
+    "event_id": "JPM_20250919_201500",
+    "ticker": "JPM",
+    "t0_utc": "2025-09-19 20:15:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-09-19T17:15:00+00:00",
+      "end": "2025-09-19T21:15:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-09-19T18:45:20Z",
+        "title": "XPeng's 'Land Aircraft Carrier' Could Make Flying Cars China's Next EV Moment",
+        "description": "XPeng's Advanced Air Mobility subsidiary AeroHT is developing a modular electric vertical takeoff-and-landing (eVTOL) drone, the X3-F, which can detach from a six-wheeled minivan. With over 3,000 pre-orders and plans for mass production in 2026, the company aims to tap into China's urban air mobility market projected to reach $7 billion by 2030.",
+        "article_url": "https://www.benzinga.com/markets/tech/25/09/47771299/xpengs-land-aircraft-carrier-could-make-flying-cars-chinas-next-ev-moment",
+        "publisher": "Benzinga",
+        "author": "Surbhi Jain",
+        "tickers": [
+          "XPEV",
+          "AMJB",
+          "JPM",
+          "JPMpC",
+          "JPMpD",
+          "JPMpJ",
+          "JPMpK",
+          "JPMpL",
+          "JPMpM",
+          "VYLD"
+        ],
+        "keywords": [
+          "flying cars",
+          "eVTOL",
+          "urban air mobility",
+          "electric vehicles",
+          "drone"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

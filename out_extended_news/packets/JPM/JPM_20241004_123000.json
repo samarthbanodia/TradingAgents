@@ -1,0 +1,85 @@
+{
+  "event": {
+    "event_id": "JPM_20241004_123000",
+    "ticker": "JPM",
+    "t0_utc": "2024-10-04 12:30:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2024-10-04T09:30:00+00:00",
+      "end": "2024-10-04T13:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2024-10-04T10:20:56Z",
+          "title": "US Stocks On Edge As Traders Brace For Crucial Jobs Report: Why This Fund Manager Says AI Stocks Just Received Big Boost",
+          "description": "US stock futures are mixed ahead of the crucial September jobs report, with traders cautiously optimistic. The suspension of the Longshoremen's strike and the Fed's expected rate cuts are also in focus.",
+          "article_url": "https://www.benzinga.com/news/earnings/24/10/41181506/us-stocks-on-edge-as-traders-brace-for-crucial-jobs-report-why-this-fund-manager-says-ai-stocks-jus",
+          "publisher": "Benzinga",
+          "author": "Shanthi Rexaline",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "SAVE",
+            "JBLU"
+          ],
+          "keywords": [
+            "US stock futures",
+            "jobs data",
+            "Fed rate cuts",
+            "Longshoremen's strike"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2024-10-04T10:20:56Z",
+          "title": "US Stocks On Edge As Traders Brace For Crucial Jobs Report: Why This Fund Manager Says AI Stocks Just Received Big Boost",
+          "description": "US stock futures are mixed ahead of the crucial September jobs report, with traders cautiously optimistic. The suspension of the Longshoremen's strike and the Fed's expected rate cuts are also in focus.",
+          "article_url": "https://www.benzinga.com/news/earnings/24/10/41181506/us-stocks-on-edge-as-traders-brace-for-crucial-jobs-report-why-this-fund-manager-says-ai-stocks-jus",
+          "publisher": "Benzinga",
+          "author": "Shanthi Rexaline",
+          "tickers": [
+            "SPY",
+            "QQQ",
+            "SAVE",
+            "JBLU"
+          ],
+          "keywords": [
+            "US stock futures",
+            "jobs data",
+            "Fed rate cuts",
+            "Longshoremen's strike"
+          ]
+        },
+        {
+          "published_utc": "2024-10-04T11:05:00Z",
+          "title": "Is Invesco QQQ Trust a Millionaire Maker?",
+          "description": "The Invesco QQQ Trust, an ETF that tracks the Nasdaq 100 Index, has outperformed the S&P 500 in recent years. It is heavily weighted towards the technology sector, which has seen strong growth. The ETF has generated impressive returns, but investors should be aware of its higher volatility compared to the broader market.",
+          "article_url": "https://www.fool.com/investing/2024/10/04/is-invesco-qqq-trust-a-millionaire-maker/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Neil Patel",
+          "tickers": [
+            "QQQ"
+          ],
+          "keywords": [
+            "Invesco QQQ Trust",
+            "Nasdaq 100 Index",
+            "S&P 500",
+            "technology sector",
+            "long-term investment"
+          ]
+        }
+      ]
+    }
+  }
+}

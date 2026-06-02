@@ -1,0 +1,48 @@
+{
+  "event": {
+    "event_id": "AAPL_20240708_133500",
+    "ticker": "AAPL",
+    "t0_utc": "2024-07-08 13:35:00+00:00",
+    "direction": -1,
+    "label_proxy": "reversal",
+    "window": {
+      "start": "2024-07-08T10:35:00+00:00",
+      "end": "2024-07-08T14:35:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2024-07-08T13:56:47Z",
+        "title": "S&P 500: Are We Already in the Euphoria Phase? - Investing.com",
+        "description": "The S&P 500 index reached a new record high last week, but the risk of a downward correction is increasing as the market may be in the euphoria phase. The Nasdaq 100 also hit new records, driven by gains in major tech stocks.",
+        "article_url": "https://www.investing.com/analysis/sp-500-are-we-already-in-the-euphoria-phase-200649814",
+        "publisher": "Investing.com",
+        "author": "Sunshine Profits",
+        "tickers": [
+          "AAPL",
+          "GOOG",
+          "GOOGL",
+          "META",
+          "MSFT"
+        ],
+        "keywords": [
+          "S&P 500",
+          "Nasdaq 100",
+          "stock market",
+          "euphoria phase",
+          "downward correction"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

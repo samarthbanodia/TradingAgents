@@ -1,0 +1,104 @@
+{
+  "event": {
+    "event_id": "AMD_20250508_132500",
+    "ticker": "AMD",
+    "t0_utc": "2025-05-08 13:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-05-08T10:25:00+00:00",
+      "end": "2025-05-08T14:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-05-08T12:48:00Z",
+        "title": "5 Stocks That Crushed Earnings and Guidance Forecasts",
+        "description": "Several major tech companies, including Microsoft, Meta Platforms, Netflix, Advanced Micro Devices, and Roblox, reported strong earnings and guidance that exceeded market expectations, suggesting the market correction may be an overreaction.",
+        "article_url": "https://www.investing.com/analysis/5-stocks-that-crushed-earnings-and-guidance-forecasts-200660545",
+        "publisher": "Investing.com",
+        "author": "Marketbeat.Com",
+        "tickers": [
+          "MSFT",
+          "META",
+          "NFLX",
+          "AMD",
+          "RBLX"
+        ],
+        "keywords": [
+          "earnings",
+          "guidance",
+          "technology",
+          "stocks"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-05-08T12:22:25Z",
+          "title": "Federal Reserve 'Will Be The Last To Cut' Rates, Says Expert Who Still Expects Four Cuts In 2025",
+          "description": "Despite calls for lower interest rates, the Federal Reserve held rates steady at 4.25%-4.5% on Wednesday. An expert anticipates that the Fed will be among the last central banks to cut rates, while still expecting four cuts in 2025.",
+          "article_url": "https://www.benzinga.com/government/regulations/25/05/45283497/federal-reserve-will-be-the-last-to-cut-says-expert-anticipating-4-cuts-in-2025-a-thaw-in-",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "interest rates",
+            "central banks",
+            "U.S.-China trade tensions"
+          ]
+        },
+        {
+          "published_utc": "2025-05-08T13:09:00Z",
+          "title": "Market Sell Off: Buckle Up, Here's Why History Says This Roller-Coaster Ride Could Just Be Getting Started",
+          "description": "The article discusses the current market sell-off, noting that it is not as traumatic as previous bear markets, but warns that the downturn could get much worse. It highlights the historical patterns of corrections and bear markets, and advises investors to stay the course and invest for the long term.",
+          "article_url": "https://www.fool.com/investing/2025/05/08/market-sell-off-buckle-up-heres-why-history-says-t/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "The Motley Fool",
+          "tickers": [
+            "VOO",
+            "SPY"
+          ],
+          "keywords": [
+            "market sell-off",
+            "bear market",
+            "correction",
+            "stock market history",
+            "long-term investing"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-05-08T12:22:25Z",
+          "title": "Federal Reserve 'Will Be The Last To Cut' Rates, Says Expert Who Still Expects Four Cuts In 2025",
+          "description": "Despite calls for lower interest rates, the Federal Reserve held rates steady at 4.25%-4.5% on Wednesday. An expert anticipates that the Fed will be among the last central banks to cut rates, while still expecting four cuts in 2025.",
+          "article_url": "https://www.benzinga.com/government/regulations/25/05/45283497/federal-reserve-will-be-the-last-to-cut-says-expert-anticipating-4-cuts-in-2025-a-thaw-in-",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "interest rates",
+            "central banks",
+            "U.S.-China trade tensions"
+          ]
+        }
+      ]
+    }
+  }
+}

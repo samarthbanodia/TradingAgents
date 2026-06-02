@@ -1,0 +1,65 @@
+{
+  "event": {
+    "event_id": "AMD_20250918_110000",
+    "ticker": "AMD",
+    "t0_utc": "2025-09-18 11:00:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-09-18T08:00:00+00:00",
+      "end": "2025-09-18T12:00:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [],
+    "ticker_news_count": 0,
+    "ticker_news_truncated": false,
+    "no_news_found": true,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-09-18T08:27:53Z",
+          "title": "S&P 500 Historically Returns Over 16% In Year Two Of Fed Easing Cycle, But Only If 'Recession Is Averted'",
+          "description": "Historical data suggests the S&P 500 could return over 16% in the second year of a Federal Reserve rate-cutting cycle, contingent on avoiding a recession and maintaining economic growth.",
+          "article_url": "https://www.benzinga.com/markets/equities/25/09/47732445/sp-500-historically-returns-over-16-in-year-two-of-fed-easing-cycle-but-only-if-recession-is-ave",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "rate cuts",
+            "stock market",
+            "economic cycle",
+            "recession"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-09-18T08:27:53Z",
+          "title": "S&P 500 Historically Returns Over 16% In Year Two Of Fed Easing Cycle, But Only If 'Recession Is Averted'",
+          "description": "Historical data suggests the S&P 500 could return over 16% in the second year of a Federal Reserve rate-cutting cycle, contingent on avoiding a recession and maintaining economic growth.",
+          "article_url": "https://www.benzinga.com/markets/equities/25/09/47732445/sp-500-historically-returns-over-16-in-year-two-of-fed-easing-cycle-but-only-if-recession-is-ave",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "rate cuts",
+            "stock market",
+            "economic cycle",
+            "recession"
+          ]
+        }
+      ]
+    }
+  }
+}

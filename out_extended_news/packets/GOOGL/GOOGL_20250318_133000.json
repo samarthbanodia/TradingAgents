@@ -1,0 +1,49 @@
+{
+  "event": {
+    "event_id": "GOOGL_20250318_133000",
+    "ticker": "GOOGL",
+    "t0_utc": "2025-03-18 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-03-18T10:30:00+00:00",
+      "end": "2025-03-18T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-03-18T11:30:00Z",
+        "title": "Where Will Nvidia Be in 1 Year?",
+        "description": "Despite concerns about tariffs, chip sales, and a pessimistic view of tech stocks, Nvidia's AI processors are well-positioned to benefit from the massive growth in data center investments and the long-term potential of artificial intelligence.",
+        "article_url": "https://www.fool.com/investing/2025/03/18/where-will-nvidia-be-in-1-year/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Chris Neiger",
+        "tickers": [
+          "NVDA",
+          "GOOG",
+          "GOOGL",
+          "META",
+          "ORCL",
+          "SFTBY"
+        ],
+        "keywords": [
+          "Nvidia",
+          "AI",
+          "data centers",
+          "technology",
+          "economy"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [],
+      "QQQ": []
+    }
+  }
+}

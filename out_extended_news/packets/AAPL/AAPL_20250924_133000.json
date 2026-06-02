@@ -1,0 +1,84 @@
+{
+  "event": {
+    "event_id": "AAPL_20250924_133000",
+    "ticker": "AAPL",
+    "t0_utc": "2025-09-24 13:30:00+00:00",
+    "direction": -1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2025-09-24T10:30:00+00:00",
+      "end": "2025-09-24T14:30:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2025-09-24T12:00:00Z",
+        "title": "ZAGG Announces the Pro Keys Connect: A Durable, Direct-Connect Keyboard Case for iPad Users",
+        "description": "ZAGG introduces the Pro Keys Connect, a versatile keyboard and case combo for iPad with USB-C direct connect, integrated trackpad, and drop protection, designed to enhance productivity for mobile users.",
+        "article_url": "https://www.globenewswire.com/news-release/2025/09/24/3155383/24609/en/ZAGG-Announces-the-Pro-Keys-Connect-A-Durable-Direct-Connect-Keyboard-Case-for-iPad-Users.html",
+        "publisher": "GlobeNewswire Inc.",
+        "author": "Brad Bell",
+        "tickers": [
+          "AAPL"
+        ],
+        "keywords": [
+          "iPad",
+          "keyboard",
+          "accessories",
+          "productivity",
+          "USB-C"
+        ]
+      }
+    ],
+    "ticker_news_count": 1,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2025-09-24T11:08:59Z",
+          "title": "Tom Lee Claps Back At Powell's Overvalued Markets Warning, Says Fed Has Never Considered Stocks 'Attractively Priced'",
+          "description": "Federal Reserve Chair Jerome Powell suggested stocks are 'fairly highly valued', prompting Fundstrat's Tom Lee to argue that the Fed has never considered stocks attractively priced. Lee advised investors not to view Powell's comments as an ominous sign.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/25/09/47837669/tom-lee-claps-back-at-powells-overvalued-markets-warning-says-fed-has-never-considered-stoc",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "stock valuation",
+            "market sentiment",
+            "Jerome Powell",
+            "Tom Lee"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2025-09-24T11:08:59Z",
+          "title": "Tom Lee Claps Back At Powell's Overvalued Markets Warning, Says Fed Has Never Considered Stocks 'Attractively Priced'",
+          "description": "Federal Reserve Chair Jerome Powell suggested stocks are 'fairly highly valued', prompting Fundstrat's Tom Lee to argue that the Fed has never considered stocks attractively priced. Lee advised investors not to view Powell's comments as an ominous sign.",
+          "article_url": "https://www.benzinga.com/markets/economic-data/25/09/47837669/tom-lee-claps-back-at-powells-overvalued-markets-warning-says-fed-has-never-considered-stoc",
+          "publisher": "Benzinga",
+          "author": "Rishabh Mishra",
+          "tickers": [
+            "QQQ",
+            "SPY"
+          ],
+          "keywords": [
+            "Federal Reserve",
+            "stock valuation",
+            "market sentiment",
+            "Jerome Powell",
+            "Tom Lee"
+          ]
+        }
+      ]
+    }
+  }
+}

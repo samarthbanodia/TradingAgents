@@ -1,0 +1,195 @@
+{
+  "event": {
+    "event_id": "MSFT_20260123_142500",
+    "ticker": "MSFT",
+    "t0_utc": "2026-01-23 14:25:00+00:00",
+    "direction": 1,
+    "label_proxy": "continuation",
+    "window": {
+      "start": "2026-01-23T11:25:00+00:00",
+      "end": "2026-01-23T15:25:00+00:00",
+      "lookback_hours": 3.0,
+      "lookahead_hours": 1.0
+    }
+  },
+  "news": {
+    "ticker_news": [
+      {
+        "published_utc": "2026-01-23T13:29:00Z",
+        "title": "Microsoft Slumps Heading Into Earnings\u2014Here\u2019s What Matters Most",
+        "description": "Microsoft stock has declined over three months and remains in a bearish death cross pattern ahead of its January 28 earnings report. Investors will focus on Azure growth, AI monetization, capital expenditures, and margins. While the stock pullback has made valuation more reasonable at 31.5x P/E, concerns about the AI bubble and whether companies will justify massive data center investments pose risks. However, analysts view MSFT as a long-term core holding given its diversified business and historical pattern of recovery after pullbacks.",
+        "article_url": "https://www.investing.com/analysis/microsoft-slumps-heading-into-earningsheres-what-matters-most-200673781",
+        "publisher": "Investing.com",
+        "author": "Chris Markoch",
+        "tickers": [
+          "MSFT"
+        ],
+        "keywords": [
+          "Microsoft earnings",
+          "death cross pattern",
+          "Azure growth",
+          "AI investments",
+          "data centers",
+          "valuation",
+          "capital expenditures",
+          "agentic AI",
+          "Copilot"
+        ]
+      },
+      {
+        "published_utc": "2026-01-23T14:30:57Z",
+        "title": "$50 Million Still at Stake as Manager Cuts Exposure to Volatile Food Stock Down 28% This Past Year",
+        "description": "Douglas Lane & Associates sold 65,461 shares of Lamb Weston Holdings in Q4, reducing its position to 1.2 million shares valued at $50.85 million. The stock has declined 28% over the past year, underperforming the S&P 500 by over 40 percentage points. Despite recent operational improvements including positive earnings swings and dividend increases, the market remains unforgiving due to pricing pressures and customer concessions.",
+        "article_url": "https://www.fool.com/coverage/filings/2026/01/23/usd50-million-still-at-stake-as-manager-cuts-exposure-to-volatile-food-stock-down-28-this-past-year/?source=iedfolrf0000001",
+        "publisher": "The Motley Fool",
+        "author": "Jonathan Ponciano",
+        "tickers": [
+          "LW",
+          "GOOG",
+          "GOOGL",
+          "NVDA",
+          "MSFT",
+          "QCOM",
+          "MS",
+          "MSpA",
+          "MSpE",
+          "MSpF",
+          "MSpI",
+          "MSpK",
+          "MSpL",
+          "MSpO",
+          "MSpP",
+          "MSpQ"
+        ],
+        "keywords": [
+          "Lamb Weston",
+          "frozen potato products",
+          "portfolio reduction",
+          "stock decline",
+          "Douglas Lane & Associates",
+          "margin expansion",
+          "foodservice",
+          "pricing pressure"
+        ]
+      },
+      {
+        "published_utc": "2026-01-23T14:32:00Z",
+        "title": "4 Tech Titans Face the Earnings Spotlight in High-Stakes Week",
+        "description": "Microsoft, Meta, Tesla, and Apple are set to report earnings this week with significant implications for the broader tech sector. Microsoft and Meta show bullish analyst sentiment with strong upside targets, while Tesla faces analyst disagreement with mean targets below current price, and Apple struggles with iPhone dependence concerns and YTD declines.",
+        "article_url": "https://www.investing.com/analysis/4-tech-titans-face-the-earnings-spotlight-in-highstakes-week-200673766",
+        "publisher": "Investing.com",
+        "author": "Jesse Cohen",
+        "tickers": [
+          "MSFT",
+          "META",
+          "TSLA",
+          "AAPL"
+        ],
+        "keywords": [
+          "earnings",
+          "tech stocks",
+          "Microsoft",
+          "Meta",
+          "Tesla",
+          "Apple",
+          "AI investments",
+          "cloud growth",
+          "analyst targets",
+          "market volatility"
+        ]
+      }
+    ],
+    "ticker_news_count": 3,
+    "ticker_news_truncated": false,
+    "no_news_found": false,
+    "macro_news": {
+      "SPY": [
+        {
+          "published_utc": "2026-01-23T12:32:12Z",
+          "title": "This Silver Stock Is Up 281% and One Fund Just Took $5 Million Off the Table",
+          "description": "Azarias Capital Management sold 536,928 shares of Endeavour Silver (EXK) worth approximately $4.55 million in Q4, reducing its stake to 2.59% of AUM. Despite the sale, the fund maintains meaningful exposure to the stock. Endeavour Silver shares have surged 281% over the past year, significantly outperforming the S&P 500's 14% gain. The company expects strong 2026 guidance with increased production and lower costs as new mines ramp up.",
+          "article_url": "https://www.fool.com/coverage/filings/2026/01/23/this-silver-stock-is-up-281-and-one-fund-just-took-usd5-million-off-the-table/?source=iedfolrf0000001",
+          "publisher": "The Motley Fool",
+          "author": "Jonathan Ponciano",
+          "tickers": [
+            "EXK",
+            "SPY"
+          ],
+          "keywords": [
+            "silver mining",
+            "precious metals",
+            "stock sale",
+            "fund rebalancing",
+            "production guidance",
+            "Mexico mining",
+            "Chile mining"
+          ]
+        },
+        {
+          "published_utc": "2026-01-23T13:38:13Z",
+          "title": "Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Decline After 2 Consecutive Days Of Gains\u2014Intel, CSX In Focus (UPDATED)",
+          "description": "U.S. stock futures declined slightly on Friday after two consecutive days of gains, following President Trump's withdrawal of EU tariffs and better-than-expected Q3 GDP figures at 4.4%. Key movers include Intel down 12% on weak guidance, Capital One down 3.31% on earnings miss, Revelation Biosciences up 38% on FDA approval pathway, and CSX up 2.99% despite missing estimates. Bank of America's fund manager survey shows institutional investors at their most bullish since 2021.",
+          "article_url": "https://www.benzinga.com/markets/market-summary/26/01/50090375/stock-market-today-sp-500-dow-jones-nasdaq-100-futures-decline-after-2-consecutive-days-of?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Vishaal Sanjay",
+          "tickers": [
+            "INTC",
+            "COF",
+            "COFpI",
+            "COFpJ",
+            "COFpK",
+            "COFpL",
+            "COFpN",
+            "REVB",
+            "REVBW",
+            "CSX",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market futures",
+            "S&P 500",
+            "Nasdaq 100",
+            "GDP",
+            "tariffs",
+            "earnings",
+            "fund manager sentiment"
+          ]
+        }
+      ],
+      "QQQ": [
+        {
+          "published_utc": "2026-01-23T13:38:13Z",
+          "title": "Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Decline After 2 Consecutive Days Of Gains\u2014Intel, CSX In Focus (UPDATED)",
+          "description": "U.S. stock futures declined slightly on Friday after two consecutive days of gains, following President Trump's withdrawal of EU tariffs and better-than-expected Q3 GDP figures at 4.4%. Key movers include Intel down 12% on weak guidance, Capital One down 3.31% on earnings miss, Revelation Biosciences up 38% on FDA approval pathway, and CSX up 2.99% despite missing estimates. Bank of America's fund manager survey shows institutional investors at their most bullish since 2021.",
+          "article_url": "https://www.benzinga.com/markets/market-summary/26/01/50090375/stock-market-today-sp-500-dow-jones-nasdaq-100-futures-decline-after-2-consecutive-days-of?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+          "publisher": "Benzinga",
+          "author": "Vishaal Sanjay",
+          "tickers": [
+            "INTC",
+            "COF",
+            "COFpI",
+            "COFpJ",
+            "COFpK",
+            "COFpL",
+            "COFpN",
+            "REVB",
+            "REVBW",
+            "CSX",
+            "SPY",
+            "QQQ"
+          ],
+          "keywords": [
+            "stock market futures",
+            "S&P 500",
+            "Nasdaq 100",
+            "GDP",
+            "tariffs",
+            "earnings",
+            "fund manager sentiment"
+          ]
+        }
+      ]
+    }
+  }
+}
