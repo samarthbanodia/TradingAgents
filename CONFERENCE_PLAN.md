@@ -150,3 +150,27 @@ If C1 holds, you have a paper. C2/C3 strengthen it. If even C1 fails after the c
   - they still don't → a **clean, unconfounded negative result** (publishable, but not the "positive" the team wants).
 
 This replaces WS4-first. The next paid step is the **debias re-run**, not the debate.
+
+---
+
+## 10. DEBIAS RE-RUN RESULTS (v4, out_agents_v4a, N=797)
+
+**The fix worked, big — and then revealed the real answer.**
+
+Reversal-prediction rate (truth ≈ 32%): micro 71%→39%, **news 87%→9%**, macro 59%→13%, ensemble 72%→25%. 60-min ensemble accuracy **37.5%→56.5%** (full set); holdout 35.4%→53.1% (+18pp). The reversal-bias confound is gone — and it was a *real* bug worth documenting (one wrong prompt line inverted the system and made the backtest negative by construction).
+
+**But even debiased, the agents do NOT beat the trivial baseline — at any horizon or any coverage.**
+
+| | holdout 60m | EOD | T+1D | T+2D |
+|---|---|---|---|---|
+| best trivial (always-cont / dir-heur) | 0.657 | 0.629 | 0.575 | 0.546 |
+| v4 ensemble | 0.531 | 0.490 | 0.452 | 0.433 |
+| lift | **−0.13** | −0.14 | −0.12 | −0.11 |
+
+Selective prediction (now that agreement is meaningful) also fails: on the unanimous subset (43% coverage) ensemble = 0.645 vs always-continuation 0.661 on the *same* events; at every coverage level the ensemble ≈ or < always-continuation. The agents' departures from the majority class are **net-noise**, not signal. The news agent collapsed to ~constant continuation — because intraday pre-event news (435/800 events have *any* article, mostly weak/generic within 3h) gives its core skill nothing to reason about.
+
+**Honest conclusion:** the small-N "+4.7pp LLM alpha" was bias + overfit; with the bias removed and proper holdout, **LLM agents add no exploitable directional signal on this intraday-spike task.** This is now a *clean* negative result (no longer confounded). 
+
+**Implication for a POSITIVE ICAIF result:** the cheap levers are exhausted. Two paths remain:
+  - **Arm B — enriched inputs** (last cheap-ish shot): percentile-context stats, raw recent price path, per-ticker historical-analog base rate, probability outputs. Low prior of success but cheap.
+  - **Path C — change the task** to multi-day, news-rich, event-driven prediction (post-earnings drift, analyst-revision direction) where the news agent's skill actually applies and you leave the near-efficient HFT regime. Higher odds of a genuine positive, more work.

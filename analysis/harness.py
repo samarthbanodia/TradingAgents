@@ -32,9 +32,18 @@ HOLDOUT_START = pd.Timestamp("2026-01-06", tz="UTC")
 # ----------------------------------------------------------------------------- events
 def load_events(path=JSONL):
     rows = []
+    skipped = 0
     with open(path) as f:
         for line in f:
+            line = line.strip()
+            if not line:
+                continue
             r = json.loads(line)
+            # skip malformed/error records (failed agent calls leave a stub)
+            if not all(k in r for k in ("t0_utc", "micro_label", "news_label",
+                                        "macro_label", "ensemble_label")):
+                skipped += 1
+                continue
             row = {
                 "event_id": r["event_id"],
                 "ticker": r["ticker"],
