@@ -29,12 +29,16 @@ CONT_PRIOR = 0.60  # measured drift base rate
 
 
 def parse(raw):
-    """Lenient JSON extraction from an agent response."""
-    try:
-        m = re.search(r"\{.*\}", raw, re.DOTALL)
-        o = json.loads(m.group(0)) if m else {}
-    except Exception:
-        o = {}
+    """Normalize an agent response. providers.call() already returns a parsed
+    dict; fall back to lenient string extraction for raw text responses."""
+    if isinstance(raw, dict):
+        o = raw
+    else:
+        try:
+            m = re.search(r"\{.*\}", raw, re.DOTALL)
+            o = json.loads(m.group(0)) if m else {}
+        except Exception:
+            o = {}
     lab = str(o.get("label", "")).lower()
     lab = "continuation" if "cont" in lab else "reversal" if "rev" in lab else "continuation"
     try:
