@@ -265,7 +265,14 @@ def main():
             t0 = t0.tz_localize("UTC")
 
         start = (t0 - lookback).isoformat()
-        end = (t0 + lookahead).isoformat()
+        # AUDIT FIX (look-ahead leak): the news window must NOT extend past the
+        # decision time t0. The old `t0 + lookahead` pulled in post-event articles
+        # (279 articles across 197/797 events) — including the very article that
+        # explained the move. Window now ends at t0 (strictly pre-event).
+        # NOTE for rebuild: also apply a hard `published_utc < t0` post-filter for
+        # sub-bar precision, and define decision-time explicitly for at-t0 catalysts.
+        end = t0.isoformat()  # was: (t0 + lookahead) — leaked the future
+        _ = lookahead  # deprecated; retained only for CLI compatibility
 
         event_id = row.get("event_id", f"{ticker}_{t0.strftime('%Y%m%d_%H%M%S')}")
         print(f"\n[{idx+1}/{len(events_df)}] {event_id}  ({start[:19]} -> {end[:19]})")
