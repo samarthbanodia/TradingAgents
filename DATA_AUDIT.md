@@ -44,7 +44,7 @@ Legend: ⭐ = raised by supervisor · ➕ = added by us (think beyond the obviou
 ## 6. Reproducibility & provenance ➕
 
 - ➕ **Frozen raw snapshots.** APIs drift (restatements, newly-indexed articles). Snapshot every raw response with its retrieval timestamp so the pipeline is byte-reproducible.
-- ➕ **Data-source defensibility.** yfinance/Polygon are convenient but scraper/vendor-dependent and not point-in-time; finance venues expect CRSP/Compustat/I-B-E-S-grade or at least EDGAR primary sources. Decide what's defensible for ICAIF and state limitations. (Action: short lit-scan of what comparable LLM-finance papers actually use.)
+- ➕ **Data-source defensibility (lit-scan done).** Standard public sources in LLM-finance papers are **SEC EDGAR, Yahoo Finance, news APIs, company sites** — so yfinance/EDGAR are *accepted*, but with caveats: yfinance is a scraper, not point-in-time, and survivorship-biased; **EDGAR is the defensible primary source** (free, timestamped filings). Useful existing assets to cite/reuse: **FNSPID** (29.7M prices + 15.7M news, S&P500, 1999–2023; arXiv 2402.06698) as a benchmark; **Chronologically-Consistent LLMs** (arXiv 2502.21206) and **MemGuard-Alpha** (arXiv 2603.26797) for pretraining-leakage control. **Key differentiator:** a systematic review found **no bias type (look-ahead, survivorship, narrative, cost) is checked in >28%** of LLM-finance papers — so our explicit audit is itself a defensible contribution. Plan: EDGAR/PR-wire as the authoritative catalyst source; yfinance only for prices, with the limitation stated.
 - Version every dataset + code commit behind each result.
 
 ---
