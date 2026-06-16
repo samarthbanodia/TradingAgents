@@ -14,6 +14,26 @@ first (Part 1), then iterated on with an AI assistant (Part 2). The students are
 crossroads — this decision may determine whether they can present at a conference — and
 they want a **fresh, independent second opinion** from a more capable reviewer.
 
+**Primary sources — you have access; verify against them, don't trust the summary.**
+You are being given access to the **GitHub repository** and the **original report
+(`report.pdf` / `report.tex`)**. A critical caveat: the context doc is *one person's
+summary*, and if it misdescribed the original pipeline, that error propagates into your
+review. So **read the primary sources yourself** and flag any discrepancy between them
+and the context doc. In particular, read the *original* (pre-assistant) code closely:
+- `mine_events_strict.py`, `select_best_events.py` — event mining, the ±0.3% labeling,
+  `t0` definition, the selection quotas/filters.
+- `eval/ensemble.py` — the weighted vote, reversal priors, direction heuristic.
+- `eval/ml_stage_v2.py`, `eval/feature_matrix.py` — the ML stack, temporal holdout,
+  significance tests, the leak fix.
+- `agents/briefs_v3.py`, `agents/prompts_v3.py` (and `prompts_v4.py`) — what each agent
+  actually receives and how it's framed.
+- `build_news_packets.py` — the news window.
+- the original `report.pdf` for the as-presented numbers and claims.
+Also available: assistant-era analysis in `analysis/`, `pilot/`, `pathc/`;
+`DATA_AUDIT.md`; raw outputs in `out_agents_extended/`, `out_agents_v4a/`,
+`out_eval_extended/`. **Where the code and the summary disagree, trust the code and say
+so** — that disagreement may itself be the overlooked flaw.
+
 **Your mindset for this review:**
 - **Strip all inherited bias.** The context doc labels the assistant's interpretations
   as `[ASSISTANT HYPOTHESIS — scrutinize]`. Distrust them. Re-derive your own
